@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+  <!-- Meta information -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>F1Pred</title>
+  <!-- Stylesheets and fonts -->
   <link rel="stylesheet" href="styles/styles.css">
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -13,7 +15,9 @@
 <body>
   <header>
     <nav>
+      <!-- Logo -->
       <img id="logoIni" src="assets/logoNoBGsmall.png" alt="Logo">
+      <!-- Navigation links -->
       <div class="nav-links">
         <a href="#" id="races">Races</a>
         <a href="#" id="drivers">Drivers</a>
@@ -21,6 +25,7 @@
         <a href="#" id="constructors">Constructors</a>
         <a href="#" id="predictions">Predictions</a>
       </div>
+      <!-- Mobile menu -->
       <button id="menu-toggle" class="menu-button">☰</button>
       <div id="dropdown-menu" class="dropdown-menu">
         <a href="#" id="dropdown-races">Races</a>
@@ -34,12 +39,13 @@
 
   <main>
     <section id="content">
-      <!-- Sección de bienvenida -->
+      <!-- Welcome section -->
       <div id="welcome-section">
         <h2 class="welcome-title">Welcome</h2>
         <p class="welcome-intro">
           Welcome to F1Pred, your essential Formula 1 companion! Dive into race details, explore driver stats and team info, track the latest championship standings, and check out our data-driven predictions. Everything you need to stay informed and engaged with the F1 season is right here.
         </p>
+        <!-- Cards for different sections -->
         <div class="card card-left">
           <div class="card-half">
             <img src="assets/f11.jpg" alt="Races" class="card-image">
@@ -107,7 +113,7 @@
         </div>
       </div>
 
-      <!-- Sección de predicciones -->
+      <!-- Predictions section -->
       <div id="predictions-section" style="display: none; margin-top: 40px;">
         <h2 style="text-align: center; color: white;">Race Predictions</h2>
         <div style="text-align: center; margin-bottom: 20px;">
@@ -126,7 +132,7 @@
     <p>© 2025 F1Pred</p>
   </footer>
 
-  <!-- Asegúrate de que los scripts se carguen al final del cuerpo -->
+  <!-- Load scripts at the end for better performance -->
   <script src="scripts/main.js"></script>
 </body>
 </html>
