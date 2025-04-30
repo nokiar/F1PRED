@@ -1,28 +1,28 @@
-```markdown
+````markdown
 # F1PRED: AI-Powered Formula 1 Analysis and Prediction
 
 ## Project Overview
 
-F1PRED is a web application developed as a final year BSc (Hons) Computing project for the University of Worcester[cite: 83]. It investigates the effectiveness of Artificial Intelligence (AI) models in predicting Formula 1 race outcomes[cite: 84]. The application allows users to explore historical F1 data (races, drivers, constructors, standings) and view AI-generated predictions for race win probabilities[cite: 86, 91, 267, 268, 269].
+F1PRED is a web application developed as a final year BSc (Hons) Computing project for the University of Worcester[cite: 83]. It investigates the effectiveness of Artificial Intelligence (AI) models in predicting Formula 1 race outcomes[cite: 84]. The application allows users to explore historical F1 data (races, drivers, constructors, standings) and view AI-generated predictions for race win probabilities[cite: 86, 209].
 
-The project utilises historical data fetched from the Ergast API [cite: 86, 173] and employs a Neural Network model built with TensorFlow/Keras to generate predictions[cite: 87, 224, 260]. Key findings during development indicated moderate predictive accuracy, highlighting the dominant influence of constructor performance and the challenges posed by data limitations and the sport's unpredictability[cite: 88, 89, 90].
+The project utilises historical data fetched from the Ergast API [cite: 86] and employs a Neural Network model built with TensorFlow/Keras to generate predictions[cite: 87, 210]. Key findings during development indicated moderate predictive accuracy[cite: 89], highlighting the dominant influence of constructor performance [cite: 88] and the challenges posed by data limitations [cite: 90] and the sport's unpredictability[cite: 90].
 
 ## Features
 
-* **Historical Data Browser:** View detailed results for Races, Drivers, Constructors, and Standings across different F1 seasons (1950-present)[cite: 86, 241, 267].
-* **AI Predictions:** Select a season and round to view AI-generated win probability predictions for drivers in that race[cite: 216, 241, 268, 269].
+* **Historical Data Browser:** View detailed results for Races, Drivers, Constructors, and Standings across different F1 seasons (1950-present).
+* **AI Predictions:** Select a season and round to view AI-generated win probability predictions for drivers in that race.
 * **Comparative View:** Display actual race results alongside AI predictions for direct comparison and evaluation (within the Predictions section).
 
 ## Technologies Used
 
-* **Frontend:** HTML, CSS, JavaScript (with jQuery) [cite: 222, 254]
-* **Backend (API & AI):** Python [cite: 87, 224]
-    * **Web Framework:** Flask [cite: 257]
+* **Frontend:** HTML, CSS, JavaScript (with jQuery)
+* **Backend (API & AI):** Python
+    * **Web Framework:** Flask
     * **API Communication:** Flask-Cors
-    * **Machine Learning:** TensorFlow / Keras [cite: 87, 224, 252, 260]
-    * **Data Handling:** Pandas, NumPy [cite: 224]
-    * **Preprocessing:** Scikit-learn [cite: 224, 261]
-* **Data Source:** Ergast Developer API (for historical data) [cite: 86, 173, 274]
+    * **Machine Learning:** TensorFlow / Keras
+    * **Data Handling:** Pandas, NumPy
+    * **Preprocessing:** Scikit-learn
+* **Data Source:** Ergast Developer API (for historical data)
 * **Deployment Consideration:** Gunicorn (WSGI Server) [included in requirements.txt]
 
 ## Project Structure
@@ -57,22 +57,25 @@ F1PRED/
     git clone <your-repository-url>
     cd F1PRED
     ```
+
 2.  **Create a Virtual Environment (Recommended):**
     ```bash
     python -m venv venv
-    # Activate it:
-    # Windows: .\venv\Scripts\activate
-    # macOS/Linux: source venv/bin/activate
     ```
+    Activate it:
+    * Windows: `.\venv\Scripts\activate`
+    * macOS/Linux: `source venv/bin/activate`
+
 3.  **Install Dependencies:** Ensure you have Python 3 installed. Install the required libraries for the backend:
     ```bash
     pip install -r requirements.txt
     ```
+
 4.  **Generate Historical Data:** Before running the backend for the first time, you need to download the historical race data. Run the data generation script:
     ```bash
     python data_generation.py
     ```
-    This will contact the Ergast API and create CSV files for each season in the `data_storage` directory[cite: 107, 250, 259, 277]. This might take some time depending on the number of years and API responsiveness.
+    This will contact the Ergast API and create CSV files for each season in the `data_storage` directory. This might take some time depending on the number of years and API responsiveness.
 
 ## Running the Application
 
@@ -88,7 +91,7 @@ The application consists of two parts that need to be run separately: the backen
 * This will:
     * Load the data from `data_storage`.
     * Train the AI model (this happens once on startup). You will see epoch output in the console.
-    * Start the Flask development server, typically available at `http://127.0.0.1:5000`[cite: 110].
+    * Start the Flask development server, typically available at `http://127.0.0.1:5000`.
 * Keep this terminal window open while using the application, as it runs the server.
 
 ### 2. Running the Frontend
@@ -111,4 +114,4 @@ The application consists of two parts that need to be run separately: the backen
 * **Akinola Siyanbola** [cite: 83]
 
 *(Optional: Add a License section here if you wish, e.g., MIT License)*
-```
+````
