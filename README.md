@@ -118,15 +118,9 @@ python predictions/pred.py
 
 The frontend should be served via a local server to avoid CORS issues.
 
-#### Option A: VS Code Live Server
+#### VS Code Live Server
 - Install the "Live Server" extension.
 - Right-click `index.html` → "Open with Live Server".
-
-#### Option B: Python HTTP Server
-```bash
-python -m http.server
-```
-- Opens at `http://localhost:8000`.
 
 > 🔗 Make sure the backend at `http://127.0.0.1:5000` is running first.
 
@@ -142,6 +136,3 @@ python -m http.server
 
 ---
 
-## 📄 License
-
-_(Optional: Add a license such as MIT, GPL, etc.)_
