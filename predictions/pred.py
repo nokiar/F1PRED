@@ -7,8 +7,8 @@ warnings.filterwarnings("ignore", category=UserWarning, module='keras.src.layers
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder, StandardScaler
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense
+from tensorflow.keras.models import Sequential # type: ignore
+from tensorflow.keras.layers import Dense # type: ignore
 import numpy as np
 from flask import Flask, request, jsonify
 from flask_cors import CORS  # Importar CORS
