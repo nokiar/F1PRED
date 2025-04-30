@@ -3,17 +3,14 @@ import pandas as pd
 import os
 
 def download_f1_data():
-    """
-    Downloads race data for all years from the Ergast F1 API and saves them as separate .csv files
-    in the 'data_storage' folder within the current directory.
-    """
+
     output_dir = os.path.join(os.getcwd(), "data_storage")
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
     base_url = "http://ergast.com/api/f1/{year}/results.json?limit=100"
-    start_year = 1950  # First year of Formula 1
-    current_year = 2025  # Update this as needed
+    start_year = 1950  
+    current_year = 2025  
 
     for year in range(start_year, current_year + 1):
         print(f"Downloading data for year {year}...", flush=True)
@@ -60,5 +57,4 @@ def download_f1_data():
         else:
             print(f"No data found for year {year}", flush=True)
 
-# Example usage:
 download_f1_data()

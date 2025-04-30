@@ -621,3 +621,31 @@ footer {
     text-align: center; /* Center text inside the dropdown */
   }
 }
+
+.prediction-card {
+  background-color: #444;
+  color: white;
+  padding: 20px;
+  margin: 10px auto;
+  border-radius: 10px;
+  text-align: left;
+  width: 400px; /* Increased width */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional shadow for better appearance */
+}
+
+.prediction-card h3 {
+  text-align: center;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.prediction-card h4 {
+  text-align: center;
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+.prediction-card p {
+  font-size: 16px;
+  margin: 5px 0;
+}

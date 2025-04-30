@@ -1,16 +1,16 @@
-// URL base de la API
+//URL base de la API
 const API_BASE_URL = "https://api.jolpi.ca/ergast/f1/";
 const API_BASE_URL2 = "https://api.openf1.org/v1/";
 
 //API 1
 
-    // Función para obtener datos desde la API
+    //Función para obtener datos desde la API
     async function fetchData(endpoint, query) {
         try {
             const response = await fetch(endpoint + query);
             if (!response.ok) throw new Error("Error al obtener los datos");
             const data = await response.json();
-            //console.log(data); // Imprime los datos por consola
+            //console.log(data); //Imprime los datos por consola
             return data;
         } catch (error) {
             console.error(error);
@@ -23,7 +23,7 @@ const API_BASE_URL2 = "https://api.openf1.org/v1/";
             const response = await fetch(endpoint + query);
             if (!response.ok) throw new Error("Error al obtener los datos");
             const data = await response.json();
-            //console.log(data); // Imprime los datos por consola
+            //console.log(data); //Imprime los datos por consola
             return data;
         } catch (error) {
             console.error(error);
@@ -56,7 +56,7 @@ const API_BASE_URL2 = "https://api.openf1.org/v1/";
 
     });
 
-// Event listeners for buttons in the welcome section
+//Event listeners for buttons in the welcome section
 $("#goToRaces").on("click", function () {
     $("#races").trigger("click");
 });
@@ -168,7 +168,7 @@ $("#goToPredictions").on("click", function () {
     
     });
 
-    //DRIVERS --HACER CAMBIOS IMPLEMENTANDO API1 Y API2 CONUNTAMENTE
+    //DRIVERS
 
     function loadDriversSeparator(inputYear){
 
@@ -194,7 +194,7 @@ $("#goToPredictions").on("click", function () {
                     drivers.push(driver);
                 });
 
-                // RENDER DRIVERS
+                //RENDER DRIVERS
                 $("#content").append('<div id="detailsContainer"></div>');
                 drivers.forEach(driver => {
                     console.log(driver);
@@ -227,7 +227,7 @@ $("#goToPredictions").on("click", function () {
 
         fetchData2(API_BASE_URL2, "meetings?year=" + driverYearInput).then(data => {
             if (data) {
-                // RENDER DRIVERS
+                //RENDER DRIVERS
                 $("#content").append('<div id="detailsContainer"></div>');
 
                 data.forEach(meeting => {
@@ -333,17 +333,17 @@ $("#goToPredictions").on("click", function () {
             const baseUrl = "https://api.jolpi.ca/ergast/f1/" + raceYearInput + "/results/";
             const carreras = new Map();
             let offset = 0;
-            const limit = 100; // Increase limit to fetch more results per request
+            const limit = 100; //Increase limit to fetch more results per request
             let total = null;
     
             try {
-                // Bucle para realizar fetch hasta que se obtengan todos los datos
+                //Bucle para realizar fetch hasta que se obtengan todos los datos
                 while (total === null || offset < total) {
-                    // Construir la URL con el offset y el límite
+                    //Construir la URL con el offset y el límite
                     const url = `${baseUrl}?limit=${limit}&offset=${offset}`;
                     //console.log(`Fetching: ${url}`);
     
-                    // Realizar la solicitud a la API
+                    //Realizar la solicitud a la API
                     const response = await fetch(url);
                     if (!response.ok) {
                         throw new Error(`Error en la solicitud: ${response.status}`);
@@ -351,30 +351,30 @@ $("#goToPredictions").on("click", function () {
     
                     const data = await response.json();
     
-                    // Obtener el total de resultados en la primera iteración
+                    //Obtener el total de resultados en la primera iteración
                     if (total === null) {
                         total = parseInt(data.MRData.total, 10);
                         console.log(`Total de resultados: ${total}`);
                     }
     
-                    // Agregar las carreras al map para evitar duplicados
+                    //Agregar las carreras al map para evitar duplicados
                     if (data.MRData.RaceTable.Races.length > 0) {
                         data.MRData.RaceTable.Races.forEach(race => {
                             carreras.set(race.round, race);
                         });
                     }
     
-                    // Incrementar el offset para la siguiente página
+                    //Incrementar el offset para la siguiente página
                     offset += limit;
     
-                    // Añadir un retraso para evitar demasiadas solicitudes
+                    //Añadir un retraso para evitar demasiadas solicitudes
                     await new Promise(resolve => setTimeout(resolve, 100));
                 }
     
                 const uniqueCarreras = Array.from(carreras.values());
                 console.log(uniqueCarreras);
     
-                // Render carreras
+                //Render carreras
                 $("#content").append('<div id="detailsContainer"></div>');
     
                 uniqueCarreras.forEach((carrera, index) => {
@@ -453,7 +453,7 @@ $("#goToPredictions").on("click", function () {
           .then(([driverData, constructorData]) => {
             $("#content").append('<div id="standingsDetails" style="text-align: center;"></div>');
       
-            // Driver Standings
+            //Driver Standings
             if (driverData && driverData.MRData.StandingsTable.StandingsLists.length > 0) {
               const driverStandings = driverData.MRData.StandingsTable.StandingsLists[0].DriverStandings;
               const driverList = `
@@ -475,7 +475,7 @@ $("#goToPredictions").on("click", function () {
               $("#standingsDetails").append(driverList);
             }
       
-            // Constructor Standings
+            //Constructor Standings
             if (constructorData && constructorData.MRData.StandingsTable.StandingsLists.length > 0) {
               const constructorStandings = constructorData.MRData.StandingsTable.StandingsLists[0].ConstructorStandings;
               const constructorList = `
@@ -523,11 +523,11 @@ $("#predictions").on("click", function () {
     $("#predictionsControls").append('<select id="roundInput"><option value="">Select a season first</option></select>');
     $("#predictionsControls").append('<button id="predictButton">Predict</button>');
 
-    // Update rounds when a season is selected
+    //Update rounds when a season is selected
     $("#seasonInput").on("change", function () {
         const selectedSeason = $(this).val();
         if (selectedSeason) {
-            fetch(`http://127.0.0.1:5000/api/rounds?season=${selectedSeason}`) // Updated URL
+            fetch(`http://127.0.0.1:5000/api/rounds?season=${selectedSeason}`) //Updated URL
                 .then(response => {
                     if (!response.ok) throw new Error("Failed to fetch rounds");
                     return response.json();
@@ -546,7 +546,7 @@ $("#predictions").on("click", function () {
         }
     });
 
-    // Handle prediction button click
+    //Handle prediction button click
     $("#predictButton").on("click", function () {
         const selectedSeason = $("#seasonInput").val();
         const selectedRound = $("#roundInput").val();
@@ -558,7 +558,7 @@ $("#predictions").on("click", function () {
 
         showLoading();
 
-        // Fetch country name for the Grand Prix
+        //Fetch country name for the Grand Prix
         fetch(`${API_BASE_URL}${selectedSeason}/${selectedRound}.json`)
             .then(response => {
                 if (!response.ok) throw new Error("Failed to fetch race data");
@@ -569,7 +569,7 @@ $("#predictions").on("click", function () {
                 const circuitName = raceData?.MRData?.RaceTable?.Races[0]?.Circuit?.circuitName || "Unknown Circuit";
                 const grandPrixName = `${country} GP - ${circuitName}`;
 
-                // Fetch predictions
+                //Fetch predictions
                 fetch(`http://127.0.0.1:5000/api/predict?season=${selectedSeason}&round=${selectedRound}`)
                     .then(response => {
                         if (!response.ok) throw new Error("Failed to fetch predictions");
@@ -591,9 +591,9 @@ $("#predictions").on("click", function () {
                             `).join('');
 
                             const combinedCard = `
-                                <div style="background-color: #444; color: white; padding: 20px; margin: 10px; border-radius: 10px; text-align: left;">
-                                    <h3 style="text-align: center; font-size: 1.5em; margin-bottom: 10px;">${raceName}</h3>
-                                    <h4 style="text-align: center; font-size: 1.2em; margin-bottom: 20px;">${grandPrixName}</h4>
+                                <div class="prediction-card">
+                                    <h3>${raceName}</h3>
+                                    <h4>${grandPrixName}</h4>
                                     ${predictionList}
                                 </div>
                             `;
@@ -619,7 +619,7 @@ $("#predictions").on("click", function () {
     });
 });
 
-// Function to check if an element is partially in the viewport
+//Function to check if an element is partially in the viewport
 function isInViewport(element) {
     const rect = element.getBoundingClientRect();
     return (
@@ -628,7 +628,7 @@ function isInViewport(element) {
     );
 }
 
-// Add scroll event listener to animate cards
+//Add scroll event listener to animate cards
 function animateCardsOnScroll() {
     const cards = document.querySelectorAll('.card');
     cards.forEach((card) => {
@@ -638,17 +638,17 @@ function animateCardsOnScroll() {
     });
 }
 
-// Trigger animation on page load and scroll
+//Trigger animation on page load and scroll
 window.addEventListener('scroll', animateCardsOnScroll);
 window.addEventListener('load', animateCardsOnScroll);
 
-// Toggle dropdown menu
+//Toggle dropdown menu
 document.getElementById('menu-toggle').addEventListener('click', function () {
   const dropdownMenu = document.getElementById('dropdown-menu');
   dropdownMenu.style.display = dropdownMenu.style.display === 'block' ? 'none' : 'block';
 });
 
-// Close dropdown menu when clicking outside
+//Close dropdown menu when clicking outside
 document.addEventListener('click', function (event) {
   const menuButton = document.getElementById('menu-toggle');
   const dropdownMenu = document.getElementById('dropdown-menu');
@@ -657,7 +657,7 @@ document.addEventListener('click', function (event) {
   }
 });
 
-// Sync dropdown menu links with main navigation
+//Sync dropdown menu links with main navigation
 document.getElementById('dropdown-races').addEventListener('click', () => document.getElementById('races').click());
 document.getElementById('dropdown-drivers').addEventListener('click', () => document.getElementById('drivers').click());
 document.getElementById('dropdown-standings').addEventListener('click', () => document.getElementById('standings').click());
