@@ -1,0 +1,466 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1982,1,South African Grand Prix,1982-01-23,Prost,Renault,1,5,77,Finished,1:32:08.401,9
+1982,1,South African Grand Prix,1982-01-23,Reutemann,Williams,2,8,77,Finished,+14.946,6
+1982,1,South African Grand Prix,1982-01-23,Arnoux,Renault,3,1,77,Finished,+27.900,4
+1982,1,South African Grand Prix,1982-01-23,Lauda,McLaren,4,13,77,Finished,+32.113,3
+1982,1,South African Grand Prix,1982-01-23,Rosberg,Williams,5,7,77,Finished,+43.139,2
+1982,1,South African Grand Prix,1982-01-23,Watson,McLaren,6,9,77,Finished,+50.993,1
+1982,1,South African Grand Prix,1982-01-23,Alboreto,Tyrrell,7,10,76,+1 Lap,,0
+1982,1,South African Grand Prix,1982-01-23,de Angelis,Team Lotus,8,15,76,+1 Lap,,0
+1982,1,South African Grand Prix,1982-01-23,Salazar,ATS,9,12,75,+2 Laps,,0
+1982,1,South African Grand Prix,1982-01-23,Winkelhock,ATS,10,20,75,+2 Laps,,0
+1982,1,South African Grand Prix,1982-01-23,Giacomelli,Alfa Romeo,11,19,74,+3 Laps,,0
+1982,1,South African Grand Prix,1982-01-23,Mass,March,12,22,74,+3 Laps,,0
+1982,1,South African Grand Prix,1982-01-23,de Cesaris,Alfa Romeo,13,16,73,+4 Laps,,0
+1982,1,South African Grand Prix,1982-01-23,Daly,Theodore,14,24,73,+4 Laps,,0
+1982,1,South African Grand Prix,1982-01-23,Boesel,March,15,21,72,+5 Laps,,0
+1982,1,South African Grand Prix,1982-01-23,Borgudd,Tyrrell,16,23,72,+5 Laps,,0
+1982,1,South African Grand Prix,1982-01-23,Serra,Fittipaldi,17,25,72,+5 Laps,,0
+1982,1,South African Grand Prix,1982-01-23,Pironi,Ferrari,18,6,71,+6 Laps,,0
+1982,1,South African Grand Prix,1982-01-23,Laffite,Ligier,19,11,54,Fuel system,,0
+1982,1,South African Grand Prix,1982-01-23,Warwick,Toleman,20,14,43,Accident,,0
+1982,1,South African Grand Prix,1982-01-23,Patrese,Brabham,21,4,18,Turbo,,0
+1982,1,South African Grand Prix,1982-01-23,Cheever,Ligier,22,17,11,Fuel system,,0
+1982,1,South African Grand Prix,1982-01-23,Villeneuve,Ferrari,23,3,6,Turbo,,0
+1982,1,South African Grand Prix,1982-01-23,Piquet,Brabham,24,2,3,Spun off,,0
+1982,1,South African Grand Prix,1982-01-23,Mansell,Team Lotus,25,18,0,Electrical,,0
+1982,1,South African Grand Prix,1982-01-23,Jarier,Osella,26,26,0,Collision,,0
+1982,1,South African Grand Prix,1982-01-23,Baldi,Arrows,27,0,0,Did not qualify,,0
+1982,1,South African Grand Prix,1982-01-23,Paletti,Osella,28,0,0,Did not qualify,,0
+1982,1,South African Grand Prix,1982-01-23,Henton,Arrows,29,0,0,Did not qualify,,0
+1982,1,South African Grand Prix,1982-01-23,Guerrero,Ensign,30,0,0,Did not qualify,,0
+1982,1,South African Grand Prix,1982-01-23,Fabi,Toleman,31,0,0,Did not qualify,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Prost,Renault,1,1,63,Finished,1:44:33.134,9
+1982,2,Brazilian Grand Prix,1982-03-21,Watson,McLaren,2,12,63,Finished,+2.990,6
+1982,2,Brazilian Grand Prix,1982-03-21,Mansell,Team Lotus,3,14,63,Finished,+36.859,4
+1982,2,Brazilian Grand Prix,1982-03-21,Alboreto,Tyrrell,4,13,63,Finished,+50.761,3
+1982,2,Brazilian Grand Prix,1982-03-21,Winkelhock,ATS,5,15,62,+1 Lap,,2
+1982,2,Brazilian Grand Prix,1982-03-21,Pironi,Ferrari,6,8,62,+1 Lap,,1
+1982,2,Brazilian Grand Prix,1982-03-21,Borgudd,Tyrrell,7,21,61,+2 Laps,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Mass,March,8,22,61,+2 Laps,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Jarier,Osella,9,23,60,+3 Laps,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Baldi,Arrows,10,19,57,+6 Laps,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Piquet,Brabham,11,7,63,Disqualified,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Rosberg,Williams,12,3,63,Disqualified,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Salazar,ATS,13,18,38,Engine,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Serra,Fittipaldi,14,25,36,Suspension,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Patrese,Brabham,15,9,34,Physical,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Villeneuve,Ferrari,16,2,29,Spun off,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Lauda,McLaren,17,5,22,Collision,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Arnoux,Renault,18,4,21,Collision,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Reutemann,Williams,19,6,21,Collision,,0
+1982,2,Brazilian Grand Prix,1982-03-21,de Angelis,Team Lotus,20,11,21,Collision,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Cheever,Ligier,21,26,19,Water leak,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Giacomelli,Alfa Romeo,22,16,16,Clutch,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Laffite,Ligier,23,24,15,Chassis,,0
+1982,2,Brazilian Grand Prix,1982-03-21,de Cesaris,Alfa Romeo,24,10,14,Chassis,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Daly,Theodore,25,20,12,Spun off,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Boesel,March,26,17,11,Spun off,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Fabi,Toleman,27,0,0,Did not qualify,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Henton,Arrows,28,0,0,Did not qualify,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Warwick,Toleman,29,0,0,Did not qualify,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Guerrero,Ensign,30,0,0,Did not qualify,,0
+1982,2,Brazilian Grand Prix,1982-03-21,Paletti,Osella,31,0,0,Did not qualify,,0
+1982,3,United States Grand Prix West,1982-04-04,Lauda,McLaren,1,2,75,Finished,1:58:25.318,9
+1982,3,United States Grand Prix West,1982-04-04,Rosberg,Williams,2,8,75,Finished,+14.660,6
+1982,3,United States Grand Prix West,1982-04-04,Patrese,Brabham,3,18,75,Finished,+1:19.143,4
+1982,3,United States Grand Prix West,1982-04-04,Alboreto,Tyrrell,4,12,75,Finished,+1:20.947,3
+1982,3,United States Grand Prix West,1982-04-04,de Angelis,Team Lotus,5,16,74,+1 Lap,,2
+1982,3,United States Grand Prix West,1982-04-04,Watson,McLaren,6,11,74,+1 Lap,,1
+1982,3,United States Grand Prix West,1982-04-04,Mansell,Team Lotus,7,17,73,+2 Laps,,0
+1982,3,United States Grand Prix West,1982-04-04,Mass,March,8,21,73,+2 Laps,,0
+1982,3,United States Grand Prix West,1982-04-04,Boesel,March,9,23,70,+5 Laps,,0
+1982,3,United States Grand Prix West,1982-04-04,Borgudd,Tyrrell,10,24,68,+7 Laps,,0
+1982,3,United States Grand Prix West,1982-04-04,Villeneuve,Ferrari,11,7,75,Disqualified,,0
+1982,3,United States Grand Prix West,1982-04-04,Cheever,Ligier,12,13,59,Gearbox,,0
+1982,3,United States Grand Prix West,1982-04-04,de Cesaris,Alfa Romeo,13,1,33,Spun off,,0
+1982,3,United States Grand Prix West,1982-04-04,Henton,Arrows,14,20,32,Spun off,,0
+1982,3,United States Grand Prix West,1982-04-04,Guerrero,Ensign,15,19,27,Spun off,,0
+1982,3,United States Grand Prix West,1982-04-04,Laffite,Ligier,16,15,26,Spun off,,0
+1982,3,United States Grand Prix West,1982-04-04,Jarier,Osella,17,10,26,Transmission,,0
+1982,3,United States Grand Prix West,1982-04-04,Piquet,Brabham,18,6,25,Spun off,,0
+1982,3,United States Grand Prix West,1982-04-04,Daly,Theodore,19,22,23,Spun off,,0
+1982,3,United States Grand Prix West,1982-04-04,Andretti,Williams,20,14,19,Collision,,0
+1982,3,United States Grand Prix West,1982-04-04,Prost,Renault,21,4,10,Spun off,,0
+1982,3,United States Grand Prix West,1982-04-04,Pironi,Ferrari,22,9,6,Spun off,,0
+1982,3,United States Grand Prix West,1982-04-04,Arnoux,Renault,23,3,5,Collision,,0
+1982,3,United States Grand Prix West,1982-04-04,Giacomelli,Alfa Romeo,24,5,5,Collision,,0
+1982,3,United States Grand Prix West,1982-04-04,Salazar,ATS,25,26,3,Collision,,0
+1982,3,United States Grand Prix West,1982-04-04,Winkelhock,ATS,26,25,1,Collision,,0
+1982,3,United States Grand Prix West,1982-04-04,Fabi,Toleman,27,0,0,Did not qualify,,0
+1982,3,United States Grand Prix West,1982-04-04,Paletti,Osella,28,0,0,Did not qualify,,0
+1982,3,United States Grand Prix West,1982-04-04,Serra,Fittipaldi,29,0,0,Did not qualify,,0
+1982,3,United States Grand Prix West,1982-04-04,Baldi,Arrows,30,0,0,Did not qualify,,0
+1982,3,United States Grand Prix West,1982-04-04,Warwick,Toleman,31,0,0,Did not qualify,,0
+1982,4,San Marino Grand Prix,1982-04-25,Pironi,Ferrari,1,4,60,Finished,1:36:38.887,9
+1982,4,San Marino Grand Prix,1982-04-25,Villeneuve,Ferrari,2,3,60,Finished,+0.366,6
+1982,4,San Marino Grand Prix,1982-04-25,Alboreto,Tyrrell,3,5,60,Finished,+1:07.684,4
+1982,4,San Marino Grand Prix,1982-04-25,Jarier,Osella,4,9,59,+1 Lap,,3
+1982,4,San Marino Grand Prix,1982-04-25,Salazar,ATS,5,14,57,+3 Laps,,2
+1982,4,San Marino Grand Prix,1982-04-25,Winkelhock,ATS,6,12,54,Disqualified,,0
+1982,4,San Marino Grand Prix,1982-04-25,Fabi,Toleman,7,10,52,Not classified,,0
+1982,4,San Marino Grand Prix,1982-04-25,Arnoux,Renault,8,1,44,Turbo,,0
+1982,4,San Marino Grand Prix,1982-04-25,Giacomelli,Alfa Romeo,9,6,24,Engine,,0
+1982,4,San Marino Grand Prix,1982-04-25,Paletti,Osella,10,13,7,Suspension,,0
+1982,4,San Marino Grand Prix,1982-04-25,Prost,Renault,11,2,6,Engine,,0
+1982,4,San Marino Grand Prix,1982-04-25,de Cesaris,Alfa Romeo,12,7,4,Electrical,,0
+1982,4,San Marino Grand Prix,1982-04-25,Henton,Tyrrell,13,11,0,Transmission,,0
+1982,4,San Marino Grand Prix,1982-04-25,Warwick,Toleman,14,8,0,Electrical,,0
+1982,5,Belgian Grand Prix,1982-05-09,Watson,McLaren,1,10,70,Finished,1:35:41.995,9
+1982,5,Belgian Grand Prix,1982-05-09,Rosberg,Williams,2,3,70,Finished,+7.268,6
+1982,5,Belgian Grand Prix,1982-05-09,Cheever,Ligier,3,14,69,+1 Lap,,4
+1982,5,Belgian Grand Prix,1982-05-09,de Angelis,Team Lotus,4,11,68,+2 Laps,,3
+1982,5,Belgian Grand Prix,1982-05-09,Piquet,Brabham,5,8,67,+3 Laps,,2
+1982,5,Belgian Grand Prix,1982-05-09,Serra,Fittipaldi,6,23,67,+3 Laps,,1
+1982,5,Belgian Grand Prix,1982-05-09,Surer,Arrows,7,22,66,+4 Laps,,0
+1982,5,Belgian Grand Prix,1982-05-09,Boesel,March,8,24,66,+4 Laps,,0
+1982,5,Belgian Grand Prix,1982-05-09,Laffite,Ligier,9,17,66,+4 Laps,,0
+1982,5,Belgian Grand Prix,1982-05-09,Lauda,McLaren,10,4,70,Disqualified,,0
+1982,5,Belgian Grand Prix,1982-05-09,Daly,Williams,11,13,60,Spun off,,0
+1982,5,Belgian Grand Prix,1982-05-09,Mass,March,12,25,60,Engine,,0
+1982,5,Belgian Grand Prix,1982-05-09,Prost,Renault,13,1,59,Spun off,,0
+1982,5,Belgian Grand Prix,1982-05-09,Patrese,Brabham,14,9,52,Spun off,,0
+1982,5,Belgian Grand Prix,1982-05-09,Baldi,Arrows,15,26,51,Throttle,,0
+1982,5,Belgian Grand Prix,1982-05-09,Jarier,Osella,16,14,37,Broken wing,,0
+1982,5,Belgian Grand Prix,1982-05-09,de Cesaris,Alfa Romeo,17,6,34,Gearbox,,0
+1982,5,Belgian Grand Prix,1982-05-09,Henton,Tyrrell,18,20,33,Engine,,0
+1982,5,Belgian Grand Prix,1982-05-09,Alboreto,Tyrrell,19,5,29,Engine,,0
+1982,5,Belgian Grand Prix,1982-05-09,Warwick,Toleman,20,19,29,Transmission,,0
+1982,5,Belgian Grand Prix,1982-05-09,Fabi,Toleman,21,21,13,Brakes,,0
+1982,5,Belgian Grand Prix,1982-05-09,Mansell,Team Lotus,22,7,9,Clutch,,0
+1982,5,Belgian Grand Prix,1982-05-09,Arnoux,Renault,23,2,7,Turbo,,0
+1982,5,Belgian Grand Prix,1982-05-09,Winkelhock,ATS,24,12,0,Clutch,,0
+1982,5,Belgian Grand Prix,1982-05-09,Giacomelli,Alfa Romeo,25,15,0,Collision,,0
+1982,5,Belgian Grand Prix,1982-05-09,Salazar,ATS,26,18,0,Collision,,0
+1982,5,Belgian Grand Prix,1982-05-09,Pironi,Ferrari,27,0,0,Withdrew,,0
+1982,5,Belgian Grand Prix,1982-05-09,Villeneuve,Ferrari,28,0,0,Accident,,0
+1982,5,Belgian Grand Prix,1982-05-09,Guerrero,Ensign,29,0,0,Did not qualify,,0
+1982,5,Belgian Grand Prix,1982-05-09,Lammers,Theodore,30,0,0,Did not qualify,,0
+1982,5,Belgian Grand Prix,1982-05-09,Paletti,Osella,31,0,0,Did not prequalify,,0
+1982,5,Belgian Grand Prix,1982-05-09,de Villota,March,32,0,0,Did not prequalify,,0
+1982,6,Monaco Grand Prix,1982-05-23,Patrese,Brabham,1,2,76,Finished,1:54:11.259,9
+1982,6,Monaco Grand Prix,1982-05-23,Pironi,Ferrari,2,5,75,Out of fuel,,6
+1982,6,Monaco Grand Prix,1982-05-23,de Cesaris,Alfa Romeo,3,7,75,Out of fuel,,4
+1982,6,Monaco Grand Prix,1982-05-23,Mansell,Team Lotus,4,11,75,+1 Lap,,3
+1982,6,Monaco Grand Prix,1982-05-23,de Angelis,Team Lotus,5,15,75,+1 Lap,,2
+1982,6,Monaco Grand Prix,1982-05-23,Daly,Williams,6,8,74,Gearbox,,1
+1982,6,Monaco Grand Prix,1982-05-23,Prost,Renault,7,4,73,Spun off,,0
+1982,6,Monaco Grand Prix,1982-05-23,Henton,Tyrrell,8,17,72,+4 Laps,,0
+1982,6,Monaco Grand Prix,1982-05-23,Surer,Arrows,9,19,70,+6 Laps,,0
+1982,6,Monaco Grand Prix,1982-05-23,Alboreto,Tyrrell,10,9,69,Suspension,,0
+1982,6,Monaco Grand Prix,1982-05-23,Rosberg,Williams,11,6,64,Collision,,0
+1982,6,Monaco Grand Prix,1982-05-23,Lauda,McLaren,12,12,56,Engine,,0
+1982,6,Monaco Grand Prix,1982-05-23,Piquet,Brabham,13,13,49,Turbo,,0
+1982,6,Monaco Grand Prix,1982-05-23,Watson,McLaren,14,10,35,Electrical,,0
+1982,6,Monaco Grand Prix,1982-05-23,Winkelhock,ATS,15,14,31,Differential,,0
+1982,6,Monaco Grand Prix,1982-05-23,Laffite,Ligier,16,18,29,Handling,,0
+1982,6,Monaco Grand Prix,1982-05-23,Cheever,Ligier,17,16,27,Oil leak,,0
+1982,6,Monaco Grand Prix,1982-05-23,Salazar,ATS,18,20,22,Mechanical,,0
+1982,6,Monaco Grand Prix,1982-05-23,Arnoux,Renault,19,1,14,Spun off,,0
+1982,6,Monaco Grand Prix,1982-05-23,Giacomelli,Alfa Romeo,20,3,4,Halfshaft,,0
+1982,6,Monaco Grand Prix,1982-05-23,Baldi,Arrows,21,0,0,Did not qualify,,0
+1982,6,Monaco Grand Prix,1982-05-23,Lammers,Theodore,22,0,0,Did not qualify,,0
+1982,6,Monaco Grand Prix,1982-05-23,Mass,March,23,0,0,Did not qualify,,0
+1982,6,Monaco Grand Prix,1982-05-23,Warwick,Toleman,24,0,0,Did not qualify,,0
+1982,6,Monaco Grand Prix,1982-05-23,Jarier,Osella,25,0,0,Did not qualify,,0
+1982,6,Monaco Grand Prix,1982-05-23,Guerrero,Ensign,26,0,0,Did not qualify,,0
+1982,6,Monaco Grand Prix,1982-05-23,Fabi,Toleman,27,0,0,Did not prequalify,,0
+1982,6,Monaco Grand Prix,1982-05-23,Paletti,Osella,28,0,0,Did not prequalify,,0
+1982,6,Monaco Grand Prix,1982-05-23,Boesel,March,29,0,0,Did not prequalify,,0
+1982,6,Monaco Grand Prix,1982-05-23,Serra,Fittipaldi,30,0,0,Did not prequalify,,0
+1982,6,Monaco Grand Prix,1982-05-23,de Villota,March,31,0,0,Did not prequalify,,0
+1982,7,Detroit Grand Prix,1982-06-06,Watson,McLaren,1,17,62,Finished,1:58:41.043,9
+1982,7,Detroit Grand Prix,1982-06-06,Cheever,Ligier,2,9,62,Finished,+15.726,6
+1982,7,Detroit Grand Prix,1982-06-06,Pironi,Ferrari,3,4,62,Finished,+28.077,4
+1982,7,Detroit Grand Prix,1982-06-06,Rosberg,Williams,4,3,62,Finished,+1:11.976,3
+1982,7,Detroit Grand Prix,1982-06-06,Daly,Williams,5,12,62,Finished,+1:23.757,2
+1982,7,Detroit Grand Prix,1982-06-06,Laffite,Ligier,6,13,61,+1 Lap,,1
+1982,7,Detroit Grand Prix,1982-06-06,Mass,March,7,18,61,+1 Lap,,0
+1982,7,Detroit Grand Prix,1982-06-06,Surer,Arrows,8,19,61,+1 Lap,,0
+1982,7,Detroit Grand Prix,1982-06-06,Henton,Tyrrell,9,20,60,+2 Laps,,0
+1982,7,Detroit Grand Prix,1982-06-06,Arnoux,Renault,10,15,59,+3 Laps,,0
+1982,7,Detroit Grand Prix,1982-06-06,Serra,Fittipaldi,11,26,59,+3 Laps,,0
+1982,7,Detroit Grand Prix,1982-06-06,Prost,Renault,12,1,54,Not classified,,0
+1982,7,Detroit Grand Prix,1982-06-06,Mansell,Team Lotus,13,7,44,Engine,,0
+1982,7,Detroit Grand Prix,1982-06-06,Lauda,McLaren,14,10,40,Collision,,0
+1982,7,Detroit Grand Prix,1982-06-06,Alboreto,Tyrrell,15,16,40,Spun off,,0
+1982,7,Detroit Grand Prix,1982-06-06,Giacomelli,Alfa Romeo,16,6,30,Collision,,0
+1982,7,Detroit Grand Prix,1982-06-06,de Angelis,Team Lotus,17,8,17,Gearbox,,0
+1982,7,Detroit Grand Prix,1982-06-06,Salazar,ATS,18,25,13,Spun off,,0
+1982,7,Detroit Grand Prix,1982-06-06,Guerrero,Ensign,19,11,6,Collision,,0
+1982,7,Detroit Grand Prix,1982-06-06,Patrese,Brabham,20,14,6,Collision,,0
+1982,7,Detroit Grand Prix,1982-06-06,de Cesaris,Alfa Romeo,21,2,2,Transmission,,0
+1982,7,Detroit Grand Prix,1982-06-06,Jarier,Osella,22,22,2,Ignition,,0
+1982,7,Detroit Grand Prix,1982-06-06,Winkelhock,ATS,23,5,1,Spun off,,0
+1982,7,Detroit Grand Prix,1982-06-06,Boesel,March,24,21,0,Collision,,0
+1982,7,Detroit Grand Prix,1982-06-06,Baldi,Arrows,25,24,0,Collision,,0
+1982,7,Detroit Grand Prix,1982-06-06,Paletti,Osella,26,23,0,Retired,,0
+1982,7,Detroit Grand Prix,1982-06-06,de Villota,March,27,0,0,Did not qualify,,0
+1982,7,Detroit Grand Prix,1982-06-06,Piquet,Brabham,28,0,0,Did not qualify,,0
+1982,7,Detroit Grand Prix,1982-06-06,Lammers,Theodore,29,0,0,Did not qualify,,0
+1982,8,Canadian Grand Prix,1982-06-13,Piquet,Brabham,1,4,70,Finished,1:46:39.577,9
+1982,8,Canadian Grand Prix,1982-06-13,Patrese,Brabham,2,8,70,Finished,+13.799,6
+1982,8,Canadian Grand Prix,1982-06-13,Watson,McLaren,3,6,70,Finished,+1:01.836,4
+1982,8,Canadian Grand Prix,1982-06-13,de Angelis,Team Lotus,4,10,69,+1 Lap,,3
+1982,8,Canadian Grand Prix,1982-06-13,Surer,Arrows,5,16,69,+1 Lap,,2
+1982,8,Canadian Grand Prix,1982-06-13,de Cesaris,Alfa Romeo,6,9,68,Out of fuel,,1
+1982,8,Canadian Grand Prix,1982-06-13,Daly,Williams,7,13,68,Out of fuel,,0
+1982,8,Canadian Grand Prix,1982-06-13,Baldi,Arrows,8,17,68,+2 Laps,,0
+1982,8,Canadian Grand Prix,1982-06-13,Pironi,Ferrari,9,1,67,+3 Laps,,0
+1982,8,Canadian Grand Prix,1982-06-13,Cheever,Ligier,10,12,66,Out of fuel,,0
+1982,8,Canadian Grand Prix,1982-06-13,Mass,March,11,22,66,+4 Laps,,0
+1982,8,Canadian Grand Prix,1982-06-13,Henton,Tyrrell,12,26,59,Not classified,,0
+1982,8,Canadian Grand Prix,1982-06-13,Rosberg,Williams,13,7,52,Gearbox,,0
+1982,8,Canadian Grand Prix,1982-06-13,Boesel,March,14,21,47,Engine,,0
+1982,8,Canadian Grand Prix,1982-06-13,Alboreto,Tyrrell,15,15,41,Engine,,0
+1982,8,Canadian Grand Prix,1982-06-13,Prost,Renault,16,3,30,Engine,,0
+1982,8,Canadian Grand Prix,1982-06-13,Arnoux,Renault,17,2,28,Spun off,,0
+1982,8,Canadian Grand Prix,1982-06-13,Salazar,ATS,18,24,20,Engine,,0
+1982,8,Canadian Grand Prix,1982-06-13,Lauda,McLaren,19,11,17,Clutch,,0
+1982,8,Canadian Grand Prix,1982-06-13,Laffite,Ligier,20,19,8,Fuel system,,0
+1982,8,Canadian Grand Prix,1982-06-13,Guerrero,Ensign,21,20,7,Clutch,,0
+1982,8,Canadian Grand Prix,1982-06-13,Giacomelli,Alfa Romeo,22,5,2,Collision,,0
+1982,8,Canadian Grand Prix,1982-06-13,Mansell,Team Lotus,23,14,2,Collision,,0
+1982,8,Canadian Grand Prix,1982-06-13,Jarier,Osella,24,18,0,Withdrew,,0
+1982,8,Canadian Grand Prix,1982-06-13,Paletti,Osella,25,23,0,Fatal accident,,0
+1982,8,Canadian Grand Prix,1982-06-13,Lees,Theodore,26,25,0,Collision,,0
+1982,8,Canadian Grand Prix,1982-06-13,Winkelhock,ATS,27,0,0,Did not qualify,,0
+1982,8,Canadian Grand Prix,1982-06-13,de Villota,March,28,0,0,Did not qualify,,0
+1982,8,Canadian Grand Prix,1982-06-13,Serra,Fittipaldi,29,0,0,Did not qualify,,0
+1982,9,Dutch Grand Prix,1982-07-03,Pironi,Ferrari,1,4,72,Finished,1:38:03.254,9
+1982,9,Dutch Grand Prix,1982-07-03,Piquet,Brabham,2,3,72,Finished,+21.649,6
+1982,9,Dutch Grand Prix,1982-07-03,Rosberg,Williams,3,7,72,Finished,+22.365,4
+1982,9,Dutch Grand Prix,1982-07-03,Lauda,McLaren,4,5,72,Finished,+1:23.729,3
+1982,9,Dutch Grand Prix,1982-07-03,Daly,Williams,5,12,71,+1 Lap,,2
+1982,9,Dutch Grand Prix,1982-07-03,Baldi,Arrows,6,16,71,+1 Lap,,1
+1982,9,Dutch Grand Prix,1982-07-03,Alboreto,Tyrrell,7,14,71,+1 Lap,,0
+1982,9,Dutch Grand Prix,1982-07-03,Tambay,Ferrari,8,6,71,+1 Lap,,0
+1982,9,Dutch Grand Prix,1982-07-03,Watson,McLaren,9,11,71,+1 Lap,,0
+1982,9,Dutch Grand Prix,1982-07-03,Surer,Arrows,10,17,71,+1 Lap,,0
+1982,9,Dutch Grand Prix,1982-07-03,Giacomelli,Alfa Romeo,11,8,70,+2 Laps,,0
+1982,9,Dutch Grand Prix,1982-07-03,Winkelhock,ATS,12,18,70,+2 Laps,,0
+1982,9,Dutch Grand Prix,1982-07-03,Salazar,ATS,13,25,70,+2 Laps,,0
+1982,9,Dutch Grand Prix,1982-07-03,Jarier,Osella,14,23,69,+3 Laps,,0
+1982,9,Dutch Grand Prix,1982-07-03,Patrese,Brabham,15,10,69,+3 Laps,,0
+1982,9,Dutch Grand Prix,1982-07-03,Mass,March,16,24,60,Engine,,0
+1982,9,Dutch Grand Prix,1982-07-03,Lammers,Theodore,17,26,41,Engine,,0
+1982,9,Dutch Grand Prix,1982-07-03,de Angelis,Team Lotus,18,15,40,Handling,,0
+1982,9,Dutch Grand Prix,1982-07-03,de Cesaris,Alfa Romeo,19,9,35,Electrical,,0
+1982,9,Dutch Grand Prix,1982-07-03,Prost,Renault,20,2,33,Engine,,0
+1982,9,Dutch Grand Prix,1982-07-03,Arnoux,Renault,21,1,21,Spun off,,0
+1982,9,Dutch Grand Prix,1982-07-03,Henton,Tyrrell,22,20,21,Throttle,,0
+1982,9,Dutch Grand Prix,1982-07-03,Boesel,March,23,22,21,Engine,,0
+1982,9,Dutch Grand Prix,1982-07-03,Serra,Fittipaldi,24,19,18,Fuel system,,0
+1982,9,Dutch Grand Prix,1982-07-03,Warwick,Toleman,25,13,15,Oil leak,,0
+1982,9,Dutch Grand Prix,1982-07-03,Laffite,Ligier,26,21,4,Handling,,0
+1982,9,Dutch Grand Prix,1982-07-03,Guerrero,Ensign,27,0,0,Did not qualify,,0
+1982,9,Dutch Grand Prix,1982-07-03,Fabi,Toleman,28,0,0,Did not qualify,,0
+1982,9,Dutch Grand Prix,1982-07-03,Cheever,Ligier,29,0,0,Did not qualify,,0
+1982,9,Dutch Grand Prix,1982-07-03,Moreno,Team Lotus,30,0,0,Did not qualify,,0
+1982,9,Dutch Grand Prix,1982-07-03,de Villota,March,31,0,0,Did not prequalify,,0
+1982,10,British Grand Prix,1982-07-18,Lauda,McLaren,1,5,76,Finished,1:35:33.812,9
+1982,10,British Grand Prix,1982-07-18,Pironi,Ferrari,2,4,76,Finished,+25.726,6
+1982,10,British Grand Prix,1982-07-18,Tambay,Ferrari,3,13,76,Finished,+38.436,4
+1982,10,British Grand Prix,1982-07-18,de Angelis,Team Lotus,4,7,76,Finished,+41.242,3
+1982,10,British Grand Prix,1982-07-18,Daly,Williams,5,10,76,Finished,+41.430,2
+1982,10,British Grand Prix,1982-07-18,Prost,Renault,6,8,76,Finished,+41.636,1
+1982,10,British Grand Prix,1982-07-18,Giacomelli,Alfa Romeo,7,14,75,+1 Lap,,0
+1982,10,British Grand Prix,1982-07-18,Henton,Tyrrell,8,17,75,+1 Lap,,0
+1982,10,British Grand Prix,1982-07-18,Baldi,Arrows,9,26,74,+2 Laps,,0
+1982,10,British Grand Prix,1982-07-18,Mass,March,10,25,73,+3 Laps,,0
+1982,10,British Grand Prix,1982-07-18,de Cesaris,Alfa Romeo,11,11,66,Electrical,,0
+1982,10,British Grand Prix,1982-07-18,Cheever,Ligier,12,24,60,Engine,,0
+1982,10,British Grand Prix,1982-07-18,Surer,Arrows,13,22,59,Engine,,0
+1982,10,British Grand Prix,1982-07-18,Rosberg,Williams,14,1,50,Fuel system,,0
+1982,10,British Grand Prix,1982-07-18,Alboreto,Tyrrell,15,9,44,Engine,,0
+1982,10,British Grand Prix,1982-07-18,Laffite,Ligier,16,20,41,Gearbox,,0
+1982,10,British Grand Prix,1982-07-18,Warwick,Toleman,17,16,40,Halfshaft,,0
+1982,10,British Grand Prix,1982-07-18,Mansell,Team Lotus,18,23,29,Driver unwell,,0
+1982,10,British Grand Prix,1982-07-18,Piquet,Brabham,19,3,9,Fuel system,,0
+1982,10,British Grand Prix,1982-07-18,Guerrero,Ensign,20,19,3,Engine,,0
+1982,10,British Grand Prix,1982-07-18,Jarier,Osella,21,18,2,Collision,,0
+1982,10,British Grand Prix,1982-07-18,Serra,Fittipaldi,22,21,2,Collision,,0
+1982,10,British Grand Prix,1982-07-18,Watson,McLaren,23,12,2,Spun off,,0
+1982,10,British Grand Prix,1982-07-18,Patrese,Brabham,24,2,0,Collision,,0
+1982,10,British Grand Prix,1982-07-18,Arnoux,Renault,25,6,0,Collision,,0
+1982,10,British Grand Prix,1982-07-18,Fabi,Toleman,26,15,0,Collision,,0
+1982,10,British Grand Prix,1982-07-18,Winkelhock,ATS,27,0,0,Did not qualify,,0
+1982,10,British Grand Prix,1982-07-18,Lammers,Theodore,28,0,0,Did not qualify,,0
+1982,10,British Grand Prix,1982-07-18,Salazar,ATS,29,0,0,Did not qualify,,0
+1982,10,British Grand Prix,1982-07-18,Boesel,March,30,0,0,Did not qualify,,0
+1982,11,French Grand Prix,1982-07-25,Arnoux,Renault,1,1,54,Finished,1:33:33.217,9
+1982,11,French Grand Prix,1982-07-25,Prost,Renault,2,2,54,Finished,+17.308,6
+1982,11,French Grand Prix,1982-07-25,Pironi,Ferrari,3,3,54,Finished,+42.128,4
+1982,11,French Grand Prix,1982-07-25,Tambay,Ferrari,4,5,54,Finished,+1:16.241,3
+1982,11,French Grand Prix,1982-07-25,Rosberg,Williams,5,10,54,Finished,+1:30.994,2
+1982,11,French Grand Prix,1982-07-25,Alboreto,Tyrrell,6,15,54,Finished,+1:32.339,1
+1982,11,French Grand Prix,1982-07-25,Daly,Williams,7,11,53,+1 Lap,,0
+1982,11,French Grand Prix,1982-07-25,Lauda,McLaren,8,9,53,+1 Lap,,0
+1982,11,French Grand Prix,1982-07-25,Giacomelli,Alfa Romeo,9,8,53,+1 Lap,,0
+1982,11,French Grand Prix,1982-07-25,Henton,Tyrrell,10,23,53,+1 Lap,,0
+1982,11,French Grand Prix,1982-07-25,Winkelhock,ATS,11,18,52,+2 Laps,,0
+1982,11,French Grand Prix,1982-07-25,Lees,Team Lotus,12,24,52,+2 Laps,,0
+1982,11,French Grand Prix,1982-07-25,Surer,Arrows,13,20,52,+2 Laps,,0
+1982,11,French Grand Prix,1982-07-25,Laffite,Ligier,14,16,51,+3 Laps,,0
+1982,11,French Grand Prix,1982-07-25,Warwick,Toleman,15,14,50,+4 Laps,,0
+1982,11,French Grand Prix,1982-07-25,Cheever,Ligier,16,19,49,+5 Laps,,0
+1982,11,French Grand Prix,1982-07-25,de Cesaris,Alfa Romeo,17,7,25,Spun off,,0
+1982,11,French Grand Prix,1982-07-25,Piquet,Brabham,18,6,23,Engine,,0
+1982,11,French Grand Prix,1982-07-25,de Angelis,Team Lotus,19,13,17,Fuel system,,0
+1982,11,French Grand Prix,1982-07-25,Watson,McLaren,20,12,13,Electrical,,0
+1982,11,French Grand Prix,1982-07-25,Mass,March,21,26,10,Spun off,,0
+1982,11,French Grand Prix,1982-07-25,Baldi,Arrows,22,25,10,Collision,,0
+1982,11,French Grand Prix,1982-07-25,Patrese,Brabham,23,4,8,Engine,,0
+1982,11,French Grand Prix,1982-07-25,Salazar,ATS,24,22,2,Spun off,,0
+1982,11,French Grand Prix,1982-07-25,Jarier,Osella,25,17,0,Halfshaft,,0
+1982,11,French Grand Prix,1982-07-25,Fabi,Toleman,26,21,0,Electrical,,0
+1982,11,French Grand Prix,1982-07-25,Lammers,Theodore,27,0,0,Did not qualify,,0
+1982,11,French Grand Prix,1982-07-25,Guerrero,Ensign,28,0,0,Did not qualify,,0
+1982,11,French Grand Prix,1982-07-25,Boesel,March,29,0,0,Did not qualify,,0
+1982,12,German Grand Prix,1982-08-08,Tambay,Ferrari,1,5,45,Finished,1:27:25.178,9
+1982,12,German Grand Prix,1982-08-08,Arnoux,Renault,2,3,45,Finished,+16.379,6
+1982,12,German Grand Prix,1982-08-08,Rosberg,Williams,3,9,44,+1 Lap,,4
+1982,12,German Grand Prix,1982-08-08,Alboreto,Tyrrell,4,7,44,+1 Lap,,3
+1982,12,German Grand Prix,1982-08-08,Giacomelli,Alfa Romeo,5,11,44,+1 Lap,,2
+1982,12,German Grand Prix,1982-08-08,Surer,Arrows,6,26,44,+1 Lap,,1
+1982,12,German Grand Prix,1982-08-08,Henton,Tyrrell,7,17,44,+1 Lap,,0
+1982,12,German Grand Prix,1982-08-08,Guerrero,Ensign,8,21,44,+1 Lap,,0
+1982,12,German Grand Prix,1982-08-08,Mansell,Team Lotus,9,18,43,+2 Laps,,0
+1982,12,German Grand Prix,1982-08-08,Warwick,Toleman,10,14,43,+2 Laps,,0
+1982,12,German Grand Prix,1982-08-08,Serra,Fittipaldi,11,25,43,+2 Laps,,0
+1982,12,German Grand Prix,1982-08-08,Watson,McLaren,12,10,36,Suspension,,0
+1982,12,German Grand Prix,1982-08-08,Laffite,Ligier,13,15,36,Handling,,0
+1982,12,German Grand Prix,1982-08-08,Daly,Williams,14,19,25,Engine,,0
+1982,12,German Grand Prix,1982-08-08,Boesel,March,15,24,22,Tyre,,0
+1982,12,German Grand Prix,1982-08-08,de Angelis,Team Lotus,16,13,21,Handling,,0
+1982,12,German Grand Prix,1982-08-08,Piquet,Brabham,17,4,18,Collision,,0
+1982,12,German Grand Prix,1982-08-08,Salazar,ATS,18,22,17,Collision,,0
+1982,12,German Grand Prix,1982-08-08,Prost,Renault,19,2,14,Injection,,0
+1982,12,German Grand Prix,1982-08-08,Patrese,Brabham,20,6,13,Engine,,0
+1982,12,German Grand Prix,1982-08-08,de Cesaris,Alfa Romeo,21,8,9,Gearbox,,0
+1982,12,German Grand Prix,1982-08-08,Cheever,Ligier,22,12,8,Fuel system,,0
+1982,12,German Grand Prix,1982-08-08,Baldi,Arrows,23,23,6,Fuel system,,0
+1982,12,German Grand Prix,1982-08-08,Jarier,Osella,24,20,3,Steering,,0
+1982,12,German Grand Prix,1982-08-08,Winkelhock,ATS,25,16,3,Clutch,,0
+1982,12,German Grand Prix,1982-08-08,Pironi,Ferrari,26,1,0,Accident,,0
+1982,12,German Grand Prix,1982-08-08,Byrne,Theodore,27,0,0,Did not qualify,,0
+1982,12,German Grand Prix,1982-08-08,Keegan,March,28,0,0,Did not qualify,,0
+1982,12,German Grand Prix,1982-08-08,Fabi,Toleman,29,0,0,Did not qualify,,0
+1982,13,Austrian Grand Prix,1982-08-15,de Angelis,Team Lotus,1,7,53,Finished,1:25:02.212,9
+1982,13,Austrian Grand Prix,1982-08-15,Rosberg,Williams,2,6,53,Finished,+0.050,6
+1982,13,Austrian Grand Prix,1982-08-15,Laffite,Ligier,3,14,52,+1 Lap,,4
+1982,13,Austrian Grand Prix,1982-08-15,Tambay,Ferrari,4,4,52,+1 Lap,,3
+1982,13,Austrian Grand Prix,1982-08-15,Lauda,McLaren,5,10,52,+1 Lap,,2
+1982,13,Austrian Grand Prix,1982-08-15,Baldi,Arrows,6,23,52,+1 Lap,,1
+1982,13,Austrian Grand Prix,1982-08-15,Serra,Fittipaldi,7,20,51,+2 Laps,,0
+1982,13,Austrian Grand Prix,1982-08-15,Prost,Renault,8,3,48,Injection,,0
+1982,13,Austrian Grand Prix,1982-08-15,Watson,McLaren,9,18,44,Engine,,0
+1982,13,Austrian Grand Prix,1982-08-15,Henton,Tyrrell,10,19,32,Engine,,0
+1982,13,Austrian Grand Prix,1982-08-15,Piquet,Brabham,11,1,31,Electrical,,0
+1982,13,Austrian Grand Prix,1982-08-15,Byrne,Theodore,12,26,28,Spun off,,0
+1982,13,Austrian Grand Prix,1982-08-15,Surer,Arrows,13,21,28,Engine,,0
+1982,13,Austrian Grand Prix,1982-08-15,Patrese,Brabham,14,2,27,Engine,,0
+1982,13,Austrian Grand Prix,1982-08-15,Cheever,Ligier,15,22,22,Engine,,0
+1982,13,Austrian Grand Prix,1982-08-15,Mansell,Team Lotus,16,12,17,Engine,,0
+1982,13,Austrian Grand Prix,1982-08-15,Arnoux,Renault,17,5,16,Injection,,0
+1982,13,Austrian Grand Prix,1982-08-15,Winkelhock,ATS,18,25,15,Spun off,,0
+1982,13,Austrian Grand Prix,1982-08-15,Warwick,Toleman,19,15,7,Suspension,,0
+1982,13,Austrian Grand Prix,1982-08-15,Fabi,Toleman,20,17,7,Transmission,,0
+1982,13,Austrian Grand Prix,1982-08-15,Guerrero,Ensign,21,16,6,Spun off,,0
+1982,13,Austrian Grand Prix,1982-08-15,Alboreto,Tyrrell,22,8,1,Spun off,,0
+1982,13,Austrian Grand Prix,1982-08-15,Keegan,March,23,24,1,Steering,,0
+1982,13,Austrian Grand Prix,1982-08-15,Daly,Williams,24,9,0,Collision,,0
+1982,13,Austrian Grand Prix,1982-08-15,de Cesaris,Alfa Romeo,25,11,0,Collision,,0
+1982,13,Austrian Grand Prix,1982-08-15,Giacomelli,Alfa Romeo,26,13,0,Collision,,0
+1982,13,Austrian Grand Prix,1982-08-15,Boesel,March,27,0,0,Did not qualify,,0
+1982,13,Austrian Grand Prix,1982-08-15,Jarier,Osella,28,0,0,Did not qualify,,0
+1982,13,Austrian Grand Prix,1982-08-15,Salazar,ATS,29,0,0,Did not qualify,,0
+1982,14,Swiss Grand Prix,1982-08-29,Rosberg,Williams,1,8,80,Finished,1:32:41.087,9
+1982,14,Swiss Grand Prix,1982-08-29,Prost,Renault,2,1,80,Finished,+4.442,6
+1982,14,Swiss Grand Prix,1982-08-29,Lauda,McLaren,3,4,80,Finished,+1:00.343,4
+1982,14,Swiss Grand Prix,1982-08-29,Piquet,Brabham,4,6,79,+1 Lap,,3
+1982,14,Swiss Grand Prix,1982-08-29,Patrese,Brabham,5,3,79,+1 Lap,,2
+1982,14,Swiss Grand Prix,1982-08-29,de Angelis,Team Lotus,6,15,79,+1 Lap,,1
+1982,14,Swiss Grand Prix,1982-08-29,Alboreto,Tyrrell,7,12,79,+1 Lap,,0
+1982,14,Swiss Grand Prix,1982-08-29,Mansell,Team Lotus,8,26,79,+1 Lap,,0
+1982,14,Swiss Grand Prix,1982-08-29,Daly,Williams,9,7,79,+1 Lap,,0
+1982,14,Swiss Grand Prix,1982-08-29,de Cesaris,Alfa Romeo,10,5,78,+2 Laps,,0
+1982,14,Swiss Grand Prix,1982-08-29,Henton,Tyrrell,11,18,78,+2 Laps,,0
+1982,14,Swiss Grand Prix,1982-08-29,Giacomelli,Alfa Romeo,12,9,78,+2 Laps,,0
+1982,14,Swiss Grand Prix,1982-08-29,Watson,McLaren,13,11,77,+3 Laps,,0
+1982,14,Swiss Grand Prix,1982-08-29,Salazar,ATS,14,25,76,+4 Laps,,0
+1982,14,Swiss Grand Prix,1982-08-29,Surer,Arrows,15,14,76,+4 Laps,,0
+1982,14,Swiss Grand Prix,1982-08-29,Arnoux,Renault,16,2,75,Injection,,0
+1982,14,Swiss Grand Prix,1982-08-29,Cheever,Ligier,17,16,70,Handling,,0
+1982,14,Swiss Grand Prix,1982-08-29,Winkelhock,ATS,18,20,55,Chassis,,0
+1982,14,Swiss Grand Prix,1982-08-29,Jarier,Osella,19,17,44,Engine,,0
+1982,14,Swiss Grand Prix,1982-08-29,Laffite,Ligier,20,13,33,Handling,,0
+1982,14,Swiss Grand Prix,1982-08-29,Fabi,Toleman,21,23,31,Engine,,0
+1982,14,Swiss Grand Prix,1982-08-29,Boesel,March,22,24,31,Water leak,,0
+1982,14,Swiss Grand Prix,1982-08-29,Keegan,March,23,22,25,Spun off,,0
+1982,14,Swiss Grand Prix,1982-08-29,Warwick,Toleman,24,21,24,Engine,,0
+1982,14,Swiss Grand Prix,1982-08-29,Guerrero,Ensign,25,19,4,Engine,,0
+1982,14,Swiss Grand Prix,1982-08-29,Tambay,Ferrari,26,10,0,Injury,,0
+1982,14,Swiss Grand Prix,1982-08-29,Serra,Fittipaldi,27,0,0,Did not qualify,,0
+1982,14,Swiss Grand Prix,1982-08-29,Byrne,Theodore,28,0,0,Did not qualify,,0
+1982,14,Swiss Grand Prix,1982-08-29,Baldi,Arrows,29,0,0,Did not qualify,,0
+1982,15,Italian Grand Prix,1982-09-12,Arnoux,Renault,1,6,52,Finished,1:22:25.734,9
+1982,15,Italian Grand Prix,1982-09-12,Tambay,Ferrari,2,3,52,Finished,+14.064,6
+1982,15,Italian Grand Prix,1982-09-12,Andretti,Ferrari,3,1,52,Finished,+48.452,4
+1982,15,Italian Grand Prix,1982-09-12,Watson,McLaren,4,12,52,Finished,+1:27.845,3
+1982,15,Italian Grand Prix,1982-09-12,Alboreto,Tyrrell,5,11,51,+1 Lap,,2
+1982,15,Italian Grand Prix,1982-09-12,Cheever,Ligier,6,14,51,+1 Lap,,1
+1982,15,Italian Grand Prix,1982-09-12,Mansell,Team Lotus,7,23,51,+1 Lap,,0
+1982,15,Italian Grand Prix,1982-09-12,Rosberg,Williams,8,7,50,+2 Laps,,0
+1982,15,Italian Grand Prix,1982-09-12,Salazar,ATS,9,25,50,+2 Laps,,0
+1982,15,Italian Grand Prix,1982-09-12,de Cesaris,Alfa Romeo,10,9,50,+2 Laps,,0
+1982,15,Italian Grand Prix,1982-09-12,Serra,Fittipaldi,11,26,49,+3 Laps,,0
+1982,15,Italian Grand Prix,1982-09-12,Baldi,Arrows,12,24,49,+3 Laps,,0
+1982,15,Italian Grand Prix,1982-09-12,Guerrero,Ensign,13,18,40,Not classified,,0
+1982,15,Italian Grand Prix,1982-09-12,de Angelis,Team Lotus,14,17,33,Throttle,,0
+1982,15,Italian Grand Prix,1982-09-12,Giacomelli,Alfa Romeo,15,8,32,Handling,,0
+1982,15,Italian Grand Prix,1982-09-12,Surer,Arrows,16,19,28,Ignition,,0
+1982,15,Italian Grand Prix,1982-09-12,Prost,Renault,17,5,27,Injection,,0
+1982,15,Italian Grand Prix,1982-09-12,Lauda,McLaren,18,10,21,Brakes,,0
+1982,15,Italian Grand Prix,1982-09-12,Jarier,Osella,19,15,10,Wheel,,0
+1982,15,Italian Grand Prix,1982-09-12,Piquet,Brabham,20,2,7,Engine,,0
+1982,15,Italian Grand Prix,1982-09-12,Patrese,Brabham,21,4,6,Clutch,,0
+1982,15,Italian Grand Prix,1982-09-12,Laffite,Ligier,22,21,5,Gearbox,,0
+1982,15,Italian Grand Prix,1982-09-12,Fabi,Toleman,23,22,2,Engine,,0
+1982,15,Italian Grand Prix,1982-09-12,Daly,Williams,24,13,0,Collision,,0
+1982,15,Italian Grand Prix,1982-09-12,Warwick,Toleman,25,16,0,Collision,,0
+1982,15,Italian Grand Prix,1982-09-12,Henton,Tyrrell,26,20,0,Collision,,0
+1982,15,Italian Grand Prix,1982-09-12,Keegan,March,27,0,0,Did not qualify,,0
+1982,15,Italian Grand Prix,1982-09-12,Winkelhock,ATS,28,0,0,Did not qualify,,0
+1982,15,Italian Grand Prix,1982-09-12,Boesel,March,29,0,0,Did not qualify,,0
+1982,15,Italian Grand Prix,1982-09-12,Byrne,Theodore,30,0,0,Did not qualify,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Alboreto,Tyrrell,1,3,75,Finished,1:41:56.888,9
+1982,16,Caesars Palace Grand Prix,1982-09-25,Watson,McLaren,2,9,75,Finished,+27.292,6
+1982,16,Caesars Palace Grand Prix,1982-09-25,Cheever,Ligier,3,4,75,Finished,+56.450,4
+1982,16,Caesars Palace Grand Prix,1982-09-25,Prost,Renault,4,1,75,Finished,+1:08.648,3
+1982,16,Caesars Palace Grand Prix,1982-09-25,Rosberg,Williams,5,6,75,Finished,+1:11.375,2
+1982,16,Caesars Palace Grand Prix,1982-09-25,Daly,Williams,6,14,74,+1 Lap,,1
+1982,16,Caesars Palace Grand Prix,1982-09-25,Surer,Arrows,7,17,74,+1 Lap,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Henton,Tyrrell,8,19,74,+1 Lap,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,de Cesaris,Alfa Romeo,9,18,73,+2 Laps,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Giacomelli,Alfa Romeo,10,16,73,+2 Laps,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Baldi,Arrows,11,23,73,+2 Laps,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Keegan,March,12,25,73,+2 Laps,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Boesel,March,13,24,69,+6 Laps,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Winkelhock,ATS,14,22,62,Not classified,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Lauda,McLaren,15,13,53,Engine,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Byrne,Theodore,16,26,39,Spun off,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Warwick,Toleman,17,10,32,Spark plugs,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,de Angelis,Team Lotus,18,20,28,Engine,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Andretti,Ferrari,19,7,26,Suspension,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Piquet,Brabham,20,12,26,Spark plugs,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Arnoux,Renault,21,2,20,Engine,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Patrese,Brabham,22,5,17,Clutch,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Mansell,Team Lotus,23,21,8,Collision,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Laffite,Ligier,24,11,5,Ignition,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Tambay,Ferrari,25,8,0,Withdrew,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Guerrero,Ensign,26,15,0,Engine,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Jarier,Osella,27,27,0,Accident,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Fabi,Toleman,28,0,0,Did not qualify,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Salazar,ATS,29,0,0,Did not qualify,,0
+1982,16,Caesars Palace Grand Prix,1982-09-25,Serra,Fittipaldi,30,0,0,Did not qualify,,0

@@ -1,0 +1,224 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1960,1,Argentine Grand Prix,1960-02-07,McLaren,Cooper-Climax,1,13,80,Finished,2:17:49.5,8
+1960,1,Argentine Grand Prix,1960-02-07,Allison,Ferrari,2,7,80,Finished,+26.3,6
+1960,1,Argentine Grand Prix,1960-02-07,Trintignant,Cooper-Climax,3,8,80,Finished,+36.9,0
+1960,1,Argentine Grand Prix,1960-02-07,Moss,Cooper-Climax,3,8,80,Finished,+36.9,0
+1960,1,Argentine Grand Prix,1960-02-07,Menditeguy,Cooper-Maserati,4,12,80,Finished,+53.3,3
+1960,1,Argentine Grand Prix,1960-02-07,von Trips,Ferrari,5,5,79,+1 Lap,,2
+1960,1,Argentine Grand Prix,1960-02-07,Ireland,Team Lotus,6,2,79,+1 Lap,,1
+1960,1,Argentine Grand Prix,1960-02-07,Bonnier,BRM,7,4,79,+1 Lap,,0
+1960,1,Argentine Grand Prix,1960-02-07,Hill,Ferrari,8,6,77,+3 Laps,,0
+1960,1,Argentine Grand Prix,1960-02-07,Larreta,Team Lotus,9,15,77,+3 Laps,,0
+1960,1,Argentine Grand Prix,1960-02-07,González,Ferrari,10,11,77,+3 Laps,,0
+1960,1,Argentine Grand Prix,1960-02-07,Bonomi,Cooper-Maserati,11,17,76,+4 Laps,,0
+1960,1,Argentine Grand Prix,1960-02-07,Gregory,Behra-Porsche,12,16,76,+4 Laps,,0
+1960,1,Argentine Grand Prix,1960-02-07,Munaron,Maserati,13,19,72,+8 Laps,,0
+1960,1,Argentine Grand Prix,1960-02-07,Estéfano,Maserati,14,20,70,+10 Laps,,0
+1960,1,Argentine Grand Prix,1960-02-07,Schell,Cooper-Climax,15,9,63,Fuel pump,,0
+1960,1,Argentine Grand Prix,1960-02-07,Brabham,Cooper-Climax,16,10,42,Gearbox,,0
+1960,1,Argentine Grand Prix,1960-02-07,Moss,Cooper-Climax,17,1,40,Suspension,,0
+1960,1,Argentine Grand Prix,1960-02-07,Hill,BRM,18,3,37,Overheating,,0
+1960,1,Argentine Grand Prix,1960-02-07,Stacey,Team Lotus,19,14,24,Physical,,0
+1960,1,Argentine Grand Prix,1960-02-07,Chimeri,Maserati,20,21,23,Physical,,0
+1960,1,Argentine Grand Prix,1960-02-07,Creus,Maserati,21,22,16,Physical,,0
+1960,1,Argentine Grand Prix,1960-02-07,Scarlatti,Maserati,22,18,11,Overheating,,0
+1960,2,Monaco Grand Prix,1960-05-29,Moss,Team Lotus,1,1,100,Finished,2:53:45.5,8
+1960,2,Monaco Grand Prix,1960-05-29,McLaren,Cooper-Climax,2,11,100,Finished,+52.1,6
+1960,2,Monaco Grand Prix,1960-05-29,Hill,Ferrari,3,10,100,Finished,+1:01.9,4
+1960,2,Monaco Grand Prix,1960-05-29,Brooks,Cooper-Climax,4,3,99,+1 Lap,,3
+1960,2,Monaco Grand Prix,1960-05-29,Bonnier,BRM,5,5,83,+17 Laps,,2
+1960,2,Monaco Grand Prix,1960-05-29,Ginther,Ferrari,6,9,70,+30 Laps,,1
+1960,2,Monaco Grand Prix,1960-05-29,Hill,BRM,7,6,66,Spun off,,0
+1960,2,Monaco Grand Prix,1960-05-29,von Trips,Ferrari,8,8,61,Clutch,,0
+1960,2,Monaco Grand Prix,1960-05-29,Ireland,Team Lotus,9,7,56,+44 Laps,,0
+1960,2,Monaco Grand Prix,1960-05-29,Gurney,BRM,10,14,44,Suspension,,0
+1960,2,Monaco Grand Prix,1960-05-29,Brabham,Cooper-Climax,11,2,40,Disqualified,,0
+1960,2,Monaco Grand Prix,1960-05-29,Salvadori,Cooper-Climax,12,12,29,Overheating,,0
+1960,2,Monaco Grand Prix,1960-05-29,Stacey,Team Lotus,13,13,23,Chassis,,0
+1960,2,Monaco Grand Prix,1960-05-29,Bristow,Cooper-Climax,14,4,17,Gearbox,,0
+1960,2,Monaco Grand Prix,1960-05-29,Surtees,Team Lotus,15,15,17,Transmission,,0
+1960,2,Monaco Grand Prix,1960-05-29,Trintignant,Cooper-Maserati,16,16,4,Gearbox,,0
+1960,2,Monaco Grand Prix,1960-05-29,Halford,Cooper-Climax,17,0,0,Did not qualify,,0
+1960,2,Monaco Grand Prix,1960-05-29,Allison,Ferrari,18,0,0,Did not qualify,,0
+1960,2,Monaco Grand Prix,1960-05-29,Naylor,JBW,19,0,0,Did not qualify,,0
+1960,2,Monaco Grand Prix,1960-05-29,Gregory,Cooper-Maserati,20,0,0,Did not qualify,,0
+1960,2,Monaco Grand Prix,1960-05-29,Daigh,Scarab,21,0,0,Did not qualify,,0
+1960,2,Monaco Grand Prix,1960-05-29,Scarlatti,Cooper-Castellotti,22,0,0,Did not qualify,,0
+1960,2,Monaco Grand Prix,1960-05-29,Reventlow,Scarab,23,0,0,Did not qualify,,0
+1960,2,Monaco Grand Prix,1960-05-29,Burgess,Cooper-Maserati,24,0,0,Did not qualify,,0
+1960,3,Indianapolis 500,1960-05-30,Rathmann,Watson,1,2,200,Finished,3:36:11.36,8
+1960,3,Indianapolis 500,1960-05-30,Ward,Watson,2,3,200,Finished,+0:12.75,6
+1960,3,Indianapolis 500,1960-05-30,Goldsmith,Epperly,3,26,200,Finished,+3:07.30,4
+1960,3,Indianapolis 500,1960-05-30,Branson,Phillips,4,8,200,Finished,+3:07.98,3
+1960,3,Indianapolis 500,1960-05-30,Thomson,Lesovsky,5,17,200,Finished,+3:11.35,2
+1960,3,Indianapolis 500,1960-05-30,Johnson,Trevis,6,7,200,Finished,+4:10.61,1
+1960,3,Indianapolis 500,1960-05-30,Ruby,Watson,7,12,200,Finished,+4:25.59,0
+1960,3,Indianapolis 500,1960-05-30,Veith,Meskowski,8,25,200,Finished,+5:17.48,0
+1960,3,Indianapolis 500,1960-05-30,Tingelstad,Trevis,9,28,200,Finished,+8:19.91,0
+1960,3,Indianapolis 500,1960-05-30,Christie,Kurtis Kraft,10,14,200,Finished,+8:40.28,0
+1960,3,Indianapolis 500,1960-05-30,Amick,Epperly,11,22,200,Finished,+11:10.58,0
+1960,3,Indianapolis 500,1960-05-30,Carter,Kuzma,12,27,200,Finished,+11:17.20,0
+1960,3,Indianapolis 500,1960-05-30,Homeier,Kuzma,13,31,200,Finished,+12:10.71,0
+1960,3,Indianapolis 500,1960-05-30,Hartley,Kurtis Kraft,14,24,196,+4 Laps,,0
+1960,3,Indianapolis 500,1960-05-30,Stevenson,Watson,15,9,196,+4 Laps,,0
+1960,3,Indianapolis 500,1960-05-30,Grim,Meskowski,16,21,194,+6 Laps,,0
+1960,3,Indianapolis 500,1960-05-30,Templeman,Kurtis Kraft,17,19,191,Clutch,,0
+1960,3,Indianapolis 500,1960-05-30,Hurtubise,Christensen,18,23,185,Engine,,0
+1960,3,Indianapolis 500,1960-05-30,Bryan,Epperly,19,10,152,Fuel system,,0
+1960,3,Indianapolis 500,1960-05-30,Ruttman,Watson,20,6,134,Axle,,0
+1960,3,Indianapolis 500,1960-05-30,Sachs,Ewing,21,1,132,Magneto,,0
+1960,3,Indianapolis 500,1960-05-30,Freeland,Kurtis Kraft,22,11,129,Magneto,,0
+1960,3,Indianapolis 500,1960-05-30,Bettenhausen,Watson,23,18,125,Engine,,0
+1960,3,Indianapolis 500,1960-05-30,Weiler,Epperly,24,15,103,Accident,,0
+1960,3,Indianapolis 500,1960-05-30,Foyt,Kurtis Kraft,25,16,90,Clutch,,0
+1960,3,Indianapolis 500,1960-05-30,Russo,Kurtis Kraft,26,29,90,Accident,,0
+1960,3,Indianapolis 500,1960-05-30,Boyd,Epperly,27,13,77,Engine,,0
+1960,3,Indianapolis 500,1960-05-30,Force,Kurtis Kraft,28,20,74,Brakes,,0
+1960,3,Indianapolis 500,1960-05-30,McWithey,Epperly,29,32,60,Brakes,,0
+1960,3,Indianapolis 500,1960-05-30,Sutton,Watson,30,5,47,Engine,,0
+1960,3,Indianapolis 500,1960-05-30,Rathmann,Watson,31,4,42,Brakes,,0
+1960,3,Indianapolis 500,1960-05-30,Herman,Ewing,32,30,34,Clutch,,0
+1960,3,Indianapolis 500,1960-05-30,Wilson,Kurtis Kraft,33,33,11,Magneto,,0
+1960,4,Dutch Grand Prix,1960-06-06,Brabham,Cooper-Climax,1,2,75,Finished,2:01:47.2,8
+1960,4,Dutch Grand Prix,1960-06-06,Ireland,Team Lotus,2,3,75,Finished,+24.0,6
+1960,4,Dutch Grand Prix,1960-06-06,Hill,BRM,3,5,75,Finished,+56.6,4
+1960,4,Dutch Grand Prix,1960-06-06,Moss,Team Lotus,4,1,75,Finished,+57.7,3
+1960,4,Dutch Grand Prix,1960-06-06,von Trips,Ferrari,5,15,74,+1 Lap,,2
+1960,4,Dutch Grand Prix,1960-06-06,Ginther,Ferrari,6,12,74,+1 Lap,,1
+1960,4,Dutch Grand Prix,1960-06-06,Taylor,Cooper-Climax,7,14,78,+5 Laps,,0
+1960,4,Dutch Grand Prix,1960-06-06,de Beaufort,Cooper-Climax,8,18,69,+6 Laps,,0
+1960,4,Dutch Grand Prix,1960-06-06,Stacey,Team Lotus,9,8,57,Transmission,,0
+1960,4,Dutch Grand Prix,1960-06-06,Bonnier,BRM,10,4,54,Engine,,0
+1960,4,Dutch Grand Prix,1960-06-06,Hill,Ferrari,11,13,54,Engine,,0
+1960,4,Dutch Grand Prix,1960-06-06,Clark,Team Lotus,12,11,42,Transmission,,0
+1960,4,Dutch Grand Prix,1960-06-06,Trintignant,Cooper-Maserati,13,17,39,Gearbox,,0
+1960,4,Dutch Grand Prix,1960-06-06,Gurney,BRM,14,6,11,Accident,,0
+1960,4,Dutch Grand Prix,1960-06-06,Bristow,Cooper-Climax,15,7,9,Engine,,0
+1960,4,Dutch Grand Prix,1960-06-06,McLaren,Cooper-Climax,16,9,8,Transmission,,0
+1960,4,Dutch Grand Prix,1960-06-06,Brooks,Cooper-Climax,17,10,4,Gearbox,,0
+1960,4,Dutch Grand Prix,1960-06-06,Salvadori,Aston Martin,18,0,0,Withdrew,,0
+1960,4,Dutch Grand Prix,1960-06-06,Gregory,Cooper-Maserati,19,0,0,Withdrew,,0
+1960,4,Dutch Grand Prix,1960-06-06,Reventlow,Scarab,20,0,0,Withdrew,,0
+1960,4,Dutch Grand Prix,1960-06-06,Daigh,Scarab,21,0,0,Withdrew,,0
+1960,5,Belgian Grand Prix,1960-06-19,Brabham,Cooper-Climax,1,1,36,Finished,2:21:37.3,8
+1960,5,Belgian Grand Prix,1960-06-19,McLaren,Cooper-Climax,2,14,36,Finished,+1:03.3,6
+1960,5,Belgian Grand Prix,1960-06-19,Gendebien,Cooper-Climax,3,5,35,+1 Lap,,4
+1960,5,Belgian Grand Prix,1960-06-19,Hill,Ferrari,4,4,35,+1 Lap,,3
+1960,5,Belgian Grand Prix,1960-06-19,Clark,Team Lotus,5,10,34,+2 Laps,,2
+1960,5,Belgian Grand Prix,1960-06-19,Bianchi,Cooper-Climax,6,15,28,+8 Laps,,1
+1960,5,Belgian Grand Prix,1960-06-19,Hill,BRM,7,6,35,Engine,,0
+1960,5,Belgian Grand Prix,1960-06-19,Stacey,Team Lotus,8,17,24,Accident,,0
+1960,5,Belgian Grand Prix,1960-06-19,Mairesse,Ferrari,9,13,23,Transmission,,0
+1960,5,Belgian Grand Prix,1960-06-19,von Trips,Ferrari,10,11,22,Transmission,,0
+1960,5,Belgian Grand Prix,1960-06-19,Bristow,Cooper-Climax,11,9,19,Accident,,0
+1960,5,Belgian Grand Prix,1960-06-19,Daigh,Scarab,12,18,16,Engine,,0
+1960,5,Belgian Grand Prix,1960-06-19,Bonnier,BRM,13,7,14,Engine,,0
+1960,5,Belgian Grand Prix,1960-06-19,Ireland,Team Lotus,14,8,13,Accident,,0
+1960,5,Belgian Grand Prix,1960-06-19,Gurney,BRM,15,12,4,Engine,,0
+1960,5,Belgian Grand Prix,1960-06-19,Brooks,Cooper-Climax,16,2,2,Gearbox,,0
+1960,5,Belgian Grand Prix,1960-06-19,Reventlow,Scarab,17,16,1,Engine,,0
+1960,5,Belgian Grand Prix,1960-06-19,Moss,Team Lotus,18,3,0,Accident,,0
+1960,5,Belgian Grand Prix,1960-06-19,Taylor,Team Lotus,19,19,0,Accident,,0
+1960,6,French Grand Prix,1960-07-03,Brabham,Cooper-Climax,1,1,50,Finished,1:57:24.9,8
+1960,6,French Grand Prix,1960-07-03,Gendebien,Cooper-Climax,2,9,50,Finished,+48.3,6
+1960,6,French Grand Prix,1960-07-03,McLaren,Cooper-Climax,3,7,50,Finished,+51.9,4
+1960,6,French Grand Prix,1960-07-03,Taylor,Cooper-Climax,4,12,49,+1 Lap,,3
+1960,6,French Grand Prix,1960-07-03,Clark,Team Lotus,5,10,49,+1 Lap,,2
+1960,6,French Grand Prix,1960-07-03,Flockhart,Team Lotus,6,14,49,+1 Lap,,1
+1960,6,French Grand Prix,1960-07-03,Ireland,Team Lotus,7,4,43,+7 Laps,,0
+1960,6,French Grand Prix,1960-07-03,Halford,Cooper-Climax,8,15,40,Engine,,0
+1960,6,French Grand Prix,1960-07-03,Gregory,Cooper-Maserati,9,17,37,+13 Laps,,0
+1960,6,French Grand Prix,1960-07-03,Burgess,Cooper-Maserati,10,22,36,+14 Laps,,0
+1960,6,French Grand Prix,1960-07-03,von Trips,Ferrari,11,5,30,Transmission,,0
+1960,6,French Grand Prix,1960-07-03,Hill,Ferrari,12,2,29,Transmission,,0
+1960,6,French Grand Prix,1960-07-03,Bonnier,BRM,13,8,22,Engine,,0
+1960,6,French Grand Prix,1960-07-03,Bianchi,Cooper-Climax,14,15,18,Transmission,,0
+1960,6,French Grand Prix,1960-07-03,Gurney,BRM,15,6,17,Engine,,0
+1960,6,French Grand Prix,1960-07-03,Munaron,Cooper-Castellotti,16,19,16,Transmission,,0
+1960,6,French Grand Prix,1960-07-03,Mairesse,Ferrari,17,11,14,Transmission,,0
+1960,6,French Grand Prix,1960-07-03,Brooks,Vanwall,18,13,7,Vibrations,,0
+1960,6,French Grand Prix,1960-07-03,Hill,BRM,19,3,0,Accident,,0
+1960,6,French Grand Prix,1960-07-03,Trintignant,Cooper-Maserati,20,18,0,Accident,,0
+1960,6,French Grand Prix,1960-07-03,Ginther,Scarab,21,20,0,Engine,,0
+1960,6,French Grand Prix,1960-07-03,Piper,Team Lotus,22,21,0,Engine,,0
+1960,6,French Grand Prix,1960-07-03,Daigh,Scarab,23,23,0,Engine,,0
+1960,7,British Grand Prix,1960-07-16,Brabham,Cooper-Climax,1,1,77,Finished,2:04:24.3,8
+1960,7,British Grand Prix,1960-07-16,Surtees,Team Lotus,2,11,77,Finished,+49.6,6
+1960,7,British Grand Prix,1960-07-16,Ireland,Team Lotus,3,5,77,Finished,+1:29.6,4
+1960,7,British Grand Prix,1960-07-16,McLaren,Cooper-Climax,4,3,76,+1 Lap,,3
+1960,7,British Grand Prix,1960-07-16,Brooks,Cooper-Climax,5,9,76,+1 Lap,,2
+1960,7,British Grand Prix,1960-07-16,von Trips,Ferrari,6,7,75,+2 Laps,,1
+1960,7,British Grand Prix,1960-07-16,Hill,Ferrari,7,10,75,+2 Laps,,0
+1960,7,British Grand Prix,1960-07-16,Taylor,Cooper-Climax,8,16,74,+3 Laps,,0
+1960,7,British Grand Prix,1960-07-16,Gendebien,Cooper-Climax,9,12,74,+3 Laps,,0
+1960,7,British Grand Prix,1960-07-16,Gurney,BRM,10,6,74,+3 Laps,,0
+1960,7,British Grand Prix,1960-07-16,Trintignant,Aston Martin,11,21,72,+5 Laps,,0
+1960,7,British Grand Prix,1960-07-16,Piper,Team Lotus,12,24,72,+5 Laps,,0
+1960,7,British Grand Prix,1960-07-16,Naylor,JBW,13,18,72,+5 Laps,,0
+1960,7,British Grand Prix,1960-07-16,Gregory,Cooper-Maserati,14,14,71,+6 Laps,,0
+1960,7,British Grand Prix,1960-07-16,Munaron,Cooper-Castellotti,15,25,70,+7 Laps,,0
+1960,7,British Grand Prix,1960-07-16,Clark,Team Lotus,16,8,70,+7 Laps,,0
+1960,7,British Grand Prix,1960-07-16,Hill,BRM,17,2,71,Spun off,,0
+1960,7,British Grand Prix,1960-07-16,Bianchi,Cooper-Climax,18,17,62,Electrical,,0
+1960,7,British Grand Prix,1960-07-16,Bonnier,BRM,19,4,59,Suspension,,0
+1960,7,British Grand Prix,1960-07-16,Daigh,Cooper-Climax,20,19,58,Overheating,,0
+1960,7,British Grand Prix,1960-07-16,Burgess,Cooper-Maserati,21,20,58,Engine,,0
+1960,7,British Grand Prix,1960-07-16,Salvadori,Aston Martin,22,13,46,Steering,,0
+1960,7,British Grand Prix,1960-07-16,Fairman,Cooper-Climax,23,15,46,Fuel pump,,0
+1960,7,British Grand Prix,1960-07-16,Greene,Cooper-Maserati,24,22,12,Overheating,,0
+1960,7,British Grand Prix,1960-07-16,Reventlow,Cooper-Climax,25,0,0,Withdrew,,0
+1960,8,Portuguese Grand Prix,1960-08-14,Brabham,Cooper-Climax,1,3,55,Finished,2:19:00.03,8
+1960,8,Portuguese Grand Prix,1960-08-14,McLaren,Cooper-Climax,2,6,55,Finished,+57.97,6
+1960,8,Portuguese Grand Prix,1960-08-14,Clark,Team Lotus,3,8,55,Finished,+1:53.23,4
+1960,8,Portuguese Grand Prix,1960-08-14,von Trips,Ferrari,4,9,55,Finished,+1:58.81,3
+1960,8,Portuguese Grand Prix,1960-08-14,Brooks,Cooper-Climax,5,12,49,+6 Laps,,2
+1960,8,Portuguese Grand Prix,1960-08-14,Ireland,Team Lotus,6,7,48,+7 Laps,,1
+1960,8,Portuguese Grand Prix,1960-08-14,Gendebien,Cooper-Climax,7,14,46,+9 Laps,,0
+1960,8,Portuguese Grand Prix,1960-08-14,Moss,Team Lotus,8,4,51,Disqualified,,0
+1960,8,Portuguese Grand Prix,1960-08-14,Cabral,Cooper-Maserati,9,15,38,Accident,,0
+1960,8,Portuguese Grand Prix,1960-08-14,Surtees,Team Lotus,10,1,37,Radiator,,0
+1960,8,Portuguese Grand Prix,1960-08-14,Hill,Ferrari,11,10,30,Accident,,0
+1960,8,Portuguese Grand Prix,1960-08-14,Gurney,BRM,12,2,25,Engine,,0
+1960,8,Portuguese Grand Prix,1960-08-14,Gregory,Cooper-Maserati,13,11,21,Gearbox,,0
+1960,8,Portuguese Grand Prix,1960-08-14,Hill,BRM,14,5,9,Gearbox,,0
+1960,8,Portuguese Grand Prix,1960-08-14,Bonnier,BRM,15,13,6,Engine,,0
+1960,9,Italian Grand Prix,1960-09-04,Hill,Ferrari,1,1,50,Finished,2:21:09.2,8
+1960,9,Italian Grand Prix,1960-09-04,Ginther,Ferrari,2,2,50,Finished,+2:27.6,6
+1960,9,Italian Grand Prix,1960-09-04,Mairesse,Ferrari,3,3,49,+1 Lap,,4
+1960,9,Italian Grand Prix,1960-09-04,Cabianca,Cooper-Castellotti,4,4,48,+2 Laps,,3
+1960,9,Italian Grand Prix,1960-09-04,von Trips,Ferrari,5,6,48,+2 Laps,,2
+1960,9,Italian Grand Prix,1960-09-04,Herrmann,Porsche,6,10,47,+3 Laps,,1
+1960,9,Italian Grand Prix,1960-09-04,Barth,Porsche,7,12,47,+3 Laps,,0
+1960,9,Italian Grand Prix,1960-09-04,Drogo,Cooper-Climax,8,15,45,+5 Laps,,0
+1960,9,Italian Grand Prix,1960-09-04,Seidel,Cooper-Climax,9,13,44,+6 Laps,,0
+1960,9,Italian Grand Prix,1960-09-04,Gamble,Behra-Porsche,10,14,41,+9 Laps,,0
+1960,9,Italian Grand Prix,1960-09-04,Naylor,JBW,11,7,41,Gearbox,,0
+1960,9,Italian Grand Prix,1960-09-04,Thiele,Cooper-Maserati,12,9,32,Gearbox,,0
+1960,9,Italian Grand Prix,1960-09-04,Munaron,Cooper-Castellotti,13,8,27,Engine,,0
+1960,9,Italian Grand Prix,1960-09-04,Scarlatti,Cooper-Maserati,14,5,26,Engine,,0
+1960,9,Italian Grand Prix,1960-09-04,Wilson,Cooper-Climax,15,16,23,Engine,,0
+1960,9,Italian Grand Prix,1960-09-04,Owen,Cooper-Climax,16,11,0,Accident,,0
+1960,9,Italian Grand Prix,1960-09-04,Gould,Maserati,17,0,0,Fuel system,,0
+1960,10,United States Grand Prix,1960-11-20,Moss,Team Lotus,1,1,75,Finished,2:28:52.2,8
+1960,10,United States Grand Prix,1960-11-20,Ireland,Team Lotus,2,7,75,Finished,+38.0,6
+1960,10,United States Grand Prix,1960-11-20,McLaren,Cooper-Climax,3,10,75,Finished,+52.0,4
+1960,10,United States Grand Prix,1960-11-20,Brabham,Cooper-Climax,4,2,74,+1 Lap,,3
+1960,10,United States Grand Prix,1960-11-20,Bonnier,BRM,5,4,74,+1 Lap,,2
+1960,10,United States Grand Prix,1960-11-20,Hill,Cooper-Climax,6,13,74,+1 Lap,,1
+1960,10,United States Grand Prix,1960-11-20,Hall,Team Lotus,7,12,73,+1 Lap,,0
+1960,10,United States Grand Prix,1960-11-20,Salvadori,Cooper-Climax,8,15,73,+2 Laps,,0
+1960,10,United States Grand Prix,1960-11-20,von Trips,Cooper-Maserati,9,16,72,+3 Laps,,0
+1960,10,United States Grand Prix,1960-11-20,Daigh,Scarab,10,18,70,+5 Laps,,0
+1960,10,United States Grand Prix,1960-11-20,Lovely,Cooper-Castellotti,11,20,69,+6 Laps,,0
+1960,10,United States Grand Prix,1960-11-20,Gendebien,Cooper-Climax,12,8,69,+6 Laps,,0
+1960,10,United States Grand Prix,1960-11-20,Drake,Maserati,13,22,68,+7 Laps,,0
+1960,10,United States Grand Prix,1960-11-20,Taylor,Cooper-Climax,14,14,68,+7 Laps,,0
+1960,10,United States Grand Prix,1960-11-20,Trintignant,Cooper-Maserati,15,19,66,+9 Laps,,0
+1960,10,United States Grand Prix,1960-11-20,Clark,Team Lotus,16,5,61,+14 Laps,,0
+1960,10,United States Grand Prix,1960-11-20,Hill,BRM,17,11,34,Gearbox,,0
+1960,10,United States Grand Prix,1960-11-20,Burgess,Cooper-Maserati,18,23,29,Ignition,,0
+1960,10,United States Grand Prix,1960-11-20,Naylor,Cooper-Maserati,19,17,20,Engine,,0
+1960,10,United States Grand Prix,1960-11-20,Gurney,BRM,20,3,18,Engine,,0
+1960,10,United States Grand Prix,1960-11-20,Flockhart,Cooper-Climax,21,21,11,Transmission,,0
+1960,10,United States Grand Prix,1960-11-20,Brooks,Cooper-Climax,22,9,6,Spun off,,0
+1960,10,United States Grand Prix,1960-11-20,Surtees,Team Lotus,23,6,3,Accident,,0

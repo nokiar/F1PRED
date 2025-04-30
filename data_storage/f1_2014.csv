@@ -1,0 +1,408 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+2014,1,Australian Grand Prix,2014-03-16,Rosberg,Mercedes,1,3,57,Finished,1:32:58.710,25
+2014,1,Australian Grand Prix,2014-03-16,Magnussen,McLaren,2,4,57,Finished,+26.777,18
+2014,1,Australian Grand Prix,2014-03-16,Button,McLaren,3,10,57,Finished,+30.027,15
+2014,1,Australian Grand Prix,2014-03-16,Alonso,Ferrari,4,5,57,Finished,+35.284,12
+2014,1,Australian Grand Prix,2014-03-16,Bottas,Williams,5,15,57,Finished,+47.639,10
+2014,1,Australian Grand Prix,2014-03-16,Hülkenberg,Force India,6,7,57,Finished,+50.718,8
+2014,1,Australian Grand Prix,2014-03-16,Räikkönen,Ferrari,7,11,57,Finished,+57.675,6
+2014,1,Australian Grand Prix,2014-03-16,Vergne,Toro Rosso,8,6,57,Finished,+1:00.441,4
+2014,1,Australian Grand Prix,2014-03-16,Kvyat,Toro Rosso,9,8,57,Finished,+1:03.585,2
+2014,1,Australian Grand Prix,2014-03-16,Pérez,Force India,10,16,57,Finished,+1:25.916,1
+2014,1,Australian Grand Prix,2014-03-16,Sutil,Sauber,11,13,56,+1 Lap,,0
+2014,1,Australian Grand Prix,2014-03-16,Gutiérrez,Sauber,12,20,56,+1 Lap,,0
+2014,1,Australian Grand Prix,2014-03-16,Chilton,Marussia,13,17,55,+2 Laps,,0
+2014,1,Australian Grand Prix,2014-03-16,Bianchi,Marussia,14,18,49,+8 Laps,,0
+2014,1,Australian Grand Prix,2014-03-16,Grosjean,Lotus F1,15,22,43,ERS,,0
+2014,1,Australian Grand Prix,2014-03-16,Maldonado,Lotus F1,16,21,29,ERS,,0
+2014,1,Australian Grand Prix,2014-03-16,Ericsson,Caterham,17,19,27,Oil pressure,,0
+2014,1,Australian Grand Prix,2014-03-16,Vettel,Red Bull,18,12,3,Engine,,0
+2014,1,Australian Grand Prix,2014-03-16,Hamilton,Mercedes,19,1,2,Engine,,0
+2014,1,Australian Grand Prix,2014-03-16,Massa,Williams,20,9,0,Collision,,0
+2014,1,Australian Grand Prix,2014-03-16,Kobayashi,Caterham,21,14,0,Collision,,0
+2014,1,Australian Grand Prix,2014-03-16,Ricciardo,Red Bull,22,2,57,Disqualified,+24.525,0
+2014,2,Malaysian Grand Prix,2014-03-30,Hamilton,Mercedes,1,1,56,Finished,1:40:25.974,25
+2014,2,Malaysian Grand Prix,2014-03-30,Rosberg,Mercedes,2,3,56,Finished,+17.313,18
+2014,2,Malaysian Grand Prix,2014-03-30,Vettel,Red Bull,3,2,56,Finished,+24.534,15
+2014,2,Malaysian Grand Prix,2014-03-30,Alonso,Ferrari,4,4,56,Finished,+35.992,12
+2014,2,Malaysian Grand Prix,2014-03-30,Hülkenberg,Force India,5,7,56,Finished,+47.199,10
+2014,2,Malaysian Grand Prix,2014-03-30,Button,McLaren,6,10,56,Finished,+1:23.691,8
+2014,2,Malaysian Grand Prix,2014-03-30,Massa,Williams,7,13,56,Finished,+1:25.076,6
+2014,2,Malaysian Grand Prix,2014-03-30,Bottas,Williams,8,18,56,Finished,+1:25.537,4
+2014,2,Malaysian Grand Prix,2014-03-30,Magnussen,McLaren,9,8,55,+1 Lap,,2
+2014,2,Malaysian Grand Prix,2014-03-30,Kvyat,Toro Rosso,10,11,55,+1 Lap,,1
+2014,2,Malaysian Grand Prix,2014-03-30,Grosjean,Lotus F1,11,15,55,+1 Lap,,0
+2014,2,Malaysian Grand Prix,2014-03-30,Räikkönen,Ferrari,12,6,55,+1 Lap,,0
+2014,2,Malaysian Grand Prix,2014-03-30,Kobayashi,Caterham,13,20,55,+1 Lap,,0
+2014,2,Malaysian Grand Prix,2014-03-30,Ericsson,Caterham,14,22,54,+2 Laps,,0
+2014,2,Malaysian Grand Prix,2014-03-30,Chilton,Marussia,15,21,54,+2 Laps,,0
+2014,2,Malaysian Grand Prix,2014-03-30,Ricciardo,Red Bull,16,5,49,Technical,,0
+2014,2,Malaysian Grand Prix,2014-03-30,Gutiérrez,Sauber,17,12,35,Gearbox,,0
+2014,2,Malaysian Grand Prix,2014-03-30,Sutil,Sauber,18,17,32,Electrical,,0
+2014,2,Malaysian Grand Prix,2014-03-30,Vergne,Toro Rosso,19,9,18,Power Unit,,0
+2014,2,Malaysian Grand Prix,2014-03-30,Bianchi,Marussia,20,19,8,Brakes,,0
+2014,2,Malaysian Grand Prix,2014-03-30,Maldonado,Lotus F1,21,16,7,Engine,,0
+2014,2,Malaysian Grand Prix,2014-03-30,Pérez,Force India,22,14,0,Withdrew,,0
+2014,3,Bahrain Grand Prix,2014-04-06,Hamilton,Mercedes,1,2,57,Finished,1:39:42.743,25
+2014,3,Bahrain Grand Prix,2014-04-06,Rosberg,Mercedes,2,1,57,Finished,+1.085,18
+2014,3,Bahrain Grand Prix,2014-04-06,Pérez,Force India,3,4,57,Finished,+24.067,15
+2014,3,Bahrain Grand Prix,2014-04-06,Ricciardo,Red Bull,4,13,57,Finished,+24.489,12
+2014,3,Bahrain Grand Prix,2014-04-06,Hülkenberg,Force India,5,11,57,Finished,+28.654,10
+2014,3,Bahrain Grand Prix,2014-04-06,Vettel,Red Bull,6,10,57,Finished,+29.879,8
+2014,3,Bahrain Grand Prix,2014-04-06,Massa,Williams,7,7,57,Finished,+31.265,6
+2014,3,Bahrain Grand Prix,2014-04-06,Bottas,Williams,8,3,57,Finished,+31.876,4
+2014,3,Bahrain Grand Prix,2014-04-06,Alonso,Ferrari,9,9,57,Finished,+32.595,2
+2014,3,Bahrain Grand Prix,2014-04-06,Räikkönen,Ferrari,10,5,57,Finished,+33.462,1
+2014,3,Bahrain Grand Prix,2014-04-06,Kvyat,Toro Rosso,11,12,57,Finished,+41.342,0
+2014,3,Bahrain Grand Prix,2014-04-06,Grosjean,Lotus F1,12,16,57,Finished,+43.143,0
+2014,3,Bahrain Grand Prix,2014-04-06,Chilton,Marussia,13,21,57,Finished,+59.909,0
+2014,3,Bahrain Grand Prix,2014-04-06,Maldonado,Lotus F1,14,17,57,Finished,+1:02.803,0
+2014,3,Bahrain Grand Prix,2014-04-06,Kobayashi,Caterham,15,18,57,Finished,+1:27.900,0
+2014,3,Bahrain Grand Prix,2014-04-06,Bianchi,Marussia,16,19,56,+1 Lap,,0
+2014,3,Bahrain Grand Prix,2014-04-06,Button,McLaren,17,6,55,Clutch,,0
+2014,3,Bahrain Grand Prix,2014-04-06,Magnussen,McLaren,18,8,40,Clutch,,0
+2014,3,Bahrain Grand Prix,2014-04-06,Gutiérrez,Sauber,19,15,39,Collision,,0
+2014,3,Bahrain Grand Prix,2014-04-06,Ericsson,Caterham,20,20,33,Retired,,0
+2014,3,Bahrain Grand Prix,2014-04-06,Vergne,Toro Rosso,21,14,18,Retired,,0
+2014,3,Bahrain Grand Prix,2014-04-06,Sutil,Sauber,22,22,17,Collision,,0
+2014,4,Chinese Grand Prix,2014-04-20,Hamilton,Mercedes,1,1,54,Finished,1:33:28.338,25
+2014,4,Chinese Grand Prix,2014-04-20,Rosberg,Mercedes,2,4,54,Finished,+18.062,18
+2014,4,Chinese Grand Prix,2014-04-20,Alonso,Ferrari,3,5,54,Finished,+23.604,15
+2014,4,Chinese Grand Prix,2014-04-20,Ricciardo,Red Bull,4,2,54,Finished,+27.136,12
+2014,4,Chinese Grand Prix,2014-04-20,Vettel,Red Bull,5,3,54,Finished,+47.778,10
+2014,4,Chinese Grand Prix,2014-04-20,Hülkenberg,Force India,6,8,54,Finished,+54.295,8
+2014,4,Chinese Grand Prix,2014-04-20,Bottas,Williams,7,7,54,Finished,+55.697,6
+2014,4,Chinese Grand Prix,2014-04-20,Räikkönen,Ferrari,8,11,54,Finished,+1:16.335,4
+2014,4,Chinese Grand Prix,2014-04-20,Pérez,Force India,9,16,54,Finished,+1:22.647,2
+2014,4,Chinese Grand Prix,2014-04-20,Kvyat,Toro Rosso,10,13,53,+1 Lap,,1
+2014,4,Chinese Grand Prix,2014-04-20,Button,McLaren,11,12,53,+1 Lap,,0
+2014,4,Chinese Grand Prix,2014-04-20,Vergne,Toro Rosso,12,9,53,+1 Lap,,0
+2014,4,Chinese Grand Prix,2014-04-20,Magnussen,McLaren,13,15,53,+1 Lap,,0
+2014,4,Chinese Grand Prix,2014-04-20,Maldonado,Lotus F1,14,22,53,+1 Lap,,0
+2014,4,Chinese Grand Prix,2014-04-20,Massa,Williams,15,6,53,+1 Lap,,0
+2014,4,Chinese Grand Prix,2014-04-20,Gutiérrez,Sauber,16,17,53,+1 Lap,,0
+2014,4,Chinese Grand Prix,2014-04-20,Bianchi,Marussia,17,19,53,+1 Lap,,0
+2014,4,Chinese Grand Prix,2014-04-20,Kobayashi,Caterham,18,18,53,+1 Lap,,0
+2014,4,Chinese Grand Prix,2014-04-20,Chilton,Marussia,19,21,52,+2 Laps,,0
+2014,4,Chinese Grand Prix,2014-04-20,Ericsson,Caterham,20,20,52,+2 Laps,,0
+2014,4,Chinese Grand Prix,2014-04-20,Grosjean,Lotus F1,21,10,28,Gearbox,,0
+2014,4,Chinese Grand Prix,2014-04-20,Sutil,Sauber,22,14,5,Engine,,0
+2014,5,Spanish Grand Prix,2014-05-11,Hamilton,Mercedes,1,1,66,Finished,1:41:05.155,25
+2014,5,Spanish Grand Prix,2014-05-11,Rosberg,Mercedes,2,2,66,Finished,+0.636,18
+2014,5,Spanish Grand Prix,2014-05-11,Ricciardo,Red Bull,3,3,66,Finished,+49.014,15
+2014,5,Spanish Grand Prix,2014-05-11,Vettel,Red Bull,4,15,66,Finished,+1:16.702,12
+2014,5,Spanish Grand Prix,2014-05-11,Bottas,Williams,5,4,66,Finished,+1:19.293,10
+2014,5,Spanish Grand Prix,2014-05-11,Alonso,Ferrari,6,7,66,Finished,+1:27.743,8
+2014,5,Spanish Grand Prix,2014-05-11,Räikkönen,Ferrari,7,6,65,+1 Lap,,6
+2014,5,Spanish Grand Prix,2014-05-11,Grosjean,Lotus F1,8,5,65,+1 Lap,,4
+2014,5,Spanish Grand Prix,2014-05-11,Pérez,Force India,9,11,65,+1 Lap,,2
+2014,5,Spanish Grand Prix,2014-05-11,Hülkenberg,Force India,10,10,65,+1 Lap,,1
+2014,5,Spanish Grand Prix,2014-05-11,Button,McLaren,11,8,65,+1 Lap,,0
+2014,5,Spanish Grand Prix,2014-05-11,Magnussen,McLaren,12,14,65,+1 Lap,,0
+2014,5,Spanish Grand Prix,2014-05-11,Massa,Williams,13,9,65,+1 Lap,,0
+2014,5,Spanish Grand Prix,2014-05-11,Kvyat,Toro Rosso,14,12,65,+1 Lap,,0
+2014,5,Spanish Grand Prix,2014-05-11,Maldonado,Lotus F1,15,22,65,+1 Lap,,0
+2014,5,Spanish Grand Prix,2014-05-11,Gutiérrez,Sauber,16,13,65,+1 Lap,,0
+2014,5,Spanish Grand Prix,2014-05-11,Sutil,Sauber,17,16,65,+1 Lap,,0
+2014,5,Spanish Grand Prix,2014-05-11,Bianchi,Marussia,18,18,64,+2 Laps,,0
+2014,5,Spanish Grand Prix,2014-05-11,Chilton,Marussia,19,17,64,+2 Laps,,0
+2014,5,Spanish Grand Prix,2014-05-11,Ericsson,Caterham,20,19,64,+2 Laps,,0
+2014,5,Spanish Grand Prix,2014-05-11,Kobayashi,Caterham,21,20,34,Brakes,,0
+2014,5,Spanish Grand Prix,2014-05-11,Vergne,Toro Rosso,22,21,24,Exhaust,,0
+2014,6,Monaco Grand Prix,2014-05-25,Rosberg,Mercedes,1,1,78,Finished,1:49:27.661,25
+2014,6,Monaco Grand Prix,2014-05-25,Hamilton,Mercedes,2,2,78,Finished,+9.210,18
+2014,6,Monaco Grand Prix,2014-05-25,Ricciardo,Red Bull,3,3,78,Finished,+9.614,15
+2014,6,Monaco Grand Prix,2014-05-25,Alonso,Ferrari,4,5,78,Finished,+32.452,12
+2014,6,Monaco Grand Prix,2014-05-25,Hülkenberg,Force India,5,11,77,+1 Lap,,10
+2014,6,Monaco Grand Prix,2014-05-25,Button,McLaren,6,12,77,+1 Lap,,8
+2014,6,Monaco Grand Prix,2014-05-25,Massa,Williams,7,16,77,+1 Lap,,6
+2014,6,Monaco Grand Prix,2014-05-25,Grosjean,Lotus F1,8,14,77,+1 Lap,,4
+2014,6,Monaco Grand Prix,2014-05-25,Bianchi,Marussia,9,21,77,+1 Lap,,2
+2014,6,Monaco Grand Prix,2014-05-25,Magnussen,McLaren,10,8,77,+1 Lap,,1
+2014,6,Monaco Grand Prix,2014-05-25,Ericsson,Caterham,11,22,77,+1 Lap,,0
+2014,6,Monaco Grand Prix,2014-05-25,Räikkönen,Ferrari,12,6,77,+1 Lap,,0
+2014,6,Monaco Grand Prix,2014-05-25,Kobayashi,Caterham,13,20,75,+2 Laps,,0
+2014,6,Monaco Grand Prix,2014-05-25,Chilton,Marussia,14,19,75,+3 Laps,,0
+2014,6,Monaco Grand Prix,2014-05-25,Gutiérrez,Sauber,15,17,59,Accident,,0
+2014,6,Monaco Grand Prix,2014-05-25,Bottas,Williams,16,13,55,Engine,,0
+2014,6,Monaco Grand Prix,2014-05-25,Vergne,Toro Rosso,17,7,50,Engine,,0
+2014,6,Monaco Grand Prix,2014-05-25,Sutil,Sauber,18,18,23,Accident,,0
+2014,6,Monaco Grand Prix,2014-05-25,Kvyat,Toro Rosso,19,9,10,Mechanical,,0
+2014,6,Monaco Grand Prix,2014-05-25,Vettel,Red Bull,20,4,5,Turbo,,0
+2014,6,Monaco Grand Prix,2014-05-25,Pérez,Force India,21,10,0,Collision,,0
+2014,6,Monaco Grand Prix,2014-05-25,Maldonado,Lotus F1,22,15,0,Withdrew,,0
+2014,7,Canadian Grand Prix,2014-06-08,Ricciardo,Red Bull,1,6,70,Finished,1:39:12.830,25
+2014,7,Canadian Grand Prix,2014-06-08,Rosberg,Mercedes,2,1,70,Finished,+4.236,18
+2014,7,Canadian Grand Prix,2014-06-08,Vettel,Red Bull,3,3,70,Finished,+5.247,15
+2014,7,Canadian Grand Prix,2014-06-08,Button,McLaren,4,9,70,Finished,+11.755,12
+2014,7,Canadian Grand Prix,2014-06-08,Hülkenberg,Force India,5,11,70,Finished,+12.843,10
+2014,7,Canadian Grand Prix,2014-06-08,Alonso,Ferrari,6,7,70,Finished,+14.869,8
+2014,7,Canadian Grand Prix,2014-06-08,Bottas,Williams,7,4,70,Finished,+23.578,6
+2014,7,Canadian Grand Prix,2014-06-08,Vergne,Toro Rosso,8,8,70,Finished,+28.026,4
+2014,7,Canadian Grand Prix,2014-06-08,Magnussen,McLaren,9,12,70,Finished,+29.254,2
+2014,7,Canadian Grand Prix,2014-06-08,Räikkönen,Ferrari,10,10,70,Finished,+53.678,1
+2014,7,Canadian Grand Prix,2014-06-08,Pérez,Force India,11,13,69,Collision,,0
+2014,7,Canadian Grand Prix,2014-06-08,Massa,Williams,12,5,69,Collision,,0
+2014,7,Canadian Grand Prix,2014-06-08,Sutil,Sauber,13,16,69,+1 Lap,,0
+2014,7,Canadian Grand Prix,2014-06-08,Gutiérrez,Sauber,14,22,64,ERS,,0
+2014,7,Canadian Grand Prix,2014-06-08,Grosjean,Lotus F1,15,14,59,Rear wing,,0
+2014,7,Canadian Grand Prix,2014-06-08,Kvyat,Toro Rosso,16,15,47,Drivetrain,,0
+2014,7,Canadian Grand Prix,2014-06-08,Hamilton,Mercedes,17,2,46,Brakes,,0
+2014,7,Canadian Grand Prix,2014-06-08,Kobayashi,Caterham,18,21,23,Suspension,,0
+2014,7,Canadian Grand Prix,2014-06-08,Maldonado,Lotus F1,19,17,21,Power Unit,,0
+2014,7,Canadian Grand Prix,2014-06-08,Ericsson,Caterham,20,20,7,Turbo,,0
+2014,7,Canadian Grand Prix,2014-06-08,Chilton,Marussia,21,18,0,Collision,,0
+2014,7,Canadian Grand Prix,2014-06-08,Bianchi,Marussia,22,19,0,Collision,,0
+2014,8,Austrian Grand Prix,2014-06-22,Rosberg,Mercedes,1,3,71,Finished,1:27:54.976,25
+2014,8,Austrian Grand Prix,2014-06-22,Hamilton,Mercedes,2,9,71,Finished,+1.932,18
+2014,8,Austrian Grand Prix,2014-06-22,Bottas,Williams,3,2,71,Finished,+8.172,15
+2014,8,Austrian Grand Prix,2014-06-22,Massa,Williams,4,1,71,Finished,+17.358,12
+2014,8,Austrian Grand Prix,2014-06-22,Alonso,Ferrari,5,4,71,Finished,+18.553,10
+2014,8,Austrian Grand Prix,2014-06-22,Pérez,Force India,6,15,71,Finished,+28.546,8
+2014,8,Austrian Grand Prix,2014-06-22,Magnussen,McLaren,7,6,71,Finished,+32.031,6
+2014,8,Austrian Grand Prix,2014-06-22,Ricciardo,Red Bull,8,5,71,Finished,+43.522,4
+2014,8,Austrian Grand Prix,2014-06-22,Hülkenberg,Force India,9,10,71,Finished,+44.137,2
+2014,8,Austrian Grand Prix,2014-06-22,Räikkönen,Ferrari,10,8,71,Finished,+47.777,1
+2014,8,Austrian Grand Prix,2014-06-22,Button,McLaren,11,11,71,Finished,+50.966,0
+2014,8,Austrian Grand Prix,2014-06-22,Maldonado,Lotus F1,12,13,70,+1 Lap,,0
+2014,8,Austrian Grand Prix,2014-06-22,Sutil,Sauber,13,16,70,+1 Lap,,0
+2014,8,Austrian Grand Prix,2014-06-22,Grosjean,Lotus F1,14,22,70,+1 Lap,,0
+2014,8,Austrian Grand Prix,2014-06-22,Bianchi,Marussia,15,18,69,+2 Laps,,0
+2014,8,Austrian Grand Prix,2014-06-22,Kobayashi,Caterham,16,19,69,+2 Laps,,0
+2014,8,Austrian Grand Prix,2014-06-22,Chilton,Marussia,17,21,69,+2 Laps,,0
+2014,8,Austrian Grand Prix,2014-06-22,Ericsson,Caterham,18,20,69,+2 Laps,,0
+2014,8,Austrian Grand Prix,2014-06-22,Gutiérrez,Sauber,19,17,69,+2 Laps,,0
+2014,8,Austrian Grand Prix,2014-06-22,Vergne,Toro Rosso,20,14,59,Brakes,,0
+2014,8,Austrian Grand Prix,2014-06-22,Vettel,Red Bull,21,12,34,Electrical,,0
+2014,8,Austrian Grand Prix,2014-06-22,Kvyat,Toro Rosso,22,7,24,Suspension,,0
+2014,9,British Grand Prix,2014-07-06,Hamilton,Mercedes,1,6,52,Finished,2:26:52.094,25
+2014,9,British Grand Prix,2014-07-06,Bottas,Williams,2,14,52,Finished,+30.135,18
+2014,9,British Grand Prix,2014-07-06,Ricciardo,Red Bull,3,8,52,Finished,+46.495,15
+2014,9,British Grand Prix,2014-07-06,Button,McLaren,4,3,52,Finished,+47.390,12
+2014,9,British Grand Prix,2014-07-06,Vettel,Red Bull,5,2,52,Finished,+53.864,10
+2014,9,British Grand Prix,2014-07-06,Alonso,Ferrari,6,16,52,Finished,+59.946,8
+2014,9,British Grand Prix,2014-07-06,Magnussen,McLaren,7,5,52,Finished,+1:02.563,6
+2014,9,British Grand Prix,2014-07-06,Hülkenberg,Force India,8,4,52,Finished,+1:28.692,4
+2014,9,British Grand Prix,2014-07-06,Kvyat,Toro Rosso,9,9,52,Finished,+1:29.340,2
+2014,9,British Grand Prix,2014-07-06,Vergne,Toro Rosso,10,10,51,+1 Lap,,1
+2014,9,British Grand Prix,2014-07-06,Pérez,Force India,11,7,51,+1 Lap,,0
+2014,9,British Grand Prix,2014-07-06,Grosjean,Lotus F1,12,11,51,+1 Lap,,0
+2014,9,British Grand Prix,2014-07-06,Sutil,Sauber,13,13,51,+1 Lap,,0
+2014,9,British Grand Prix,2014-07-06,Bianchi,Marussia,14,12,51,+1 Lap,,0
+2014,9,British Grand Prix,2014-07-06,Kobayashi,Caterham,15,22,50,+2 Laps,,0
+2014,9,British Grand Prix,2014-07-06,Chilton,Marussia,16,17,50,+2 Laps,,0
+2014,9,British Grand Prix,2014-07-06,Maldonado,Lotus F1,17,20,49,+3 Laps,,0
+2014,9,British Grand Prix,2014-07-06,Rosberg,Mercedes,18,1,28,Gearbox,,0
+2014,9,British Grand Prix,2014-07-06,Ericsson,Caterham,19,21,11,Suspension,,0
+2014,9,British Grand Prix,2014-07-06,Gutiérrez,Sauber,20,19,9,Collision,,0
+2014,9,British Grand Prix,2014-07-06,Massa,Williams,21,15,0,Collision,,0
+2014,9,British Grand Prix,2014-07-06,Räikkönen,Ferrari,22,18,0,Collision,,0
+2014,10,German Grand Prix,2014-07-20,Rosberg,Mercedes,1,1,67,Finished,1:33:42.914,25
+2014,10,German Grand Prix,2014-07-20,Bottas,Williams,2,2,67,Finished,+20.789,18
+2014,10,German Grand Prix,2014-07-20,Hamilton,Mercedes,3,20,67,Finished,+22.530,15
+2014,10,German Grand Prix,2014-07-20,Vettel,Red Bull,4,6,67,Finished,+44.014,12
+2014,10,German Grand Prix,2014-07-20,Alonso,Ferrari,5,7,67,Finished,+52.467,10
+2014,10,German Grand Prix,2014-07-20,Ricciardo,Red Bull,6,5,67,Finished,+52.549,8
+2014,10,German Grand Prix,2014-07-20,Hülkenberg,Force India,7,9,67,Finished,+1:04.178,6
+2014,10,German Grand Prix,2014-07-20,Button,McLaren,8,11,67,Finished,+1:24.711,4
+2014,10,German Grand Prix,2014-07-20,Magnussen,McLaren,9,4,66,+1 Lap,,2
+2014,10,German Grand Prix,2014-07-20,Pérez,Force India,10,10,66,+1 Lap,,1
+2014,10,German Grand Prix,2014-07-20,Räikkönen,Ferrari,11,12,66,+1 Lap,,0
+2014,10,German Grand Prix,2014-07-20,Maldonado,Lotus F1,12,18,66,+1 Lap,,0
+2014,10,German Grand Prix,2014-07-20,Vergne,Toro Rosso,13,13,66,+1 Lap,,0
+2014,10,German Grand Prix,2014-07-20,Gutiérrez,Sauber,14,16,66,+1 Lap,,0
+2014,10,German Grand Prix,2014-07-20,Bianchi,Marussia,15,17,66,+1 Lap,,0
+2014,10,German Grand Prix,2014-07-20,Kobayashi,Caterham,16,19,65,+2 Laps,,0
+2014,10,German Grand Prix,2014-07-20,Chilton,Marussia,17,21,65,+2 Laps,,0
+2014,10,German Grand Prix,2014-07-20,Ericsson,Caterham,18,22,65,+2 Laps,,0
+2014,10,German Grand Prix,2014-07-20,Sutil,Sauber,19,15,47,Brakes,,0
+2014,10,German Grand Prix,2014-07-20,Kvyat,Toro Rosso,20,8,44,Oil leak,,0
+2014,10,German Grand Prix,2014-07-20,Grosjean,Lotus F1,21,14,26,Water leak,,0
+2014,10,German Grand Prix,2014-07-20,Massa,Williams,22,3,0,Collision,,0
+2014,11,Hungarian Grand Prix,2014-07-27,Ricciardo,Red Bull,1,4,70,Finished,1:53:05.058,25
+2014,11,Hungarian Grand Prix,2014-07-27,Alonso,Ferrari,2,5,70,Finished,+5.225,18
+2014,11,Hungarian Grand Prix,2014-07-27,Hamilton,Mercedes,3,22,70,Finished,+5.857,15
+2014,11,Hungarian Grand Prix,2014-07-27,Rosberg,Mercedes,4,1,70,Finished,+6.361,12
+2014,11,Hungarian Grand Prix,2014-07-27,Massa,Williams,5,6,70,Finished,+29.841,10
+2014,11,Hungarian Grand Prix,2014-07-27,Räikkönen,Ferrari,6,16,70,Finished,+31.491,8
+2014,11,Hungarian Grand Prix,2014-07-27,Vettel,Red Bull,7,2,70,Finished,+40.964,6
+2014,11,Hungarian Grand Prix,2014-07-27,Bottas,Williams,8,3,70,Finished,+41.344,4
+2014,11,Hungarian Grand Prix,2014-07-27,Vergne,Toro Rosso,9,8,70,Finished,+58.527,2
+2014,11,Hungarian Grand Prix,2014-07-27,Button,McLaren,10,7,70,Finished,+1:07.280,1
+2014,11,Hungarian Grand Prix,2014-07-27,Sutil,Sauber,11,11,70,Finished,+1:08.169,0
+2014,11,Hungarian Grand Prix,2014-07-27,Magnussen,McLaren,12,21,70,Finished,+1:18.465,0
+2014,11,Hungarian Grand Prix,2014-07-27,Maldonado,Lotus F1,13,20,70,Finished,+1:24.024,0
+2014,11,Hungarian Grand Prix,2014-07-27,Kvyat,Toro Rosso,14,10,69,+1 Lap,,0
+2014,11,Hungarian Grand Prix,2014-07-27,Bianchi,Marussia,15,15,69,+1 Lap,,0
+2014,11,Hungarian Grand Prix,2014-07-27,Chilton,Marussia,16,18,69,+1 Lap,,0
+2014,11,Hungarian Grand Prix,2014-07-27,Gutiérrez,Sauber,17,13,33,Retired,,0
+2014,11,Hungarian Grand Prix,2014-07-27,Kobayashi,Caterham,18,17,26,Retired,,0
+2014,11,Hungarian Grand Prix,2014-07-27,Pérez,Force India,19,12,23,Accident,,0
+2014,11,Hungarian Grand Prix,2014-07-27,Hülkenberg,Force India,20,9,16,Accident,,0
+2014,11,Hungarian Grand Prix,2014-07-27,Grosjean,Lotus F1,21,14,11,Accident,,0
+2014,11,Hungarian Grand Prix,2014-07-27,Ericsson,Caterham,22,19,8,Accident,,0
+2014,12,Belgian Grand Prix,2014-08-24,Ricciardo,Red Bull,1,5,44,Finished,1:24:36.556,25
+2014,12,Belgian Grand Prix,2014-08-24,Rosberg,Mercedes,2,1,44,Finished,+3.383,18
+2014,12,Belgian Grand Prix,2014-08-24,Bottas,Williams,3,6,44,Finished,+28.032,15
+2014,12,Belgian Grand Prix,2014-08-24,Räikkönen,Ferrari,4,8,44,Finished,+36.815,12
+2014,12,Belgian Grand Prix,2014-08-24,Vettel,Red Bull,5,3,44,Finished,+52.196,10
+2014,12,Belgian Grand Prix,2014-08-24,Button,McLaren,6,10,44,Finished,+54.580,8
+2014,12,Belgian Grand Prix,2014-08-24,Alonso,Ferrari,7,4,44,Finished,+1:01.162,6
+2014,12,Belgian Grand Prix,2014-08-24,Pérez,Force India,8,13,44,Finished,+1:04.293,4
+2014,12,Belgian Grand Prix,2014-08-24,Kvyat,Toro Rosso,9,11,44,Finished,+1:05.347,2
+2014,12,Belgian Grand Prix,2014-08-24,Hülkenberg,Force India,10,18,44,Finished,+1:05.697,1
+2014,12,Belgian Grand Prix,2014-08-24,Vergne,Toro Rosso,11,12,44,Finished,+1:11.920,0
+2014,12,Belgian Grand Prix,2014-08-24,Magnussen,McLaren,12,7,44,Finished,+1:14.262,0
+2014,12,Belgian Grand Prix,2014-08-24,Massa,Williams,13,9,44,Finished,+1:15.975,0
+2014,12,Belgian Grand Prix,2014-08-24,Sutil,Sauber,14,14,44,Finished,+1:22.447,0
+2014,12,Belgian Grand Prix,2014-08-24,Gutiérrez,Sauber,15,20,44,Finished,+1:30.825,0
+2014,12,Belgian Grand Prix,2014-08-24,Chilton,Marussia,16,19,43,+1 Lap,,0
+2014,12,Belgian Grand Prix,2014-08-24,Ericsson,Caterham,17,22,43,+1 Lap,,0
+2014,12,Belgian Grand Prix,2014-08-24,Bianchi,Marussia,18,16,39,Gearbox,,0
+2014,12,Belgian Grand Prix,2014-08-24,Hamilton,Mercedes,19,2,38,Retired,,0
+2014,12,Belgian Grand Prix,2014-08-24,Grosjean,Lotus F1,20,15,33,Retired,,0
+2014,12,Belgian Grand Prix,2014-08-24,Maldonado,Lotus F1,21,17,1,Mechanical,,0
+2014,12,Belgian Grand Prix,2014-08-24,Lotterer,Caterham,22,21,1,Power Unit,,0
+2014,13,Italian Grand Prix,2014-09-07,Hamilton,Mercedes,1,1,53,Finished,1:19:10.236,25
+2014,13,Italian Grand Prix,2014-09-07,Rosberg,Mercedes,2,2,53,Finished,+3.175,18
+2014,13,Italian Grand Prix,2014-09-07,Massa,Williams,3,4,53,Finished,+25.026,15
+2014,13,Italian Grand Prix,2014-09-07,Bottas,Williams,4,3,53,Finished,+40.786,12
+2014,13,Italian Grand Prix,2014-09-07,Ricciardo,Red Bull,5,9,53,Finished,+50.309,10
+2014,13,Italian Grand Prix,2014-09-07,Vettel,Red Bull,6,8,53,Finished,+59.965,8
+2014,13,Italian Grand Prix,2014-09-07,Pérez,Force India,7,10,53,Finished,+1:02.518,6
+2014,13,Italian Grand Prix,2014-09-07,Button,McLaren,8,6,53,Finished,+1:03.063,4
+2014,13,Italian Grand Prix,2014-09-07,Räikkönen,Ferrari,9,11,53,Finished,+1:03.535,2
+2014,13,Italian Grand Prix,2014-09-07,Magnussen,McLaren,10,5,53,Finished,+1:06.171,1
+2014,13,Italian Grand Prix,2014-09-07,Kvyat,Toro Rosso,11,21,53,Finished,+1:11.184,0
+2014,13,Italian Grand Prix,2014-09-07,Hülkenberg,Force India,12,13,53,Finished,+1:12.606,0
+2014,13,Italian Grand Prix,2014-09-07,Vergne,Toro Rosso,13,12,53,Finished,+1:13.093,0
+2014,13,Italian Grand Prix,2014-09-07,Maldonado,Lotus F1,14,16,52,+1 Lap,,0
+2014,13,Italian Grand Prix,2014-09-07,Sutil,Sauber,15,14,52,+1 Lap,,0
+2014,13,Italian Grand Prix,2014-09-07,Grosjean,Lotus F1,16,17,52,+1 Lap,,0
+2014,13,Italian Grand Prix,2014-09-07,Kobayashi,Caterham,17,18,52,+1 Lap,,0
+2014,13,Italian Grand Prix,2014-09-07,Bianchi,Marussia,18,19,52,+1 Lap,,0
+2014,13,Italian Grand Prix,2014-09-07,Gutiérrez,Sauber,19,15,51,+2 Laps,,0
+2014,13,Italian Grand Prix,2014-09-07,Ericsson,Caterham,20,22,51,+2 Laps,,0
+2014,13,Italian Grand Prix,2014-09-07,Alonso,Ferrari,21,7,28,Engine,,0
+2014,13,Italian Grand Prix,2014-09-07,Chilton,Marussia,22,20,5,Accident,,0
+2014,14,Singapore Grand Prix,2014-09-21,Hamilton,Mercedes,1,1,60,Finished,2:00:04.795,25
+2014,14,Singapore Grand Prix,2014-09-21,Vettel,Red Bull,2,4,60,Finished,+13.534,18
+2014,14,Singapore Grand Prix,2014-09-21,Ricciardo,Red Bull,3,3,60,Finished,+14.273,15
+2014,14,Singapore Grand Prix,2014-09-21,Alonso,Ferrari,4,5,60,Finished,+15.389,12
+2014,14,Singapore Grand Prix,2014-09-21,Massa,Williams,5,6,60,Finished,+42.161,10
+2014,14,Singapore Grand Prix,2014-09-21,Vergne,Toro Rosso,6,12,60,Finished,+56.801,8
+2014,14,Singapore Grand Prix,2014-09-21,Pérez,Force India,7,15,60,Finished,+59.038,6
+2014,14,Singapore Grand Prix,2014-09-21,Räikkönen,Ferrari,8,7,60,Finished,+1:00.641,4
+2014,14,Singapore Grand Prix,2014-09-21,Hülkenberg,Force India,9,13,60,Finished,+1:01.661,2
+2014,14,Singapore Grand Prix,2014-09-21,Magnussen,McLaren,10,9,60,Finished,+1:02.230,1
+2014,14,Singapore Grand Prix,2014-09-21,Bottas,Williams,11,8,60,Finished,+1:05.065,0
+2014,14,Singapore Grand Prix,2014-09-21,Maldonado,Lotus F1,12,18,60,Finished,+1:06.915,0
+2014,14,Singapore Grand Prix,2014-09-21,Grosjean,Lotus F1,13,16,60,Finished,+1:08.029,0
+2014,14,Singapore Grand Prix,2014-09-21,Kvyat,Toro Rosso,14,10,60,Finished,+1:12.008,0
+2014,14,Singapore Grand Prix,2014-09-21,Ericsson,Caterham,15,22,60,Finished,+1:34.188,0
+2014,14,Singapore Grand Prix,2014-09-21,Bianchi,Marussia,16,19,60,Finished,+1:34.543,0
+2014,14,Singapore Grand Prix,2014-09-21,Chilton,Marussia,17,21,59,+1 Lap,,0
+2014,14,Singapore Grand Prix,2014-09-21,Button,McLaren,18,11,52,Retired,,0
+2014,14,Singapore Grand Prix,2014-09-21,Sutil,Sauber,19,17,40,Water pressure,,0
+2014,14,Singapore Grand Prix,2014-09-21,Gutiérrez,Sauber,20,14,17,Electrical,,0
+2014,14,Singapore Grand Prix,2014-09-21,Rosberg,Mercedes,21,2,13,Electrical,,0
+2014,14,Singapore Grand Prix,2014-09-21,Kobayashi,Caterham,22,20,0,Power Unit,,0
+2014,15,Japanese Grand Prix,2014-10-05,Hamilton,Mercedes,1,2,44,Finished,1:51:43.021,25
+2014,15,Japanese Grand Prix,2014-10-05,Rosberg,Mercedes,2,1,44,Finished,+9.180,18
+2014,15,Japanese Grand Prix,2014-10-05,Vettel,Red Bull,3,9,44,Finished,+29.122,15
+2014,15,Japanese Grand Prix,2014-10-05,Ricciardo,Red Bull,4,6,44,Finished,+38.818,12
+2014,15,Japanese Grand Prix,2014-10-05,Button,McLaren,5,8,44,Finished,+1:07.550,10
+2014,15,Japanese Grand Prix,2014-10-05,Bottas,Williams,6,3,44,Finished,+1:53.773,8
+2014,15,Japanese Grand Prix,2014-10-05,Massa,Williams,7,4,44,Finished,+1:55.126,6
+2014,15,Japanese Grand Prix,2014-10-05,Hülkenberg,Force India,8,13,44,Finished,+1:55.948,4
+2014,15,Japanese Grand Prix,2014-10-05,Vergne,Toro Rosso,9,20,44,Finished,+2:07.638,2
+2014,15,Japanese Grand Prix,2014-10-05,Pérez,Force India,10,11,43,+1 Lap,,1
+2014,15,Japanese Grand Prix,2014-10-05,Kvyat,Toro Rosso,11,12,43,+1 Lap,,0
+2014,15,Japanese Grand Prix,2014-10-05,Räikkönen,Ferrari,12,10,43,+1 Lap,,0
+2014,15,Japanese Grand Prix,2014-10-05,Gutiérrez,Sauber,13,15,43,+1 Lap,,0
+2014,15,Japanese Grand Prix,2014-10-05,Magnussen,McLaren,14,7,43,+1 Lap,,0
+2014,15,Japanese Grand Prix,2014-10-05,Grosjean,Lotus F1,15,16,43,+1 Lap,,0
+2014,15,Japanese Grand Prix,2014-10-05,Maldonado,Lotus F1,16,22,43,+1 Lap,,0
+2014,15,Japanese Grand Prix,2014-10-05,Ericsson,Caterham,17,17,43,+1 Lap,,0
+2014,15,Japanese Grand Prix,2014-10-05,Chilton,Marussia,18,21,43,+1 Lap,,0
+2014,15,Japanese Grand Prix,2014-10-05,Kobayashi,Caterham,19,19,43,+1 Lap,,0
+2014,15,Japanese Grand Prix,2014-10-05,Bianchi,Marussia,20,18,41,Accident,,0
+2014,15,Japanese Grand Prix,2014-10-05,Sutil,Sauber,21,14,40,Accident,,0
+2014,15,Japanese Grand Prix,2014-10-05,Alonso,Ferrari,22,5,2,Electronics,,0
+2014,16,Russian Grand Prix,2014-10-12,Hamilton,Mercedes,1,1,53,Finished,1:31:50.744,25
+2014,16,Russian Grand Prix,2014-10-12,Rosberg,Mercedes,2,2,53,Finished,+13.657,18
+2014,16,Russian Grand Prix,2014-10-12,Bottas,Williams,3,3,53,Finished,+17.425,15
+2014,16,Russian Grand Prix,2014-10-12,Button,McLaren,4,4,53,Finished,+30.234,12
+2014,16,Russian Grand Prix,2014-10-12,Magnussen,McLaren,5,11,53,Finished,+53.616,10
+2014,16,Russian Grand Prix,2014-10-12,Alonso,Ferrari,6,7,53,Finished,+1:00.016,8
+2014,16,Russian Grand Prix,2014-10-12,Ricciardo,Red Bull,7,6,53,Finished,+1:01.812,6
+2014,16,Russian Grand Prix,2014-10-12,Vettel,Red Bull,8,10,53,Finished,+1:06.185,4
+2014,16,Russian Grand Prix,2014-10-12,Räikkönen,Ferrari,9,8,53,Finished,+1:18.877,2
+2014,16,Russian Grand Prix,2014-10-12,Pérez,Force India,10,12,53,Finished,+1:20.067,1
+2014,16,Russian Grand Prix,2014-10-12,Massa,Williams,11,18,53,Finished,+1:20.877,0
+2014,16,Russian Grand Prix,2014-10-12,Hülkenberg,Force India,12,17,53,Finished,+1:21.309,0
+2014,16,Russian Grand Prix,2014-10-12,Vergne,Toro Rosso,13,9,53,Finished,+1:37.295,0
+2014,16,Russian Grand Prix,2014-10-12,Kvyat,Toro Rosso,14,5,52,+1 Lap,,0
+2014,16,Russian Grand Prix,2014-10-12,Gutiérrez,Sauber,15,13,52,+1 Lap,,0
+2014,16,Russian Grand Prix,2014-10-12,Sutil,Sauber,16,14,52,+1 Lap,,0
+2014,16,Russian Grand Prix,2014-10-12,Grosjean,Lotus F1,17,15,52,+1 Lap,,0
+2014,16,Russian Grand Prix,2014-10-12,Maldonado,Lotus F1,18,21,52,+1 Lap,,0
+2014,16,Russian Grand Prix,2014-10-12,Ericsson,Caterham,19,16,51,+2 Laps,,0
+2014,16,Russian Grand Prix,2014-10-12,Kobayashi,Caterham,20,19,21,Brakes,,0
+2014,16,Russian Grand Prix,2014-10-12,Chilton,Marussia,21,20,9,Suspension,,0
+2014,17,United States Grand Prix,2014-11-02,Hamilton,Mercedes,1,2,56,Finished,1:40:04.785,25
+2014,17,United States Grand Prix,2014-11-02,Rosberg,Mercedes,2,1,56,Finished,+4.314,18
+2014,17,United States Grand Prix,2014-11-02,Ricciardo,Red Bull,3,5,56,Finished,+25.560,15
+2014,17,United States Grand Prix,2014-11-02,Massa,Williams,4,4,56,Finished,+26.924,12
+2014,17,United States Grand Prix,2014-11-02,Bottas,Williams,5,3,56,Finished,+30.992,10
+2014,17,United States Grand Prix,2014-11-02,Alonso,Ferrari,6,6,56,Finished,+1:35.231,8
+2014,17,United States Grand Prix,2014-11-02,Vettel,Red Bull,7,18,56,Finished,+1:35.734,6
+2014,17,United States Grand Prix,2014-11-02,Magnussen,McLaren,8,7,56,Finished,+1:40.682,4
+2014,17,United States Grand Prix,2014-11-02,Maldonado,Lotus F1,9,10,56,Finished,+1:47.870,2
+2014,17,United States Grand Prix,2014-11-02,Vergne,Toro Rosso,10,14,56,Finished,+1:48.863,1
+2014,17,United States Grand Prix,2014-11-02,Grosjean,Lotus F1,11,16,55,+1 Lap,,0
+2014,17,United States Grand Prix,2014-11-02,Button,McLaren,12,12,55,+1 Lap,,0
+2014,17,United States Grand Prix,2014-11-02,Räikkönen,Ferrari,13,8,55,+1 Lap,,0
+2014,17,United States Grand Prix,2014-11-02,Gutiérrez,Sauber,14,15,55,+1 Lap,,0
+2014,17,United States Grand Prix,2014-11-02,Kvyat,Toro Rosso,15,17,55,+1 Lap,,0
+2014,17,United States Grand Prix,2014-11-02,Hülkenberg,Force India,16,13,16,Engine,,0
+2014,17,United States Grand Prix,2014-11-02,Pérez,Force India,17,11,1,Collision damage,,0
+2014,17,United States Grand Prix,2014-11-02,Sutil,Sauber,18,9,0,Collision,,0
+2014,18,Brazilian Grand Prix,2014-11-09,Rosberg,Mercedes,1,1,71,Finished,1:30:02.555,25
+2014,18,Brazilian Grand Prix,2014-11-09,Hamilton,Mercedes,2,2,71,Finished,+1.457,18
+2014,18,Brazilian Grand Prix,2014-11-09,Massa,Williams,3,3,71,Finished,+41.031,15
+2014,18,Brazilian Grand Prix,2014-11-09,Button,McLaren,4,5,71,Finished,+48.658,12
+2014,18,Brazilian Grand Prix,2014-11-09,Vettel,Red Bull,5,6,71,Finished,+51.420,10
+2014,18,Brazilian Grand Prix,2014-11-09,Alonso,Ferrari,6,8,71,Finished,+1:01.906,8
+2014,18,Brazilian Grand Prix,2014-11-09,Räikkönen,Ferrari,7,10,71,Finished,+1:03.730,6
+2014,18,Brazilian Grand Prix,2014-11-09,Hülkenberg,Force India,8,12,71,Finished,+1:03.934,4
+2014,18,Brazilian Grand Prix,2014-11-09,Magnussen,McLaren,9,7,71,Finished,+1:10.085,2
+2014,18,Brazilian Grand Prix,2014-11-09,Bottas,Williams,10,4,70,+1 Lap,,1
+2014,18,Brazilian Grand Prix,2014-11-09,Kvyat,Toro Rosso,11,17,70,+1 Lap,,0
+2014,18,Brazilian Grand Prix,2014-11-09,Maldonado,Lotus F1,12,16,70,+1 Lap,,0
+2014,18,Brazilian Grand Prix,2014-11-09,Vergne,Toro Rosso,13,15,70,+1 Lap,,0
+2014,18,Brazilian Grand Prix,2014-11-09,Gutiérrez,Sauber,14,11,70,+1 Lap,,0
+2014,18,Brazilian Grand Prix,2014-11-09,Pérez,Force India,15,18,70,+1 Lap,,0
+2014,18,Brazilian Grand Prix,2014-11-09,Sutil,Sauber,16,13,70,+1 Lap,,0
+2014,18,Brazilian Grand Prix,2014-11-09,Grosjean,Lotus F1,17,14,63,+8 Laps,,0
+2014,18,Brazilian Grand Prix,2014-11-09,Ricciardo,Red Bull,18,9,39,Suspension,,0
+2014,19,Abu Dhabi Grand Prix,2014-11-23,Hamilton,Mercedes,1,2,55,Finished,1:39:02.619,50
+2014,19,Abu Dhabi Grand Prix,2014-11-23,Massa,Williams,2,4,55,Finished,+2.576,36
+2014,19,Abu Dhabi Grand Prix,2014-11-23,Bottas,Williams,3,3,55,Finished,+28.880,30
+2014,19,Abu Dhabi Grand Prix,2014-11-23,Ricciardo,Red Bull,4,20,55,Finished,+37.237,24
+2014,19,Abu Dhabi Grand Prix,2014-11-23,Button,McLaren,5,6,55,Finished,+1:00.334,20
+2014,19,Abu Dhabi Grand Prix,2014-11-23,Hülkenberg,Force India,6,12,55,Finished,+1:02.148,16
+2014,19,Abu Dhabi Grand Prix,2014-11-23,Pérez,Force India,7,11,55,Finished,+1:11.060,12
+2014,19,Abu Dhabi Grand Prix,2014-11-23,Vettel,Red Bull,8,19,55,Finished,+1:12.045,8
+2014,19,Abu Dhabi Grand Prix,2014-11-23,Alonso,Ferrari,9,8,55,Finished,+1:25.813,4
+2014,19,Abu Dhabi Grand Prix,2014-11-23,Räikkönen,Ferrari,10,7,55,Finished,+1:27.820,2
+2014,19,Abu Dhabi Grand Prix,2014-11-23,Magnussen,McLaren,11,9,55,Finished,+1:30.376,0
+2014,19,Abu Dhabi Grand Prix,2014-11-23,Vergne,Toro Rosso,12,10,55,Finished,+1:31.947,0
+2014,19,Abu Dhabi Grand Prix,2014-11-23,Grosjean,Lotus F1,13,18,54,+1 Lap,,0
+2014,19,Abu Dhabi Grand Prix,2014-11-23,Rosberg,Mercedes,14,1,54,+1 Lap,,0
+2014,19,Abu Dhabi Grand Prix,2014-11-23,Gutiérrez,Sauber,15,14,54,+1 Lap,,0
+2014,19,Abu Dhabi Grand Prix,2014-11-23,Sutil,Sauber,16,13,54,+1 Lap,,0
+2014,19,Abu Dhabi Grand Prix,2014-11-23,Stevens,Caterham,17,17,54,+1 Lap,,0
+2014,19,Abu Dhabi Grand Prix,2014-11-23,Kobayashi,Caterham,18,16,42,Retired,,0
+2014,19,Abu Dhabi Grand Prix,2014-11-23,Maldonado,Lotus F1,19,15,26,Power Unit,,0
+2014,19,Abu Dhabi Grand Prix,2014-11-23,Kvyat,Toro Rosso,20,5,14,Power Unit,,0

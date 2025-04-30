@@ -1,0 +1,364 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1975,1,Argentine Grand Prix,1975-01-12,Fittipaldi,McLaren,1,5,53,Finished,1:39:26.29,9
+1975,1,Argentine Grand Prix,1975-01-12,Hunt,Hesketh,2,6,53,Finished,+5.91,6
+1975,1,Argentine Grand Prix,1975-01-12,Reutemann,Brabham,3,3,53,Finished,+17.06,4
+1975,1,Argentine Grand Prix,1975-01-12,Regazzoni,Ferrari,4,7,53,Finished,+35.79,3
+1975,1,Argentine Grand Prix,1975-01-12,Depailler,Tyrrell,5,8,53,Finished,+54.25,2
+1975,1,Argentine Grand Prix,1975-01-12,Lauda,Ferrari,6,4,53,Finished,+1:19.65,1
+1975,1,Argentine Grand Prix,1975-01-12,Donohue,Penske,7,16,52,+1 Lap,,0
+1975,1,Argentine Grand Prix,1975-01-12,Ickx,Team Lotus,8,18,52,+1 Lap,,0
+1975,1,Argentine Grand Prix,1975-01-12,Brambilla,March,9,12,52,+1 Lap,,0
+1975,1,Argentine Grand Prix,1975-01-12,Hill,Lola,10,21,52,+1 Lap,,0
+1975,1,Argentine Grand Prix,1975-01-12,Scheckter,Tyrrell,11,9,52,+1 Lap,,0
+1975,1,Argentine Grand Prix,1975-01-12,Pryce,Shadow-Ford,12,14,51,Transmission,,0
+1975,1,Argentine Grand Prix,1975-01-12,Stommelen,Lola,13,19,51,+2 Laps,,0
+1975,1,Argentine Grand Prix,1975-01-12,Mass,McLaren,14,13,50,+3 Laps,,0
+1975,1,Argentine Grand Prix,1975-01-12,Pace,Brabham,15,2,46,Engine,,0
+1975,1,Argentine Grand Prix,1975-01-12,Merzario,Williams,16,20,44,Not classified,,0
+1975,1,Argentine Grand Prix,1975-01-12,Andretti,Parnelli,17,10,27,Transmission,,0
+1975,1,Argentine Grand Prix,1975-01-12,Wilds,BRM,18,22,24,Engine,,0
+1975,1,Argentine Grand Prix,1975-01-12,Peterson,Team Lotus,19,11,15,Engine,,0
+1975,1,Argentine Grand Prix,1975-01-12,Laffite,Williams,20,17,15,Gearbox,,0
+1975,1,Argentine Grand Prix,1975-01-12,Fittipaldi,Fittipaldi,21,23,12,Accident,,0
+1975,1,Argentine Grand Prix,1975-01-12,Watson,Surtees,22,15,6,Disqualified,,0
+1975,1,Argentine Grand Prix,1975-01-12,Jarier,Shadow-Ford,23,1,0,Transmission,,0
+1975,2,Brazilian Grand Prix,1975-01-26,Pace,Brabham,1,6,40,Finished,1:44:41.17,9
+1975,2,Brazilian Grand Prix,1975-01-26,Fittipaldi,McLaren,2,2,40,Finished,+5.79,6
+1975,2,Brazilian Grand Prix,1975-01-26,Mass,McLaren,3,10,40,Finished,+26.66,4
+1975,2,Brazilian Grand Prix,1975-01-26,Regazzoni,Ferrari,4,5,40,Finished,+43.28,3
+1975,2,Brazilian Grand Prix,1975-01-26,Lauda,Ferrari,5,4,40,Finished,+1:01.88,2
+1975,2,Brazilian Grand Prix,1975-01-26,Hunt,Hesketh,6,7,40,Finished,+1:05.12,1
+1975,2,Brazilian Grand Prix,1975-01-26,Andretti,Parnelli,7,18,40,Finished,+1:06.81,0
+1975,2,Brazilian Grand Prix,1975-01-26,Reutemann,Brabham,8,3,40,Finished,+1:39.62,0
+1975,2,Brazilian Grand Prix,1975-01-26,Ickx,Team Lotus,9,12,40,Finished,+1:51.84,0
+1975,2,Brazilian Grand Prix,1975-01-26,Watson,Surtees,10,13,40,Finished,+2:29.60,0
+1975,2,Brazilian Grand Prix,1975-01-26,Laffite,Williams,11,11,39,+1 Lap,,0
+1975,2,Brazilian Grand Prix,1975-01-26,Hill,Lola,12,20,39,+1 Lap,,0
+1975,2,Brazilian Grand Prix,1975-01-26,Fittipaldi,Fittipaldi,13,21,39,+1 Lap,,0
+1975,2,Brazilian Grand Prix,1975-01-26,Stommelen,Lola,14,23,39,+1 Lap,,0
+1975,2,Brazilian Grand Prix,1975-01-26,Peterson,Team Lotus,15,16,38,+2 Laps,,0
+1975,2,Brazilian Grand Prix,1975-01-26,Jarier,Shadow-Ford,16,1,32,Fuel system,,0
+1975,2,Brazilian Grand Prix,1975-01-26,Depailler,Tyrrell,17,9,31,Suspension,,0
+1975,2,Brazilian Grand Prix,1975-01-26,Pryce,Shadow-Ford,18,14,31,Accident,,0
+1975,2,Brazilian Grand Prix,1975-01-26,Merzario,Williams,19,11,24,Fuel system,,0
+1975,2,Brazilian Grand Prix,1975-01-26,Donohue,Penske,20,15,22,Handling,,0
+1975,2,Brazilian Grand Prix,1975-01-26,Wilds,BRM,21,22,22,Electrical,,0
+1975,2,Brazilian Grand Prix,1975-01-26,Scheckter,Tyrrell,22,8,18,Oil leak,,0
+1975,2,Brazilian Grand Prix,1975-01-26,Brambilla,March,23,17,1,Engine,,0
+1975,3,South African Grand Prix,1975-03-01,Scheckter,Tyrrell,1,3,78,Finished,1:43:16.90,9
+1975,3,South African Grand Prix,1975-03-01,Reutemann,Brabham,2,2,78,Finished,+3.74,6
+1975,3,South African Grand Prix,1975-03-01,Depailler,Tyrrell,3,5,78,Finished,+16.92,4
+1975,3,South African Grand Prix,1975-03-01,Pace,Brabham,4,1,78,Finished,+17.31,3
+1975,3,South African Grand Prix,1975-03-01,Lauda,Ferrari,5,4,78,Finished,+28.64,2
+1975,3,South African Grand Prix,1975-03-01,Mass,McLaren,6,16,78,Finished,+1:03.64,1
+1975,3,South African Grand Prix,1975-03-01,Stommelen,Embassy Hill,7,14,78,Finished,+1:12.91,0
+1975,3,South African Grand Prix,1975-03-01,Donohue,Penske,8,18,77,+1 Lap,,0
+1975,3,South African Grand Prix,1975-03-01,Pryce,Shadow-Ford,9,19,77,+1 Lap,,0
+1975,3,South African Grand Prix,1975-03-01,Peterson,Team Lotus,10,8,77,+1 Lap,,0
+1975,3,South African Grand Prix,1975-03-01,Tunmer,Team Lotus,11,25,76,+2 Laps,,0
+1975,3,South African Grand Prix,1975-03-01,Ickx,Team Lotus,12,21,76,+2 Laps,,0
+1975,3,South African Grand Prix,1975-03-01,Keizan,Team Lotus,13,22,76,+2 Laps,,0
+1975,3,South African Grand Prix,1975-03-01,Charlton,McLaren,14,20,76,+2 Laps,,0
+1975,3,South African Grand Prix,1975-03-01,Evans,BRM,15,24,76,+2 Laps,,0
+1975,3,South African Grand Prix,1975-03-01,Regazzoni,Ferrari,16,9,71,Throttle,,0
+1975,3,South African Grand Prix,1975-03-01,Andretti,Parnelli,17,6,70,Transmission,,0
+1975,3,South African Grand Prix,1975-03-01,Laffite,Williams,18,23,69,Not classified,,0
+1975,3,South African Grand Prix,1975-03-01,Fittipaldi,McLaren,19,11,65,Not classified,,0
+1975,3,South African Grand Prix,1975-03-01,Scheckter,Tyrrell,20,17,55,Accident,,0
+1975,3,South African Grand Prix,1975-03-01,Hunt,Hesketh,21,12,53,Fuel system,,0
+1975,3,South African Grand Prix,1975-03-01,Jarier,Shadow-Ford,22,13,37,Overheating,,0
+1975,3,South African Grand Prix,1975-03-01,Lombardi,March,23,26,23,Fuel system,,0
+1975,3,South African Grand Prix,1975-03-01,Merzario,Williams,24,15,22,Engine,,0
+1975,3,South African Grand Prix,1975-03-01,Watson,Surtees,25,10,19,Clutch,,0
+1975,3,South African Grand Prix,1975-03-01,Brambilla,March,26,7,16,Radiator,,0
+1975,3,South African Grand Prix,1975-03-01,Fittipaldi,Fittipaldi,27,0,0,Did not qualify,,0
+1975,3,South African Grand Prix,1975-03-01,Hill,Lola,28,0,0,Did not qualify,,0
+1975,4,Spanish Grand Prix,1975-04-27,Mass,McLaren,1,11,29,Finished,42:53.7,4.5
+1975,4,Spanish Grand Prix,1975-04-27,Ickx,Team Lotus,2,16,29,Finished,+1.1,3
+1975,4,Spanish Grand Prix,1975-04-27,Reutemann,Brabham,3,15,28,+1 Lap,,2
+1975,4,Spanish Grand Prix,1975-04-27,Jarier,Shadow-Ford,4,10,28,+1 Lap,,1.5
+1975,4,Spanish Grand Prix,1975-04-27,Brambilla,March,5,5,28,+1 Lap,,1
+1975,4,Spanish Grand Prix,1975-04-27,Lombardi,March,6,24,27,+2 Laps,,0.5
+1975,4,Spanish Grand Prix,1975-04-27,Brise,Williams,7,18,27,+2 Laps,,0
+1975,4,Spanish Grand Prix,1975-04-27,Watson,Surtees,8,6,26,+3 Laps,,0
+1975,4,Spanish Grand Prix,1975-04-27,Regazzoni,Ferrari,9,2,25,Not classified,,0
+1975,4,Spanish Grand Prix,1975-04-27,Stommelen,Lola,10,9,25,Accident,,0
+1975,4,Spanish Grand Prix,1975-04-27,Pace,Brabham,11,14,25,Accident,,0
+1975,4,Spanish Grand Prix,1975-04-27,Pryce,Shadow-Ford,12,8,23,Accident,,0
+1975,4,Spanish Grand Prix,1975-04-27,Peterson,Team Lotus,13,12,23,Suspension,,0
+1975,4,Spanish Grand Prix,1975-04-27,Wunderink,Ensign,14,19,20,Transmission,,0
+1975,4,Spanish Grand Prix,1975-04-27,Migault,Lola,15,22,18,Not classified,,0
+1975,4,Spanish Grand Prix,1975-04-27,Andretti,Parnelli,16,4,16,Suspension,,0
+1975,4,Spanish Grand Prix,1975-04-27,Evans,BRM,17,23,7,Fuel system,,0
+1975,4,Spanish Grand Prix,1975-04-27,Hunt,Hesketh,18,3,6,Accident,,0
+1975,4,Spanish Grand Prix,1975-04-27,Scheckter,Tyrrell,19,13,3,Engine,,0
+1975,4,Spanish Grand Prix,1975-04-27,Donohue,Penske,20,17,3,Accident,,0
+1975,4,Spanish Grand Prix,1975-04-27,Jones,Hesketh,21,20,3,Accident,,0
+1975,4,Spanish Grand Prix,1975-04-27,Depailler,Tyrrell,22,7,1,Accident,,0
+1975,4,Spanish Grand Prix,1975-04-27,Fittipaldi,Fittipaldi,23,21,1,Withdrew,,0
+1975,4,Spanish Grand Prix,1975-04-27,Merzario,Williams,24,25,1,Withdrew,,0
+1975,4,Spanish Grand Prix,1975-04-27,Lauda,Ferrari,25,1,0,Accident,,0
+1975,4,Spanish Grand Prix,1975-04-27,Fittipaldi,McLaren,26,26,0,Withdrew,,0
+1975,5,Monaco Grand Prix,1975-05-11,Lauda,Ferrari,1,1,75,Finished,2:01:21.31,9
+1975,5,Monaco Grand Prix,1975-05-11,Fittipaldi,McLaren,2,9,75,Finished,+2.78,6
+1975,5,Monaco Grand Prix,1975-05-11,Pace,Brabham,3,8,75,Finished,+17.81,4
+1975,5,Monaco Grand Prix,1975-05-11,Peterson,Team Lotus,4,4,75,Finished,+38.45,3
+1975,5,Monaco Grand Prix,1975-05-11,Depailler,Tyrrell,5,12,75,Finished,+40.86,2
+1975,5,Monaco Grand Prix,1975-05-11,Mass,McLaren,6,15,75,Finished,+42.07,1
+1975,5,Monaco Grand Prix,1975-05-11,Scheckter,Tyrrell,7,7,74,+1 Lap,,0
+1975,5,Monaco Grand Prix,1975-05-11,Ickx,Team Lotus,8,14,74,+1 Lap,,0
+1975,5,Monaco Grand Prix,1975-05-11,Reutemann,Brabham,9,10,73,+2 Laps,,0
+1975,5,Monaco Grand Prix,1975-05-11,Donohue,Penske,10,16,66,Accident,,0
+1975,5,Monaco Grand Prix,1975-05-11,Hunt,Hesketh,11,11,63,Accident,,0
+1975,5,Monaco Grand Prix,1975-05-11,Jones,Hesketh,12,18,61,Wheel,,0
+1975,5,Monaco Grand Prix,1975-05-11,Brambilla,March,13,5,48,Accident,,0
+1975,5,Monaco Grand Prix,1975-05-11,Pryce,Shadow-Ford,14,2,39,Accident,,0
+1975,5,Monaco Grand Prix,1975-05-11,Regazzoni,Ferrari,15,17,36,Accident,,0
+1975,5,Monaco Grand Prix,1975-05-11,Watson,Surtees,16,6,36,Spun off,,0
+1975,5,Monaco Grand Prix,1975-05-11,Andretti,Parnelli,17,13,9,Oil leak,,0
+1975,5,Monaco Grand Prix,1975-05-11,Jarier,Shadow-Ford,18,3,0,Accident,,0
+1975,5,Monaco Grand Prix,1975-05-11,Laffite,Williams,19,0,0,Did not qualify,,0
+1975,5,Monaco Grand Prix,1975-05-11,Merzario,Williams,20,0,0,Did not qualify,,0
+1975,5,Monaco Grand Prix,1975-05-11,Hill,Embassy Hill,21,0,0,Did not qualify,,0
+1975,5,Monaco Grand Prix,1975-05-11,Evans,BRM,22,0,0,Did not qualify,,0
+1975,5,Monaco Grand Prix,1975-05-11,Wunderink,Ensign,23,0,0,Did not qualify,,0
+1975,5,Monaco Grand Prix,1975-05-11,Palm,Hesketh,24,0,0,Did not qualify,,0
+1975,5,Monaco Grand Prix,1975-05-11,Lombardi,March,25,0,0,Did not qualify,,0
+1975,5,Monaco Grand Prix,1975-05-11,Fittipaldi,Fittipaldi,26,0,0,Did not qualify,,0
+1975,6,Belgian Grand Prix,1975-05-25,Lauda,Ferrari,1,1,70,Finished,1:43:53.98,9
+1975,6,Belgian Grand Prix,1975-05-25,Scheckter,Tyrrell,2,9,70,Finished,+19.22,6
+1975,6,Belgian Grand Prix,1975-05-25,Reutemann,Brabham,3,6,70,Finished,+41.82,4
+1975,6,Belgian Grand Prix,1975-05-25,Depailler,Tyrrell,4,12,70,Finished,+1:00.08,3
+1975,6,Belgian Grand Prix,1975-05-25,Regazzoni,Ferrari,5,4,70,Finished,+1:03.84,2
+1975,6,Belgian Grand Prix,1975-05-25,Pryce,Shadow-Ford,6,5,70,Finished,+1:28.45,1
+1975,6,Belgian Grand Prix,1975-05-25,Fittipaldi,McLaren,7,8,69,+1 Lap,,0
+1975,6,Belgian Grand Prix,1975-05-25,Pace,Brabham,8,2,69,+1 Lap,,0
+1975,6,Belgian Grand Prix,1975-05-25,Evans,BRM,9,20,68,+2 Laps,,0
+1975,6,Belgian Grand Prix,1975-05-25,Watson,Surtees,10,18,68,+2 Laps,,0
+1975,6,Belgian Grand Prix,1975-05-25,Donohue,Penske,11,21,67,+3 Laps,,0
+1975,6,Belgian Grand Prix,1975-05-25,Fittipaldi,Fittipaldi,12,24,67,+3 Laps,,0
+1975,6,Belgian Grand Prix,1975-05-25,Migault,Embassy Hill,13,22,57,Suspension,,0
+1975,6,Belgian Grand Prix,1975-05-25,Brambilla,March,14,3,54,Brakes,,0
+1975,6,Belgian Grand Prix,1975-05-25,Ickx,Team Lotus,15,16,52,Brakes,,0
+1975,6,Belgian Grand Prix,1975-05-25,Peterson,Team Lotus,16,14,36,Brakes,,0
+1975,6,Belgian Grand Prix,1975-05-25,Laffite,Williams,17,23,18,Gearbox,,0
+1975,6,Belgian Grand Prix,1975-05-25,Lombardi,March,18,17,18,Engine,,0
+1975,6,Belgian Grand Prix,1975-05-25,Brise,Embassy Hill,19,7,17,Engine,,0
+1975,6,Belgian Grand Prix,1975-05-25,Hunt,Hesketh,20,11,15,Transmission,,0
+1975,6,Belgian Grand Prix,1975-05-25,Jarier,Shadow-Ford,21,10,13,Spun off,,0
+1975,6,Belgian Grand Prix,1975-05-25,Merzario,Williams,22,19,2,Clutch,,0
+1975,6,Belgian Grand Prix,1975-05-25,Jones,Hesketh,23,13,1,Accident,,0
+1975,6,Belgian Grand Prix,1975-05-25,Mass,McLaren,24,15,0,Accident,,0
+1975,7,Swedish Grand Prix,1975-06-08,Lauda,Ferrari,1,5,80,Finished,1:59:18.319,9
+1975,7,Swedish Grand Prix,1975-06-08,Reutemann,Brabham,2,4,80,Finished,+6.288,6
+1975,7,Swedish Grand Prix,1975-06-08,Regazzoni,Ferrari,3,12,80,Finished,+29.095,4
+1975,7,Swedish Grand Prix,1975-06-08,Andretti,Parnelli,4,15,80,Finished,+44.380,3
+1975,7,Swedish Grand Prix,1975-06-08,Donohue,Penske,5,16,80,Finished,+1:30.763,2
+1975,7,Swedish Grand Prix,1975-06-08,Brise,Embassy Hill,6,17,79,+1 Lap,,1
+1975,7,Swedish Grand Prix,1975-06-08,Scheckter,Tyrrell,7,8,79,+1 Lap,,0
+1975,7,Swedish Grand Prix,1975-06-08,Fittipaldi,McLaren,8,11,79,+1 Lap,,0
+1975,7,Swedish Grand Prix,1975-06-08,Peterson,Team Lotus,9,9,79,+1 Lap,,0
+1975,7,Swedish Grand Prix,1975-06-08,Palm,Hesketh,10,21,78,Out of fuel,,0
+1975,7,Swedish Grand Prix,1975-06-08,Jones,Hesketh,11,19,78,+2 Laps,,0
+1975,7,Swedish Grand Prix,1975-06-08,Depailler,Tyrrell,12,2,78,+2 Laps,,0
+1975,7,Swedish Grand Prix,1975-06-08,Evans,BRM,13,23,78,+2 Laps,,0
+1975,7,Swedish Grand Prix,1975-06-08,Magee,Williams,14,22,78,+2 Laps,,0
+1975,7,Swedish Grand Prix,1975-06-08,Ickx,Team Lotus,15,18,77,+3 Laps,,0
+1975,7,Swedish Grand Prix,1975-06-08,Watson,Surtees,16,10,77,+3 Laps,,0
+1975,7,Swedish Grand Prix,1975-06-08,Fittipaldi,Fittipaldi,17,25,74,+6 Laps,,0
+1975,7,Swedish Grand Prix,1975-06-08,Pryce,Shadow-Ford,18,7,53,Spun off,,0
+1975,7,Swedish Grand Prix,1975-06-08,Scheckter,Williams,19,20,49,Tyre,,0
+1975,7,Swedish Grand Prix,1975-06-08,Schuppan,Embassy Hill,20,26,47,Transmission,,0
+1975,7,Swedish Grand Prix,1975-06-08,Pace,Brabham,21,6,41,Spun off,,0
+1975,7,Swedish Grand Prix,1975-06-08,Jarier,Shadow-Ford,22,3,38,Engine,,0
+1975,7,Swedish Grand Prix,1975-06-08,Brambilla,March,23,1,36,Transmission,,0
+1975,7,Swedish Grand Prix,1975-06-08,Mass,McLaren,24,14,34,Overheating,,0
+1975,7,Swedish Grand Prix,1975-06-08,Hunt,Hesketh,25,13,21,Brakes,,0
+1975,7,Swedish Grand Prix,1975-06-08,Lombardi,March,26,24,10,Fuel system,,0
+1975,8,Dutch Grand Prix,1975-06-22,Hunt,Hesketh,1,3,75,Finished,1:46:57.40,9
+1975,8,Dutch Grand Prix,1975-06-22,Lauda,Ferrari,2,1,75,Finished,+1.06,6
+1975,8,Dutch Grand Prix,1975-06-22,Regazzoni,Ferrari,3,2,75,Finished,+55.06,4
+1975,8,Dutch Grand Prix,1975-06-22,Reutemann,Brabham,4,5,74,+1 Lap,,3
+1975,8,Dutch Grand Prix,1975-06-22,Pace,Brabham,5,9,74,+1 Lap,,2
+1975,8,Dutch Grand Prix,1975-06-22,Pryce,Shadow-Ford,6,12,74,+1 Lap,,1
+1975,8,Dutch Grand Prix,1975-06-22,Brise,Embassy Hill,7,7,74,+1 Lap,,0
+1975,8,Dutch Grand Prix,1975-06-22,Donohue,Penske,8,18,74,+1 Lap,,0
+1975,8,Dutch Grand Prix,1975-06-22,Depailler,Tyrrell,9,13,73,+2 Laps,,0
+1975,8,Dutch Grand Prix,1975-06-22,van Lennep,Ensign,10,22,71,+4 Laps,,0
+1975,8,Dutch Grand Prix,1975-06-22,Fittipaldi,Fittipaldi,11,24,71,+4 Laps,,0
+1975,8,Dutch Grand Prix,1975-06-22,Scheckter,Williams,12,19,70,+5 Laps,,0
+1975,8,Dutch Grand Prix,1975-06-22,Jones,Embassy Hill,13,17,70,+5 Laps,,0
+1975,8,Dutch Grand Prix,1975-06-22,Lombardi,March,14,23,70,+5 Laps,,0
+1975,8,Dutch Grand Prix,1975-06-22,Peterson,Team Lotus,15,16,69,Out of fuel,,0
+1975,8,Dutch Grand Prix,1975-06-22,Scheckter,Tyrrell,16,4,67,Engine,,0
+1975,8,Dutch Grand Prix,1975-06-22,Laffite,Williams,17,15,64,Engine,,0
+1975,8,Dutch Grand Prix,1975-06-22,Mass,McLaren,18,8,61,Accident,,0
+1975,8,Dutch Grand Prix,1975-06-22,Jarier,Shadow-Ford,19,10,44,Tyre,,0
+1975,8,Dutch Grand Prix,1975-06-22,Watson,Surtees,20,14,43,Vibrations,,0
+1975,8,Dutch Grand Prix,1975-06-22,Fittipaldi,McLaren,21,6,40,Engine,,0
+1975,8,Dutch Grand Prix,1975-06-22,Evans,BRM,22,20,23,Differential,,0
+1975,8,Dutch Grand Prix,1975-06-22,Ickx,Team Lotus,23,21,6,Engine,,0
+1975,8,Dutch Grand Prix,1975-06-22,Brambilla,March,24,11,0,Suspension,,0
+1975,8,Dutch Grand Prix,1975-06-22,Fushida,Maki,25,0,0,Withdrew,,0
+1975,9,French Grand Prix,1975-07-06,Lauda,Ferrari,1,1,54,Finished,1:40:18.84,9
+1975,9,French Grand Prix,1975-07-06,Hunt,Hesketh,2,3,54,Finished,+1.59,6
+1975,9,French Grand Prix,1975-07-06,Mass,McLaren,3,7,54,Finished,+2.31,4
+1975,9,French Grand Prix,1975-07-06,Fittipaldi,McLaren,4,10,54,Finished,+39.77,3
+1975,9,French Grand Prix,1975-07-06,Andretti,Parnelli,5,15,54,Finished,+1:02.08,2
+1975,9,French Grand Prix,1975-07-06,Depailler,Tyrrell,6,13,54,Finished,+1:07.40,1
+1975,9,French Grand Prix,1975-07-06,Brise,Embassy Hill,7,12,54,Finished,+1:09.61,0
+1975,9,French Grand Prix,1975-07-06,Jarier,Shadow-Ford,8,4,54,Finished,+1:19.78,0
+1975,9,French Grand Prix,1975-07-06,Scheckter,Tyrrell,9,2,54,Finished,+1:31.68,0
+1975,9,French Grand Prix,1975-07-06,Peterson,Team Lotus,10,17,54,Finished,+1:36.02,0
+1975,9,French Grand Prix,1975-07-06,Laffite,Williams,11,16,54,Finished,+1:36.77,0
+1975,9,French Grand Prix,1975-07-06,Jabouille,Tyrrell,12,21,54,Finished,+1:37.13,0
+1975,9,French Grand Prix,1975-07-06,Watson,Surtees,13,14,53,+1 Lap,,0
+1975,9,French Grand Prix,1975-07-06,Reutemann,Brabham,14,11,53,+1 Lap,,0
+1975,9,French Grand Prix,1975-07-06,van Lennep,Ensign,15,22,53,+1 Lap,,0
+1975,9,French Grand Prix,1975-07-06,Jones,Embassy Hill,16,20,53,+1 Lap,,0
+1975,9,French Grand Prix,1975-07-06,Evans,BRM,17,25,52,+2 Laps,,0
+1975,9,French Grand Prix,1975-07-06,Lombardi,March,18,26,50,+4 Laps,,0
+1975,9,French Grand Prix,1975-07-06,Pace,Brabham,19,5,26,Transmission,,0
+1975,9,French Grand Prix,1975-07-06,Ickx,Team Lotus,20,19,17,Brakes,,0
+1975,9,French Grand Prix,1975-07-06,Fittipaldi,Fittipaldi,21,23,14,Engine,,0
+1975,9,French Grand Prix,1975-07-06,Brambilla,March,22,8,6,Chassis,,0
+1975,9,French Grand Prix,1975-07-06,Regazzoni,Ferrari,23,9,6,Engine,,0
+1975,9,French Grand Prix,1975-07-06,Donohue,Penske,24,18,6,Transmission,,0
+1975,9,French Grand Prix,1975-07-06,Pryce,Shadow-Ford,25,6,2,Transmission,,0
+1975,9,French Grand Prix,1975-07-06,Migault,Williams,26,24,0,Withdrew,,0
+1975,10,British Grand Prix,1975-07-19,Fittipaldi,McLaren,1,7,56,Finished,1:22:05.0,9
+1975,10,British Grand Prix,1975-07-19,Pace,Brabham,2,2,55,Accident,,6
+1975,10,British Grand Prix,1975-07-19,Scheckter,Tyrrell,3,6,55,Accident,,4
+1975,10,British Grand Prix,1975-07-19,Hunt,Hesketh,4,9,55,Accident,,3
+1975,10,British Grand Prix,1975-07-19,Donohue,March,5,15,55,Accident,,2
+1975,10,British Grand Prix,1975-07-19,Brambilla,March,6,5,55,+1 Lap,,1
+1975,10,British Grand Prix,1975-07-19,Mass,McLaren,7,10,55,Accident,,0
+1975,10,British Grand Prix,1975-07-19,Lauda,Ferrari,8,3,54,+2 Laps,,0
+1975,10,British Grand Prix,1975-07-19,Depailler,Tyrrell,9,17,54,Accident,,0
+1975,10,British Grand Prix,1975-07-19,Jones,Embassy Hill,10,28,54,+2 Laps,,0
+1975,10,British Grand Prix,1975-07-19,Watson,Surtees,11,18,54,Accident,,0
+1975,10,British Grand Prix,1975-07-19,Andretti,Parnelli,12,12,54,+2 Laps,,0
+1975,10,British Grand Prix,1975-07-19,Regazzoni,Ferrari,13,4,54,+2 Laps,,0
+1975,10,British Grand Prix,1975-07-19,Jarier,Shadow-Ford,14,11,53,Accident,,0
+1975,10,British Grand Prix,1975-07-19,Brise,Embassy Hill,15,13,53,Accident,,0
+1975,10,British Grand Prix,1975-07-19,Henton,Team Lotus,16,21,53,Accident,,0
+1975,10,British Grand Prix,1975-07-19,Nicholson,Lyncar,17,26,51,Accident,,0
+1975,10,British Grand Prix,1975-07-19,Morgan,Surtees,18,23,50,Accident,,0
+1975,10,British Grand Prix,1975-07-19,Fittipaldi,Fittipaldi,19,24,50,Accident,,0
+1975,10,British Grand Prix,1975-07-19,Stuck,March,20,14,45,Accident,,0
+1975,10,British Grand Prix,1975-07-19,Crawford,Team Lotus,21,25,28,Accident,,0
+1975,10,British Grand Prix,1975-07-19,Pryce,Shadow-Ford,22,1,20,Accident,,0
+1975,10,British Grand Prix,1975-07-19,Lombardi,March,23,22,18,Engine,,0
+1975,10,British Grand Prix,1975-07-19,Peterson,Team Lotus,24,16,7,Engine,,0
+1975,10,British Grand Prix,1975-07-19,Laffite,Williams,25,19,5,Gearbox,,0
+1975,10,British Grand Prix,1975-07-19,Reutemann,Brabham,26,8,4,Engine,,0
+1975,10,British Grand Prix,1975-07-19,Wunderink,Ensign,27,0,0,Did not qualify,,0
+1975,10,British Grand Prix,1975-07-19,Fushida,Maki,28,0,0,Did not qualify,,0
+1975,11,German Grand Prix,1975-08-03,Reutemann,Brabham,1,10,14,Finished,1:41:14.1,9
+1975,11,German Grand Prix,1975-08-03,Laffite,Williams,2,15,14,Finished,+1:37.7,6
+1975,11,German Grand Prix,1975-08-03,Lauda,Ferrari,3,1,14,Finished,+2:23.3,4
+1975,11,German Grand Prix,1975-08-03,Pryce,Shadow-Ford,4,16,14,Finished,+3:31.4,3
+1975,11,German Grand Prix,1975-08-03,Jones,Embassy Hill,5,21,14,Finished,+3:50.3,2
+1975,11,German Grand Prix,1975-08-03,van Lennep,Ensign,6,24,14,Finished,+5:05.5,1
+1975,11,German Grand Prix,1975-08-03,Lombardi,March,7,25,14,Finished,+7:30.4,0
+1975,11,German Grand Prix,1975-08-03,Ertl,Hesketh,8,23,14,Finished,+7:40.9,0
+1975,11,German Grand Prix,1975-08-03,Depailler,Tyrrell,9,4,13,+1 Lap,,0
+1975,11,German Grand Prix,1975-08-03,Andretti,Parnelli,10,13,12,Out of fuel,,0
+1975,11,German Grand Prix,1975-08-03,Hunt,Hesketh,11,9,10,Wheel,,0
+1975,11,German Grand Prix,1975-08-03,Regazzoni,Ferrari,12,5,9,Engine,,0
+1975,11,German Grand Prix,1975-08-03,Brise,Embassy Hill,13,17,9,Accident,,0
+1975,11,German Grand Prix,1975-08-03,Scheckter,Tyrrell,14,3,7,Accident,,0
+1975,11,German Grand Prix,1975-08-03,Jarier,Shadow-Ford,15,12,7,Tyre,,0
+1975,11,German Grand Prix,1975-08-03,Pace,Brabham,16,2,5,Suspension,,0
+1975,11,German Grand Prix,1975-08-03,Fittipaldi,Fittipaldi,17,22,4,Engine,,0
+1975,11,German Grand Prix,1975-08-03,Stuck,March,18,7,3,Engine,,0
+1975,11,German Grand Prix,1975-08-03,Fittipaldi,McLaren,19,8,3,Suspension,,0
+1975,11,German Grand Prix,1975-08-03,Brambilla,March,20,11,3,Suspension,,0
+1975,11,German Grand Prix,1975-08-03,Watson,Team Lotus,21,14,2,Suspension,,0
+1975,11,German Grand Prix,1975-08-03,Peterson,Team Lotus,22,18,1,Clutch,,0
+1975,11,German Grand Prix,1975-08-03,Donohue,March,23,19,1,Tyre,,0
+1975,11,German Grand Prix,1975-08-03,Mass,McLaren,24,6,0,Accident,,0
+1975,11,German Grand Prix,1975-08-03,Ashley,Williams,25,20,0,Accident,,0
+1975,11,German Grand Prix,1975-08-03,Trimmer,Maki,26,0,0,Did not qualify,,0
+1975,12,Austrian Grand Prix,1975-08-17,Brambilla,March,1,8,29,Finished,0:57:56.69,4.5
+1975,12,Austrian Grand Prix,1975-08-17,Hunt,Hesketh,2,2,29,Finished,+27.03,3
+1975,12,Austrian Grand Prix,1975-08-17,Pryce,Shadow-Ford,3,15,29,Finished,+34.85,2
+1975,12,Austrian Grand Prix,1975-08-17,Mass,McLaren,4,9,29,Finished,+1:12.66,1.5
+1975,12,Austrian Grand Prix,1975-08-17,Peterson,Team Lotus,5,13,29,Finished,+1:23.33,1
+1975,12,Austrian Grand Prix,1975-08-17,Lauda,Ferrari,6,1,29,Finished,+1:30.28,0.5
+1975,12,Austrian Grand Prix,1975-08-17,Regazzoni,Ferrari,7,5,29,Finished,+1:39.07,0
+1975,12,Austrian Grand Prix,1975-08-17,Scheckter,Tyrrell,8,10,28,+1 Lap,,0
+1975,12,Austrian Grand Prix,1975-08-17,Fittipaldi,McLaren,9,3,28,+1 Lap,,0
+1975,12,Austrian Grand Prix,1975-08-17,Watson,Surtees,10,18,28,+1 Lap,,0
+1975,12,Austrian Grand Prix,1975-08-17,Depailler,Tyrrell,11,7,28,+1 Lap,,0
+1975,12,Austrian Grand Prix,1975-08-17,Amon,Ensign,12,23,28,+1 Lap,,0
+1975,12,Austrian Grand Prix,1975-08-17,Lunger,Hesketh,13,17,28,+1 Lap,,0
+1975,12,Austrian Grand Prix,1975-08-17,Reutemann,Brabham,14,11,28,+1 Lap,,0
+1975,12,Austrian Grand Prix,1975-08-17,Brise,Embassy Hill,15,16,28,+1 Lap,,0
+1975,12,Austrian Grand Prix,1975-08-17,Stommelen,Embassy Hill,16,25,27,+2 Laps,,0
+1975,12,Austrian Grand Prix,1975-08-17,Lombardi,March,17,21,26,+3 Laps,,0
+1975,12,Austrian Grand Prix,1975-08-17,Wunderink,Ensign,18,27,25,Not classified,,0
+1975,12,Austrian Grand Prix,1975-08-17,Ertl,Hesketh,19,26,23,Electrical,,0
+1975,12,Austrian Grand Prix,1975-08-17,Laffite,Williams,20,12,21,Handling,,0
+1975,12,Austrian Grand Prix,1975-08-17,Pace,Brabham,21,6,17,Engine,,0
+1975,12,Austrian Grand Prix,1975-08-17,Vonlanthen,Williams,22,28,14,Engine,,0
+1975,12,Austrian Grand Prix,1975-08-17,Stuck,March,23,4,10,Accident,,0
+1975,12,Austrian Grand Prix,1975-08-17,Jarier,Shadow-Matra,24,14,10,Injection,,0
+1975,12,Austrian Grand Prix,1975-08-17,Evans,BRM,25,24,2,Engine,,0
+1975,12,Austrian Grand Prix,1975-08-17,Andretti,Parnelli,26,19,1,Accident,,0
+1975,12,Austrian Grand Prix,1975-08-17,Donohue,March,27,20,0,Accident,,0
+1975,12,Austrian Grand Prix,1975-08-17,Henton,Team Lotus,28,22,0,Accident,,0
+1975,12,Austrian Grand Prix,1975-08-17,Trimmer,Maki,29,0,0,Did not qualify,,0
+1975,12,Austrian Grand Prix,1975-08-17,Fittipaldi,Fittipaldi,30,0,0,Did not qualify,,0
+1975,13,Italian Grand Prix,1975-09-07,Regazzoni,Ferrari,1,2,52,Finished,1:22:42.6,9
+1975,13,Italian Grand Prix,1975-09-07,Fittipaldi,McLaren,2,3,52,Finished,+16.6,6
+1975,13,Italian Grand Prix,1975-09-07,Lauda,Ferrari,3,1,52,Finished,+23.2,4
+1975,13,Italian Grand Prix,1975-09-07,Reutemann,Brabham,4,7,52,Finished,+55.1,3
+1975,13,Italian Grand Prix,1975-09-07,Hunt,Hesketh,5,8,52,Finished,+57.1,2
+1975,13,Italian Grand Prix,1975-09-07,Pryce,Shadow-Ford,6,14,52,Finished,+1:15.9,1
+1975,13,Italian Grand Prix,1975-09-07,Depailler,Tyrrell,7,12,51,+1 Lap,,0
+1975,13,Italian Grand Prix,1975-09-07,Scheckter,Tyrrell,8,4,51,+1 Lap,,0
+1975,13,Italian Grand Prix,1975-09-07,Ertl,Hesketh,9,17,51,+1 Lap,,0
+1975,13,Italian Grand Prix,1975-09-07,Lunger,Hesketh,10,21,50,+2 Laps,,0
+1975,13,Italian Grand Prix,1975-09-07,Merzario,Fittipaldi,11,26,48,+4 Laps,,0
+1975,13,Italian Grand Prix,1975-09-07,Amon,Ensign,12,19,48,+4 Laps,,0
+1975,13,Italian Grand Prix,1975-09-07,Crawford,Team Lotus,13,25,46,+6 Laps,,0
+1975,13,Italian Grand Prix,1975-09-07,Zorzi,Williams,14,22,46,+6 Laps,,0
+1975,13,Italian Grand Prix,1975-09-07,Jarier,Shadow-Matra,15,13,32,Fuel pump,,0
+1975,13,Italian Grand Prix,1975-09-07,Lombardi,March,16,24,21,Accident,,0
+1975,13,Italian Grand Prix,1975-09-07,Stuck,March,17,16,15,Accident,,0
+1975,13,Italian Grand Prix,1975-09-07,Laffite,Williams,18,18,7,Gearbox,,0
+1975,13,Italian Grand Prix,1975-09-07,Pace,Brabham,19,10,6,Throttle,,0
+1975,13,Italian Grand Prix,1975-09-07,Stommelen,Embassy Hill,20,23,3,Accident,,0
+1975,13,Italian Grand Prix,1975-09-07,Mass,McLaren,21,5,2,Accident,,0
+1975,13,Italian Grand Prix,1975-09-07,Peterson,Team Lotus,22,11,1,Engine,,0
+1975,13,Italian Grand Prix,1975-09-07,Brise,Embassy Hill,23,6,1,Accident,,0
+1975,13,Italian Grand Prix,1975-09-07,Andretti,Parnelli,24,15,1,Accident,,0
+1975,13,Italian Grand Prix,1975-09-07,Brambilla,March,25,9,1,Clutch,,0
+1975,13,Italian Grand Prix,1975-09-07,Evans,BRM,26,20,0,Electrical,,0
+1975,13,Italian Grand Prix,1975-09-07,Wunderink,Ensign,27,0,0,Did not qualify,,0
+1975,13,Italian Grand Prix,1975-09-07,Trimmer,Maki,28,0,0,Did not qualify,,0
+1975,14,United States Grand Prix,1975-10-05,Lauda,Ferrari,1,1,59,Finished,1:42:58.175,9
+1975,14,United States Grand Prix,1975-10-05,Fittipaldi,McLaren,2,2,59,Finished,+4.943,6
+1975,14,United States Grand Prix,1975-10-05,Mass,McLaren,3,9,59,Finished,+47.637,4
+1975,14,United States Grand Prix,1975-10-05,Hunt,Hesketh,4,15,59,Finished,+49.475,3
+1975,14,United States Grand Prix,1975-10-05,Peterson,Team Lotus,5,14,59,Finished,+49.986,2
+1975,14,United States Grand Prix,1975-10-05,Scheckter,Tyrrell,6,10,59,Finished,+50.321,1
+1975,14,United States Grand Prix,1975-10-05,Brambilla,March,7,6,59,Finished,+1:44.031,0
+1975,14,United States Grand Prix,1975-10-05,Stuck,March,8,13,58,+1 Lap,,0
+1975,14,United States Grand Prix,1975-10-05,Watson,Penske,9,12,57,+2 Laps,,0
+1975,14,United States Grand Prix,1975-10-05,Fittipaldi,Fittipaldi,10,23,55,+4 Laps,,0
+1975,14,United States Grand Prix,1975-10-05,Pryce,Shadow-Ford,11,7,52,Not classified,,0
+1975,14,United States Grand Prix,1975-10-05,Henton,Team Lotus,12,19,49,Not classified,,0
+1975,14,United States Grand Prix,1975-10-05,Lunger,Hesketh,13,18,46,Accident,,0
+1975,14,United States Grand Prix,1975-10-05,Wunderink,Ensign,14,22,41,Gearbox,,0
+1975,14,United States Grand Prix,1975-10-05,Regazzoni,Ferrari,15,11,0,Withdrew,,0
+1975,14,United States Grand Prix,1975-10-05,Jarier,Shadow-Ford,16,4,19,Wheel bearing,,0
+1975,14,United States Grand Prix,1975-10-05,Reutemann,Brabham,17,3,9,Engine,,0
+1975,14,United States Grand Prix,1975-10-05,Andretti,Parnelli,18,5,9,Suspension,,0
+1975,14,United States Grand Prix,1975-10-05,Brise,Embassy Hill,19,17,5,Accident,,0
+1975,14,United States Grand Prix,1975-10-05,Leclère,Tyrrell,20,20,5,Engine,,0
+1975,14,United States Grand Prix,1975-10-05,Depailler,Tyrrell,21,8,2,Accident,,0
+1975,14,United States Grand Prix,1975-10-05,Pace,Brabham,22,16,2,Accident,,0
+1975,14,United States Grand Prix,1975-10-05,Laffite,Williams,23,21,0,Physical,,0
+1975,14,United States Grand Prix,1975-10-05,Lombardi,Williams,24,24,0,Ignition,,0

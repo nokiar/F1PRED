@@ -1,0 +1,224 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1962,1,Dutch Grand Prix,1962-05-20,Hill,BRM,1,2,80,Finished,2:11:02.1,9
+1962,1,Dutch Grand Prix,1962-05-20,Taylor,Lotus-Climax,2,10,80,Finished,+27.2,6
+1962,1,Dutch Grand Prix,1962-05-20,Hill,Ferrari,3,9,80,Finished,+1:21.1,4
+1962,1,Dutch Grand Prix,1962-05-20,Baghetti,Ferrari,4,12,79,+1 Lap,,3
+1962,1,Dutch Grand Prix,1962-05-20,Maggs,Cooper-Climax,5,15,78,+2 Laps,,2
+1962,1,Dutch Grand Prix,1962-05-20,de Beaufort,Porsche,6,14,76,+4 Laps,,1
+1962,1,Dutch Grand Prix,1962-05-20,Bonnier,Porsche,7,13,75,+5 Laps,,0
+1962,1,Dutch Grand Prix,1962-05-20,Lewis,Cooper-Climax,8,7,70,+10 Laps,,0
+1962,1,Dutch Grand Prix,1962-05-20,Clark,Lotus-Climax,9,3,70,+10 Laps,,0
+1962,1,Dutch Grand Prix,1962-05-20,Rodríguez,Ferrari,10,11,73,Accident,,0
+1962,1,Dutch Grand Prix,1962-05-20,Ginther,BRM,11,7,71,Accident,,0
+1962,1,Dutch Grand Prix,1962-05-20,Ireland,Lotus-Climax,12,6,61,Accident,,0
+1962,1,Dutch Grand Prix,1962-05-20,Gregory,Lotus-Climax,13,16,54,Halfshaft,,0
+1962,1,Dutch Grand Prix,1962-05-20,Seidel,Emeryson,14,20,52,Not classified,,0
+1962,1,Dutch Grand Prix,1962-05-20,Gurney,Porsche,15,8,47,Gearbox,,0
+1962,1,Dutch Grand Prix,1962-05-20,McLaren,Cooper-Climax,16,5,21,Gearbox,,0
+1962,1,Dutch Grand Prix,1962-05-20,Salvadori,Lola,17,17,12,Withdrew,,0
+1962,1,Dutch Grand Prix,1962-05-20,Surtees,Lola,18,1,8,Accident,,0
+1962,1,Dutch Grand Prix,1962-05-20,Brabham,Lotus-Climax,19,4,4,Accident,,0
+1962,1,Dutch Grand Prix,1962-05-20,Pon,Porsche,20,10,2,Accident,,0
+1962,1,Dutch Grand Prix,1962-05-20,Slotemaker,Porsche,21,0,0,Withdrew,,0
+1962,1,Dutch Grand Prix,1962-05-20,Trintignant,Lotus-Climax,22,0,0,Withdrew,,0
+1962,2,Monaco Grand Prix,1962-06-03,McLaren,Cooper-Climax,1,3,100,Finished,2:46:29.7,9
+1962,2,Monaco Grand Prix,1962-06-03,Hill,Ferrari,2,9,100,Finished,+1.3,6
+1962,2,Monaco Grand Prix,1962-06-03,Bandini,Ferrari,3,10,100,Finished,+1:24.1,4
+1962,2,Monaco Grand Prix,1962-06-03,Surtees,Lola,4,11,99,+1 Lap,,3
+1962,2,Monaco Grand Prix,1962-06-03,Bonnier,Porsche,5,18,93,+7 Laps,,2
+1962,2,Monaco Grand Prix,1962-06-03,Hill,BRM,6,2,92,Engine,,1
+1962,2,Monaco Grand Prix,1962-06-03,Mairesse,Ferrari,7,4,90,Oil pressure,,0
+1962,2,Monaco Grand Prix,1962-06-03,Brabham,Lotus-Climax,8,6,77,Accident,,0
+1962,2,Monaco Grand Prix,1962-06-03,Ireland,Lotus-Climax,9,8,64,Fuel pump,,0
+1962,2,Monaco Grand Prix,1962-06-03,Clark,Lotus-Climax,10,1,55,Clutch,,0
+1962,2,Monaco Grand Prix,1962-06-03,Salvadori,Lola,11,12,44,Suspension,,0
+1962,2,Monaco Grand Prix,1962-06-03,Maggs,Cooper-Climax,12,19,43,Gearbox,,0
+1962,2,Monaco Grand Prix,1962-06-03,Taylor,Lotus-Climax,13,17,24,Oil leak,,0
+1962,2,Monaco Grand Prix,1962-06-03,Gurney,Porsche,14,5,0,Accident,,0
+1962,2,Monaco Grand Prix,1962-06-03,Trintignant,Lotus-Climax,15,7,0,Accident,,0
+1962,2,Monaco Grand Prix,1962-06-03,Ginther,BRM,16,14,0,Accident,,0
+1962,2,Monaco Grand Prix,1962-06-03,Siffert,Lotus-Climax,17,0,0,Did not qualify,,0
+1962,2,Monaco Grand Prix,1962-06-03,Lewis,BRM,18,0,0,Did not qualify,,0
+1962,2,Monaco Grand Prix,1962-06-03,Gregory,Lotus-BRM,19,0,0,Did not qualify,,0
+1962,2,Monaco Grand Prix,1962-06-03,de Beaufort,Porsche,20,0,0,Did not qualify,,0
+1962,2,Monaco Grand Prix,1962-06-03,Vaccarella,Lotus-Climax,21,0,0,Did not qualify,,0
+1962,2,Monaco Grand Prix,1962-06-03,Rodríguez,Ferrari,22,0,0,Withdrew,,0
+1962,2,Monaco Grand Prix,1962-06-03,Bussinello,De Tomaso-Alfa Romeo,23,0,0,Withdrew,,0
+1962,2,Monaco Grand Prix,1962-06-03,Marsh,BRM,24,0,0,Withdrew,,0
+1962,3,Belgian Grand Prix,1962-06-17,Clark,Lotus-Climax,1,13,32,Finished,2:07:32.3,9
+1962,3,Belgian Grand Prix,1962-06-17,Hill,BRM,2,1,32,Finished,+44.1,6
+1962,3,Belgian Grand Prix,1962-06-17,Hill,Ferrari,3,4,32,Finished,+2:06.5,4
+1962,3,Belgian Grand Prix,1962-06-17,Rodríguez,Ferrari,4,7,32,Finished,+2:06.6,3
+1962,3,Belgian Grand Prix,1962-06-17,Surtees,Lola,5,11,31,+1 Lap,,2
+1962,3,Belgian Grand Prix,1962-06-17,Brabham,Lotus-Climax,6,15,30,+2 Laps,,1
+1962,3,Belgian Grand Prix,1962-06-17,de Beaufort,Porsche,7,13,30,+2 Laps,,0
+1962,3,Belgian Grand Prix,1962-06-17,Trintignant,Lotus-Climax,8,16,30,+2 Laps,,0
+1962,3,Belgian Grand Prix,1962-06-17,Bianchi,Lotus-Climax,9,18,29,+3 Laps,,0
+1962,3,Belgian Grand Prix,1962-06-17,Siffert,Lotus-Climax,10,17,29,+3 Laps,,0
+1962,3,Belgian Grand Prix,1962-06-17,Campbell-Jones,Lotus-Climax,11,19,16,+16 Laps,,0
+1962,3,Belgian Grand Prix,1962-06-17,Taylor,Lotus-Climax,12,3,25,Accident,,0
+1962,3,Belgian Grand Prix,1962-06-17,Mairesse,Ferrari,13,6,25,Accident,,0
+1962,3,Belgian Grand Prix,1962-06-17,Ginther,BRM,14,9,22,Gearbox,,0
+1962,3,Belgian Grand Prix,1962-06-17,Maggs,Cooper-Climax,15,10,22,Gearbox,,0
+1962,3,Belgian Grand Prix,1962-06-17,McLaren,Cooper-Climax,16,2,19,Wheel bearing,,0
+1962,3,Belgian Grand Prix,1962-06-17,Gregory,Lotus-BRM,17,8,13,Withdrew,,0
+1962,3,Belgian Grand Prix,1962-06-17,Ireland,Lotus-Climax,18,5,8,Suspension,,0
+1962,3,Belgian Grand Prix,1962-06-17,Baghetti,Ferrari,19,14,3,Ignition,,0
+1962,3,Belgian Grand Prix,1962-06-17,Gurney,Lotus-BRM,20,0,0,Withdrew,,0
+1962,3,Belgian Grand Prix,1962-06-17,Marsh,BRM,21,0,0,Withdrew,,0
+1962,3,Belgian Grand Prix,1962-06-17,Lewis,BRM,22,0,0,Withdrew,,0
+1962,3,Belgian Grand Prix,1962-06-17,Ashmore,BRM,23,0,0,Withdrew,,0
+1962,3,Belgian Grand Prix,1962-06-17,Salvadori,Lola,24,0,0,Withdrew,,0
+1962,3,Belgian Grand Prix,1962-06-17,Schiller,Porsche,25,0,0,Withdrew,,0
+1962,3,Belgian Grand Prix,1962-06-17,Bonnier,Porsche,26,0,0,Withdrew,,0
+1962,4,French Grand Prix,1962-07-08,Gurney,Porsche,1,6,54,Finished,2:07:05.5,9
+1962,4,French Grand Prix,1962-07-08,Maggs,Cooper-Climax,2,11,53,+1 Lap,,6
+1962,4,French Grand Prix,1962-07-08,Ginther,BRM,3,10,52,+2 Laps,,4
+1962,4,French Grand Prix,1962-07-08,McLaren,Cooper-Climax,4,3,51,+3 Laps,,3
+1962,4,French Grand Prix,1962-07-08,Surtees,Lola,5,5,51,+3 Laps,,2
+1962,4,French Grand Prix,1962-07-08,de Beaufort,Porsche,6,17,51,+3 Laps,,1
+1962,4,French Grand Prix,1962-07-08,Trintignant,Lotus-Climax,7,13,50,+4 Laps,,0
+1962,4,French Grand Prix,1962-07-08,Taylor,Lotus-Climax,8,12,48,+6 Laps,,0
+1962,4,French Grand Prix,1962-07-08,Hill,BRM,9,2,44,+10 Laps,,0
+1962,4,French Grand Prix,1962-07-08,Bonnier,Porsche,10,9,43,Fuel system,,0
+1962,4,French Grand Prix,1962-07-08,Clark,Lotus-Climax,11,1,34,Suspension,,0
+1962,4,French Grand Prix,1962-07-08,Lewis,Cooper,12,16,28,Accident,,0
+1962,4,French Grand Prix,1962-07-08,Salvadori,Lola,13,14,21,Oil pressure,,0
+1962,4,French Grand Prix,1962-07-08,Gregory,Lotus-BRM,14,7,15,Overheating,,0
+1962,4,French Grand Prix,1962-07-08,Brabham,Lotus-Climax,15,4,11,Suspension,,0
+1962,4,French Grand Prix,1962-07-08,Siffert,Lotus-BRM,16,15,6,Clutch,,0
+1962,4,French Grand Prix,1962-07-08,Ireland,Lotus-Climax,17,8,1,Puncture,,0
+1962,4,French Grand Prix,1962-07-08,Arundell,Team Lotus,18,0,0,Withdrew,,0
+1962,4,French Grand Prix,1962-07-08,Marsh,BRM,19,0,0,Withdrew,,0
+1962,4,French Grand Prix,1962-07-08,Davis,Porsche,20,0,0,Withdrew,,0
+1962,4,French Grand Prix,1962-07-08,Abate,Lotus-Climax,21,0,0,Withdrew,,0
+1962,4,French Grand Prix,1962-07-08,Burgess,Cooper-Climax,22,0,0,Withdrew,,0
+1962,5,British Grand Prix,1962-07-21,Clark,Lotus-Climax,1,1,75,Finished,2:26:20.8,9
+1962,5,British Grand Prix,1962-07-21,Surtees,Lola,2,2,75,Finished,+49.2,6
+1962,5,British Grand Prix,1962-07-21,McLaren,Cooper-Climax,3,4,75,Finished,+1:44.8,4
+1962,5,British Grand Prix,1962-07-21,Hill,BRM,4,5,75,Finished,+1:56.8,3
+1962,5,British Grand Prix,1962-07-21,Brabham,Lotus-Climax,5,9,74,+1 Lap,,2
+1962,5,British Grand Prix,1962-07-21,Maggs,Cooper-Climax,6,13,74,+1 Lap,,1
+1962,5,British Grand Prix,1962-07-21,Gregory,Lotus-Climax,7,14,74,+1 Lap,,0
+1962,5,British Grand Prix,1962-07-21,Taylor,Lotus-Climax,8,10,74,+1 Lap,,0
+1962,5,British Grand Prix,1962-07-21,Gurney,Porsche,9,6,73,+2 Laps,,0
+1962,5,British Grand Prix,1962-07-21,Lewis,Cooper-Climax,10,15,72,+3 Laps,,0
+1962,5,British Grand Prix,1962-07-21,Settember,Emeryson,11,19,71,+4 Laps,,0
+1962,5,British Grand Prix,1962-07-21,Burgess,Cooper-Climax,12,16,71,+4 Laps,,0
+1962,5,British Grand Prix,1962-07-21,Ginther,BRM,13,8,70,+5 Laps,,0
+1962,5,British Grand Prix,1962-07-21,de Beaufort,Porsche,14,17,69,+6 Laps,,0
+1962,5,British Grand Prix,1962-07-21,Chamberlain,Lotus-Climax,15,20,64,+11 Laps,,0
+1962,5,British Grand Prix,1962-07-21,Ireland,Lotus-Climax,16,3,61,+14 Laps,,0
+1962,5,British Grand Prix,1962-07-21,Hill,Ferrari,17,12,47,Engine,,0
+1962,5,British Grand Prix,1962-07-21,Salvadori,Lola,18,11,35,Battery,,0
+1962,5,British Grand Prix,1962-07-21,Bonnier,Porsche,19,7,27,Differential,,0
+1962,5,British Grand Prix,1962-07-21,Seidel,Lotus-BRM,20,21,11,Brakes,,0
+1962,5,British Grand Prix,1962-07-21,Shelly,Lotus-Climax,21,18,6,Engine,,0
+1962,5,British Grand Prix,1962-07-21,Greene,Lotus-Climax,22,0,0,Withdrew,,0
+1962,5,British Grand Prix,1962-07-21,Trintignant,Lotus-Climax,23,0,0,Withdrew,,0
+1962,5,British Grand Prix,1962-07-21,Campbell-Jones,Emeryson,24,0,0,Withdrew,,0
+1962,5,British Grand Prix,1962-07-21,Greene,Gilby,25,0,0,Withdrew,,0
+1962,5,British Grand Prix,1962-07-21,Siffert,Lotus-BRM,26,0,0,Withdrew,,0
+1962,6,German Grand Prix,1962-08-05,Hill,BRM,1,2,15,Finished,2:38:45.3,9
+1962,6,German Grand Prix,1962-08-05,Surtees,Lola,2,4,15,Finished,+2.5,6
+1962,6,German Grand Prix,1962-08-05,Gurney,Porsche,3,1,15,Finished,+4.4,4
+1962,6,German Grand Prix,1962-08-05,Clark,Lotus-Climax,4,3,15,Finished,+42.1,3
+1962,6,German Grand Prix,1962-08-05,McLaren,Cooper-Climax,5,5,15,Finished,+1:19.6,2
+1962,6,German Grand Prix,1962-08-05,Rodríguez,Ferrari,6,10,15,Finished,+1:23.8,1
+1962,6,German Grand Prix,1962-08-05,Bonnier,Porsche,7,6,15,Finished,+4:37.3,0
+1962,6,German Grand Prix,1962-08-05,Ginther,BRM,8,7,15,Finished,+5:00.1,0
+1962,6,German Grand Prix,1962-08-05,Maggs,Cooper-Climax,9,23,15,Finished,+5:07.0,0
+1962,6,German Grand Prix,1962-08-05,Baghetti,Ferrari,10,13,15,Finished,+8:14.7,0
+1962,6,German Grand Prix,1962-08-05,Burgess,Cooper-Climax,11,16,15,Finished,+8:15.3,0
+1962,6,German Grand Prix,1962-08-05,Siffert,Lotus-Climax,12,17,15,Finished,+8:15.5,0
+1962,6,German Grand Prix,1962-08-05,de Beaufort,Porsche,13,8,15,Finished,+9:11.8,0
+1962,6,German Grand Prix,1962-08-05,Walter,Porsche,14,14,14,+1 Lap,,0
+1962,6,German Grand Prix,1962-08-05,Vaccarella,Porsche,15,15,14,+1 Lap,,0
+1962,6,German Grand Prix,1962-08-05,Bianchi,ENB,16,25,14,+1 Lap,,0
+1962,6,German Grand Prix,1962-08-05,Lewis,Cooper-Climax,17,21,10,Suspension,,0
+1962,6,German Grand Prix,1962-08-05,Hill,Ferrari,18,12,9,Suspension,,0
+1962,6,German Grand Prix,1962-08-05,Brabham,Brabham,19,24,9,Throttle,,0
+1962,6,German Grand Prix,1962-08-05,Greene,Gilby,20,19,7,Suspension,,0
+1962,6,German Grand Prix,1962-08-05,Salvadori,Lola,21,9,4,Gearbox,,0
+1962,6,German Grand Prix,1962-08-05,Trintignant,Lotus-Climax,22,11,4,Gearbox,,0
+1962,6,German Grand Prix,1962-08-05,Bandini,Ferrari,23,18,4,Accident,,0
+1962,6,German Grand Prix,1962-08-05,Schiller,Lotus-BRM,24,20,4,Oil pressure,,0
+1962,6,German Grand Prix,1962-08-05,Collomb,Cooper-Climax,25,22,2,Gearbox,,0
+1962,6,German Grand Prix,1962-08-05,Taylor,Lotus-Climax,26,26,0,Accident,,0
+1962,6,German Grand Prix,1962-08-05,Shelly,Lotus-Climax,27,0,0,Did not qualify,,0
+1962,6,German Grand Prix,1962-08-05,Seidel,Lotus-BRM,28,0,0,Did not qualify,,0
+1962,6,German Grand Prix,1962-08-05,Chamberlain,Lotus-Climax,29,0,0,Did not qualify,,0
+1962,6,German Grand Prix,1962-08-05,Seiffert,Lotus-BRM,30,0,0,Did not qualify,,0
+1962,6,German Grand Prix,1962-08-05,Marsh,BRM,31,0,0,Withdrew,,0
+1962,7,Italian Grand Prix,1962-09-16,Hill,BRM,1,2,86,Finished,2:29:08.4,9
+1962,7,Italian Grand Prix,1962-09-16,Ginther,BRM,2,3,86,Finished,+29.8,6
+1962,7,Italian Grand Prix,1962-09-16,McLaren,Cooper-Climax,3,4,86,Finished,+57.8,4
+1962,7,Italian Grand Prix,1962-09-16,Mairesse,Ferrari,4,10,86,Finished,+58.2,3
+1962,7,Italian Grand Prix,1962-09-16,Baghetti,Ferrari,5,18,86,Finished,+1:31.3,2
+1962,7,Italian Grand Prix,1962-09-16,Bonnier,Porsche,6,9,85,+1 Lap,,1
+1962,7,Italian Grand Prix,1962-09-16,Maggs,Cooper-Climax,7,12,85,+1 Lap,,0
+1962,7,Italian Grand Prix,1962-09-16,Bandini,Ferrari,8,17,84,+2 Laps,,0
+1962,7,Italian Grand Prix,1962-09-16,Vaccarella,Lotus-Climax,9,14,84,+2 Laps,,0
+1962,7,Italian Grand Prix,1962-09-16,de Beaufort,Porsche,10,20,81,+5 Laps,,0
+1962,7,Italian Grand Prix,1962-09-16,Hill,Ferrari,11,15,81,+5 Laps,,0
+1962,7,Italian Grand Prix,1962-09-16,Gregory,Lotus-BRM,12,6,77,+9 Laps,,0
+1962,7,Italian Grand Prix,1962-09-16,Gurney,Porsche,13,7,66,Differential,,0
+1962,7,Italian Grand Prix,1962-09-16,Rodríguez,Ferrari,14,11,63,Ignition,,0
+1962,7,Italian Grand Prix,1962-09-16,Ireland,Lotus-Climax,15,5,45,Suspension,,0
+1962,7,Italian Grand Prix,1962-09-16,Surtees,Lola,16,8,42,Engine,,0
+1962,7,Italian Grand Prix,1962-09-16,Salvadori,Lola,17,13,41,Engine,,0
+1962,7,Italian Grand Prix,1962-09-16,Taylor,Lotus-Climax,18,16,25,Gearbox,,0
+1962,7,Italian Grand Prix,1962-09-16,Settember,Emeryson,19,21,18,Engine,,0
+1962,7,Italian Grand Prix,1962-09-16,Trintignant,Lotus-Climax,20,19,17,Electrical,,0
+1962,7,Italian Grand Prix,1962-09-16,Clark,Lotus-Climax,21,1,12,Gearbox,,0
+1962,7,Italian Grand Prix,1962-09-16,Shelly,Lotus-BRM,22,0,0,Did not qualify,,0
+1962,7,Italian Grand Prix,1962-09-16,Greene,Gilby,23,0,0,Did not qualify,,0
+1962,7,Italian Grand Prix,1962-09-16,Ashmore,Lotus-Climax,24,0,0,Did not qualify,,0
+1962,7,Italian Grand Prix,1962-09-16,Burgess,Cooper-Climax,25,0,0,Did not qualify,,0
+1962,7,Italian Grand Prix,1962-09-16,Siffert,Lotus-BRM,26,0,0,Did not qualify,,0
+1962,7,Italian Grand Prix,1962-09-16,Prinoth,Lotus-Climax,27,0,0,Did not qualify,,0
+1962,7,Italian Grand Prix,1962-09-16,Lippi,De Tomaso-Osca,28,0,0,Did not qualify,,0
+1962,7,Italian Grand Prix,1962-09-16,Chamberlain,Lotus-Climax,29,0,0,Did not qualify,,0
+1962,7,Italian Grand Prix,1962-09-16,Estéfano,De Tomaso,30,0,0,Did not qualify,,0
+1962,7,Italian Grand Prix,1962-09-16,Kuhnke,Lotus-Borgward,31,0,0,Withdrew,,0
+1962,8,United States Grand Prix,1962-10-07,Clark,Lotus-Climax,1,1,100,Finished,2:07:13.0,9
+1962,8,United States Grand Prix,1962-10-07,Hill,BRM,2,3,100,Finished,+9.2,6
+1962,8,United States Grand Prix,1962-10-07,McLaren,Cooper-Climax,3,6,99,+1 Lap,,4
+1962,8,United States Grand Prix,1962-10-07,Brabham,Brabham,4,5,99,+1 Lap,,3
+1962,8,United States Grand Prix,1962-10-07,Gurney,Porsche,5,4,99,+1 Lap,,2
+1962,8,United States Grand Prix,1962-10-07,Gregory,Lotus-BRM,6,7,99,+1 Lap,,1
+1962,8,United States Grand Prix,1962-10-07,Maggs,Cooper-Climax,7,10,97,+3 Laps,,0
+1962,8,United States Grand Prix,1962-10-07,Ireland,Lotus-Climax,8,16,96,+4 Laps,,0
+1962,8,United States Grand Prix,1962-10-07,Penske,Lotus-Climax,9,13,96,+4 Laps,,0
+1962,8,United States Grand Prix,1962-10-07,Schroeder,Lotus-Climax,10,17,93,+7 Laps,,0
+1962,8,United States Grand Prix,1962-10-07,Sharp,Cooper-Climax,11,15,91,+9 Laps,,0
+1962,8,United States Grand Prix,1962-10-07,Taylor,Lotus-Climax,12,8,85,+15 Laps,,0
+1962,8,United States Grand Prix,1962-10-07,Bonnier,Porsche,13,9,79,+21 Laps,,0
+1962,8,United States Grand Prix,1962-10-07,Ginther,BRM,14,2,35,Engine,,0
+1962,8,United States Grand Prix,1962-10-07,Trintignant,Lotus-Climax,15,19,32,Brakes,,0
+1962,8,United States Grand Prix,1962-10-07,Mayer,Cooper-Climax,16,12,31,Ignition,,0
+1962,8,United States Grand Prix,1962-10-07,Surtees,Lola,17,20,19,Engine,,0
+1962,8,United States Grand Prix,1962-10-07,de Beaufort,Porsche,18,14,9,Accident,,0
+1962,8,United States Grand Prix,1962-10-07,Salvadori,Lola,19,0,0,Withdrew,,0
+1962,8,United States Grand Prix,1962-10-07,Hall,Lotus-Climax,20,0,0,Withdrew,,0
+1962,9,South African Grand Prix,1962-12-29,Hill,BRM,1,2,82,Finished,2:08:03.3,9
+1962,9,South African Grand Prix,1962-12-29,McLaren,Cooper-Climax,2,8,82,Finished,+49.8,6
+1962,9,South African Grand Prix,1962-12-29,Maggs,Cooper-Climax,3,6,82,Finished,+50.3,4
+1962,9,South African Grand Prix,1962-12-29,Brabham,Brabham,4,3,82,Finished,+53.8,3
+1962,9,South African Grand Prix,1962-12-29,Ireland,Lotus-Climax,5,4,81,+1 Lap,,2
+1962,9,South African Grand Prix,1962-12-29,Lederle,Lotus-Climax,6,10,78,+4 Laps,,1
+1962,9,South African Grand Prix,1962-12-29,Ginther,BRM,7,7,78,+4 Laps,,0
+1962,9,South African Grand Prix,1962-12-29,Love,Cooper-Climax,8,12,78,+4 Laps,,0
+1962,9,South African Grand Prix,1962-12-29,Johnstone,BRM,9,17,76,+6 Laps,,0
+1962,9,South African Grand Prix,1962-12-29,Pieterse,Lotus-Climax,10,13,71,+11 Laps,,0
+1962,9,South African Grand Prix,1962-12-29,de Beaufort,Porsche,11,16,70,Fuel system,,0
+1962,9,South African Grand Prix,1962-12-29,Clark,Lotus-Climax,12,1,62,Oil leak,,0
+1962,9,South African Grand Prix,1962-12-29,Serrurier,LDS,13,14,62,Radiator,,0
+1962,9,South African Grand Prix,1962-12-29,Salvadori,Lola,14,11,56,Fuel leak,,0
+1962,9,South African Grand Prix,1962-12-29,Harris,Cooper-Alfa Romeo,15,15,31,Wheel bearing,,0
+1962,9,South African Grand Prix,1962-12-29,Surtees,Lola,16,5,26,Engine,,0
+1962,9,South African Grand Prix,1962-12-29,Taylor,Lotus-Climax,17,9,11,Gearbox,,0
+1962,9,South African Grand Prix,1962-12-29,Hocking,Lotus-Climax,18,0,0,Withdrew,,0
+1962,9,South African Grand Prix,1962-12-29,van der Vyver,Lotus-Climax,19,0,0,Withdrew,,0
+1962,9,South African Grand Prix,1962-12-29,Settember,Emeryson,20,0,0,Withdrew,,0
+1962,9,South African Grand Prix,1962-12-29,Tingle,Lotus-Climax,21,0,0,Withdrew,,0

@@ -1,0 +1,216 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1952,1,Swiss Grand Prix,1952-05-18,Taruffi,Ferrari,1,2,62,Finished,3:01:46.1,9
+1952,1,Swiss Grand Prix,1952-05-18,Fischer,Ferrari,2,5,62,Finished,+2:37.2,6
+1952,1,Swiss Grand Prix,1952-05-18,Behra,Gordini,3,7,61,+1 Lap,,4
+1952,1,Swiss Grand Prix,1952-05-18,Wharton,Frazer Nash,4,13,60,+2 Laps,,3
+1952,1,Swiss Grand Prix,1952-05-18,Brown,Cooper,5,15,59,+3 Laps,,2
+1952,1,Swiss Grand Prix,1952-05-18,de Graffenried,Maserati,6,8,58,+4 Laps,,0
+1952,1,Swiss Grand Prix,1952-05-18,Hirt,Ferrari,7,19,56,+6 Laps,,0
+1952,1,Swiss Grand Prix,1952-05-18,Brandon,Cooper,8,17,55,+7 Laps,,0
+1952,1,Swiss Grand Prix,1952-05-18,Bira,Simca,9,11,52,Engine,,0
+1952,1,Swiss Grand Prix,1952-05-18,Simon,Ferrari,10,4,51,Magneto,,0
+1952,1,Swiss Grand Prix,1952-05-18,Farina,Ferrari,10,4,51,Magneto,,0
+1952,1,Swiss Grand Prix,1952-05-18,Schell,Maserati,11,18,31,Engine,,0
+1952,1,Swiss Grand Prix,1952-05-18,Moss,HWM,12,9,24,Withdrew,,0
+1952,1,Swiss Grand Prix,1952-05-18,Macklin,HWM,13,12,24,Withdrew,,0
+1952,1,Swiss Grand Prix,1952-05-18,Manzon,Gordini,14,3,20,Radiator,,0
+1952,1,Swiss Grand Prix,1952-05-18,Farina,Ferrari,15,1,16,Magneto,,0
+1952,1,Swiss Grand Prix,1952-05-18,Collins,HWM,16,6,12,Halfshaft,,0
+1952,1,Swiss Grand Prix,1952-05-18,Abecassis,HWM,17,10,12,Halfshaft,,0
+1952,1,Swiss Grand Prix,1952-05-18,von Stuck,AFM,18,14,4,Engine,,0
+1952,1,Swiss Grand Prix,1952-05-18,Ulmen,Veritas,19,16,4,Fuel leak,,0
+1952,1,Swiss Grand Prix,1952-05-18,Rosier,Ferrari,20,20,2,Accident,,0
+1952,1,Swiss Grand Prix,1952-05-18,de Terra,Simca,21,21,1,Magneto,,0
+1952,2,Indianapolis 500,1952-05-30,Ruttman,Kuzma,1,7,200,Finished,3:52:41.88,8
+1952,2,Indianapolis 500,1952-05-30,Rathmann,Kurtis Kraft,2,10,200,Finished,+4:02.33,6
+1952,2,Indianapolis 500,1952-05-30,Hanks,Kurtis Kraft,3,5,200,Finished,+6:11.61,4
+1952,2,Indianapolis 500,1952-05-30,Carter,Lesovsky,4,6,200,Finished,+6:48.34,3
+1952,2,Indianapolis 500,1952-05-30,Cross,Kurtis Kraft,5,20,200,Finished,+8:40.15,2
+1952,2,Indianapolis 500,1952-05-30,Bryan,Kurtis Kraft,6,21,200,Finished,+9:24.32,0
+1952,2,Indianapolis 500,1952-05-30,Reece,Kurtis Kraft,7,23,200,Finished,+10:35.24,0
+1952,2,Indianapolis 500,1952-05-30,Connor,Kurtis Kraft,8,14,200,Finished,+12:00.61,0
+1952,2,Indianapolis 500,1952-05-30,Griffith,Kurtis Kraft,9,9,200,Finished,+12:23.76,0
+1952,2,Indianapolis 500,1952-05-30,Parsons,Kurtis Kraft,10,31,200,Finished,+13:37.78,0
+1952,2,Indianapolis 500,1952-05-30,McGrath,Kurtis Kraft,11,3,200,Finished,+14:21.72,0
+1952,2,Indianapolis 500,1952-05-30,Rigsby,Watson,12,26,200,Finished,+16:05.10,0
+1952,2,Indianapolis 500,1952-05-30,James,Kurtis Kraft,13,16,200,Finished,+16:55.65,0
+1952,2,Indianapolis 500,1952-05-30,Schindler,Stevens,14,15,200,Finished,+18:48.66,0
+1952,2,Indianapolis 500,1952-05-30,Fonder,Sherman,15,13,197,+3 Laps,,0
+1952,2,Indianapolis 500,1952-05-30,Johnson,Trevis,16,24,193,+7 Laps,,0
+1952,2,Indianapolis 500,1952-05-30,Vukovich,Kurtis Kraft,17,8,191,Steering,,1
+1952,2,Indianapolis 500,1952-05-30,Stevenson,Kurtis Kraft,18,11,187,+13 Laps,,0
+1952,2,Indianapolis 500,1952-05-30,Banks,Lesovsky,19,12,184,+16 Laps,,0
+1952,2,Indianapolis 500,1952-05-30,Ayulo,Lesovsky,20,28,184,+16 Laps,,0
+1952,2,Indianapolis 500,1952-05-30,McDowell,Kurtis Kraft,21,33,182,+18 Laps,,0
+1952,2,Indianapolis 500,1952-05-30,Webb,Bromme,22,29,162,Oil leak,,0
+1952,2,Indianapolis 500,1952-05-30,Ward,Kurtis Kraft,23,22,130,Oil pressure,,0
+1952,2,Indianapolis 500,1952-05-30,Bettenhausen,Deidt,24,30,93,Oil pressure,,0
+1952,2,Indianapolis 500,1952-05-30,Nalon,Kurtis Kraft,25,4,84,Supercharger,,0
+1952,2,Indianapolis 500,1952-05-30,Sweikert,Kurtis Kraft,26,32,77,Differential,,0
+1952,2,Indianapolis 500,1952-05-30,Agabashian,Kurtis Kraft,27,1,71,Turbo,,0
+1952,2,Indianapolis 500,1952-05-30,Hartley,Kurtis Kraft,28,18,65,Exhaust,,0
+1952,2,Indianapolis 500,1952-05-30,Scott,Kurtis Kraft,29,25,49,Transmission,,0
+1952,2,Indianapolis 500,1952-05-30,Miller,Kurtis Kraft,30,27,41,Supercharger,,0
+1952,2,Indianapolis 500,1952-05-30,Ascari,Ferrari,31,19,40,Wheel,,0
+1952,2,Indianapolis 500,1952-05-30,Ball,Stevens,32,17,34,Gearbox,,0
+1952,2,Indianapolis 500,1952-05-30,Linden,Kurtis Kraft,33,2,20,Oil pump,,0
+1952,3,Belgian Grand Prix,1952-06-22,Ascari,Ferrari,1,1,36,Finished,3:03:46.3,9
+1952,3,Belgian Grand Prix,1952-06-22,Farina,Ferrari,2,2,36,Finished,+1:55.2,6
+1952,3,Belgian Grand Prix,1952-06-22,Manzon,Gordini,3,4,36,Finished,+4:28.4,4
+1952,3,Belgian Grand Prix,1952-06-22,Hawthorn,Cooper,4,6,35,+1 Lap,,3
+1952,3,Belgian Grand Prix,1952-06-22,Frère,HWM,5,8,34,+2 Laps,,2
+1952,3,Belgian Grand Prix,1952-06-22,Brown,Cooper,6,9,34,+2 Laps,,0
+1952,3,Belgian Grand Prix,1952-06-22,de Tornaco,Ferrari,7,13,33,+3 Laps,,0
+1952,3,Belgian Grand Prix,1952-06-22,Claes,Gordini,8,19,33,+3 Laps,,0
+1952,3,Belgian Grand Prix,1952-06-22,Brandon,Cooper,9,12,33,+3 Laps,,0
+1952,3,Belgian Grand Prix,1952-06-22,Bira,Simca,10,18,32,+4 Laps,,0
+1952,3,Belgian Grand Prix,1952-06-22,Macklin,HWM,11,14,32,+4 Laps,,0
+1952,3,Belgian Grand Prix,1952-06-22,Laurent,HWM,12,20,32,+4 Laps,,0
+1952,3,Belgian Grand Prix,1952-06-22,Legat,Veritas,13,21,31,+5 Laps,,0
+1952,3,Belgian Grand Prix,1952-06-22,O'Brien,Simca,14,22,30,+6 Laps,,0
+1952,3,Belgian Grand Prix,1952-06-22,Gaze,HWM,15,16,30,+6 Laps,,0
+1952,3,Belgian Grand Prix,1952-06-22,Montgomerie-Charrington,Aston Butterworth,16,15,17,Engine,,0
+1952,3,Belgian Grand Prix,1952-06-22,Taruffi,Ferrari,17,3,13,Accident,,0
+1952,3,Belgian Grand Prix,1952-06-22,Behra,Gordini,18,5,13,Accident,,0
+1952,3,Belgian Grand Prix,1952-06-22,Wharton,Frazer Nash,19,7,10,Spun off,,0
+1952,3,Belgian Grand Prix,1952-06-22,Rosier,Ferrari,20,17,6,Transmission,,0
+1952,3,Belgian Grand Prix,1952-06-22,Collins,HWM,21,11,3,Halfshaft,,0
+1952,3,Belgian Grand Prix,1952-06-22,Moss,ERA,22,10,0,Engine,,0
+1952,4,French Grand Prix,1952-07-06,Ascari,Ferrari,1,1,77,Finished,3:00:00.0,9
+1952,4,French Grand Prix,1952-07-06,Farina,Ferrari,2,2,76,+1 Lap,,6
+1952,4,French Grand Prix,1952-07-06,Taruffi,Ferrari,3,3,75,+2 Laps,,4
+1952,4,French Grand Prix,1952-07-06,Manzon,Gordini,4,5,74,+3 Laps,,3
+1952,4,French Grand Prix,1952-07-06,Trintignant,Simca,5,6,72,+5 Laps,,2
+1952,4,French Grand Prix,1952-07-06,Collins,HWM,6,8,70,+7 Laps,,0
+1952,4,French Grand Prix,1952-07-06,Behra,Gordini,7,4,70,+7 Laps,,0
+1952,4,French Grand Prix,1952-07-06,Étancelin,Maserati,8,18,70,+7 Laps,,0
+1952,4,French Grand Prix,1952-07-06,Macklin,HWM,9,14,70,+7 Laps,,0
+1952,4,French Grand Prix,1952-07-06,Cabantous,HWM,10,10,68,+9 Laps,,0
+1952,4,French Grand Prix,1952-07-06,Fischer,Ferrari,11,17,66,+11 Laps,,0
+1952,4,French Grand Prix,1952-07-06,Hirt,Ferrari,11,17,66,+11 Laps,,0
+1952,4,French Grand Prix,1952-07-06,Comotti,Ferrari,12,16,63,+14 Laps,,0
+1952,4,French Grand Prix,1952-07-06,Bira,Gordini,13,7,56,Axle,,0
+1952,4,French Grand Prix,1952-07-06,Hawthorn,Cooper,14,15,51,Ignition,,0
+1952,4,French Grand Prix,1952-07-06,de Graffenried,Maserati,15,12,34,Brakes,,0
+1952,4,French Grand Prix,1952-07-06,Schell,Maserati,15,12,34,Brakes,,0
+1952,4,French Grand Prix,1952-07-06,Whitehead,Alta,16,13,17,Clutch,,0
+1952,4,French Grand Prix,1952-07-06,Rosier,Ferrari,17,9,17,Engine,,0
+1952,4,French Grand Prix,1952-07-06,Claes,Simca,18,20,15,Engine,,0
+1952,4,French Grand Prix,1952-07-06,Schell,Maserati,19,11,7,Gearbox,,0
+1952,4,French Grand Prix,1952-07-06,Carini,Ferrari,20,19,2,Engine,,0
+1952,5,British Grand Prix,1952-07-19,Ascari,Ferrari,1,2,85,Finished,2:46:11.0,9
+1952,5,British Grand Prix,1952-07-19,Taruffi,Ferrari,2,3,84,+1 Lap,,6
+1952,5,British Grand Prix,1952-07-19,Hawthorn,Cooper,3,7,83,+2 Laps,,4
+1952,5,British Grand Prix,1952-07-19,Poore,Connaught,4,8,83,+2 Laps,,3
+1952,5,British Grand Prix,1952-07-19,Thompson,Connaught,5,9,82,+3 Laps,,2
+1952,5,British Grand Prix,1952-07-19,Farina,Ferrari,6,1,82,+3 Laps,,0
+1952,5,British Grand Prix,1952-07-19,Parnell,Cooper,7,6,82,+3 Laps,,0
+1952,5,British Grand Prix,1952-07-19,Salvadori,Ferrari,8,19,82,+3 Laps,,0
+1952,5,British Grand Prix,1952-07-19,Downing,Connaught,9,5,82,+3 Laps,,0
+1952,5,British Grand Prix,1952-07-19,Whitehead,Ferrari,10,20,81,+4 Laps,,0
+1952,5,British Grand Prix,1952-07-19,Bira,Gordini,11,10,81,+4 Laps,,0
+1952,5,British Grand Prix,1952-07-19,Whitehead,Alta,12,12,80,+5 Laps,,0
+1952,5,British Grand Prix,1952-07-19,Fischer,Ferrari,13,15,80,+5 Laps,,0
+1952,5,British Grand Prix,1952-07-19,Claes,Simca,14,23,79,+6 Laps,,0
+1952,5,British Grand Prix,1952-07-19,Macklin,HWM,15,29,79,+6 Laps,,0
+1952,5,British Grand Prix,1952-07-19,McAlpine,Connaught,16,17,79,+6 Laps,,0
+1952,5,British Grand Prix,1952-07-19,Schell,Maserati,17,32,78,+7 Laps,,0
+1952,5,British Grand Prix,1952-07-19,Bianco,Maserati,18,28,77,+8 Laps,,0
+1952,5,British Grand Prix,1952-07-19,de Graffenried,Maserati,19,31,76,+9 Laps,,0
+1952,5,British Grand Prix,1952-07-19,Brandon,Cooper,20,18,76,+9 Laps,,0
+1952,5,British Grand Prix,1952-07-19,Crook,Frazer Nash,21,25,75,+10 Laps,,0
+1952,5,British Grand Prix,1952-07-19,Brown,Cooper,22,13,69,+16 Laps,,0
+1952,5,British Grand Prix,1952-07-19,Collins,HWM,23,14,73,Ignition,,0
+1952,5,British Grand Prix,1952-07-19,Hamilton,HWM,24,11,44,Engine,,0
+1952,5,British Grand Prix,1952-07-19,Moss,ERA,25,16,36,Engine,,0
+1952,5,British Grand Prix,1952-07-19,Trintignant,Gordini,26,21,21,Gearbox,,0
+1952,5,British Grand Prix,1952-07-19,Gaze,HWM,27,26,19,Engine,,0
+1952,5,British Grand Prix,1952-07-19,Murray,Cooper,28,22,14,Engine,,0
+1952,5,British Grand Prix,1952-07-19,Manzon,Gordini,29,4,9,Clutch,,0
+1952,5,British Grand Prix,1952-07-19,Hirt,Ferrari,30,24,3,Brakes,,0
+1952,5,British Grand Prix,1952-07-19,Cantoni,Maserati,31,27,0,Brakes,,0
+1952,5,British Grand Prix,1952-07-19,Aston,Aston Butterworth,32,0,0,Withdrew,,0
+1952,6,German Grand Prix,1952-08-03,Ascari,Ferrari,1,1,18,Finished,3:06:13.3,9
+1952,6,German Grand Prix,1952-08-03,Farina,Ferrari,2,2,18,Finished,+14.1,6
+1952,6,German Grand Prix,1952-08-03,Fischer,Ferrari,3,6,18,Finished,+7:10.1,4
+1952,6,German Grand Prix,1952-08-03,Taruffi,Ferrari,4,5,17,+1 Lap,,3
+1952,6,German Grand Prix,1952-08-03,Behra,Gordini,5,11,17,+1 Lap,,2
+1952,6,German Grand Prix,1952-08-03,Laurent,Ferrari,6,17,16,+2 Laps,,0
+1952,6,German Grand Prix,1952-08-03,Riess,Veritas,7,12,16,+2 Laps,,0
+1952,6,German Grand Prix,1952-08-03,Ulmen,Veritas,8,15,16,+2 Laps,,0
+1952,6,German Grand Prix,1952-08-03,Niedermayr,AFM,9,22,15,+3 Laps,,0
+1952,6,German Grand Prix,1952-08-03,Claes,HWM,10,32,15,+3 Laps,,0
+1952,6,German Grand Prix,1952-08-03,Klenk,Veritas,11,8,14,+4 Laps,,0
+1952,6,German Grand Prix,1952-08-03,Klodwig,BMW,12,29,14,+4 Laps,,0
+1952,6,German Grand Prix,1952-08-03,Manzon,Gordini,13,4,8,Accident,,0
+1952,6,German Grand Prix,1952-08-03,Heeks,AFM,14,9,7,Retired,,0
+1952,6,German Grand Prix,1952-08-03,Gaze,HWM,15,14,6,Gearbox,,0
+1952,6,German Grand Prix,1952-08-03,Brudes,Veritas,16,19,5,Engine,,0
+1952,6,German Grand Prix,1952-08-03,Balsa,BMW,17,25,5,Retired,,0
+1952,6,German Grand Prix,1952-08-03,Bechem,BMW,18,30,5,Ignition,,0
+1952,6,German Grand Prix,1952-08-03,Cantoni,Maserati,19,26,4,Axle,,0
+1952,6,German Grand Prix,1952-08-03,Krause,BMW,20,23,3,Retired,,0
+1952,6,German Grand Prix,1952-08-03,Schoeller,Ferrari,21,24,3,Suspension,,0
+1952,6,German Grand Prix,1952-08-03,Aston,Aston Butterworth,22,21,2,Oil pressure,,0
+1952,6,German Grand Prix,1952-08-03,Trintignant,Gordini,23,3,1,Accident,,0
+1952,6,German Grand Prix,1952-08-03,Pietsch,Veritas,24,7,1,Gearbox,,0
+1952,6,German Grand Prix,1952-08-03,Bonetto,Maserati,25,10,1,Disqualified,,0
+1952,6,German Grand Prix,1952-08-03,Frère,HWM,26,13,1,Gearbox,,0
+1952,6,German Grand Prix,1952-08-03,Helfrich,Veritas,27,18,1,Retired,,0
+1952,6,German Grand Prix,1952-08-03,Peters,Veritas,28,20,1,Retired,,0
+1952,6,German Grand Prix,1952-08-03,Carini,Ferrari,29,27,1,Brakes,,0
+1952,6,German Grand Prix,1952-08-03,Bianco,Maserati,30,16,0,Retired,,0
+1952,7,Dutch Grand Prix,1952-08-17,Ascari,Ferrari,1,1,90,Finished,2:53:28.5,9
+1952,7,Dutch Grand Prix,1952-08-17,Farina,Ferrari,2,2,90,Finished,+40.1,6
+1952,7,Dutch Grand Prix,1952-08-17,Villoresi,Ferrari,3,4,90,Finished,+1:34.4,4
+1952,7,Dutch Grand Prix,1952-08-17,Hawthorn,Cooper,4,3,88,+2 Laps,,3
+1952,7,Dutch Grand Prix,1952-08-17,Manzon,Gordini,5,6,87,+3 Laps,,2
+1952,7,Dutch Grand Prix,1952-08-17,Trintignant,Gordini,6,5,87,+3 Laps,,0
+1952,7,Dutch Grand Prix,1952-08-17,Hamilton,HWM,7,10,85,+5 Laps,,0
+1952,7,Dutch Grand Prix,1952-08-17,Macklin,HWM,8,9,84,+6 Laps,,0
+1952,7,Dutch Grand Prix,1952-08-17,Landi,Maserati,9,16,83,+7 Laps,,0
+1952,7,Dutch Grand Prix,1952-08-17,Flinterman,Maserati,9,16,83,+7 Laps,,0
+1952,7,Dutch Grand Prix,1952-08-17,Wharton,Frazer Nash,10,7,76,Wheel bearing,,0
+1952,7,Dutch Grand Prix,1952-08-17,Moss,ERA,11,18,73,Engine,,0
+1952,7,Dutch Grand Prix,1952-08-17,van der Lof,HWM,12,14,70,Not classified,,0
+1952,7,Dutch Grand Prix,1952-08-17,Downing,Connaught,13,13,27,Oil pressure,,0
+1952,7,Dutch Grand Prix,1952-08-17,de Tornaco,Ferrari,14,17,19,Engine,,0
+1952,7,Dutch Grand Prix,1952-08-17,Frère,Simca,15,11,15,Clutch,,0
+1952,7,Dutch Grand Prix,1952-08-17,Behra,Gordini,16,6,10,Electrical,,0
+1952,7,Dutch Grand Prix,1952-08-17,Flinterman,Maserati,17,15,7,Differential,,0
+1952,7,Dutch Grand Prix,1952-08-17,Bianco,Maserati,18,12,4,Axle,,0
+1952,8,Italian Grand Prix,1952-09-07,Ascari,Ferrari,1,1,80,Finished,2:50:45.6,8.5
+1952,8,Italian Grand Prix,1952-09-07,González,Maserati,2,5,80,Finished,+1:01.8,6.5
+1952,8,Italian Grand Prix,1952-09-07,Villoresi,Ferrari,3,2,80,Finished,+2:04.2,4
+1952,8,Italian Grand Prix,1952-09-07,Farina,Ferrari,4,3,80,Finished,+2:11.4,3
+1952,8,Italian Grand Prix,1952-09-07,Bonetto,Maserati,5,13,79,+1 Lap,,2
+1952,8,Italian Grand Prix,1952-09-07,Simon,Ferrari,6,8,79,+1 Lap,,0
+1952,8,Italian Grand Prix,1952-09-07,Taruffi,Ferrari,7,6,77,+3 Laps,,0
+1952,8,Italian Grand Prix,1952-09-07,Landi,Maserati,8,18,76,+4 Laps,,0
+1952,8,Italian Grand Prix,1952-09-07,Wharton,Cooper,9,15,76,+4 Laps,,0
+1952,8,Italian Grand Prix,1952-09-07,Rosier,Ferrari,10,17,75,+5 Laps,,0
+1952,8,Italian Grand Prix,1952-09-07,Cantoni,Maserati,11,23,75,+5 Laps,,0
+1952,8,Italian Grand Prix,1952-09-07,Poore,Connaught,12,19,74,+6 Laps,,0
+1952,8,Italian Grand Prix,1952-09-07,Brandon,Cooper,13,20,73,+7 Laps,,0
+1952,8,Italian Grand Prix,1952-09-07,Manzon,Gordini,14,7,71,+9 Laps,,0
+1952,8,Italian Grand Prix,1952-09-07,Brown,Cooper,15,12,68,+12 Laps,,0
+1952,8,Italian Grand Prix,1952-09-07,Moss,Connaught,16,1,60,Suspension,,0
+1952,8,Italian Grand Prix,1952-09-07,Bianco,Maserati,17,25,46,Engine,,0
+1952,8,Italian Grand Prix,1952-09-07,Behra,Gordini,18,11,42,Engine,,0
+1952,8,Italian Grand Prix,1952-09-07,Hawthorn,Cooper,19,12,38,Not classified,,0
+1952,8,Italian Grand Prix,1952-09-07,Rol,Maserati,20,16,24,Engine,,0
+1952,8,Italian Grand Prix,1952-09-07,Trintignant,Gordini,21,4,5,Engine,,0
+1952,8,Italian Grand Prix,1952-09-07,McAlpine,Connaught,22,2,4,Suspension,,0
+1952,8,Italian Grand Prix,1952-09-07,Fischer,Ferrari,23,16,3,Engine,,0
+1952,8,Italian Grand Prix,1952-09-07,Bayol,OSCA,24,10,0,Gearbox,,0
+1952,8,Italian Grand Prix,1952-09-07,de Tornaco,Ferrari,25,0,0,Did not qualify,,0
+1952,8,Italian Grand Prix,1952-09-07,Crespo,Maserati,26,0,0,Did not qualify,,0
+1952,8,Italian Grand Prix,1952-09-07,de Graffenried,Maserati,27,0,0,Did not qualify,,0
+1952,8,Italian Grand Prix,1952-09-07,Collins,HWM,28,0,0,Did not qualify,,0
+1952,8,Italian Grand Prix,1952-09-07,Whitehead,Ferrari,29,0,0,Did not qualify,,0
+1952,8,Italian Grand Prix,1952-09-07,Gaze,HWM,30,0,0,Did not qualify,,0
+1952,8,Italian Grand Prix,1952-09-07,Aston,Aston Butterworth,31,0,0,Did not qualify,,0
+1952,8,Italian Grand Prix,1952-09-07,Macklin,HWM,32,0,0,Did not qualify,,0
+1952,8,Italian Grand Prix,1952-09-07,von Stuck,Ferrari,33,0,0,Did not qualify,,0
+1952,8,Italian Grand Prix,1952-09-07,Dusio,Cisitalia,34,0,0,Did not qualify,,0
+1952,8,Italian Grand Prix,1952-09-07,Claes,Simca,35,0,0,Did not qualify,,0

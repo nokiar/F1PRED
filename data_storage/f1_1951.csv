@@ -1,0 +1,180 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1951,1,Swiss Grand Prix,1951-05-27,Fangio,Alfa Romeo,1,1,42,Finished,2:07:53.64,9
+1951,1,Swiss Grand Prix,1951-05-27,Taruffi,Ferrari,2,6,42,Finished,+55.24,6
+1951,1,Swiss Grand Prix,1951-05-27,Farina,Alfa Romeo,3,2,42,Finished,+1:19.31,4
+1951,1,Swiss Grand Prix,1951-05-27,Sanesi,Alfa Romeo,4,4,41,+1 Lap,,3
+1951,1,Swiss Grand Prix,1951-05-27,de Graffenried,Alfa Romeo,5,5,40,+2 Laps,,2
+1951,1,Swiss Grand Prix,1951-05-27,Ascari,Ferrari,6,7,40,+2 Laps,,0
+1951,1,Swiss Grand Prix,1951-05-27,Chiron,Maserati,7,19,40,+2 Laps,,0
+1951,1,Swiss Grand Prix,1951-05-27,Moss,HWM,8,14,40,+2 Laps,,0
+1951,1,Swiss Grand Prix,1951-05-27,Rosier,Talbot-Lago,9,8,39,+3 Laps,,0
+1951,1,Swiss Grand Prix,1951-05-27,Étancelin,Talbot-Lago,10,12,39,+3 Laps,,0
+1951,1,Swiss Grand Prix,1951-05-27,Fischer,Ferrari,11,10,39,+3 Laps,,0
+1951,1,Swiss Grand Prix,1951-05-27,Schell,Maserati,12,17,38,+4 Laps,,0
+1951,1,Swiss Grand Prix,1951-05-27,Claes,Talbot-Lago,13,18,35,+7 Laps,,0
+1951,1,Swiss Grand Prix,1951-05-27,Mairesse,Talbot-Lago,14,21,31,+11 Laps,,0
+1951,1,Swiss Grand Prix,1951-05-27,Whitehead,Ferrari,15,9,36,Accident,,0
+1951,1,Swiss Grand Prix,1951-05-27,Louveau,Talbot-Lago,16,11,30,Accident,,0
+1951,1,Swiss Grand Prix,1951-05-27,Abecassis,HWM,17,20,23,Magneto,,0
+1951,1,Swiss Grand Prix,1951-05-27,Cabantous,Talbot-Lago,18,15,14,Ignition,,0
+1951,1,Swiss Grand Prix,1951-05-27,Villoresi,Ferrari,19,3,12,Accident,,0
+1951,1,Swiss Grand Prix,1951-05-27,González,Talbot-Lago,20,13,10,Oil pump,,0
+1951,1,Swiss Grand Prix,1951-05-27,Hirt,Veritas,21,16,0,Fuel system,,0
+1951,2,Indianapolis 500,1951-05-30,Wallard,Kurtis Kraft,1,2,200,Finished,3:57:38.05,9
+1951,2,Indianapolis 500,1951-05-30,Nazaruk,Kurtis Kraft,2,7,200,Finished,+1:47.24,6
+1951,2,Indianapolis 500,1951-05-30,McGrath,Kurtis Kraft,3,3,200,Finished,+2:51.39,2
+1951,2,Indianapolis 500,1951-05-30,Ayulo,Kurtis Kraft,3,3,200,Finished,+2:51.39,2
+1951,2,Indianapolis 500,1951-05-30,Linden,Sherman,4,31,200,Finished,+4:40.12,3
+1951,2,Indianapolis 500,1951-05-30,Ball,Schroeder,5,29,200,Finished,+4:52.23,2
+1951,2,Indianapolis 500,1951-05-30,Banks,Moore,6,17,200,Finished,+5:40.02,0
+1951,2,Indianapolis 500,1951-05-30,Forberg,Kurtis Kraft,7,24,193,+7 Laps,,0
+1951,2,Indianapolis 500,1951-05-30,Carter,Deidt,8,4,180,+20 Laps,,0
+1951,2,Indianapolis 500,1951-05-30,Bettenhausen,Deidt,9,9,178,Spun off,,0
+1951,2,Indianapolis 500,1951-05-30,Nalon,Kurtis Kraft,10,1,151,Retired,,0
+1951,2,Indianapolis 500,1951-05-30,Force,Kurtis Kraft,11,22,142,Engine,,0
+1951,2,Indianapolis 500,1951-05-30,Hanks,Kurtis Kraft,12,12,135,Engine,,0
+1951,2,Indianapolis 500,1951-05-30,Schindler,Kurtis Kraft,13,16,129,Engine,,0
+1951,2,Indianapolis 500,1951-05-30,Rose,Deidt,14,5,126,Accident,,0
+1951,2,Indianapolis 500,1951-05-30,Faulkner,Kuzma,15,14,123,Engine,,0
+1951,2,Indianapolis 500,1951-05-30,Davies,Pawl,16,27,110,Axle,,0
+1951,2,Indianapolis 500,1951-05-30,Agabashian,Kurtis Kraft,17,11,109,Clutch,,0
+1951,2,Indianapolis 500,1951-05-30,Scarborough,Kurtis Kraft,18,15,93,Heat shield fire,,0
+1951,2,Indianapolis 500,1951-05-30,Mackey,Hall,19,33,97,Clutch,,0
+1951,2,Indianapolis 500,1951-05-30,Stevenson,Marchese,20,19,93,Heat shield fire,,0
+1951,2,Indianapolis 500,1951-05-30,Parsons,Kurtis Kraft,21,8,87,Magneto,,0
+1951,2,Indianapolis 500,1951-05-30,Green,Kurtis Kraft,22,10,80,Engine,,0
+1951,2,Indianapolis 500,1951-05-30,Ruttman,Kurtis Kraft,23,6,78,Engine,,0
+1951,2,Indianapolis 500,1951-05-30,Dinsmore,Schroeder,24,32,73,Overheating,,0
+1951,2,Indianapolis 500,1951-05-30,Miller,Kurtis Kraft,25,28,56,Ignition,,0
+1951,2,Indianapolis 500,1951-05-30,Brown,Kurtis Kraft,26,13,55,Magneto,,0
+1951,2,Indianapolis 500,1951-05-30,Ward,Bromme,27,25,34,Oil pipe,,0
+1951,2,Indianapolis 500,1951-05-30,Griffith,Kurtis Kraft,28,18,30,Axle,,0
+1951,2,Indianapolis 500,1951-05-30,Vukovich,Trevis,29,20,29,Oil leak,,0
+1951,2,Indianapolis 500,1951-05-30,Connor,Lesovsky,30,21,29,Transmission,,0
+1951,2,Indianapolis 500,1951-05-30,Hellings,Deidt,31,23,18,Engine,,0
+1951,2,Indianapolis 500,1951-05-30,McDowell,Maserati,32,26,15,Fuel leak,,0
+1951,2,Indianapolis 500,1951-05-30,James,Watson,33,30,8,Transmission,,0
+1951,3,Belgian Grand Prix,1951-06-17,Farina,Alfa Romeo,1,2,36,Finished,2:45:46.2,8
+1951,3,Belgian Grand Prix,1951-06-17,Ascari,Ferrari,2,4,36,Finished,+2:51.0,6
+1951,3,Belgian Grand Prix,1951-06-17,Villoresi,Ferrari,3,3,36,Finished,+4:21.9,4
+1951,3,Belgian Grand Prix,1951-06-17,Rosier,Talbot-Lago,4,7,34,+2 Laps,,3
+1951,3,Belgian Grand Prix,1951-06-17,Cabantous,Talbot-Lago,5,8,34,+2 Laps,,2
+1951,3,Belgian Grand Prix,1951-06-17,Pilette,Talbot-Lago,6,12,33,+3 Laps,,0
+1951,3,Belgian Grand Prix,1951-06-17,Claes,Talbot-Lago,7,11,33,+3 Laps,,0
+1951,3,Belgian Grand Prix,1951-06-17,Levegh,Talbot-Lago,8,13,32,+4 Laps,,0
+1951,3,Belgian Grand Prix,1951-06-17,Fangio,Alfa Romeo,9,1,32,+4 Laps,,1
+1951,3,Belgian Grand Prix,1951-06-17,Chiron,Talbot-Lago,10,9,28,Engine,,0
+1951,3,Belgian Grand Prix,1951-06-17,Sanesi,Alfa Romeo,11,6,11,Radiator,,0
+1951,3,Belgian Grand Prix,1951-06-17,Taruffi,Ferrari,12,5,8,Transmission,,0
+1951,3,Belgian Grand Prix,1951-06-17,Étancelin,Talbot-Lago,13,10,0,Transmission,,0
+1951,4,French Grand Prix,1951-07-01,Fagioli,Alfa Romeo,1,7,77,Finished,3:22:11.0,4
+1951,4,French Grand Prix,1951-07-01,Fangio,Alfa Romeo,1,7,77,Finished,3:22:11.0,5
+1951,4,French Grand Prix,1951-07-01,Ascari,Ferrari,2,6,77,Finished,+58.2,3
+1951,4,French Grand Prix,1951-07-01,González,Ferrari,2,6,77,Finished,+58.2,3
+1951,4,French Grand Prix,1951-07-01,Villoresi,Ferrari,3,4,74,+3 Laps,,4
+1951,4,French Grand Prix,1951-07-01,Parnell,Ferrari,4,9,73,+4 Laps,,3
+1951,4,French Grand Prix,1951-07-01,Farina,Alfa Romeo,5,2,73,+4 Laps,,2
+1951,4,French Grand Prix,1951-07-01,Chiron,Talbot-Lago,6,8,71,+6 Laps,,0
+1951,4,French Grand Prix,1951-07-01,Cabantous,Talbot-Lago,7,11,71,+6 Laps,,0
+1951,4,French Grand Prix,1951-07-01,Chaboud,Talbot-Lago,8,14,69,+8 Laps,,0
+1951,4,French Grand Prix,1951-07-01,Mairesse,Talbot-Lago,9,19,66,+11 Laps,,0
+1951,4,French Grand Prix,1951-07-01,Sanesi,Alfa Romeo,10,5,58,+19 Laps,,0
+1951,4,French Grand Prix,1951-07-01,Fangio,Alfa Romeo,11,1,55,+22 Laps,,0
+1951,4,French Grand Prix,1951-07-01,Fagioli,Alfa Romeo,11,1,55,+22 Laps,,0
+1951,4,French Grand Prix,1951-07-01,Claes,Talbot-Lago,12,12,54,Accident,,0
+1951,4,French Grand Prix,1951-07-01,Rosier,Talbot-Lago,13,13,43,Transmission,,0
+1951,4,French Grand Prix,1951-07-01,Étancelin,Talbot-Lago,14,10,37,Engine,,0
+1951,4,French Grand Prix,1951-07-01,Gordini,Simca,15,17,27,Engine,,0
+1951,4,French Grand Prix,1951-07-01,Schell,Maserati,16,22,23,Overheating,,0
+1951,4,French Grand Prix,1951-07-01,Trintignant,Simca,17,18,11,Engine,,0
+1951,4,French Grand Prix,1951-07-01,Ascari,Ferrari,18,3,10,Gearbox,,0
+1951,4,French Grand Prix,1951-07-01,Simon,Simca,19,21,7,Engine,,0
+1951,4,French Grand Prix,1951-07-01,Manzon,Simca,20,23,3,Engine,,0
+1951,4,French Grand Prix,1951-07-01,Marimón,Maserati,21,15,2,Engine,,0
+1951,4,French Grand Prix,1951-07-01,de Graffenried,Maserati,22,16,1,Transmission,,0
+1951,4,French Grand Prix,1951-07-01,Whitehead,Ferrari,23,20,1,Engine,,0
+1951,5,British Grand Prix,1951-07-14,González,Ferrari,1,1,90,Finished,2:42:18.2,8
+1951,5,British Grand Prix,1951-07-14,Fangio,Alfa Romeo,2,2,90,Finished,+51.0,6
+1951,5,British Grand Prix,1951-07-14,Villoresi,Ferrari,3,5,88,+2 Laps,,4
+1951,5,British Grand Prix,1951-07-14,Bonetto,Alfa Romeo,4,7,87,+3 Laps,,3
+1951,5,British Grand Prix,1951-07-14,Parnell,BRM,5,20,85,+5 Laps,,2
+1951,5,British Grand Prix,1951-07-14,Sanesi,Alfa Romeo,6,6,84,+6 Laps,,0
+1951,5,British Grand Prix,1951-07-14,Walker,BRM,7,19,84,+6 Laps,,0
+1951,5,British Grand Prix,1951-07-14,Shawe Taylor,ERA,8,12,84,+6 Laps,,0
+1951,5,British Grand Prix,1951-07-14,Whitehead,Ferrari,9,8,83,+7 Laps,,0
+1951,5,British Grand Prix,1951-07-14,Rosier,Talbot-Lago,10,9,83,+7 Laps,,0
+1951,5,British Grand Prix,1951-07-14,Gerard,ERA,11,10,82,+8 Laps,,0
+1951,5,British Grand Prix,1951-07-14,Hamilton,Talbot-Lago,12,11,81,+9 Laps,,0
+1951,5,British Grand Prix,1951-07-14,Claes,Talbot-Lago,13,14,80,+10 Laps,,0
+1951,5,British Grand Prix,1951-07-14,Farina,Alfa Romeo,14,3,75,Clutch,,1
+1951,5,British Grand Prix,1951-07-14,Kelly,Alta,15,18,75,Not classified,,0
+1951,5,British Grand Prix,1951-07-14,Ascari,Ferrari,16,4,56,Gearbox,,0
+1951,5,British Grand Prix,1951-07-14,Fotheringham-Parker,Maserati,17,16,46,Oil leak,,0
+1951,5,British Grand Prix,1951-07-14,Murray,Maserati,18,15,45,Engine,,0
+1951,5,British Grand Prix,1951-07-14,Chiron,Talbot-Lago,19,13,41,Brakes,,0
+1951,5,British Grand Prix,1951-07-14,James,Maserati,20,17,23,Radiator,,0
+1951,6,German Grand Prix,1951-07-29,Ascari,Ferrari,1,1,20,Finished,3:23:03.3,8
+1951,6,German Grand Prix,1951-07-29,Fangio,Alfa Romeo,2,3,20,Finished,+30.5,7
+1951,6,German Grand Prix,1951-07-29,González,Ferrari,3,2,20,Finished,+4:39.0,4
+1951,6,German Grand Prix,1951-07-29,Villoresi,Ferrari,4,5,20,Finished,+5:50.2,3
+1951,6,German Grand Prix,1951-07-29,Taruffi,Ferrari,5,6,20,Finished,+7:49.1,2
+1951,6,German Grand Prix,1951-07-29,Fischer,Ferrari,6,8,19,+1 Lap,,0
+1951,6,German Grand Prix,1951-07-29,Manzon,Simca,7,9,19,+1 Lap,,0
+1951,6,German Grand Prix,1951-07-29,Rosier,Talbot-Lago,8,15,19,+1 Lap,,0
+1951,6,German Grand Prix,1951-07-29,Levegh,Talbot-Lago,9,19,18,+2 Laps,,0
+1951,6,German Grand Prix,1951-07-29,Swaters,Talbot-Lago,10,22,18,+2 Laps,,0
+1951,6,German Grand Prix,1951-07-29,Claes,Talbot-Lago,11,18,17,+3 Laps,,0
+1951,6,German Grand Prix,1951-07-29,Cabantous,Talbot-Lago,12,11,17,Accident,,0
+1951,6,German Grand Prix,1951-07-29,Trintignant,Simca,13,14,13,Engine,,0
+1951,6,German Grand Prix,1951-07-29,Bonetto,Alfa Romeo,14,10,12,Magneto,,0
+1951,6,German Grand Prix,1951-07-29,Hamilton,Talbot-Lago,15,20,12,Oil pressure,,0
+1951,6,German Grand Prix,1951-07-29,Pietsch,Alfa Romeo,16,7,11,Accident,,0
+1951,6,German Grand Prix,1951-07-29,Simon,Simca,17,12,11,Engine,,0
+1951,6,German Grand Prix,1951-07-29,Farina,Alfa Romeo,18,4,8,Overheating,,0
+1951,6,German Grand Prix,1951-07-29,Étancelin,Talbot-Lago,19,21,4,Gearbox,,0
+1951,6,German Grand Prix,1951-07-29,Chiron,Talbot-Lago,20,13,3,Ignition,,0
+1951,6,German Grand Prix,1951-07-29,Branca,Maserati,21,17,3,Engine,,0
+1951,6,German Grand Prix,1951-07-29,de Graffenried,Maserati,22,16,2,Engine,,0
+1951,7,Italian Grand Prix,1951-09-16,Ascari,Ferrari,1,3,80,Finished,2:42:39.3,8
+1951,7,Italian Grand Prix,1951-09-16,González,Ferrari,2,4,80,Finished,+24.6,6
+1951,7,Italian Grand Prix,1951-09-16,Bonetto,Alfa Romeo,3,7,79,+1 Lap,,2
+1951,7,Italian Grand Prix,1951-09-16,Farina,Alfa Romeo,3,7,79,+1 Lap,,3
+1951,7,Italian Grand Prix,1951-09-16,Villoresi,Ferrari,4,5,79,+1 Lap,,3
+1951,7,Italian Grand Prix,1951-09-16,Taruffi,Ferrari,5,6,78,+2 Laps,,2
+1951,7,Italian Grand Prix,1951-09-16,Simon,Simca,6,11,74,+6 Laps,,0
+1951,7,Italian Grand Prix,1951-09-16,Rosier,Talbot-Lago,7,15,73,+7 Laps,,0
+1951,7,Italian Grand Prix,1951-09-16,Cabantous,Talbot-Lago,8,14,72,+8 Laps,,0
+1951,7,Italian Grand Prix,1951-09-16,Rol,OSCA,9,18,67,+13 Laps,,0
+1951,7,Italian Grand Prix,1951-09-16,Fangio,Alfa Romeo,10,1,39,Engine,,0
+1951,7,Italian Grand Prix,1951-09-16,Trintignant,Simca,11,12,29,Engine,,0
+1951,7,Italian Grand Prix,1951-09-16,Manzon,Simca,12,13,29,Engine,,0
+1951,7,Italian Grand Prix,1951-09-16,Chiron,Talbot-Lago,13,17,23,Ignition,,0
+1951,7,Italian Grand Prix,1951-09-16,Levegh,Talbot-Lago,14,20,9,Engine,,0
+1951,7,Italian Grand Prix,1951-09-16,Swaters,Talbot-Lago,15,22,7,Overheating,,0
+1951,7,Italian Grand Prix,1951-09-16,Farina,Alfa Romeo,16,2,6,Engine,,0
+1951,7,Italian Grand Prix,1951-09-16,Claes,Talbot-Lago,17,21,4,Oil pump,,0
+1951,7,Italian Grand Prix,1951-09-16,de Graffenried,Alfa Romeo,18,9,1,Supercharger,,0
+1951,7,Italian Grand Prix,1951-09-16,Whitehead,Ferrari,19,19,1,Magneto,,0
+1951,7,Italian Grand Prix,1951-09-16,Landi,Ferrari,20,16,0,Transmission,,0
+1951,7,Italian Grand Prix,1951-09-16,Parnell,BRM,21,8,0,Withdrew,,0
+1951,7,Italian Grand Prix,1951-09-16,Richardson,BRM,22,10,0,Withdrew,,0
+1951,8,Spanish Grand Prix,1951-10-28,Fangio,Alfa Romeo,1,2,70,Finished,2:46:54.10,9
+1951,8,Spanish Grand Prix,1951-10-28,González,Ferrari,2,3,70,Finished,+54.28,6
+1951,8,Spanish Grand Prix,1951-10-28,Farina,Alfa Romeo,3,4,70,Finished,+1:45.54,4
+1951,8,Spanish Grand Prix,1951-10-28,Ascari,Ferrari,4,1,68,+2 Laps,,3
+1951,8,Spanish Grand Prix,1951-10-28,Bonetto,Alfa Romeo,5,8,68,+2 Laps,,2
+1951,8,Spanish Grand Prix,1951-10-28,de Graffenried,Alfa Romeo,6,6,66,+4 Laps,,0
+1951,8,Spanish Grand Prix,1951-10-28,Rosier,Talbot-Lago,7,20,64,+6 Laps,,0
+1951,8,Spanish Grand Prix,1951-10-28,Étancelin,Talbot-Lago,8,13,63,+7 Laps,,0
+1951,8,Spanish Grand Prix,1951-10-28,Manzon,Simca,9,9,63,+7 Laps,,0
+1951,8,Spanish Grand Prix,1951-10-28,Godia,Maserati,10,17,60,+10 Laps,,0
+1951,8,Spanish Grand Prix,1951-10-28,Villoresi,Ferrari,11,5,48,Ignition,,0
+1951,8,Spanish Grand Prix,1951-10-28,Simon,Simca,12,10,48,Engine,,0
+1951,8,Spanish Grand Prix,1951-10-28,Claes,Talbot-Lago,13,15,37,Accident,,0
+1951,8,Spanish Grand Prix,1951-10-28,Taruffi,Ferrari,14,7,30,Wheel,,0
+1951,8,Spanish Grand Prix,1951-10-28,Trintignant,Simca,15,11,25,Engine,,0
+1951,8,Spanish Grand Prix,1951-10-28,Grignard,Talbot-Lago,16,16,23,Engine,,0
+1951,8,Spanish Grand Prix,1951-10-28,Cabantous,Talbot-Lago,17,14,7,Accident,,0
+1951,8,Spanish Grand Prix,1951-10-28,Chiron,Talbot-Lago,18,12,4,Ignition,,0
+1951,8,Spanish Grand Prix,1951-10-28,Bira,Maserati,19,19,1,Engine,,0
+1951,8,Spanish Grand Prix,1951-10-28,Jover,Maserati,20,18,0,Engine,,0

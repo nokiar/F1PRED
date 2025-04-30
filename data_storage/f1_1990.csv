@@ -1,0 +1,543 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1990,1,United States Grand Prix,1990-03-11,Senna,McLaren,1,5,72,Finished,1:52:32.829,9
+1990,1,United States Grand Prix,1990-03-11,Alesi,Tyrrell,2,4,72,Finished,+8.685,6
+1990,1,United States Grand Prix,1990-03-11,Boutsen,Williams,3,9,72,Finished,+54.080,4
+1990,1,United States Grand Prix,1990-03-11,Piquet,Benetton,4,6,72,Finished,+1:08.358,3
+1990,1,United States Grand Prix,1990-03-11,Modena,Brabham,5,10,72,Finished,+1:09.503,2
+1990,1,United States Grand Prix,1990-03-11,Nakajima,Tyrrell,6,11,71,+1 Lap,,1
+1990,1,United States Grand Prix,1990-03-11,Martini,Minardi,7,2,71,+1 Lap,,0
+1990,1,United States Grand Prix,1990-03-11,Bernard,Larrousse,8,15,71,+1 Lap,,0
+1990,1,United States Grand Prix,1990-03-11,Patrese,Williams,9,12,71,+1 Lap,,0
+1990,1,United States Grand Prix,1990-03-11,Alboreto,Arrows,10,21,70,+2 Laps,,0
+1990,1,United States Grand Prix,1990-03-11,Nannini,Benetton,11,22,70,+2 Laps,,0
+1990,1,United States Grand Prix,1990-03-11,Schneider,Arrows,12,20,70,+2 Laps,,0
+1990,1,United States Grand Prix,1990-03-11,Moreno,Euro Brun,13,16,67,+5 Laps,,0
+1990,1,United States Grand Prix,1990-03-11,Gugelmin,Leyton House,14,25,66,+6 Laps,,0
+1990,1,United States Grand Prix,1990-03-11,Barilla,Minardi,15,14,54,Physical,,0
+1990,1,United States Grand Prix,1990-03-11,Suzuki,Larrousse,16,18,53,Brakes,,0
+1990,1,United States Grand Prix,1990-03-11,Mansell,Ferrari,17,17,49,Clutch,,0
+1990,1,United States Grand Prix,1990-03-11,Berger,McLaren,18,1,44,Clutch,,0
+1990,1,United States Grand Prix,1990-03-11,Foitek,Brabham,19,23,39,Accident,,0
+1990,1,United States Grand Prix,1990-03-11,Grouillard,Osella,20,8,39,Collision,,0
+1990,1,United States Grand Prix,1990-03-11,de Cesaris,Dallara,21,3,25,Engine,,0
+1990,1,United States Grand Prix,1990-03-11,Prost,Ferrari,22,7,21,Oil leak,,0
+1990,1,United States Grand Prix,1990-03-11,Capelli,Leyton House,23,26,20,Electrical,,0
+1990,1,United States Grand Prix,1990-03-11,Warwick,Team Lotus,24,24,6,Gearbox,,0
+1990,1,United States Grand Prix,1990-03-11,Larini,Ligier,25,13,4,Throttle,,0
+1990,1,United States Grand Prix,1990-03-11,Donnelly,Team Lotus,26,19,0,Gearbox,,0
+1990,1,United States Grand Prix,1990-03-11,Alliot,Ligier,27,0,0,Disqualified,,0
+1990,1,United States Grand Prix,1990-03-11,Johansson,Onyx,28,0,0,Did not qualify,,0
+1990,1,United States Grand Prix,1990-03-11,Morbidelli,Dallara,29,0,0,Did not qualify,,0
+1990,1,United States Grand Prix,1990-03-11,Järvilehto,Onyx,30,0,0,Did not qualify,,0
+1990,1,United States Grand Prix,1990-03-11,Tarquini,AGS,31,0,0,Did not prequalify,,0
+1990,1,United States Grand Prix,1990-03-11,Dalmas,AGS,32,0,0,Did not prequalify,,0
+1990,1,United States Grand Prix,1990-03-11,Langes,Euro Brun,33,0,0,Did not prequalify,,0
+1990,1,United States Grand Prix,1990-03-11,Brabham,Life,34,0,0,Did not prequalify,,0
+1990,1,United States Grand Prix,1990-03-11,Gachot,Coloni,35,0,0,Did not prequalify,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Prost,Ferrari,1,6,71,Finished,1:37:21.258,9
+1990,2,Brazilian Grand Prix,1990-03-25,Berger,McLaren,2,2,71,Finished,+13.564,6
+1990,2,Brazilian Grand Prix,1990-03-25,Senna,McLaren,3,1,71,Finished,+37.722,4
+1990,2,Brazilian Grand Prix,1990-03-25,Mansell,Ferrari,4,5,71,Finished,+47.266,3
+1990,2,Brazilian Grand Prix,1990-03-25,Boutsen,Williams,5,3,70,+1 Lap,,2
+1990,2,Brazilian Grand Prix,1990-03-25,Piquet,Benetton,6,13,70,+1 Lap,,1
+1990,2,Brazilian Grand Prix,1990-03-25,Alesi,Tyrrell,7,7,70,+1 Lap,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Nakajima,Tyrrell,8,19,70,+1 Lap,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Martini,Minardi,9,8,69,+2 Laps,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Nannini,Benetton,10,15,68,Puncture,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Larini,Ligier,11,20,68,+3 Laps,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Alliot,Ligier,12,10,68,+3 Laps,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Patrese,Williams,13,4,65,Oil pressure,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Morbidelli,Dallara,14,16,64,+7 Laps,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Caffi,Arrows,15,25,49,Clutch,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Donnelly,Team Lotus,16,14,43,Spun off,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Modena,Brabham,17,12,39,Spun off,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Barilla,Minardi,18,17,38,Engine,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Dalmas,AGS,19,26,28,Suspension,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Warwick,Team Lotus,20,24,25,Electrical,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Suzuki,Larrousse,21,18,24,Suspension,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Alboreto,Arrows,22,23,24,Suspension,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Foitek,Brabham,23,22,14,Transmission,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Bernard,Larrousse,24,11,13,Gearbox,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Grouillard,Osella,25,21,8,Collision,,0
+1990,2,Brazilian Grand Prix,1990-03-25,de Cesaris,Dallara,26,9,0,Collision,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Johansson,Onyx,27,0,0,Did not qualify,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Järvilehto,Onyx,28,0,0,Did not qualify,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Capelli,Leyton House,29,0,0,Did not qualify,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Gugelmin,Leyton House,30,0,0,Did not qualify,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Tarquini,AGS,31,0,0,Did not prequalify,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Moreno,Euro Brun,32,0,0,Did not prequalify,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Gachot,Coloni,33,0,0,Did not prequalify,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Langes,Euro Brun,34,0,0,Did not prequalify,,0
+1990,2,Brazilian Grand Prix,1990-03-25,Brabham,Life,35,0,0,Did not prequalify,,0
+1990,3,San Marino Grand Prix,1990-05-13,Patrese,Williams,1,3,61,Finished,1:30:55.478,9
+1990,3,San Marino Grand Prix,1990-05-13,Berger,McLaren,2,2,61,Finished,+5.117,6
+1990,3,San Marino Grand Prix,1990-05-13,Nannini,Benetton,3,9,61,Finished,+6.240,4
+1990,3,San Marino Grand Prix,1990-05-13,Prost,Ferrari,4,6,61,Finished,+6.843,3
+1990,3,San Marino Grand Prix,1990-05-13,Piquet,Benetton,5,8,61,Finished,+53.112,2
+1990,3,San Marino Grand Prix,1990-05-13,Alesi,Tyrrell,6,7,60,+1 Lap,,1
+1990,3,San Marino Grand Prix,1990-05-13,Warwick,Team Lotus,7,10,60,+1 Lap,,0
+1990,3,San Marino Grand Prix,1990-05-13,Donnelly,Team Lotus,8,11,60,+1 Lap,,0
+1990,3,San Marino Grand Prix,1990-05-13,Alliot,Ligier,9,16,60,+1 Lap,,0
+1990,3,San Marino Grand Prix,1990-05-13,Larini,Ligier,10,20,59,+2 Laps,,0
+1990,3,San Marino Grand Prix,1990-05-13,Barilla,Minardi,11,26,59,+2 Laps,,0
+1990,3,San Marino Grand Prix,1990-05-13,Järvilehto,Onyx,12,25,59,+2 Laps,,0
+1990,3,San Marino Grand Prix,1990-05-13,Bernard,Larrousse,13,13,56,Clutch,,0
+1990,3,San Marino Grand Prix,1990-05-13,Grouillard,Osella,14,22,52,Wheel,,0
+1990,3,San Marino Grand Prix,1990-05-13,Mansell,Ferrari,15,5,38,Engine,,0
+1990,3,San Marino Grand Prix,1990-05-13,Foitek,Onyx,16,23,35,Engine,,0
+1990,3,San Marino Grand Prix,1990-05-13,Modena,Brabham,17,14,31,Brakes,,0
+1990,3,San Marino Grand Prix,1990-05-13,de Cesaris,Dallara,18,17,29,Wheel,,0
+1990,3,San Marino Grand Prix,1990-05-13,Gugelmin,Leyton House,19,12,24,Electrical,,0
+1990,3,San Marino Grand Prix,1990-05-13,Boutsen,Williams,20,4,17,Engine,,0
+1990,3,San Marino Grand Prix,1990-05-13,Suzuki,Larrousse,21,15,17,Clutch,,0
+1990,3,San Marino Grand Prix,1990-05-13,Senna,McLaren,22,1,3,Wheel,,0
+1990,3,San Marino Grand Prix,1990-05-13,Pirro,Dallara,23,21,2,Spun off,,0
+1990,3,San Marino Grand Prix,1990-05-13,Capelli,Leyton House,24,18,0,Collision,,0
+1990,3,San Marino Grand Prix,1990-05-13,Nakajima,Tyrrell,25,19,0,Collision,,0
+1990,3,San Marino Grand Prix,1990-05-13,Moreno,Euro Brun,26,24,0,Throttle,,0
+1990,3,San Marino Grand Prix,1990-05-13,Martini,Minardi,27,0,0,Accident,,0
+1990,3,San Marino Grand Prix,1990-05-13,Caffi,Arrows,28,0,0,Did not qualify,,0
+1990,3,San Marino Grand Prix,1990-05-13,Alboreto,Arrows,29,0,0,Did not qualify,,0
+1990,3,San Marino Grand Prix,1990-05-13,Brabham,Brabham,30,0,0,Did not qualify,,0
+1990,3,San Marino Grand Prix,1990-05-13,Gachot,Coloni,31,0,0,Did not prequalify,,0
+1990,3,San Marino Grand Prix,1990-05-13,Langes,Euro Brun,32,0,0,Did not prequalify,,0
+1990,3,San Marino Grand Prix,1990-05-13,Giacomelli,Life,33,0,0,Did not prequalify,,0
+1990,3,San Marino Grand Prix,1990-05-13,Tarquini,AGS,34,0,0,Did not prequalify,,0
+1990,3,San Marino Grand Prix,1990-05-13,Dalmas,AGS,35,0,0,Did not prequalify,,0
+1990,4,Monaco Grand Prix,1990-05-27,Senna,McLaren,1,1,78,Finished,1:52:46.982,9
+1990,4,Monaco Grand Prix,1990-05-27,Alesi,Tyrrell,2,3,78,Finished,+1.087,6
+1990,4,Monaco Grand Prix,1990-05-27,Berger,McLaren,3,5,78,Finished,+2.073,4
+1990,4,Monaco Grand Prix,1990-05-27,Boutsen,Williams,4,6,77,+1 Lap,,3
+1990,4,Monaco Grand Prix,1990-05-27,Caffi,Arrows,5,22,76,+2 Laps,,2
+1990,4,Monaco Grand Prix,1990-05-27,Bernard,Larrousse,6,24,76,+2 Laps,,1
+1990,4,Monaco Grand Prix,1990-05-27,Foitek,Onyx,7,20,72,Collision,,0
+1990,4,Monaco Grand Prix,1990-05-27,Warwick,Team Lotus,8,13,66,Spun off,,0
+1990,4,Monaco Grand Prix,1990-05-27,Mansell,Ferrari,9,7,63,Battery,,0
+1990,4,Monaco Grand Prix,1990-05-27,Barilla,Minardi,10,19,52,Gearbox,,0
+1990,4,Monaco Grand Prix,1990-05-27,Järvilehto,Onyx,11,26,52,Gearbox,,0
+1990,4,Monaco Grand Prix,1990-05-27,Alliot,Ligier,12,18,47,Gearbox,,0
+1990,4,Monaco Grand Prix,1990-05-27,Patrese,Williams,13,4,41,Distributor,,0
+1990,4,Monaco Grand Prix,1990-05-27,de Cesaris,Dallara,14,12,38,Engine,,0
+1990,4,Monaco Grand Prix,1990-05-27,Nakajima,Tyrrell,15,21,36,Spun off,,0
+1990,4,Monaco Grand Prix,1990-05-27,Prost,Ferrari,16,2,30,Battery,,0
+1990,4,Monaco Grand Prix,1990-05-27,Nannini,Benetton,17,16,20,Gearbox,,0
+1990,4,Monaco Grand Prix,1990-05-27,Brabham,Brabham,18,25,16,Transmission,,0
+1990,4,Monaco Grand Prix,1990-05-27,Capelli,Leyton House,19,23,13,Brakes,,0
+1990,4,Monaco Grand Prix,1990-05-27,Larini,Ligier,20,17,12,Differential,,0
+1990,4,Monaco Grand Prix,1990-05-27,Suzuki,Larrousse,21,15,11,Steering,,0
+1990,4,Monaco Grand Prix,1990-05-27,Martini,Minardi,22,8,7,Electrical,,0
+1990,4,Monaco Grand Prix,1990-05-27,Donnelly,Team Lotus,23,11,6,Gearbox,,0
+1990,4,Monaco Grand Prix,1990-05-27,Modena,Brabham,24,14,3,Transmission,,0
+1990,4,Monaco Grand Prix,1990-05-27,Pirro,Dallara,25,9,0,Engine,,0
+1990,4,Monaco Grand Prix,1990-05-27,Piquet,Benetton,26,10,34,Disqualified,,0
+1990,4,Monaco Grand Prix,1990-05-27,Alboreto,Arrows,27,0,0,Did not qualify,,0
+1990,4,Monaco Grand Prix,1990-05-27,Grouillard,Osella,28,0,0,Did not qualify,,0
+1990,4,Monaco Grand Prix,1990-05-27,Gugelmin,Leyton House,29,0,0,Did not qualify,,0
+1990,4,Monaco Grand Prix,1990-05-27,Moreno,Euro Brun,30,0,0,Did not qualify,,0
+1990,4,Monaco Grand Prix,1990-05-27,Tarquini,AGS,31,0,0,Did not prequalify,,0
+1990,4,Monaco Grand Prix,1990-05-27,Dalmas,AGS,32,0,0,Did not prequalify,,0
+1990,4,Monaco Grand Prix,1990-05-27,Langes,Euro Brun,33,0,0,Did not prequalify,,0
+1990,4,Monaco Grand Prix,1990-05-27,Gachot,Coloni,34,0,0,Did not prequalify,,0
+1990,4,Monaco Grand Prix,1990-05-27,Giacomelli,Life,35,0,0,Did not prequalify,,0
+1990,5,Canadian Grand Prix,1990-06-10,Senna,McLaren,1,1,70,Finished,1:42:56.400,9
+1990,5,Canadian Grand Prix,1990-06-10,Piquet,Benetton,2,5,70,Finished,+10.497,6
+1990,5,Canadian Grand Prix,1990-06-10,Mansell,Ferrari,3,7,70,Finished,+13.385,4
+1990,5,Canadian Grand Prix,1990-06-10,Berger,McLaren,4,2,70,Finished,+14.854,3
+1990,5,Canadian Grand Prix,1990-06-10,Prost,Ferrari,5,3,70,Finished,+15.820,2
+1990,5,Canadian Grand Prix,1990-06-10,Warwick,Team Lotus,6,11,68,+2 Laps,,1
+1990,5,Canadian Grand Prix,1990-06-10,Modena,Brabham,7,10,68,+2 Laps,,0
+1990,5,Canadian Grand Prix,1990-06-10,Caffi,Arrows,8,26,68,+2 Laps,,0
+1990,5,Canadian Grand Prix,1990-06-10,Bernard,Larrousse,9,23,67,+3 Laps,,0
+1990,5,Canadian Grand Prix,1990-06-10,Capelli,Leyton House,10,24,67,+3 Laps,,0
+1990,5,Canadian Grand Prix,1990-06-10,Nakajima,Tyrrell,11,13,67,+3 Laps,,0
+1990,5,Canadian Grand Prix,1990-06-10,Suzuki,Larrousse,12,18,66,+4 Laps,,0
+1990,5,Canadian Grand Prix,1990-06-10,Grouillard,Osella,13,15,65,+5 Laps,,0
+1990,5,Canadian Grand Prix,1990-06-10,Donnelly,Team Lotus,14,12,57,Engine,,0
+1990,5,Canadian Grand Prix,1990-06-10,Foitek,Onyx,15,21,53,Engine,,0
+1990,5,Canadian Grand Prix,1990-06-10,de Cesaris,Dallara,16,25,50,Gearbox,,0
+1990,5,Canadian Grand Prix,1990-06-10,Järvilehto,Onyx,17,22,46,Engine,,0
+1990,5,Canadian Grand Prix,1990-06-10,Patrese,Williams,18,9,44,Brakes,,0
+1990,5,Canadian Grand Prix,1990-06-10,Alliot,Ligier,19,17,34,Engine,,0
+1990,5,Canadian Grand Prix,1990-06-10,Alesi,Tyrrell,20,8,26,Spun off,,0
+1990,5,Canadian Grand Prix,1990-06-10,Nannini,Benetton,21,4,21,Spun off,,0
+1990,5,Canadian Grand Prix,1990-06-10,Boutsen,Williams,22,6,19,Collision,,0
+1990,5,Canadian Grand Prix,1990-06-10,Larini,Ligier,23,20,18,Collision,,0
+1990,5,Canadian Grand Prix,1990-06-10,Pirro,Dallara,24,19,11,Collision,,0
+1990,5,Canadian Grand Prix,1990-06-10,Alboreto,Arrows,25,14,11,Collision,,0
+1990,5,Canadian Grand Prix,1990-06-10,Martini,Minardi,26,16,0,Spun off,,0
+1990,5,Canadian Grand Prix,1990-06-10,Moreno,Euro Brun,27,0,0,Did not qualify,,0
+1990,5,Canadian Grand Prix,1990-06-10,Gugelmin,Leyton House,28,0,0,Did not qualify,,0
+1990,5,Canadian Grand Prix,1990-06-10,Barilla,Minardi,29,0,0,Did not qualify,,0
+1990,5,Canadian Grand Prix,1990-06-10,Brabham,Brabham,30,0,0,Did not qualify,,0
+1990,5,Canadian Grand Prix,1990-06-10,Tarquini,AGS,31,0,0,Did not prequalify,,0
+1990,5,Canadian Grand Prix,1990-06-10,Dalmas,AGS,32,0,0,Did not prequalify,,0
+1990,5,Canadian Grand Prix,1990-06-10,Gachot,Coloni,33,0,0,Did not prequalify,,0
+1990,5,Canadian Grand Prix,1990-06-10,Langes,Euro Brun,34,0,0,Did not prequalify,,0
+1990,5,Canadian Grand Prix,1990-06-10,Giacomelli,Life,35,0,0,Did not prequalify,,0
+1990,6,Mexican Grand Prix,1990-06-24,Prost,Ferrari,1,13,69,Finished,1:32:35.783,9
+1990,6,Mexican Grand Prix,1990-06-24,Mansell,Ferrari,2,4,69,Finished,+25.351,6
+1990,6,Mexican Grand Prix,1990-06-24,Berger,McLaren,3,1,69,Finished,+25.530,4
+1990,6,Mexican Grand Prix,1990-06-24,Nannini,Benetton,4,14,69,Finished,+41.099,3
+1990,6,Mexican Grand Prix,1990-06-24,Boutsen,Williams,5,5,69,Finished,+46.669,2
+1990,6,Mexican Grand Prix,1990-06-24,Piquet,Benetton,6,8,69,Finished,+46.943,1
+1990,6,Mexican Grand Prix,1990-06-24,Alesi,Tyrrell,7,6,69,Finished,+49.077,0
+1990,6,Mexican Grand Prix,1990-06-24,Donnelly,Team Lotus,8,12,69,Finished,+1:06.142,0
+1990,6,Mexican Grand Prix,1990-06-24,Patrese,Williams,9,2,69,Finished,+1:09.918,0
+1990,6,Mexican Grand Prix,1990-06-24,Warwick,Team Lotus,10,11,68,+1 Lap,,0
+1990,6,Mexican Grand Prix,1990-06-24,Modena,Brabham,11,10,68,+1 Lap,,0
+1990,6,Mexican Grand Prix,1990-06-24,Martini,Minardi,12,7,68,+1 Lap,,0
+1990,6,Mexican Grand Prix,1990-06-24,de Cesaris,Dallara,13,15,68,+1 Lap,,0
+1990,6,Mexican Grand Prix,1990-06-24,Barilla,Minardi,14,16,67,+2 Laps,,0
+1990,6,Mexican Grand Prix,1990-06-24,Foitek,Onyx,15,23,67,+2 Laps,,0
+1990,6,Mexican Grand Prix,1990-06-24,Larini,Ligier,16,24,67,+2 Laps,,0
+1990,6,Mexican Grand Prix,1990-06-24,Alboreto,Arrows,17,17,66,+3 Laps,,0
+1990,6,Mexican Grand Prix,1990-06-24,Alliot,Ligier,18,22,66,+3 Laps,,0
+1990,6,Mexican Grand Prix,1990-06-24,Grouillard,Osella,19,20,65,+4 Laps,,0
+1990,6,Mexican Grand Prix,1990-06-24,Senna,McLaren,20,3,63,Tyre,,0
+1990,6,Mexican Grand Prix,1990-06-24,Järvilehto,Onyx,21,26,26,Engine,,0
+1990,6,Mexican Grand Prix,1990-06-24,Bernard,Larrousse,22,25,12,Brakes,,0
+1990,6,Mexican Grand Prix,1990-06-24,Suzuki,Larrousse,23,19,11,Collision,,0
+1990,6,Mexican Grand Prix,1990-06-24,Nakajima,Tyrrell,24,9,11,Collision,,0
+1990,6,Mexican Grand Prix,1990-06-24,Brabham,Brabham,25,21,11,Electrical,,0
+1990,6,Mexican Grand Prix,1990-06-24,Pirro,Dallara,26,18,10,Engine,,0
+1990,6,Mexican Grand Prix,1990-06-24,Moreno,Euro Brun,27,0,0,Disqualified,,0
+1990,6,Mexican Grand Prix,1990-06-24,Capelli,Leyton House,28,0,0,Did not qualify,,0
+1990,6,Mexican Grand Prix,1990-06-24,Gugelmin,Leyton House,29,0,0,Did not qualify,,0
+1990,6,Mexican Grand Prix,1990-06-24,Caffi,Arrows,30,0,0,Did not qualify,,0
+1990,6,Mexican Grand Prix,1990-06-24,Dalmas,AGS,31,0,0,Did not prequalify,,0
+1990,6,Mexican Grand Prix,1990-06-24,Tarquini,AGS,32,0,0,Did not prequalify,,0
+1990,6,Mexican Grand Prix,1990-06-24,Gachot,Coloni,33,0,0,Did not prequalify,,0
+1990,6,Mexican Grand Prix,1990-06-24,Langes,Euro Brun,34,0,0,Did not prequalify,,0
+1990,6,Mexican Grand Prix,1990-06-24,Giacomelli,Life,35,0,0,Did not prequalify,,0
+1990,7,French Grand Prix,1990-07-08,Prost,Ferrari,1,4,80,Finished,1:33:29.606,9
+1990,7,French Grand Prix,1990-07-08,Capelli,Leyton House,2,7,80,Finished,+8.626,6
+1990,7,French Grand Prix,1990-07-08,Senna,McLaren,3,3,80,Finished,+11.606,4
+1990,7,French Grand Prix,1990-07-08,Piquet,Benetton,4,9,80,Finished,+41.207,3
+1990,7,French Grand Prix,1990-07-08,Berger,McLaren,5,2,80,Finished,+42.219,2
+1990,7,French Grand Prix,1990-07-08,Patrese,Williams,6,6,80,Finished,+1:09.351,1
+1990,7,French Grand Prix,1990-07-08,Suzuki,Larrousse,7,14,79,+1 Lap,,0
+1990,7,French Grand Prix,1990-07-08,Bernard,Larrousse,8,11,79,+1 Lap,,0
+1990,7,French Grand Prix,1990-07-08,Alliot,Ligier,9,12,79,+1 Lap,,0
+1990,7,French Grand Prix,1990-07-08,Alboreto,Arrows,10,18,79,+1 Lap,,0
+1990,7,French Grand Prix,1990-07-08,Warwick,Team Lotus,11,16,79,+1 Lap,,0
+1990,7,French Grand Prix,1990-07-08,Donnelly,Team Lotus,12,17,79,+1 Lap,,0
+1990,7,French Grand Prix,1990-07-08,Modena,Brabham,13,20,78,+2 Laps,,0
+1990,7,French Grand Prix,1990-07-08,Larini,Ligier,14,19,78,+2 Laps,,0
+1990,7,French Grand Prix,1990-07-08,Brabham,Brabham,15,25,77,+3 Laps,,0
+1990,7,French Grand Prix,1990-07-08,Nannini,Benetton,16,5,75,Electrical,,0
+1990,7,French Grand Prix,1990-07-08,Dalmas,AGS,17,26,75,+5 Laps,,0
+1990,7,French Grand Prix,1990-07-08,Mansell,Ferrari,18,1,72,Engine,,0
+1990,7,French Grand Prix,1990-07-08,de Cesaris,Dallara,19,21,78,Disqualified,,0
+1990,7,French Grand Prix,1990-07-08,Nakajima,Tyrrell,20,15,63,Gearbox,,0
+1990,7,French Grand Prix,1990-07-08,Gugelmin,Leyton House,21,10,58,Engine,,0
+1990,7,French Grand Prix,1990-07-08,Martini,Minardi,22,23,40,Electrical,,0
+1990,7,French Grand Prix,1990-07-08,Alesi,Tyrrell,23,13,23,Differential,,0
+1990,7,French Grand Prix,1990-07-08,Caffi,Arrows,24,22,22,Suspension,,0
+1990,7,French Grand Prix,1990-07-08,Boutsen,Williams,25,8,7,Engine,,0
+1990,7,French Grand Prix,1990-07-08,Pirro,Dallara,26,24,7,Brakes,,0
+1990,7,French Grand Prix,1990-07-08,Barilla,Minardi,27,0,0,Did not qualify,,0
+1990,7,French Grand Prix,1990-07-08,Tarquini,AGS,28,0,0,Did not qualify,,0
+1990,7,French Grand Prix,1990-07-08,Foitek,Onyx,29,0,0,Did not qualify,,0
+1990,7,French Grand Prix,1990-07-08,Järvilehto,Onyx,30,0,0,Did not qualify,,0
+1990,7,French Grand Prix,1990-07-08,Grouillard,Osella,31,0,0,Did not prequalify,,0
+1990,7,French Grand Prix,1990-07-08,Moreno,Euro Brun,32,0,0,Did not prequalify,,0
+1990,7,French Grand Prix,1990-07-08,Langes,Euro Brun,33,0,0,Did not prequalify,,0
+1990,7,French Grand Prix,1990-07-08,Gachot,Coloni,34,0,0,Did not prequalify,,0
+1990,7,French Grand Prix,1990-07-08,Giacomelli,Life,35,0,0,Did not prequalify,,0
+1990,8,British Grand Prix,1990-07-15,Prost,Ferrari,1,5,64,Finished,1:18:30.999,9
+1990,8,British Grand Prix,1990-07-15,Boutsen,Williams,2,4,64,Finished,+39.092,6
+1990,8,British Grand Prix,1990-07-15,Senna,McLaren,3,2,64,Finished,+43.088,4
+1990,8,British Grand Prix,1990-07-15,Bernard,Larrousse,4,8,64,Finished,+1:15.302,3
+1990,8,British Grand Prix,1990-07-15,Piquet,Benetton,5,11,64,Finished,+1:24.003,2
+1990,8,British Grand Prix,1990-07-15,Suzuki,Larrousse,6,9,63,+1 Lap,,1
+1990,8,British Grand Prix,1990-07-15,Caffi,Arrows,7,17,63,+1 Lap,,0
+1990,8,British Grand Prix,1990-07-15,Alesi,Tyrrell,8,6,63,+1 Lap,,0
+1990,8,British Grand Prix,1990-07-15,Modena,Brabham,9,20,62,+2 Laps,,0
+1990,8,British Grand Prix,1990-07-15,Larini,Ligier,10,21,62,+2 Laps,,0
+1990,8,British Grand Prix,1990-07-15,Pirro,Dallara,11,19,62,+2 Laps,,0
+1990,8,British Grand Prix,1990-07-15,Barilla,Minardi,12,24,62,+2 Laps,,0
+1990,8,British Grand Prix,1990-07-15,Alliot,Ligier,13,22,61,+3 Laps,,0
+1990,8,British Grand Prix,1990-07-15,Berger,McLaren,14,3,60,Throttle,,0
+1990,8,British Grand Prix,1990-07-15,Mansell,Ferrari,15,1,55,Gearbox,,0
+1990,8,British Grand Prix,1990-07-15,Capelli,Leyton House,16,10,48,Fuel leak,,0
+1990,8,British Grand Prix,1990-07-15,Donnelly,Team Lotus,17,14,48,Engine,,0
+1990,8,British Grand Prix,1990-07-15,Warwick,Team Lotus,18,16,46,Engine,,0
+1990,8,British Grand Prix,1990-07-15,Tarquini,AGS,19,26,41,Engine,,0
+1990,8,British Grand Prix,1990-07-15,Alboreto,Arrows,20,25,37,Engine,,0
+1990,8,British Grand Prix,1990-07-15,Patrese,Williams,21,7,26,Chassis,,0
+1990,8,British Grand Prix,1990-07-15,Nakajima,Tyrrell,22,12,20,Electrical,,0
+1990,8,British Grand Prix,1990-07-15,Nannini,Benetton,23,13,15,Collision,,0
+1990,8,British Grand Prix,1990-07-15,de Cesaris,Dallara,24,23,12,Fuel system,,0
+1990,8,British Grand Prix,1990-07-15,Martini,Minardi,25,18,3,Alternator,,0
+1990,8,British Grand Prix,1990-07-15,Gugelmin,Leyton House,26,15,0,Fuel pump,,0
+1990,8,British Grand Prix,1990-07-15,Grouillard,Osella,27,0,0,Did not qualify,,0
+1990,8,British Grand Prix,1990-07-15,Brabham,Brabham,28,0,0,Did not qualify,,0
+1990,8,British Grand Prix,1990-07-15,Järvilehto,Onyx,29,0,0,Did not qualify,,0
+1990,8,British Grand Prix,1990-07-15,Foitek,Onyx,30,0,0,Did not qualify,,0
+1990,8,British Grand Prix,1990-07-15,Moreno,Euro Brun,31,0,0,Did not prequalify,,0
+1990,8,British Grand Prix,1990-07-15,Dalmas,AGS,32,0,0,Did not prequalify,,0
+1990,8,British Grand Prix,1990-07-15,Langes,Euro Brun,33,0,0,Did not prequalify,,0
+1990,8,British Grand Prix,1990-07-15,Gachot,Coloni,34,0,0,Did not prequalify,,0
+1990,8,British Grand Prix,1990-07-15,Giacomelli,Life,35,0,0,Did not prequalify,,0
+1990,9,German Grand Prix,1990-07-29,Senna,McLaren,1,1,45,Finished,1:20:47.164,9
+1990,9,German Grand Prix,1990-07-29,Nannini,Benetton,2,9,45,Finished,+6.520,6
+1990,9,German Grand Prix,1990-07-29,Berger,McLaren,3,2,45,Finished,+8.553,4
+1990,9,German Grand Prix,1990-07-29,Prost,Ferrari,4,3,45,Finished,+45.270,3
+1990,9,German Grand Prix,1990-07-29,Patrese,Williams,5,5,45,Finished,+48.028,2
+1990,9,German Grand Prix,1990-07-29,Boutsen,Williams,6,6,45,Finished,+1:21.491,1
+1990,9,German Grand Prix,1990-07-29,Capelli,Leyton House,7,10,44,+1 Lap,,0
+1990,9,German Grand Prix,1990-07-29,Warwick,Team Lotus,8,16,44,+1 Lap,,0
+1990,9,German Grand Prix,1990-07-29,Caffi,Arrows,9,18,44,+1 Lap,,0
+1990,9,German Grand Prix,1990-07-29,Larini,Ligier,10,22,43,+2 Laps,,0
+1990,9,German Grand Prix,1990-07-29,Alesi,Tyrrell,11,8,40,Transmission,,0
+1990,9,German Grand Prix,1990-07-29,Järvilehto,Onyx,12,25,39,Not classified,,0
+1990,9,German Grand Prix,1990-07-29,Bernard,Larrousse,13,12,35,Fuel pump,,0
+1990,9,German Grand Prix,1990-07-29,Suzuki,Larrousse,14,11,33,Clutch,,0
+1990,9,German Grand Prix,1990-07-29,Nakajima,Tyrrell,15,13,24,Engine,,0
+1990,9,German Grand Prix,1990-07-29,Piquet,Benetton,16,7,23,Engine,,0
+1990,9,German Grand Prix,1990-07-29,Martini,Minardi,17,15,20,Engine,,0
+1990,9,German Grand Prix,1990-07-29,Foitek,Onyx,18,26,19,Spun off,,0
+1990,9,German Grand Prix,1990-07-29,Mansell,Ferrari,19,4,15,Broken wing,,0
+1990,9,German Grand Prix,1990-07-29,Gugelmin,Leyton House,20,14,12,Engine,,0
+1990,9,German Grand Prix,1990-07-29,Brabham,Brabham,21,21,12,Engine,,0
+1990,9,German Grand Prix,1990-07-29,Alboreto,Arrows,22,19,10,Engine,,0
+1990,9,German Grand Prix,1990-07-29,Donnelly,Team Lotus,23,20,1,Clutch,,0
+1990,9,German Grand Prix,1990-07-29,Modena,Brabham,24,17,0,Clutch,,0
+1990,9,German Grand Prix,1990-07-29,Pirro,Dallara,25,23,0,Collision,,0
+1990,9,German Grand Prix,1990-07-29,Alliot,Ligier,26,24,0,Disqualified,,0
+1990,9,German Grand Prix,1990-07-29,Grouillard,Osella,27,0,0,Did not qualify,,0
+1990,9,German Grand Prix,1990-07-29,Barilla,Minardi,28,0,0,Did not qualify,,0
+1990,9,German Grand Prix,1990-07-29,Dalmas,AGS,29,0,0,Did not qualify,,0
+1990,9,German Grand Prix,1990-07-29,de Cesaris,Dallara,30,0,0,Did not qualify,,0
+1990,9,German Grand Prix,1990-07-29,Tarquini,AGS,31,0,0,Did not prequalify,,0
+1990,9,German Grand Prix,1990-07-29,Moreno,Euro Brun,32,0,0,Did not prequalify,,0
+1990,9,German Grand Prix,1990-07-29,Gachot,Coloni,33,0,0,Did not prequalify,,0
+1990,9,German Grand Prix,1990-07-29,Langes,Euro Brun,34,0,0,Did not prequalify,,0
+1990,9,German Grand Prix,1990-07-29,Giacomelli,Life,35,0,0,Did not prequalify,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Boutsen,Williams,1,1,77,Finished,1:49:30.597,9
+1990,10,Hungarian Grand Prix,1990-08-12,Senna,McLaren,2,4,77,Finished,+0.288,6
+1990,10,Hungarian Grand Prix,1990-08-12,Piquet,Benetton,3,9,77,Finished,+27.893,4
+1990,10,Hungarian Grand Prix,1990-08-12,Patrese,Williams,4,2,77,Finished,+31.833,3
+1990,10,Hungarian Grand Prix,1990-08-12,Warwick,Team Lotus,5,11,77,Finished,+1:14.244,2
+1990,10,Hungarian Grand Prix,1990-08-12,Bernard,Larrousse,6,12,77,Finished,+1:24.308,1
+1990,10,Hungarian Grand Prix,1990-08-12,Donnelly,Team Lotus,7,18,76,+1 Lap,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Gugelmin,Leyton House,8,17,76,+1 Lap,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Caffi,Arrows,9,26,76,+1 Lap,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Pirro,Dallara,10,13,76,+1 Lap,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Larini,Ligier,11,25,76,+1 Lap,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Alboreto,Arrows,12,22,75,+2 Laps,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Tarquini,AGS,13,24,74,+3 Laps,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Alliot,Ligier,14,21,74,+3 Laps,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Barilla,Minardi,15,23,74,+3 Laps,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Berger,McLaren,16,3,72,Collision,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Mansell,Ferrari,17,5,71,Collision,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Nannini,Benetton,18,7,64,Collision,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Capelli,Leyton House,19,16,56,Gearbox,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Suzuki,Larrousse,20,19,37,Engine,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Prost,Ferrari,21,8,36,Gearbox,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Alesi,Tyrrell,22,6,36,Collision,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Modena,Brabham,23,20,35,Engine,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Martini,Minardi,24,14,35,Collision,,0
+1990,10,Hungarian Grand Prix,1990-08-12,de Cesaris,Dallara,25,10,22,Engine,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Nakajima,Tyrrell,26,15,9,Brakes,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Dalmas,AGS,27,0,0,Did not qualify,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Brabham,Brabham,28,0,0,Did not qualify,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Järvilehto,Onyx,29,0,0,Did not qualify,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Foitek,Onyx,30,0,0,Did not qualify,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Grouillard,Osella,31,0,0,Did not prequalify,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Gachot,Coloni,32,0,0,Did not prequalify,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Moreno,Euro Brun,33,0,0,Did not prequalify,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Langes,Euro Brun,34,0,0,Did not prequalify,,0
+1990,10,Hungarian Grand Prix,1990-08-12,Giacomelli,Life,35,0,0,Did not prequalify,,0
+1990,11,Belgian Grand Prix,1990-08-26,Senna,McLaren,1,1,44,Finished,1:26:31.997,9
+1990,11,Belgian Grand Prix,1990-08-26,Prost,Ferrari,2,3,44,Finished,+3.550,6
+1990,11,Belgian Grand Prix,1990-08-26,Berger,McLaren,3,2,44,Finished,+28.462,4
+1990,11,Belgian Grand Prix,1990-08-26,Nannini,Benetton,4,6,44,Finished,+49.337,3
+1990,11,Belgian Grand Prix,1990-08-26,Piquet,Benetton,5,8,44,Finished,+1:29.650,2
+1990,11,Belgian Grand Prix,1990-08-26,Gugelmin,Leyton House,6,14,44,Finished,+1:48.851,1
+1990,11,Belgian Grand Prix,1990-08-26,Capelli,Leyton House,7,12,43,+1 Lap,,0
+1990,11,Belgian Grand Prix,1990-08-26,Alesi,Tyrrell,8,9,43,+1 Lap,,0
+1990,11,Belgian Grand Prix,1990-08-26,Bernard,Larrousse,9,15,43,+1 Lap,,0
+1990,11,Belgian Grand Prix,1990-08-26,Caffi,Arrows,10,19,43,+1 Lap,,0
+1990,11,Belgian Grand Prix,1990-08-26,Warwick,Team Lotus,11,18,43,+1 Lap,,0
+1990,11,Belgian Grand Prix,1990-08-26,Donnelly,Team Lotus,12,22,43,+1 Lap,,0
+1990,11,Belgian Grand Prix,1990-08-26,Alboreto,Arrows,13,26,43,+1 Lap,,0
+1990,11,Belgian Grand Prix,1990-08-26,Larini,Ligier,14,21,42,+2 Laps,,0
+1990,11,Belgian Grand Prix,1990-08-26,Martini,Minardi,15,16,42,+2 Laps,,0
+1990,11,Belgian Grand Prix,1990-08-26,Grouillard,Osella,16,23,42,+2 Laps,,0
+1990,11,Belgian Grand Prix,1990-08-26,Modena,Brabham,17,13,39,Engine,,0
+1990,11,Belgian Grand Prix,1990-08-26,Brabham,Brabham,18,24,36,Electrical,,0
+1990,11,Belgian Grand Prix,1990-08-26,de Cesaris,Dallara,19,20,27,Engine,,0
+1990,11,Belgian Grand Prix,1990-08-26,Boutsen,Williams,20,4,21,Transmission,,0
+1990,11,Belgian Grand Prix,1990-08-26,Mansell,Ferrari,21,5,19,Handling,,0
+1990,11,Belgian Grand Prix,1990-08-26,Patrese,Williams,22,7,18,Gearbox,,0
+1990,11,Belgian Grand Prix,1990-08-26,Pirro,Dallara,23,17,5,Water leak,,0
+1990,11,Belgian Grand Prix,1990-08-26,Nakajima,Tyrrell,24,10,4,Engine,,0
+1990,11,Belgian Grand Prix,1990-08-26,Suzuki,Larrousse,25,11,0,Accident,,0
+1990,11,Belgian Grand Prix,1990-08-26,Barilla,Minardi,26,25,0,Accident,,0
+1990,11,Belgian Grand Prix,1990-08-26,Alliot,Ligier,27,0,0,Did not qualify,,0
+1990,11,Belgian Grand Prix,1990-08-26,Tarquini,AGS,28,0,0,Did not qualify,,0
+1990,11,Belgian Grand Prix,1990-08-26,Dalmas,AGS,29,0,0,Did not qualify,,0
+1990,11,Belgian Grand Prix,1990-08-26,Gachot,Coloni,30,0,0,Did not qualify,,0
+1990,11,Belgian Grand Prix,1990-08-26,Moreno,Euro Brun,31,0,0,Did not prequalify,,0
+1990,11,Belgian Grand Prix,1990-08-26,Langes,Euro Brun,32,0,0,Did not prequalify,,0
+1990,11,Belgian Grand Prix,1990-08-26,Giacomelli,Life,33,0,0,Did not prequalify,,0
+1990,12,Italian Grand Prix,1990-09-09,Senna,McLaren,1,1,53,Finished,1:17:57.878,9
+1990,12,Italian Grand Prix,1990-09-09,Prost,Ferrari,2,2,53,Finished,+6.054,6
+1990,12,Italian Grand Prix,1990-09-09,Berger,McLaren,3,3,53,Finished,+7.404,4
+1990,12,Italian Grand Prix,1990-09-09,Mansell,Ferrari,4,4,53,Finished,+56.219,3
+1990,12,Italian Grand Prix,1990-09-09,Patrese,Williams,5,7,52,Finished,+1:25.274,2
+1990,12,Italian Grand Prix,1990-09-09,Nakajima,Tyrrell,6,14,52,+1 Lap,,1
+1990,12,Italian Grand Prix,1990-09-09,Piquet,Benetton,7,9,52,+1 Lap,,0
+1990,12,Italian Grand Prix,1990-09-09,Nannini,Benetton,8,8,52,+1 Lap,,0
+1990,12,Italian Grand Prix,1990-09-09,Caffi,Arrows,9,21,51,+2 Laps,,0
+1990,12,Italian Grand Prix,1990-09-09,de Cesaris,Dallara,10,25,51,+2 Laps,,0
+1990,12,Italian Grand Prix,1990-09-09,Larini,Ligier,11,26,51,+2 Laps,,0
+1990,12,Italian Grand Prix,1990-09-09,Alboreto,Arrows,12,22,50,Spun off,,0
+1990,12,Italian Grand Prix,1990-09-09,Alliot,Ligier,13,20,50,+3 Laps,,0
+1990,12,Italian Grand Prix,1990-09-09,Dalmas,AGS,14,24,45,Not classified,,0
+1990,12,Italian Grand Prix,1990-09-09,Capelli,Leyton House,15,16,36,Engine,,0
+1990,12,Italian Grand Prix,1990-09-09,Suzuki,Larrousse,16,18,36,Electrical,,0
+1990,12,Italian Grand Prix,1990-09-09,Grouillard,Osella,17,23,27,Wheel bearing,,0
+1990,12,Italian Grand Prix,1990-09-09,Gugelmin,Leyton House,18,10,24,Engine,,0
+1990,12,Italian Grand Prix,1990-09-09,Modena,Brabham,19,17,21,Engine,,0
+1990,12,Italian Grand Prix,1990-09-09,Boutsen,Williams,20,6,18,Suspension,,0
+1990,12,Italian Grand Prix,1990-09-09,Warwick,Team Lotus,21,12,15,Clutch,,0
+1990,12,Italian Grand Prix,1990-09-09,Pirro,Dallara,22,19,14,Spun off,,0
+1990,12,Italian Grand Prix,1990-09-09,Donnelly,Team Lotus,23,11,13,Engine,,0
+1990,12,Italian Grand Prix,1990-09-09,Bernard,Larrousse,24,13,10,Clutch,,0
+1990,12,Italian Grand Prix,1990-09-09,Martini,Minardi,25,15,7,Suspension,,0
+1990,12,Italian Grand Prix,1990-09-09,Alesi,Tyrrell,26,5,4,Spun off,,0
+1990,12,Italian Grand Prix,1990-09-09,Tarquini,AGS,27,0,0,Did not qualify,,0
+1990,12,Italian Grand Prix,1990-09-09,Barilla,Minardi,28,0,0,Did not qualify,,0
+1990,12,Italian Grand Prix,1990-09-09,Brabham,Brabham,29,0,0,Did not qualify,,0
+1990,12,Italian Grand Prix,1990-09-09,Gachot,Coloni,30,0,0,Did not qualify,,0
+1990,12,Italian Grand Prix,1990-09-09,Moreno,Euro Brun,31,0,0,Did not prequalify,,0
+1990,12,Italian Grand Prix,1990-09-09,Langes,Euro Brun,32,0,0,Did not prequalify,,0
+1990,12,Italian Grand Prix,1990-09-09,Giacomelli,Life,33,0,0,Did not prequalify,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Mansell,Ferrari,1,1,61,Finished,1:22:11.014,9
+1990,13,Portuguese Grand Prix,1990-09-23,Senna,McLaren,2,3,61,Finished,+2.808,6
+1990,13,Portuguese Grand Prix,1990-09-23,Prost,Ferrari,3,2,61,Finished,+4.189,4
+1990,13,Portuguese Grand Prix,1990-09-23,Berger,McLaren,4,4,61,Finished,+5.896,3
+1990,13,Portuguese Grand Prix,1990-09-23,Piquet,Benetton,5,6,61,Finished,+57.418,2
+1990,13,Portuguese Grand Prix,1990-09-23,Nannini,Benetton,6,9,61,Finished,+58.249,1
+1990,13,Portuguese Grand Prix,1990-09-23,Patrese,Williams,7,5,60,+1 Lap,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Alesi,Tyrrell,8,8,60,+1 Lap,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Alboreto,Arrows,9,19,60,+1 Lap,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Larini,Ligier,10,22,59,+2 Laps,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Martini,Minardi,11,16,59,+2 Laps,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Gugelmin,Leyton House,12,14,59,+2 Laps,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Caffi,Arrows,13,17,58,Accident,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Suzuki,Larrousse,14,11,58,Accident,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Pirro,Dallara,15,13,58,+3 Laps,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Alliot,Ligier,16,20,52,Accident,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Brabham,Brabham,17,25,52,Gearbox,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Capelli,Leyton House,18,12,51,Engine,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Boutsen,Williams,19,7,30,Engine,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Bernard,Larrousse,20,10,24,Gearbox,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Modena,Brabham,21,23,21,Gearbox,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Donnelly,Team Lotus,22,15,14,Alternator,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Warwick,Team Lotus,23,21,5,Throttle,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Dalmas,AGS,24,24,3,Halfshaft,,0
+1990,13,Portuguese Grand Prix,1990-09-23,de Cesaris,Dallara,25,18,0,Spun off,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Nakajima,Tyrrell,26,0,0,Withdrew,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Grouillard,Osella,27,0,0,Did not qualify,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Barilla,Minardi,28,0,0,Did not qualify,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Tarquini,AGS,29,0,0,Did not qualify,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Gachot,Coloni,30,0,0,Did not qualify,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Moreno,Euro Brun,31,0,0,Did not prequalify,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Langes,Euro Brun,32,0,0,Did not prequalify,,0
+1990,13,Portuguese Grand Prix,1990-09-23,Giacomelli,Life,33,0,0,Did not prequalify,,0
+1990,14,Spanish Grand Prix,1990-09-30,Prost,Ferrari,1,2,73,Finished,1:48:01.461,9
+1990,14,Spanish Grand Prix,1990-09-30,Mansell,Ferrari,2,3,73,Finished,+22.064,6
+1990,14,Spanish Grand Prix,1990-09-30,Nannini,Benetton,3,9,73,Finished,+34.874,4
+1990,14,Spanish Grand Prix,1990-09-30,Boutsen,Williams,4,7,73,Finished,+43.296,3
+1990,14,Spanish Grand Prix,1990-09-30,Patrese,Williams,5,6,73,Finished,+57.530,2
+1990,14,Spanish Grand Prix,1990-09-30,Suzuki,Larrousse,6,15,73,Finished,+1:03.728,1
+1990,14,Spanish Grand Prix,1990-09-30,Larini,Ligier,7,20,72,+1 Lap,,0
+1990,14,Spanish Grand Prix,1990-09-30,Gugelmin,Leyton House,8,12,72,+1 Lap,,0
+1990,14,Spanish Grand Prix,1990-09-30,Dalmas,AGS,9,23,72,+1 Lap,,0
+1990,14,Spanish Grand Prix,1990-09-30,Alboreto,Arrows,10,25,71,+2 Laps,,0
+1990,14,Spanish Grand Prix,1990-09-30,Warwick,Team Lotus,11,10,63,Gearbox,,0
+1990,14,Spanish Grand Prix,1990-09-30,Capelli,Leyton House,12,19,59,Physical,,0
+1990,14,Spanish Grand Prix,1990-09-30,Berger,McLaren,13,5,56,Collision,,0
+1990,14,Spanish Grand Prix,1990-09-30,Senna,McLaren,14,1,53,Radiator,,0
+1990,14,Spanish Grand Prix,1990-09-30,Piquet,Benetton,15,8,47,Battery,,0
+1990,14,Spanish Grand Prix,1990-09-30,de Cesaris,Dallara,16,17,47,Engine,,0
+1990,14,Spanish Grand Prix,1990-09-30,Grouillard,Osella,17,21,45,Wheel bearing,,0
+1990,14,Spanish Grand Prix,1990-09-30,Martini,Minardi,18,11,41,Spun off,,0
+1990,14,Spanish Grand Prix,1990-09-30,Alliot,Ligier,19,13,22,Spun off,,0
+1990,14,Spanish Grand Prix,1990-09-30,Bernard,Larrousse,20,18,20,Gearbox,,0
+1990,14,Spanish Grand Prix,1990-09-30,Nakajima,Tyrrell,21,14,13,Spun off,,0
+1990,14,Spanish Grand Prix,1990-09-30,Tarquini,AGS,22,22,5,Engine,,0
+1990,14,Spanish Grand Prix,1990-09-30,Modena,Brabham,23,24,5,Collision,,0
+1990,14,Spanish Grand Prix,1990-09-30,Alesi,Tyrrell,24,4,0,Spun off,,0
+1990,14,Spanish Grand Prix,1990-09-30,Pirro,Dallara,25,16,0,Throttle,,0
+1990,14,Spanish Grand Prix,1990-09-30,Donnelly,Team Lotus,26,0,0,Injured,,0
+1990,14,Spanish Grand Prix,1990-09-30,Brabham,Brabham,27,0,0,Did not qualify,,0
+1990,14,Spanish Grand Prix,1990-09-30,Barilla,Minardi,28,0,0,Did not qualify,,0
+1990,14,Spanish Grand Prix,1990-09-30,Schneider,Arrows,29,0,0,Did not qualify,,0
+1990,14,Spanish Grand Prix,1990-09-30,Gachot,Coloni,30,0,0,Did not qualify,,0
+1990,14,Spanish Grand Prix,1990-09-30,Moreno,Euro Brun,31,0,0,Did not prequalify,,0
+1990,14,Spanish Grand Prix,1990-09-30,Langes,Euro Brun,32,0,0,Did not prequalify,,0
+1990,14,Spanish Grand Prix,1990-09-30,Giacomelli,Life,33,0,0,Did not prequalify,,0
+1990,15,Japanese Grand Prix,1990-10-21,Piquet,Benetton,1,6,53,Finished,1:34:36.824,9
+1990,15,Japanese Grand Prix,1990-10-21,Moreno,Benetton,2,8,53,Finished,+7.223,6
+1990,15,Japanese Grand Prix,1990-10-21,Suzuki,Larrousse,3,9,53,Finished,+22.469,4
+1990,15,Japanese Grand Prix,1990-10-21,Patrese,Williams,4,7,53,Finished,+36.258,3
+1990,15,Japanese Grand Prix,1990-10-21,Boutsen,Williams,5,5,53,Finished,+46.884,2
+1990,15,Japanese Grand Prix,1990-10-21,Nakajima,Tyrrell,6,14,53,Finished,+1:12.350,1
+1990,15,Japanese Grand Prix,1990-10-21,Larini,Ligier,7,17,52,+1 Lap,,0
+1990,15,Japanese Grand Prix,1990-10-21,Martini,Minardi,8,10,52,+1 Lap,,0
+1990,15,Japanese Grand Prix,1990-10-21,Caffi,Arrows,9,23,52,+1 Lap,,0
+1990,15,Japanese Grand Prix,1990-10-21,Alliot,Ligier,10,25,52,+1 Lap,,0
+1990,15,Japanese Grand Prix,1990-10-21,Warwick,Team Lotus,11,11,38,Gearbox,,0
+1990,15,Japanese Grand Prix,1990-10-21,Herbert,Team Lotus,12,12,31,Engine,,0
+1990,15,Japanese Grand Prix,1990-10-21,Alboreto,Arrows,13,24,28,Engine,,0
+1990,15,Japanese Grand Prix,1990-10-21,Mansell,Ferrari,14,3,26,Transmission,,0
+1990,15,Japanese Grand Prix,1990-10-21,Pirro,Dallara,15,19,24,Alternator,,0
+1990,15,Japanese Grand Prix,1990-10-21,Bernard,Larrousse,16,18,24,Engine,,0
+1990,15,Japanese Grand Prix,1990-10-21,Morbidelli,Minardi,17,20,18,Spun off,,0
+1990,15,Japanese Grand Prix,1990-10-21,Capelli,Leyton House,18,13,16,Ignition,,0
+1990,15,Japanese Grand Prix,1990-10-21,de Cesaris,Dallara,19,26,13,Spun off,,0
+1990,15,Japanese Grand Prix,1990-10-21,Gugelmin,Leyton House,20,16,5,Engine,,0
+1990,15,Japanese Grand Prix,1990-10-21,Brabham,Brabham,21,21,5,Clutch,,0
+1990,15,Japanese Grand Prix,1990-10-21,Berger,McLaren,22,4,1,Spun off,,0
+1990,15,Japanese Grand Prix,1990-10-21,Senna,McLaren,23,1,0,Collision,,0
+1990,15,Japanese Grand Prix,1990-10-21,Prost,Ferrari,24,2,0,Collision,,0
+1990,15,Japanese Grand Prix,1990-10-21,Modena,Brabham,25,22,0,Collision,,0
+1990,15,Japanese Grand Prix,1990-10-21,Alesi,Tyrrell,26,7,0,Withdrew,,0
+1990,15,Japanese Grand Prix,1990-10-21,Grouillard,Osella,27,0,0,Did not qualify,,0
+1990,15,Japanese Grand Prix,1990-10-21,Tarquini,AGS,28,0,0,Did not qualify,,0
+1990,15,Japanese Grand Prix,1990-10-21,Dalmas,AGS,29,0,0,Did not qualify,,0
+1990,15,Japanese Grand Prix,1990-10-21,Gachot,Coloni,30,0,0,Did not qualify,,0
+1990,16,Australian Grand Prix,1990-11-04,Piquet,Benetton,1,7,81,Finished,1:49:44.570,9
+1990,16,Australian Grand Prix,1990-11-04,Mansell,Ferrari,2,3,81,Finished,+3.129,6
+1990,16,Australian Grand Prix,1990-11-04,Prost,Ferrari,3,4,81,Finished,+37.259,4
+1990,16,Australian Grand Prix,1990-11-04,Berger,McLaren,4,2,81,Finished,+46.862,3
+1990,16,Australian Grand Prix,1990-11-04,Boutsen,Williams,5,9,81,Finished,+1:51.160,2
+1990,16,Australian Grand Prix,1990-11-04,Patrese,Williams,6,6,80,+1 Lap,,1
+1990,16,Australian Grand Prix,1990-11-04,Moreno,Benetton,7,8,80,+1 Lap,,0
+1990,16,Australian Grand Prix,1990-11-04,Alesi,Tyrrell,8,5,80,+1 Lap,,0
+1990,16,Australian Grand Prix,1990-11-04,Martini,Minardi,9,10,79,+2 Laps,,0
+1990,16,Australian Grand Prix,1990-11-04,Larini,Ligier,10,12,79,+2 Laps,,0
+1990,16,Australian Grand Prix,1990-11-04,Alliot,Ligier,11,19,78,+3 Laps,,0
+1990,16,Australian Grand Prix,1990-11-04,Modena,Brabham,12,17,77,+4 Laps,,0
+1990,16,Australian Grand Prix,1990-11-04,Grouillard,Osella,13,22,74,+7 Laps,,0
+1990,16,Australian Grand Prix,1990-11-04,Pirro,Dallara,14,21,68,Engine,,0
+1990,16,Australian Grand Prix,1990-11-04,Senna,McLaren,15,1,61,Spun off,,0
+1990,16,Australian Grand Prix,1990-11-04,Tarquini,AGS,16,26,58,Engine,,0
+1990,16,Australian Grand Prix,1990-11-04,Herbert,Team Lotus,17,18,57,Clutch,,0
+1990,16,Australian Grand Prix,1990-11-04,Nakajima,Tyrrell,18,13,53,Spun off,,0
+1990,16,Australian Grand Prix,1990-11-04,Capelli,Leyton House,19,14,46,Throttle,,0
+1990,16,Australian Grand Prix,1990-11-04,Warwick,Team Lotus,20,11,43,Gearbox,,0
+1990,16,Australian Grand Prix,1990-11-04,Gugelmin,Leyton House,21,16,27,Brakes,,0
+1990,16,Australian Grand Prix,1990-11-04,de Cesaris,Dallara,22,15,23,Electrical,,0
+1990,16,Australian Grand Prix,1990-11-04,Bernard,Larrousse,23,23,21,Gearbox,,0
+1990,16,Australian Grand Prix,1990-11-04,Morbidelli,Minardi,24,20,20,Gearbox,,0
+1990,16,Australian Grand Prix,1990-11-04,Brabham,Brabham,25,25,18,Spun off,,0
+1990,16,Australian Grand Prix,1990-11-04,Suzuki,Larrousse,26,24,6,Transmission,,0
+1990,16,Australian Grand Prix,1990-11-04,Alboreto,Arrows,27,0,0,Did not qualify,,0
+1990,16,Australian Grand Prix,1990-11-04,Dalmas,AGS,28,0,0,Did not qualify,,0
+1990,16,Australian Grand Prix,1990-11-04,Caffi,Arrows,29,0,0,Did not qualify,,0
+1990,16,Australian Grand Prix,1990-11-04,Gachot,Coloni,30,0,0,Did not qualify,,0

@@ -1,0 +1,413 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1986,1,Brazilian Grand Prix,1986-03-23,Piquet,Williams,1,2,61,Finished,1:39:32.583,9
+1986,1,Brazilian Grand Prix,1986-03-23,Senna,Team Lotus,2,1,61,Finished,+34.827,6
+1986,1,Brazilian Grand Prix,1986-03-23,Laffite,Ligier,3,5,61,Finished,+59.759,4
+1986,1,Brazilian Grand Prix,1986-03-23,Arnoux,Ligier,4,4,61,Finished,+1:28.429,3
+1986,1,Brazilian Grand Prix,1986-03-23,Brundle,Tyrrell,5,17,60,+1 Lap,,2
+1986,1,Brazilian Grand Prix,1986-03-23,Berger,Benetton,6,16,59,+2 Laps,,1
+1986,1,Brazilian Grand Prix,1986-03-23,Streiff,Tyrrell,7,18,59,+2 Laps,,0
+1986,1,Brazilian Grand Prix,1986-03-23,de Angelis,Brabham,8,14,58,+3 Laps,,0
+1986,1,Brazilian Grand Prix,1986-03-23,Dumfries,Team Lotus,9,11,58,+3 Laps,,0
+1986,1,Brazilian Grand Prix,1986-03-23,Fabi,Benetton,10,12,56,+5 Laps,,0
+1986,1,Brazilian Grand Prix,1986-03-23,Boutsen,Arrows,11,15,37,Exhaust,,0
+1986,1,Brazilian Grand Prix,1986-03-23,Alboreto,Ferrari,12,6,35,Fuel system,,0
+1986,1,Brazilian Grand Prix,1986-03-23,Prost,McLaren,13,9,30,Engine,,0
+1986,1,Brazilian Grand Prix,1986-03-23,Danner,Osella,14,24,29,Engine,,0
+1986,1,Brazilian Grand Prix,1986-03-23,Johansson,Ferrari,15,8,26,Brakes,,0
+1986,1,Brazilian Grand Prix,1986-03-23,Tambay,Lola,16,13,24,Battery,,0
+1986,1,Brazilian Grand Prix,1986-03-23,Patrese,Brabham,17,10,21,Water leak,,0
+1986,1,Brazilian Grand Prix,1986-03-23,Palmer,Zakspeed,18,21,20,Engine,,0
+1986,1,Brazilian Grand Prix,1986-03-23,Surer,Arrows,19,20,19,Engine,,0
+1986,1,Brazilian Grand Prix,1986-03-23,Nannini,Minardi,20,25,18,Clutch,,0
+1986,1,Brazilian Grand Prix,1986-03-23,de Cesaris,Minardi,21,22,16,Turbo,,0
+1986,1,Brazilian Grand Prix,1986-03-23,Ghinzani,Osella,22,23,16,Engine,,0
+1986,1,Brazilian Grand Prix,1986-03-23,Rosberg,McLaren,23,7,6,Engine,,0
+1986,1,Brazilian Grand Prix,1986-03-23,Jones,Lola,24,19,5,Injection,,0
+1986,1,Brazilian Grand Prix,1986-03-23,Mansell,Williams,25,3,0,Spun off,,0
+1986,2,Spanish Grand Prix,1986-04-13,Senna,Team Lotus,1,1,72,Finished,1:48:47.735,9
+1986,2,Spanish Grand Prix,1986-04-13,Mansell,Williams,2,3,72,Finished,+0.014,6
+1986,2,Spanish Grand Prix,1986-04-13,Prost,McLaren,3,4,72,Finished,+21.552,4
+1986,2,Spanish Grand Prix,1986-04-13,Rosberg,McLaren,4,5,71,+1 Lap,,3
+1986,2,Spanish Grand Prix,1986-04-13,Fabi,Benetton,5,9,71,+1 Lap,,2
+1986,2,Spanish Grand Prix,1986-04-13,Berger,Benetton,6,7,71,+1 Lap,,1
+1986,2,Spanish Grand Prix,1986-04-13,Boutsen,Arrows,7,19,68,+4 Laps,,0
+1986,2,Spanish Grand Prix,1986-04-13,Tambay,Lola,8,18,66,+6 Laps,,0
+1986,2,Spanish Grand Prix,1986-04-13,Dumfries,Team Lotus,9,10,52,Gearbox,,0
+1986,2,Spanish Grand Prix,1986-04-13,Brundle,Tyrrell,10,12,41,Engine,,0
+1986,2,Spanish Grand Prix,1986-04-13,Laffite,Ligier,11,8,40,Halfshaft,,0
+1986,2,Spanish Grand Prix,1986-04-13,Surer,Arrows,12,22,39,Fuel system,,0
+1986,2,Spanish Grand Prix,1986-04-13,Piquet,Williams,13,2,39,Engine,,0
+1986,2,Spanish Grand Prix,1986-04-13,de Angelis,Brabham,14,15,29,Gearbox,,0
+1986,2,Spanish Grand Prix,1986-04-13,Arnoux,Ligier,15,6,29,Halfshaft,,0
+1986,2,Spanish Grand Prix,1986-04-13,Alboreto,Ferrari,16,13,22,Wheel bearing,,0
+1986,2,Spanish Grand Prix,1986-04-13,Streiff,Tyrrell,17,20,22,Engine,,0
+1986,2,Spanish Grand Prix,1986-04-13,Danner,Osella,18,23,14,Engine,,0
+1986,2,Spanish Grand Prix,1986-04-13,Johansson,Ferrari,19,11,11,Brakes,,0
+1986,2,Spanish Grand Prix,1986-04-13,Ghinzani,Osella,20,21,10,Engine,,0
+1986,2,Spanish Grand Prix,1986-04-13,Patrese,Brabham,21,14,8,Gearbox,,0
+1986,2,Spanish Grand Prix,1986-04-13,de Cesaris,Minardi,22,24,1,Differential,,0
+1986,2,Spanish Grand Prix,1986-04-13,Palmer,Zakspeed,23,16,0,Collision,,0
+1986,2,Spanish Grand Prix,1986-04-13,Jones,Lola,24,17,0,Collision,,0
+1986,2,Spanish Grand Prix,1986-04-13,Nannini,Minardi,25,25,0,Differential,,0
+1986,3,San Marino Grand Prix,1986-04-27,Prost,McLaren,1,4,60,Finished,1:32:28.408,9
+1986,3,San Marino Grand Prix,1986-04-27,Piquet,Williams,2,2,60,Finished,+7.645,6
+1986,3,San Marino Grand Prix,1986-04-27,Berger,Benetton,3,9,59,+1 Lap,,4
+1986,3,San Marino Grand Prix,1986-04-27,Johansson,Ferrari,4,7,59,+1 Lap,,3
+1986,3,San Marino Grand Prix,1986-04-27,Rosberg,McLaren,5,6,58,Out of fuel,,2
+1986,3,San Marino Grand Prix,1986-04-27,Patrese,Brabham,6,16,58,Out of fuel,,1
+1986,3,San Marino Grand Prix,1986-04-27,Boutsen,Arrows,7,12,58,+2 Laps,,0
+1986,3,San Marino Grand Prix,1986-04-27,Brundle,Tyrrell,8,13,58,+2 Laps,,0
+1986,3,San Marino Grand Prix,1986-04-27,Surer,Arrows,9,15,57,+3 Laps,,0
+1986,3,San Marino Grand Prix,1986-04-27,Alboreto,Ferrari,10,5,56,Turbo,,0
+1986,3,San Marino Grand Prix,1986-04-27,Ghinzani,Osella,11,26,52,Out of fuel,,0
+1986,3,San Marino Grand Prix,1986-04-27,Arnoux,Ligier,12,8,46,Wheel,,0
+1986,3,San Marino Grand Prix,1986-04-27,Streiff,Tyrrell,13,22,41,Transmission,,0
+1986,3,San Marino Grand Prix,1986-04-27,Fabi,Benetton,14,10,39,Engine,,0
+1986,3,San Marino Grand Prix,1986-04-27,Palmer,Zakspeed,15,20,38,Brakes,,0
+1986,3,San Marino Grand Prix,1986-04-27,Danner,Osella,16,25,31,Electrical,,0
+1986,3,San Marino Grand Prix,1986-04-27,Jones,Lola,17,21,28,Overheating,,0
+1986,3,San Marino Grand Prix,1986-04-27,de Cesaris,Minardi,18,23,20,Engine,,0
+1986,3,San Marino Grand Prix,1986-04-27,de Angelis,Brabham,19,19,19,Engine,,0
+1986,3,San Marino Grand Prix,1986-04-27,Laffite,Ligier,20,14,14,Transmission,,0
+1986,3,San Marino Grand Prix,1986-04-27,Senna,Team Lotus,21,1,11,Wheel bearing,,0
+1986,3,San Marino Grand Prix,1986-04-27,Mansell,Williams,22,3,8,Engine,,0
+1986,3,San Marino Grand Prix,1986-04-27,Dumfries,Team Lotus,23,17,8,Wheel bearing,,0
+1986,3,San Marino Grand Prix,1986-04-27,Rothengatter,Zakspeed,24,24,7,Turbo,,0
+1986,3,San Marino Grand Prix,1986-04-27,Tambay,Lola,25,11,5,Engine,,0
+1986,3,San Marino Grand Prix,1986-04-27,Nannini,Minardi,26,18,0,Accident,,0
+1986,4,Monaco Grand Prix,1986-05-11,Prost,McLaren,1,1,78,Finished,1:55:41.060,9
+1986,4,Monaco Grand Prix,1986-05-11,Rosberg,McLaren,2,9,78,Finished,+25.022,6
+1986,4,Monaco Grand Prix,1986-05-11,Senna,Team Lotus,3,3,78,Finished,+53.646,4
+1986,4,Monaco Grand Prix,1986-05-11,Mansell,Williams,4,2,78,Finished,+1:11.402,3
+1986,4,Monaco Grand Prix,1986-05-11,Arnoux,Ligier,5,12,77,+1 Lap,,2
+1986,4,Monaco Grand Prix,1986-05-11,Laffite,Ligier,6,7,77,+1 Lap,,1
+1986,4,Monaco Grand Prix,1986-05-11,Piquet,Williams,7,11,77,+1 Lap,,0
+1986,4,Monaco Grand Prix,1986-05-11,Boutsen,Arrows,8,14,75,+3 Laps,,0
+1986,4,Monaco Grand Prix,1986-05-11,Surer,Arrows,9,17,75,+3 Laps,,0
+1986,4,Monaco Grand Prix,1986-05-11,Johansson,Ferrari,10,15,75,+3 Laps,,0
+1986,4,Monaco Grand Prix,1986-05-11,Streiff,Tyrrell,11,13,74,+4 Laps,,0
+1986,4,Monaco Grand Prix,1986-05-11,Palmer,Zakspeed,12,19,74,+4 Laps,,0
+1986,4,Monaco Grand Prix,1986-05-11,Brundle,Tyrrell,13,10,67,Accident,,0
+1986,4,Monaco Grand Prix,1986-05-11,Tambay,Lola,14,8,67,Accident,,0
+1986,4,Monaco Grand Prix,1986-05-11,Berger,Benetton,15,5,42,Steering,,0
+1986,4,Monaco Grand Prix,1986-05-11,Patrese,Brabham,16,6,38,Fuel pump,,0
+1986,4,Monaco Grand Prix,1986-05-11,Alboreto,Ferrari,17,4,38,Turbo,,0
+1986,4,Monaco Grand Prix,1986-05-11,de Angelis,Brabham,18,20,31,Engine,,0
+1986,4,Monaco Grand Prix,1986-05-11,Fabi,Benetton,19,16,17,Brakes,,0
+1986,4,Monaco Grand Prix,1986-05-11,Jones,Lola,20,18,2,Accident,,0
+1986,4,Monaco Grand Prix,1986-05-11,Ghinzani,Osella,21,0,0,Did not qualify,,0
+1986,4,Monaco Grand Prix,1986-05-11,Dumfries,Team Lotus,22,0,0,Did not qualify,,0
+1986,4,Monaco Grand Prix,1986-05-11,Rothengatter,Zakspeed,23,0,0,Did not qualify,,0
+1986,4,Monaco Grand Prix,1986-05-11,Danner,Osella,24,0,0,Did not qualify,,0
+1986,4,Monaco Grand Prix,1986-05-11,de Cesaris,Minardi,25,0,0,Did not qualify,,0
+1986,5,Belgian Grand Prix,1986-05-25,Mansell,Williams,1,5,43,Finished,1:27:57.925,9
+1986,5,Belgian Grand Prix,1986-05-25,Senna,Team Lotus,2,4,43,Finished,+19.827,6
+1986,5,Belgian Grand Prix,1986-05-25,Johansson,Ferrari,3,11,43,Finished,+23.592,4
+1986,5,Belgian Grand Prix,1986-05-25,Alboreto,Ferrari,4,9,43,Finished,+29.634,3
+1986,5,Belgian Grand Prix,1986-05-25,Laffite,Ligier,5,17,43,Finished,+1:10.690,2
+1986,5,Belgian Grand Prix,1986-05-25,Prost,McLaren,6,3,43,Finished,+2:17.772,1
+1986,5,Belgian Grand Prix,1986-05-25,Fabi,Benetton,7,6,42,+1 Lap,,0
+1986,5,Belgian Grand Prix,1986-05-25,Patrese,Brabham,8,15,42,+1 Lap,,0
+1986,5,Belgian Grand Prix,1986-05-25,Surer,Arrows,9,21,41,+2 Laps,,0
+1986,5,Belgian Grand Prix,1986-05-25,Berger,Benetton,10,2,41,+2 Laps,,0
+1986,5,Belgian Grand Prix,1986-05-25,Jones,Lola,11,16,40,Out of fuel,,0
+1986,5,Belgian Grand Prix,1986-05-25,Streiff,Tyrrell,12,18,40,+3 Laps,,0
+1986,5,Belgian Grand Prix,1986-05-25,Palmer,Zakspeed,13,20,37,+6 Laps,,0
+1986,5,Belgian Grand Prix,1986-05-25,de Cesaris,Minardi,14,19,35,Out of fuel,,0
+1986,5,Belgian Grand Prix,1986-05-25,Rothengatter,Zakspeed,15,23,25,Electrical,,0
+1986,5,Belgian Grand Prix,1986-05-25,Brundle,Tyrrell,16,12,25,Gearbox,,0
+1986,5,Belgian Grand Prix,1986-05-25,Nannini,Minardi,17,22,24,Gearbox,,0
+1986,5,Belgian Grand Prix,1986-05-25,Arnoux,Ligier,18,7,23,Engine,,0
+1986,5,Belgian Grand Prix,1986-05-25,Piquet,Williams,19,1,16,Turbo,,0
+1986,5,Belgian Grand Prix,1986-05-25,Boutsen,Arrows,20,14,7,Electrical,,0
+1986,5,Belgian Grand Prix,1986-05-25,Dumfries,Team Lotus,21,13,7,Spun off,,0
+1986,5,Belgian Grand Prix,1986-05-25,Rosberg,McLaren,22,8,6,Engine,,0
+1986,5,Belgian Grand Prix,1986-05-25,Ghinzani,Osella,23,24,3,Engine,,0
+1986,5,Belgian Grand Prix,1986-05-25,Danner,Osella,24,25,2,Engine,,0
+1986,5,Belgian Grand Prix,1986-05-25,Tambay,Lola,25,10,0,Accident,,0
+1986,6,Canadian Grand Prix,1986-06-15,Mansell,Williams,1,1,69,Finished,1:42:26.415,9
+1986,6,Canadian Grand Prix,1986-06-15,Prost,McLaren,2,4,69,Finished,+20.659,6
+1986,6,Canadian Grand Prix,1986-06-15,Piquet,Williams,3,3,69,Finished,+36.262,4
+1986,6,Canadian Grand Prix,1986-06-15,Rosberg,McLaren,4,6,69,Finished,+1:35.673,3
+1986,6,Canadian Grand Prix,1986-06-15,Senna,Team Lotus,5,2,68,+1 Lap,,2
+1986,6,Canadian Grand Prix,1986-06-15,Arnoux,Ligier,6,5,68,+1 Lap,,1
+1986,6,Canadian Grand Prix,1986-06-15,Laffite,Ligier,7,8,68,+1 Lap,,0
+1986,6,Canadian Grand Prix,1986-06-15,Alboreto,Ferrari,8,11,68,+1 Lap,,0
+1986,6,Canadian Grand Prix,1986-06-15,Brundle,Tyrrell,9,19,67,+2 Laps,,0
+1986,6,Canadian Grand Prix,1986-06-15,Jones,Lola,10,13,66,+3 Laps,,0
+1986,6,Canadian Grand Prix,1986-06-15,Streiff,Tyrrell,11,17,65,+4 Laps,,0
+1986,6,Canadian Grand Prix,1986-06-15,Rothengatter,Zakspeed,12,24,63,+6 Laps,,0
+1986,6,Canadian Grand Prix,1986-06-15,Patrese,Brabham,13,9,44,Turbo,,0
+1986,6,Canadian Grand Prix,1986-06-15,Ghinzani,Osella,14,23,43,Gearbox,,0
+1986,6,Canadian Grand Prix,1986-06-15,de Cesaris,Minardi,15,21,40,Gearbox,,0
+1986,6,Canadian Grand Prix,1986-06-15,Boutsen,Arrows,16,12,38,Electrical,,0
+1986,6,Canadian Grand Prix,1986-06-15,Berger,Benetton,17,7,34,Turbo,,0
+1986,6,Canadian Grand Prix,1986-06-15,Johansson,Ferrari,18,18,29,Accident,,0
+1986,6,Canadian Grand Prix,1986-06-15,Dumfries,Team Lotus,19,16,28,Accident,,0
+1986,6,Canadian Grand Prix,1986-06-15,Palmer,Zakspeed,20,22,24,Engine,,0
+1986,6,Canadian Grand Prix,1986-06-15,Warwick,Brabham,21,10,20,Engine,,0
+1986,6,Canadian Grand Prix,1986-06-15,Nannini,Minardi,22,20,17,Turbo,,0
+1986,6,Canadian Grand Prix,1986-06-15,Fabi,Benetton,23,15,13,Battery,,0
+1986,6,Canadian Grand Prix,1986-06-15,Danner,Osella,24,25,6,Turbo,,0
+1986,6,Canadian Grand Prix,1986-06-15,Tambay,Lola,25,14,0,Accident,,0
+1986,7,Detroit Grand Prix,1986-06-22,Senna,Team Lotus,1,1,63,Finished,1:51:12.847,9
+1986,7,Detroit Grand Prix,1986-06-22,Laffite,Ligier,2,6,63,Finished,+31.017,6
+1986,7,Detroit Grand Prix,1986-06-22,Prost,McLaren,3,7,63,Finished,+31.824,4
+1986,7,Detroit Grand Prix,1986-06-22,Alboreto,Ferrari,4,11,63,Finished,+1:30.936,3
+1986,7,Detroit Grand Prix,1986-06-22,Mansell,Williams,5,2,62,+1 Lap,,2
+1986,7,Detroit Grand Prix,1986-06-22,Patrese,Brabham,6,8,62,+1 Lap,,1
+1986,7,Detroit Grand Prix,1986-06-22,Dumfries,Team Lotus,7,14,61,+2 Laps,,0
+1986,7,Detroit Grand Prix,1986-06-22,Palmer,Zakspeed,8,20,61,+2 Laps,,0
+1986,7,Detroit Grand Prix,1986-06-22,Streiff,Tyrrell,9,18,61,+2 Laps,,0
+1986,7,Detroit Grand Prix,1986-06-22,Warwick,Brabham,10,15,60,+3 Laps,,0
+1986,7,Detroit Grand Prix,1986-06-22,Danner,Arrows,11,19,51,Electrical,,0
+1986,7,Detroit Grand Prix,1986-06-22,Arnoux,Ligier,12,4,46,Accident,,0
+1986,7,Detroit Grand Prix,1986-06-22,Boutsen,Arrows,13,13,44,Accident,,0
+1986,7,Detroit Grand Prix,1986-06-22,de Cesaris,Minardi,14,23,43,Gearbox,,0
+1986,7,Detroit Grand Prix,1986-06-22,Piquet,Williams,15,3,41,Accident,,0
+1986,7,Detroit Grand Prix,1986-06-22,Johansson,Ferrari,16,5,40,Electrical,,0
+1986,7,Detroit Grand Prix,1986-06-22,Fabi,Benetton,17,17,38,Gearbox,,0
+1986,7,Detroit Grand Prix,1986-06-22,Cheever,Lola,18,10,37,Steering,,0
+1986,7,Detroit Grand Prix,1986-06-22,Jones,Lola,19,21,33,Steering,,0
+1986,7,Detroit Grand Prix,1986-06-22,Berg,Osella,20,25,28,Electrical,,0
+1986,7,Detroit Grand Prix,1986-06-22,Brundle,Tyrrell,21,16,15,Electrical,,0
+1986,7,Detroit Grand Prix,1986-06-22,Ghinzani,Osella,22,22,14,Turbo,,0
+1986,7,Detroit Grand Prix,1986-06-22,Rosberg,McLaren,23,9,12,Transmission,,0
+1986,7,Detroit Grand Prix,1986-06-22,Berger,Benetton,24,12,8,Engine,,0
+1986,7,Detroit Grand Prix,1986-06-22,Nannini,Minardi,25,24,3,Turbo,,0
+1986,7,Detroit Grand Prix,1986-06-22,Rothengatter,Zakspeed,26,26,0,Electrical,,0
+1986,8,French Grand Prix,1986-07-06,Mansell,Williams,1,2,80,Finished,1:37:19.272,9
+1986,8,French Grand Prix,1986-07-06,Prost,McLaren,2,5,80,Finished,+17.128,6
+1986,8,French Grand Prix,1986-07-06,Piquet,Williams,3,3,80,Finished,+37.545,4
+1986,8,French Grand Prix,1986-07-06,Rosberg,McLaren,4,7,80,Finished,+48.703,3
+1986,8,French Grand Prix,1986-07-06,Arnoux,Ligier,5,4,79,+1 Lap,,2
+1986,8,French Grand Prix,1986-07-06,Laffite,Ligier,6,11,79,+1 Lap,,1
+1986,8,French Grand Prix,1986-07-06,Patrese,Brabham,7,16,78,+2 Laps,,0
+1986,8,French Grand Prix,1986-07-06,Alboreto,Ferrari,8,9,78,+2 Laps,,0
+1986,8,French Grand Prix,1986-07-06,Warwick,Brabham,9,14,77,+3 Laps,,0
+1986,8,French Grand Prix,1986-07-06,Brundle,Tyrrell,10,15,77,+3 Laps,,0
+1986,8,French Grand Prix,1986-07-06,Danner,Arrows,11,18,76,+4 Laps,,0
+1986,8,French Grand Prix,1986-07-06,Boutsen,Arrows,12,21,67,Not classified,,0
+1986,8,French Grand Prix,1986-07-06,Tambay,Lola,13,13,64,Brakes,,0
+1986,8,French Grand Prix,1986-07-06,Dumfries,Team Lotus,14,12,56,Engine,,0
+1986,8,French Grand Prix,1986-07-06,Palmer,Zakspeed,15,22,46,Engine,,0
+1986,8,French Grand Prix,1986-07-06,Streiff,Tyrrell,16,17,43,Heat shield fire,,0
+1986,8,French Grand Prix,1986-07-06,Rothengatter,Zakspeed,17,24,32,Accident,,0
+1986,8,French Grand Prix,1986-07-06,Berg,Osella,18,26,25,Turbo,,0
+1986,8,French Grand Prix,1986-07-06,Berger,Benetton,19,8,22,Gearbox,,0
+1986,8,French Grand Prix,1986-07-06,Fabi,Benetton,20,6,7,Engine,,0
+1986,8,French Grand Prix,1986-07-06,Johansson,Ferrari,21,10,5,Turbo,,0
+1986,8,French Grand Prix,1986-07-06,Senna,Team Lotus,22,1,3,Accident,,0
+1986,8,French Grand Prix,1986-07-06,Ghinzani,Osella,23,25,3,Accident,,0
+1986,8,French Grand Prix,1986-07-06,Nannini,Minardi,24,19,3,Accident,,0
+1986,8,French Grand Prix,1986-07-06,de Cesaris,Minardi,25,23,3,Turbo,,0
+1986,8,French Grand Prix,1986-07-06,Jones,Lola,26,20,2,Accident,,0
+1986,9,British Grand Prix,1986-07-13,Mansell,Williams,1,2,75,Finished,1:30:38.471,9
+1986,9,British Grand Prix,1986-07-13,Piquet,Williams,2,1,75,Finished,+5.574,6
+1986,9,British Grand Prix,1986-07-13,Prost,McLaren,3,6,74,+1 Lap,,4
+1986,9,British Grand Prix,1986-07-13,Arnoux,Ligier,4,8,73,+2 Laps,,3
+1986,9,British Grand Prix,1986-07-13,Brundle,Tyrrell,5,11,72,+3 Laps,,2
+1986,9,British Grand Prix,1986-07-13,Streiff,Tyrrell,6,16,72,+3 Laps,,1
+1986,9,British Grand Prix,1986-07-13,Dumfries,Team Lotus,7,10,72,+3 Laps,,0
+1986,9,British Grand Prix,1986-07-13,Warwick,Brabham,8,9,72,+3 Laps,,0
+1986,9,British Grand Prix,1986-07-13,Palmer,Zakspeed,9,22,69,+6 Laps,,0
+1986,9,British Grand Prix,1986-07-13,Boutsen,Arrows,10,13,62,Not classified,,0
+1986,9,British Grand Prix,1986-07-13,Tambay,Lola,11,17,60,Gearbox,,0
+1986,9,British Grand Prix,1986-07-13,Alboreto,Ferrari,12,12,51,Turbo,,0
+1986,9,British Grand Prix,1986-07-13,Nannini,Minardi,13,20,50,Steering,,0
+1986,9,British Grand Prix,1986-07-13,Fabi,Benetton,14,7,45,Fuel system,,0
+1986,9,British Grand Prix,1986-07-13,Patrese,Brabham,15,15,39,Engine,,0
+1986,9,British Grand Prix,1986-07-13,Senna,Team Lotus,16,3,27,Gearbox,,0
+1986,9,British Grand Prix,1986-07-13,Rothengatter,Zakspeed,17,25,24,Engine,,0
+1986,9,British Grand Prix,1986-07-13,de Cesaris,Minardi,18,21,23,Electrical,,0
+1986,9,British Grand Prix,1986-07-13,Berger,Benetton,19,4,22,Electrical,,0
+1986,9,British Grand Prix,1986-07-13,Jones,Lola,20,14,22,Throttle,,0
+1986,9,British Grand Prix,1986-07-13,Johansson,Ferrari,21,18,20,Engine,,0
+1986,9,British Grand Prix,1986-07-13,Rosberg,McLaren,22,5,7,Gearbox,,0
+1986,9,British Grand Prix,1986-07-13,Laffite,Ligier,23,19,0,Collision,,0
+1986,9,British Grand Prix,1986-07-13,Danner,Arrows,24,23,0,Collision,,0
+1986,9,British Grand Prix,1986-07-13,Ghinzani,Osella,25,24,0,Collision,,0
+1986,9,British Grand Prix,1986-07-13,Berg,Osella,26,26,0,Collision,,0
+1986,10,German Grand Prix,1986-07-27,Piquet,Williams,1,5,44,Finished,1:22:08.263,9
+1986,10,German Grand Prix,1986-07-27,Senna,Team Lotus,2,3,44,Finished,+15.437,6
+1986,10,German Grand Prix,1986-07-27,Mansell,Williams,3,6,44,Finished,+44.580,4
+1986,10,German Grand Prix,1986-07-27,Arnoux,Ligier,4,8,44,Finished,+1:15.176,3
+1986,10,German Grand Prix,1986-07-27,Rosberg,McLaren,5,1,43,Out of fuel,,2
+1986,10,German Grand Prix,1986-07-27,Prost,McLaren,6,2,43,Out of fuel,,1
+1986,10,German Grand Prix,1986-07-27,Warwick,Brabham,7,20,43,+1 Lap,,0
+1986,10,German Grand Prix,1986-07-27,Tambay,Lola,8,13,43,+1 Lap,,0
+1986,10,German Grand Prix,1986-07-27,Jones,Lola,9,19,42,+2 Laps,,0
+1986,10,German Grand Prix,1986-07-27,Berger,Benetton,10,4,42,+2 Laps,,0
+1986,10,German Grand Prix,1986-07-27,Johansson,Ferrari,11,11,41,Broken wing,,0
+1986,10,German Grand Prix,1986-07-27,Berg,Osella,12,26,40,+4 Laps,,0
+1986,10,German Grand Prix,1986-07-27,Danner,Arrows,13,17,38,Turbo,,0
+1986,10,German Grand Prix,1986-07-27,Rothengatter,Zakspeed,14,24,38,Gearbox,,0
+1986,10,German Grand Prix,1986-07-27,Palmer,Zakspeed,15,16,37,Engine,,0
+1986,10,German Grand Prix,1986-07-27,Brundle,Tyrrell,16,15,34,Electrical,,0
+1986,10,German Grand Prix,1986-07-27,Patrese,Brabham,17,7,22,Turbo,,0
+1986,10,German Grand Prix,1986-07-27,de Cesaris,Minardi,18,23,20,Gearbox,,0
+1986,10,German Grand Prix,1986-07-27,Nannini,Minardi,19,22,19,Overheating,,0
+1986,10,German Grand Prix,1986-07-27,Dumfries,Team Lotus,20,12,17,Radiator,,0
+1986,10,German Grand Prix,1986-07-27,Boutsen,Arrows,21,21,13,Turbo,,0
+1986,10,German Grand Prix,1986-07-27,Alliot,Ligier,22,14,11,Engine,,0
+1986,10,German Grand Prix,1986-07-27,Ghinzani,Osella,23,25,10,Clutch,,0
+1986,10,German Grand Prix,1986-07-27,Streiff,Tyrrell,24,18,7,Engine,,0
+1986,10,German Grand Prix,1986-07-27,Alboreto,Ferrari,25,10,6,Transmission,,0
+1986,10,German Grand Prix,1986-07-27,Fabi,Benetton,26,9,0,Accident,,0
+1986,11,Hungarian Grand Prix,1986-08-10,Piquet,Williams,1,2,76,Finished,2:00:34.508,9
+1986,11,Hungarian Grand Prix,1986-08-10,Senna,Team Lotus,2,1,76,Finished,+17.673,6
+1986,11,Hungarian Grand Prix,1986-08-10,Mansell,Williams,3,4,75,+1 Lap,,4
+1986,11,Hungarian Grand Prix,1986-08-10,Johansson,Ferrari,4,7,75,+1 Lap,,3
+1986,11,Hungarian Grand Prix,1986-08-10,Dumfries,Team Lotus,5,8,74,+2 Laps,,2
+1986,11,Hungarian Grand Prix,1986-08-10,Brundle,Tyrrell,6,16,74,+2 Laps,,1
+1986,11,Hungarian Grand Prix,1986-08-10,Tambay,Lola,7,6,74,+2 Laps,,0
+1986,11,Hungarian Grand Prix,1986-08-10,Streiff,Tyrrell,8,18,74,+2 Laps,,0
+1986,11,Hungarian Grand Prix,1986-08-10,Alliot,Ligier,9,12,73,+3 Laps,,0
+1986,11,Hungarian Grand Prix,1986-08-10,Palmer,Zakspeed,10,24,70,+6 Laps,,0
+1986,11,Hungarian Grand Prix,1986-08-10,Arnoux,Ligier,11,9,48,Engine,,0
+1986,11,Hungarian Grand Prix,1986-08-10,Jones,Lola,12,10,46,Differential,,0
+1986,11,Hungarian Grand Prix,1986-08-10,Berger,Benetton,13,11,44,Transmission,,0
+1986,11,Hungarian Grand Prix,1986-08-10,Boutsen,Arrows,14,22,40,Electrical,,0
+1986,11,Hungarian Grand Prix,1986-08-10,Rosberg,McLaren,15,5,34,Suspension,,0
+1986,11,Hungarian Grand Prix,1986-08-10,Fabi,Benetton,16,13,32,Transmission,,0
+1986,11,Hungarian Grand Prix,1986-08-10,Nannini,Minardi,17,17,30,Engine,,0
+1986,11,Hungarian Grand Prix,1986-08-10,Alboreto,Ferrari,18,15,29,Accident,,0
+1986,11,Hungarian Grand Prix,1986-08-10,Warwick,Brabham,19,19,28,Accident,,0
+1986,11,Hungarian Grand Prix,1986-08-10,Prost,McLaren,20,3,23,Accident,,0
+1986,11,Hungarian Grand Prix,1986-08-10,Ghinzani,Osella,21,23,15,Suspension,,0
+1986,11,Hungarian Grand Prix,1986-08-10,Danner,Arrows,22,21,7,Suspension,,0
+1986,11,Hungarian Grand Prix,1986-08-10,Patrese,Brabham,23,14,5,Gearbox,,0
+1986,11,Hungarian Grand Prix,1986-08-10,de Cesaris,Minardi,24,20,5,Engine,,0
+1986,11,Hungarian Grand Prix,1986-08-10,Rothengatter,Zakspeed,25,25,2,Radiator,,0
+1986,11,Hungarian Grand Prix,1986-08-10,Berg,Osella,26,26,1,Turbo,,0
+1986,12,Austrian Grand Prix,1986-08-17,Prost,McLaren,1,5,52,Finished,1:21:22.531,9
+1986,12,Austrian Grand Prix,1986-08-17,Alboreto,Ferrari,2,9,51,+1 Lap,,6
+1986,12,Austrian Grand Prix,1986-08-17,Johansson,Ferrari,3,14,50,+2 Laps,,4
+1986,12,Austrian Grand Prix,1986-08-17,Jones,Lola,4,16,50,+2 Laps,,3
+1986,12,Austrian Grand Prix,1986-08-17,Tambay,Lola,5,13,50,+2 Laps,,2
+1986,12,Austrian Grand Prix,1986-08-17,Danner,Arrows,6,22,49,+3 Laps,,1
+1986,12,Austrian Grand Prix,1986-08-17,Berger,Benetton,7,2,49,+3 Laps,,0
+1986,12,Austrian Grand Prix,1986-08-17,Rothengatter,Zakspeed,8,24,48,+4 Laps,,0
+1986,12,Austrian Grand Prix,1986-08-17,Rosberg,McLaren,9,3,47,Electrical,,0
+1986,12,Austrian Grand Prix,1986-08-17,Arnoux,Ligier,10,12,47,+5 Laps,,0
+1986,12,Austrian Grand Prix,1986-08-17,Ghinzani,Osella,11,25,46,+6 Laps,,0
+1986,12,Austrian Grand Prix,1986-08-17,Mansell,Williams,12,6,32,Halfshaft,,0
+1986,12,Austrian Grand Prix,1986-08-17,Piquet,Williams,13,7,29,Engine,,0
+1986,12,Austrian Grand Prix,1986-08-17,Boutsen,Arrows,14,18,25,Turbo,,0
+1986,12,Austrian Grand Prix,1986-08-17,Fabi,Benetton,15,1,17,Engine,,0
+1986,12,Austrian Grand Prix,1986-08-17,Alliot,Ligier,16,11,16,Engine,,0
+1986,12,Austrian Grand Prix,1986-08-17,Nannini,Minardi,17,19,13,Suspension,,0
+1986,12,Austrian Grand Prix,1986-08-17,de Cesaris,Minardi,18,23,13,Clutch,,0
+1986,12,Austrian Grand Prix,1986-08-17,Senna,Team Lotus,19,8,13,Engine,,0
+1986,12,Austrian Grand Prix,1986-08-17,Brundle,Tyrrell,20,17,12,Turbo,,0
+1986,12,Austrian Grand Prix,1986-08-17,Streiff,Tyrrell,21,20,10,Engine,,0
+1986,12,Austrian Grand Prix,1986-08-17,Dumfries,Team Lotus,22,15,9,Engine,,0
+1986,12,Austrian Grand Prix,1986-08-17,Palmer,Zakspeed,23,21,8,Engine,,0
+1986,12,Austrian Grand Prix,1986-08-17,Berg,Osella,24,26,6,Electrical,,0
+1986,12,Austrian Grand Prix,1986-08-17,Patrese,Brabham,25,4,2,Engine,,0
+1986,12,Austrian Grand Prix,1986-08-17,Warwick,Brabham,26,10,0,Withdrew,,0
+1986,13,Italian Grand Prix,1986-09-07,Piquet,Williams,1,6,51,Finished,1:17:42.889,9
+1986,13,Italian Grand Prix,1986-09-07,Mansell,Williams,2,3,51,Finished,+9.828,6
+1986,13,Italian Grand Prix,1986-09-07,Johansson,Ferrari,3,12,51,Finished,+22.915,4
+1986,13,Italian Grand Prix,1986-09-07,Rosberg,McLaren,4,8,51,Finished,+53.809,3
+1986,13,Italian Grand Prix,1986-09-07,Berger,Benetton,5,4,50,+1 Lap,,2
+1986,13,Italian Grand Prix,1986-09-07,Jones,Lola,6,18,49,+2 Laps,,1
+1986,13,Italian Grand Prix,1986-09-07,Boutsen,Arrows,7,13,49,+2 Laps,,0
+1986,13,Italian Grand Prix,1986-09-07,Danner,Arrows,8,16,49,+2 Laps,,0
+1986,13,Italian Grand Prix,1986-09-07,Streiff,Tyrrell,9,23,49,+2 Laps,,0
+1986,13,Italian Grand Prix,1986-09-07,Brundle,Tyrrell,10,20,49,+2 Laps,,0
+1986,13,Italian Grand Prix,1986-09-07,Caffi,Osella,11,27,45,Not classified,,0
+1986,13,Italian Grand Prix,1986-09-07,Fabi,Benetton,12,1,44,Puncture,,0
+1986,13,Italian Grand Prix,1986-09-07,Alboreto,Ferrari,13,9,33,Engine,,0
+1986,13,Italian Grand Prix,1986-09-07,de Cesaris,Minardi,14,21,33,Engine,,0
+1986,13,Italian Grand Prix,1986-09-07,Capelli,AGS,15,25,31,Puncture,,0
+1986,13,Italian Grand Prix,1986-09-07,Arnoux,Ligier,16,11,30,Gearbox,,0
+1986,13,Italian Grand Prix,1986-09-07,Palmer,Zakspeed,17,22,27,Engine,,0
+1986,13,Italian Grand Prix,1986-09-07,Prost,McLaren,18,2,27,Disqualified,,0
+1986,13,Italian Grand Prix,1986-09-07,Alliot,Ligier,19,14,22,Engine,,0
+1986,13,Italian Grand Prix,1986-09-07,Dumfries,Team Lotus,20,17,18,Gearbox,,0
+1986,13,Italian Grand Prix,1986-09-07,Warwick,Brabham,21,7,16,Spun off,,0
+1986,13,Italian Grand Prix,1986-09-07,Nannini,Minardi,22,19,15,Electrical,,0
+1986,13,Italian Grand Prix,1986-09-07,Ghinzani,Osella,23,26,12,Suspension,,0
+1986,13,Italian Grand Prix,1986-09-07,Tambay,Lola,24,15,2,Accident,,0
+1986,13,Italian Grand Prix,1986-09-07,Patrese,Brabham,25,10,2,Accident,,0
+1986,13,Italian Grand Prix,1986-09-07,Rothengatter,Zakspeed,26,24,1,Engine,,0
+1986,13,Italian Grand Prix,1986-09-07,Senna,Team Lotus,27,5,0,Transmission,,0
+1986,14,Portuguese Grand Prix,1986-09-21,Mansell,Williams,1,2,70,Finished,1:37:21.900,9
+1986,14,Portuguese Grand Prix,1986-09-21,Prost,McLaren,2,3,70,Finished,+18.772,6
+1986,14,Portuguese Grand Prix,1986-09-21,Piquet,Williams,3,6,70,Finished,+49.274,4
+1986,14,Portuguese Grand Prix,1986-09-21,Senna,Team Lotus,4,1,69,Out of fuel,,3
+1986,14,Portuguese Grand Prix,1986-09-21,Alboreto,Ferrari,5,13,69,+1 Lap,,2
+1986,14,Portuguese Grand Prix,1986-09-21,Johansson,Ferrari,6,8,69,+1 Lap,,1
+1986,14,Portuguese Grand Prix,1986-09-21,Arnoux,Ligier,7,10,69,+1 Lap,,0
+1986,14,Portuguese Grand Prix,1986-09-21,Fabi,Benetton,8,5,68,+2 Laps,,0
+1986,14,Portuguese Grand Prix,1986-09-21,Dumfries,Team Lotus,9,15,68,+2 Laps,,0
+1986,14,Portuguese Grand Prix,1986-09-21,Boutsen,Arrows,10,21,67,+3 Laps,,0
+1986,14,Portuguese Grand Prix,1986-09-21,Danner,Arrows,11,22,67,+3 Laps,,0
+1986,14,Portuguese Grand Prix,1986-09-21,Palmer,Zakspeed,12,20,67,+3 Laps,,0
+1986,14,Portuguese Grand Prix,1986-09-21,Berg,Osella,13,27,63,+7 Laps,,0
+1986,14,Portuguese Grand Prix,1986-09-21,Patrese,Brabham,14,9,62,Engine,,0
+1986,14,Portuguese Grand Prix,1986-09-21,Tambay,Lola,15,14,62,Not classified,,0
+1986,14,Portuguese Grand Prix,1986-09-21,Nannini,Minardi,16,18,60,Not classified,,0
+1986,14,Portuguese Grand Prix,1986-09-21,Berger,Benetton,17,4,44,Spun off,,0
+1986,14,Portuguese Grand Prix,1986-09-21,de Cesaris,Minardi,18,16,43,Spun off,,0
+1986,14,Portuguese Grand Prix,1986-09-21,Rosberg,McLaren,19,7,41,Electrical,,0
+1986,14,Portuguese Grand Prix,1986-09-21,Warwick,Brabham,20,12,41,Electrical,,0
+1986,14,Portuguese Grand Prix,1986-09-21,Alliot,Ligier,21,11,39,Engine,,0
+1986,14,Portuguese Grand Prix,1986-09-21,Streiff,Tyrrell,22,23,28,Engine,,0
+1986,14,Portuguese Grand Prix,1986-09-21,Brundle,Tyrrell,23,19,18,Engine,,0
+1986,14,Portuguese Grand Prix,1986-09-21,Jones,Lola,24,17,10,Brakes,,0
+1986,14,Portuguese Grand Prix,1986-09-21,Rothengatter,Zakspeed,25,26,9,Transmission,,0
+1986,14,Portuguese Grand Prix,1986-09-21,Ghinzani,Osella,26,24,8,Engine,,0
+1986,14,Portuguese Grand Prix,1986-09-21,Capelli,AGS,27,25,6,Transmission,,0
+1986,15,Mexican Grand Prix,1986-10-12,Berger,Benetton,1,4,68,Finished,1:33:18.700,9
+1986,15,Mexican Grand Prix,1986-10-12,Prost,McLaren,2,6,68,Finished,+25.438,6
+1986,15,Mexican Grand Prix,1986-10-12,Senna,Team Lotus,3,1,68,Finished,+52.513,4
+1986,15,Mexican Grand Prix,1986-10-12,Piquet,Williams,4,2,67,+1 Lap,,3
+1986,15,Mexican Grand Prix,1986-10-12,Mansell,Williams,5,3,67,+1 Lap,,2
+1986,15,Mexican Grand Prix,1986-10-12,Alliot,Ligier,6,10,67,+1 Lap,,1
+1986,15,Mexican Grand Prix,1986-10-12,Boutsen,Arrows,7,21,66,+2 Laps,,0
+1986,15,Mexican Grand Prix,1986-10-12,de Cesaris,Minardi,8,22,66,+2 Laps,,0
+1986,15,Mexican Grand Prix,1986-10-12,Danner,Arrows,9,20,66,+2 Laps,,0
+1986,15,Mexican Grand Prix,1986-10-12,Palmer,Zakspeed,10,18,65,Out of fuel,,0
+1986,15,Mexican Grand Prix,1986-10-12,Brundle,Tyrrell,11,16,65,+3 Laps,,0
+1986,15,Mexican Grand Prix,1986-10-12,Johansson,Ferrari,12,14,64,Turbo,,0
+1986,15,Mexican Grand Prix,1986-10-12,Patrese,Brabham,13,5,64,Spun off,,0
+1986,15,Mexican Grand Prix,1986-10-12,Nannini,Minardi,14,24,64,+4 Laps,,0
+1986,15,Mexican Grand Prix,1986-10-12,Arnoux,Ligier,15,13,63,Engine,,0
+1986,15,Mexican Grand Prix,1986-10-12,Berg,Osella,16,26,61,+7 Laps,,0
+1986,15,Mexican Grand Prix,1986-10-12,Dumfries,Team Lotus,17,17,53,Electrical,,0
+1986,15,Mexican Grand Prix,1986-10-12,Warwick,Brabham,18,7,37,Engine,,0
+1986,15,Mexican Grand Prix,1986-10-12,Jones,Lola,19,15,35,Tyre,,0
+1986,15,Mexican Grand Prix,1986-10-12,Rosberg,McLaren,20,11,32,Puncture,,0
+1986,15,Mexican Grand Prix,1986-10-12,Alboreto,Ferrari,21,12,10,Turbo,,0
+1986,15,Mexican Grand Prix,1986-10-12,Ghinzani,Osella,22,25,8,Turbo,,0
+1986,15,Mexican Grand Prix,1986-10-12,Streiff,Tyrrell,23,19,8,Turbo,,0
+1986,15,Mexican Grand Prix,1986-10-12,Fabi,Benetton,24,9,4,Engine,,0
+1986,15,Mexican Grand Prix,1986-10-12,Tambay,Lola,25,8,0,Accident,,0
+1986,16,Australian Grand Prix,1986-10-26,Prost,McLaren,1,4,82,Finished,1:54:20.388,9
+1986,16,Australian Grand Prix,1986-10-26,Piquet,Williams,2,2,82,Finished,+4.205,6
+1986,16,Australian Grand Prix,1986-10-26,Johansson,Ferrari,3,12,81,+1 Lap,,4
+1986,16,Australian Grand Prix,1986-10-26,Brundle,Tyrrell,4,16,81,+1 Lap,,3
+1986,16,Australian Grand Prix,1986-10-26,Streiff,Tyrrell,5,10,80,Out of fuel,,2
+1986,16,Australian Grand Prix,1986-10-26,Dumfries,Team Lotus,6,14,80,+2 Laps,,1
+1986,16,Australian Grand Prix,1986-10-26,Arnoux,Ligier,7,5,79,+3 Laps,,0
+1986,16,Australian Grand Prix,1986-10-26,Alliot,Ligier,8,8,79,+3 Laps,,0
+1986,16,Australian Grand Prix,1986-10-26,Palmer,Zakspeed,9,21,77,+5 Laps,,0
+1986,16,Australian Grand Prix,1986-10-26,Fabi,Benetton,10,13,77,+5 Laps,,0
+1986,16,Australian Grand Prix,1986-10-26,Tambay,Lola,11,17,70,Not classified,,0
+1986,16,Australian Grand Prix,1986-10-26,Mansell,Williams,12,1,63,Tyre,,0
+1986,16,Australian Grand Prix,1986-10-26,Patrese,Brabham,13,19,63,Electrical,,0
+1986,16,Australian Grand Prix,1986-10-26,Rosberg,McLaren,14,7,62,Tyre,,0
+1986,16,Australian Grand Prix,1986-10-26,Berg,Osella,15,26,61,Not classified,,0
+1986,16,Australian Grand Prix,1986-10-26,Warwick,Brabham,16,20,57,Brakes,,0
+1986,16,Australian Grand Prix,1986-10-26,Danner,Arrows,17,24,52,Engine,,0
+1986,16,Australian Grand Prix,1986-10-26,Boutsen,Arrows,18,22,50,Engine,,0
+1986,16,Australian Grand Prix,1986-10-26,Senna,Team Lotus,19,3,43,Engine,,0
+1986,16,Australian Grand Prix,1986-10-26,de Cesaris,Minardi,20,11,40,Mechanical,,0
+1986,16,Australian Grand Prix,1986-10-26,Berger,Benetton,21,6,40,Engine,,0
+1986,16,Australian Grand Prix,1986-10-26,Rothengatter,Zakspeed,22,23,29,Suspension,,0
+1986,16,Australian Grand Prix,1986-10-26,Jones,Lola,23,15,16,Engine,,0
+1986,16,Australian Grand Prix,1986-10-26,Nannini,Minardi,24,18,10,Accident,,0
+1986,16,Australian Grand Prix,1986-10-26,Ghinzani,Osella,25,25,2,Transmission,,0
+1986,16,Australian Grand Prix,1986-10-26,Alboreto,Ferrari,26,9,0,Accident,,0

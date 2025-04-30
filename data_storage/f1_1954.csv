@@ -1,0 +1,231 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1954,1,Argentine Grand Prix,1954-01-17,Fangio,Maserati,1,3,87,Finished,3:00:55.8,8
+1954,1,Argentine Grand Prix,1954-01-17,Farina,Ferrari,2,1,87,Finished,+1:19.0,6
+1954,1,Argentine Grand Prix,1954-01-17,González,Ferrari,3,2,87,Finished,+2:01.0,5
+1954,1,Argentine Grand Prix,1954-01-17,Trintignant,Ferrari,4,5,86,+1 Lap,,3
+1954,1,Argentine Grand Prix,1954-01-17,Bayol,Gordini,5,15,85,+2 Laps,,2
+1954,1,Argentine Grand Prix,1954-01-17,Schell,Maserati,6,11,84,+3 Laps,,0
+1954,1,Argentine Grand Prix,1954-01-17,Bira,Maserati,7,10,83,+4 Laps,,0
+1954,1,Argentine Grand Prix,1954-01-17,de Graffenried,Maserati,8,13,83,+4 Laps,,0
+1954,1,Argentine Grand Prix,1954-01-17,Maglioli,Ferrari,9,12,82,+5 Laps,,0
+1954,1,Argentine Grand Prix,1954-01-17,Behra,Gordini,10,17,61,Disqualified,,0
+1954,1,Argentine Grand Prix,1954-01-17,Hawthorn,Ferrari,11,4,52,Disqualified,,0
+1954,1,Argentine Grand Prix,1954-01-17,Marimón,Maserati,12,6,48,Engine,,0
+1954,1,Argentine Grand Prix,1954-01-17,Mieres,Maserati,13,8,37,Oil leak,,0
+1954,1,Argentine Grand Prix,1954-01-17,Loyer,Gordini,14,16,19,Oil pressure,,0
+1954,1,Argentine Grand Prix,1954-01-17,Daponte,Maserati,15,18,19,Gearbox,,0
+1954,1,Argentine Grand Prix,1954-01-17,Rosier,Ferrari,16,14,1,Accident,,0
+1954,1,Argentine Grand Prix,1954-01-17,Musso,Maserati,17,7,0,Withdrew,,0
+1954,1,Argentine Grand Prix,1954-01-17,Menditeguy,Maserati,18,9,0,Withdrew,,0
+1954,2,Indianapolis 500,1954-05-31,Vukovich,Kurtis Kraft,1,19,200,Finished,3:49:17.27,8
+1954,2,Indianapolis 500,1954-05-31,Bryan,Kuzma,2,3,200,Finished,+1:09.95,6
+1954,2,Indianapolis 500,1954-05-31,McGrath,Kurtis Kraft,3,1,200,Finished,+1:19.73,5
+1954,2,Indianapolis 500,1954-05-31,Ruttman,Kurtis Kraft,4,11,200,Finished,+2:52.68,1.5
+1954,2,Indianapolis 500,1954-05-31,Carter,Kurtis Kraft,4,11,200,Finished,+2:52.68,1.5
+1954,2,Indianapolis 500,1954-05-31,Nazaruk,Kurtis Kraft,5,14,200,Finished,+3:24.55,2
+1954,2,Indianapolis 500,1954-05-31,Agabashian,Kurtis Kraft,6,24,200,Finished,+3:47.55,0
+1954,2,Indianapolis 500,1954-05-31,Freeland,Phillips,7,6,200,Finished,+4:13.35,0
+1954,2,Indianapolis 500,1954-05-31,Russo,Kurtis Kraft,8,32,200,Finished,+5:01.17,0
+1954,2,Indianapolis 500,1954-05-31,Hoyt,Kurtis Kraft,8,32,200,Finished,+5:01.17,0
+1954,2,Indianapolis 500,1954-05-31,Crockett,Kurtis Kraft,9,25,200,Finished,+7:07.24,0
+1954,2,Indianapolis 500,1954-05-31,Niday,Stevens,10,13,200,Finished,+7:07.69,0
+1954,2,Indianapolis 500,1954-05-31,Cross,Kurtis Kraft,11,27,200,Finished,+8:22.19,0
+1954,2,Indianapolis 500,1954-05-31,Parsons,Kurtis Kraft,11,27,200,Finished,+8:22.19,0
+1954,2,Indianapolis 500,1954-05-31,Hanks,Kurtis Kraft,11,27,200,Finished,+8:22.19,0
+1954,2,Indianapolis 500,1954-05-31,Linden,Kurtis Kraft,11,27,200,Finished,+8:22.19,0
+1954,2,Indianapolis 500,1954-05-31,Davies,Kurtis Kraft,11,27,200,Finished,+8:22.19,0
+1954,2,Indianapolis 500,1954-05-31,Stevenson,Kuzma,12,5,199,+1 Lap,,0
+1954,2,Indianapolis 500,1954-05-31,Faulkner,Kuzma,12,5,199,+1 Lap,,0
+1954,2,Indianapolis 500,1954-05-31,Ayulo,Kuzma,13,22,197,+3 Laps,,0
+1954,2,Indianapolis 500,1954-05-31,Sweikert,Kurtis Kraft,14,9,197,+3 Laps,,0
+1954,2,Indianapolis 500,1954-05-31,Carter,Kurtis Kraft,15,8,196,+4 Laps,,0
+1954,2,Indianapolis 500,1954-05-31,Teague,Kurtis Kraft,15,8,196,+4 Laps,,0
+1954,2,Indianapolis 500,1954-05-31,Jackson,Kurtis Kraft,15,8,196,+4 Laps,,0
+1954,2,Indianapolis 500,1954-05-31,Bettenhausen,Kurtis Kraft,15,8,196,+4 Laps,,0
+1954,2,Indianapolis 500,1954-05-31,McCoy,Kurtis Kraft,16,20,194,+6 Laps,,0
+1954,2,Indianapolis 500,1954-05-31,Reece,Pankratz,17,7,194,+6 Laps,,0
+1954,2,Indianapolis 500,1954-05-31,Elisian,Stevens,18,31,193,+7 Laps,,0
+1954,2,Indianapolis 500,1954-05-31,Scott,Stevens,18,31,193,+7 Laps,,0
+1954,2,Indianapolis 500,1954-05-31,Armi,Kurtis Kraft,19,33,193,+7 Laps,,0
+1954,2,Indianapolis 500,1954-05-31,Fonder,Kurtis Kraft,19,33,193,+7 Laps,,0
+1954,2,Indianapolis 500,1954-05-31,Hanks,Kurtis Kraft,20,10,191,Spun off,,0
+1954,2,Indianapolis 500,1954-05-31,Davies,Kurtis Kraft,20,10,191,Spun off,,0
+1954,2,Indianapolis 500,1954-05-31,Rathmann,Kurtis Kraft,20,10,191,Spun off,,0
+1954,2,Indianapolis 500,1954-05-31,O'Connor,Kurtis Kraft,21,12,181,Spun off,,0
+1954,2,Indianapolis 500,1954-05-31,Ward,Pawl,22,16,172,Retired,,0
+1954,2,Indianapolis 500,1954-05-31,Johnson,Pawl,22,16,172,Retired,,0
+1954,2,Indianapolis 500,1954-05-31,Hartley,Kurtis Kraft,23,17,168,Clutch,,0
+1954,2,Indianapolis 500,1954-05-31,Teague,Kurtis Kraft,23,17,168,Clutch,,0
+1954,2,Indianapolis 500,1954-05-31,Thomson,Nichels,24,4,165,Retired,,0
+1954,2,Indianapolis 500,1954-05-31,Linden,Nichels,24,4,165,Retired,,0
+1954,2,Indianapolis 500,1954-05-31,Daywalt,Nichels,24,4,165,Retired,,0
+1954,2,Indianapolis 500,1954-05-31,Linden,Schroeder,25,23,165,Suspension,,0
+1954,2,Indianapolis 500,1954-05-31,Scott,Schroeder,25,23,165,Suspension,,0
+1954,2,Indianapolis 500,1954-05-31,Hoyt,Kurtis Kraft,26,30,130,Engine,,0
+1954,2,Indianapolis 500,1954-05-31,Daywalt,Kurtis Kraft,27,2,111,Accident,,0
+1954,2,Indianapolis 500,1954-05-31,Rathmann,Kurtis Kraft,28,28,110,Accident,,0
+1954,2,Indianapolis 500,1954-05-31,Flaherty,Kurtis Kraft,28,28,110,Accident,,0
+1954,2,Indianapolis 500,1954-05-31,Bettenhausen,Kurtis Kraft,29,21,105,Wheel bearing,,0
+1954,2,Indianapolis 500,1954-05-31,Webb,Bromme,30,29,104,Fuel pump,,0
+1954,2,Indianapolis 500,1954-05-31,Kladis,Bromme,30,29,104,Fuel pump,,0
+1954,2,Indianapolis 500,1954-05-31,Duncan,Schroeder,31,26,101,Brakes,,0
+1954,2,Indianapolis 500,1954-05-31,Fonder,Schroeder,31,26,101,Brakes,,0
+1954,2,Indianapolis 500,1954-05-31,Parsons,Kurtis Kraft,32,15,79,Engine,,0
+1954,2,Indianapolis 500,1954-05-31,Homeier,Kurtis Kraft,33,18,74,Accident,,0
+1954,3,Belgian Grand Prix,1954-06-20,Fangio,Maserati,1,1,36,Finished,2:44:42.4,9
+1954,3,Belgian Grand Prix,1954-06-20,Trintignant,Ferrari,2,6,36,Finished,+24.2,6
+1954,3,Belgian Grand Prix,1954-06-20,Moss,Maserati,3,9,35,+1 Lap,,4
+1954,3,Belgian Grand Prix,1954-06-20,González,Ferrari,4,5,35,+1 Lap,,1.5
+1954,3,Belgian Grand Prix,1954-06-20,Hawthorn,Ferrari,4,5,35,+1 Lap,,1.5
+1954,3,Belgian Grand Prix,1954-06-20,Pilette,Gordini,5,8,35,+1 Lap,,2
+1954,3,Belgian Grand Prix,1954-06-20,Bira,Maserati,6,13,35,+1 Lap,,0
+1954,3,Belgian Grand Prix,1954-06-20,Mantovani,Maserati,7,11,34,+2 Laps,,0
+1954,3,Belgian Grand Prix,1954-06-20,Farina,Ferrari,8,3,14,Ignition,,0
+1954,3,Belgian Grand Prix,1954-06-20,Frère,Gordini,9,10,14,Engine,,0
+1954,3,Belgian Grand Prix,1954-06-20,Behra,Gordini,10,7,12,Suspension,,0
+1954,3,Belgian Grand Prix,1954-06-20,Marimón,Maserati,11,4,3,Engine,,0
+1954,3,Belgian Grand Prix,1954-06-20,González,Ferrari,12,2,1,Engine,,0
+1954,3,Belgian Grand Prix,1954-06-20,Swaters,Ferrari,13,14,1,Engine,,0
+1954,3,Belgian Grand Prix,1954-06-20,Mieres,Maserati,14,12,0,Heat shield fire,,0
+1954,4,French Grand Prix,1954-07-04,Fangio,Mercedes,1,1,61,Finished,2:42:47.9,8
+1954,4,French Grand Prix,1954-07-04,Kling,Mercedes,2,2,61,Finished,+0.1,6
+1954,4,French Grand Prix,1954-07-04,Manzon,Ferrari,3,12,60,+1 Lap,,4
+1954,4,French Grand Prix,1954-07-04,Bira,Maserati,4,6,60,+1 Lap,,3
+1954,4,French Grand Prix,1954-07-04,Villoresi,Maserati,5,14,58,+3 Laps,,2
+1954,4,French Grand Prix,1954-07-04,Behra,Gordini,6,17,56,+5 Laps,,0
+1954,4,French Grand Prix,1954-07-04,Frère,Gordini,7,19,50,Axle,,0
+1954,4,French Grand Prix,1954-07-04,Trintignant,Ferrari,8,9,36,Engine,,0
+1954,4,French Grand Prix,1954-07-04,Rosier,Ferrari,9,13,27,Engine,,0
+1954,4,French Grand Prix,1954-07-04,Marimón,Maserati,10,5,27,Gearbox,,0
+1954,4,French Grand Prix,1954-07-04,Mieres,Maserati,11,11,24,Engine,,0
+1954,4,French Grand Prix,1954-07-04,Wharton,Maserati,12,16,19,Transmission,,0
+1954,4,French Grand Prix,1954-07-04,Schell,Maserati,13,21,19,Fuel pump,,0
+1954,4,French Grand Prix,1954-07-04,Herrmann,Mercedes,14,7,16,Engine,,1
+1954,4,French Grand Prix,1954-07-04,Salvadori,Maserati,15,10,15,Halfshaft,,0
+1954,4,French Grand Prix,1954-07-04,González,Ferrari,16,4,13,Engine,,0
+1954,4,French Grand Prix,1954-07-04,Macklin,HWM,17,15,10,Engine,,0
+1954,4,French Grand Prix,1954-07-04,Berger,Gordini,18,20,9,Engine,,0
+1954,4,French Grand Prix,1954-07-04,Hawthorn,Ferrari,19,8,9,Engine,,0
+1954,4,French Grand Prix,1954-07-04,Pollet,Gordini,20,18,8,Engine,,0
+1954,4,French Grand Prix,1954-07-04,Ascari,Maserati,21,3,1,Transmission,,0
+1954,4,French Grand Prix,1954-07-04,Mantovani,Maserati,22,0,0,Withdrew,,0
+1954,5,British Grand Prix,1954-07-17,González,Ferrari,1,2,90,Finished,2:56:14.0,8.14
+1954,5,British Grand Prix,1954-07-17,Hawthorn,Ferrari,2,3,90,Finished,+1:10,6.14
+1954,5,British Grand Prix,1954-07-17,Marimón,Maserati,3,28,89,+1 Lap,,4.14
+1954,5,British Grand Prix,1954-07-17,Fangio,Mercedes,4,1,89,+1 Lap,,3.14
+1954,5,British Grand Prix,1954-07-17,Trintignant,Ferrari,5,8,87,+3 Laps,,2
+1954,5,British Grand Prix,1954-07-17,Mieres,Maserati,6,32,87,+3 Laps,,0
+1954,5,British Grand Prix,1954-07-17,Kling,Mercedes,7,6,87,+3 Laps,,0
+1954,5,British Grand Prix,1954-07-17,Wharton,Maserati,8,9,86,+4 Laps,,0
+1954,5,British Grand Prix,1954-07-17,Pilette,Gordini,9,12,86,+4 Laps,,0
+1954,5,British Grand Prix,1954-07-17,Gerard,Cooper,10,18,85,+5 Laps,,0
+1954,5,British Grand Prix,1954-07-17,Beauman,Connaught,11,17,84,+6 Laps,,0
+1954,5,British Grand Prix,1954-07-17,Schell,Maserati,12,16,83,+7 Laps,,0
+1954,5,British Grand Prix,1954-07-17,Marr,Connaught,13,22,82,+8 Laps,,0
+1954,5,British Grand Prix,1954-07-17,Thorne,Connaught,14,23,78,+12 Laps,,0
+1954,5,British Grand Prix,1954-07-17,Gould,Cooper,15,20,44,+46 Laps,,0
+1954,5,British Grand Prix,1954-07-17,Moss,Maserati,16,4,80,Axle,,0
+1954,5,British Grand Prix,1954-07-17,Whitehouse,Connaught,17,19,63,Fuel system,,0
+1954,5,British Grand Prix,1954-07-17,Behra,Gordini,18,5,54,Suspension,,0
+1954,5,British Grand Prix,1954-07-17,Salvadori,Maserati,19,7,53,Transmission,,0
+1954,5,British Grand Prix,1954-07-17,Bira,Maserati,20,10,44,Accident,,0
+1954,5,British Grand Prix,1954-07-17,Flockhart,Maserati,20,10,44,Accident,,0
+1954,5,British Grand Prix,1954-07-17,Villoresi,Maserati,21,27,40,Engine,,0
+1954,5,British Grand Prix,1954-07-17,Ascari,Maserati,21,27,40,Engine,,0
+1954,5,British Grand Prix,1954-07-17,Riseley-Prichard,Connaught,22,21,40,Accident,,0
+1954,5,British Grand Prix,1954-07-17,Parnell,Ferrari,23,14,25,Engine,,0
+1954,5,British Grand Prix,1954-07-17,Ascari,Maserati,24,30,21,Engine,,0
+1954,5,British Grand Prix,1954-07-17,Bucci,Gordini,25,13,18,Accident,,0
+1954,5,British Grand Prix,1954-07-17,Collins,Vanwall,26,11,16,Engine,,0
+1954,5,British Grand Prix,1954-07-17,Manzon,Ferrari,27,15,16,Engine,,0
+1954,5,British Grand Prix,1954-07-17,Whitehead,Cooper,28,24,4,Oil leak,,0
+1954,5,British Grand Prix,1954-07-17,Brandon,Cooper,29,25,2,Engine,,0
+1954,5,British Grand Prix,1954-07-17,Rosier,Ferrari,30,31,2,Engine,,0
+1954,5,British Grand Prix,1954-07-17,Brown,Cooper,31,26,0,Withdrew,,0
+1954,5,British Grand Prix,1954-07-17,Nuckey,Cooper,32,29,0,Withdrew,,0
+1954,6,German Grand Prix,1954-08-01,Fangio,Mercedes,1,1,22,Finished,3:45:45.8,8
+1954,6,German Grand Prix,1954-08-01,González,Ferrari,2,5,22,Finished,+1:36.5,3
+1954,6,German Grand Prix,1954-08-01,Hawthorn,Ferrari,2,5,22,Finished,+1:36.5,3
+1954,6,German Grand Prix,1954-08-01,Trintignant,Ferrari,3,7,22,Finished,+5:08.6,4
+1954,6,German Grand Prix,1954-08-01,Kling,Mercedes,4,23,22,Finished,+6:06.5,4
+1954,6,German Grand Prix,1954-08-01,Mantovani,Maserati,5,15,22,Finished,+8:50.5,2
+1954,6,German Grand Prix,1954-08-01,Taruffi,Ferrari,6,13,21,+1 Lap,,0
+1954,6,German Grand Prix,1954-08-01,Schell,Maserati,7,14,21,+1 Lap,,0
+1954,6,German Grand Prix,1954-08-01,Rosier,Ferrari,8,11,21,+1 Lap,,0
+1954,6,German Grand Prix,1954-08-01,Manzon,Ferrari,9,12,20,+2 Laps,,0
+1954,6,German Grand Prix,1954-08-01,Behra,Gordini,10,9,20,+2 Laps,,0
+1954,6,German Grand Prix,1954-08-01,Bira,Maserati,11,19,18,Steering,,0
+1954,6,German Grand Prix,1954-08-01,Lang,Mercedes,12,13,10,Spun off,,0
+1954,6,German Grand Prix,1954-08-01,Bucci,Gordini,13,16,8,Wheel,,0
+1954,6,German Grand Prix,1954-08-01,Helfrich,Klenk,14,21,8,Engine,,0
+1954,6,German Grand Prix,1954-08-01,Herrmann,Mercedes,15,4,7,Fuel leak,,0
+1954,6,German Grand Prix,1954-08-01,Frère,Gordini,16,4,4,Wheel,,0
+1954,6,German Grand Prix,1954-08-01,Hawthorn,Ferrari,17,3,3,Transmission,,0
+1954,6,German Grand Prix,1954-08-01,Mieres,Maserati,18,17,2,Fuel leak,,0
+1954,6,German Grand Prix,1954-08-01,Moss,Maserati,19,3,1,Wheel bearing,,0
+1954,6,German Grand Prix,1954-08-01,Pilette,Gordini,20,20,0,Suspension,,0
+1954,6,German Grand Prix,1954-08-01,Marimón,Maserati,21,8,0,Accident,,0
+1954,6,German Grand Prix,1954-08-01,Villoresi,Maserati,22,10,0,Withdrew,,0
+1954,6,German Grand Prix,1954-08-01,Wharton,Maserati,23,22,0,Withdrew,,0
+1954,7,Swiss Grand Prix,1954-08-22,Fangio,Mercedes,1,2,66,Finished,3:00:34.5,9
+1954,7,Swiss Grand Prix,1954-08-22,González,Ferrari,2,1,66,Finished,+57.8,6
+1954,7,Swiss Grand Prix,1954-08-22,Herrmann,Mercedes,3,7,65,+1 Lap,,4
+1954,7,Swiss Grand Prix,1954-08-22,Mieres,Maserati,4,12,64,+2 Laps,,3
+1954,7,Swiss Grand Prix,1954-08-22,Mantovani,Maserati,5,9,64,+2 Laps,,2
+1954,7,Swiss Grand Prix,1954-08-22,Wharton,Maserati,6,8,64,+2 Laps,,0
+1954,7,Swiss Grand Prix,1954-08-22,Maglioli,Ferrari,7,11,61,+5 Laps,,0
+1954,7,Swiss Grand Prix,1954-08-22,Swaters,Ferrari,8,16,58,+8 Laps,,0
+1954,7,Swiss Grand Prix,1954-08-22,Kling,Mercedes,9,5,38,Fuel system,,0
+1954,7,Swiss Grand Prix,1954-08-22,Trintignant,Ferrari,10,4,33,Engine,,0
+1954,7,Swiss Grand Prix,1954-08-22,Hawthorn,Ferrari,11,6,30,Oil leak,,0
+1954,7,Swiss Grand Prix,1954-08-22,Schell,Maserati,12,13,23,Oil pump,,0
+1954,7,Swiss Grand Prix,1954-08-22,Moss,Maserati,13,3,21,Oil pump,,0
+1954,7,Swiss Grand Prix,1954-08-22,Wacker,Gordini,14,15,10,Transmission,,0
+1954,7,Swiss Grand Prix,1954-08-22,Behra,Gordini,15,14,8,Clutch,,0
+1954,7,Swiss Grand Prix,1954-08-22,Bucci,Gordini,16,10,0,Fuel pump,,0
+1954,7,Swiss Grand Prix,1954-08-22,Manzon,Ferrari,17,0,0,Accident,,0
+1954,8,Italian Grand Prix,1954-09-05,Fangio,Mercedes,1,1,80,Finished,2:47:47.9,8
+1954,8,Italian Grand Prix,1954-09-05,Hawthorn,Ferrari,2,7,79,+1 Lap,,6
+1954,8,Italian Grand Prix,1954-09-05,Maglioli,Ferrari,3,13,78,+2 Laps,,2
+1954,8,Italian Grand Prix,1954-09-05,González,Ferrari,3,13,78,+2 Laps,,3
+1954,8,Italian Grand Prix,1954-09-05,Herrmann,Mercedes,4,8,77,+3 Laps,,3
+1954,8,Italian Grand Prix,1954-09-05,Trintignant,Ferrari,5,11,75,+5 Laps,,2
+1954,8,Italian Grand Prix,1954-09-05,Wacker,Gordini,6,18,75,+5 Laps,,0
+1954,8,Italian Grand Prix,1954-09-05,Collins,Vanwall,7,16,75,+5 Laps,,0
+1954,8,Italian Grand Prix,1954-09-05,Rosier,Maserati,8,20,74,+6 Laps,,0
+1954,8,Italian Grand Prix,1954-09-05,Mantovani,Maserati,9,9,74,+6 Laps,,0
+1954,8,Italian Grand Prix,1954-09-05,Moss,Maserati,10,3,71,+9 Laps,,0
+1954,8,Italian Grand Prix,1954-09-05,Daponte,Maserati,11,19,70,+10 Laps,,0
+1954,8,Italian Grand Prix,1954-09-05,Ascari,Ferrari,12,2,48,Engine,,0
+1954,8,Italian Grand Prix,1954-09-05,Villoresi,Maserati,13,6,42,Clutch,,0
+1954,8,Italian Grand Prix,1954-09-05,Kling,Mercedes,14,4,36,Accident,,0
+1954,8,Italian Grand Prix,1954-09-05,Mieres,Maserati,15,10,34,Suspension,,0
+1954,8,Italian Grand Prix,1954-09-05,Musso,Maserati,16,14,32,Transmission,,0
+1954,8,Italian Grand Prix,1954-09-05,González,Ferrari,17,5,16,Gearbox,,0
+1954,8,Italian Grand Prix,1954-09-05,Manzon,Ferrari,18,15,16,Engine,,0
+1954,8,Italian Grand Prix,1954-09-05,Bucci,Gordini,19,17,13,Transmission,,0
+1954,8,Italian Grand Prix,1954-09-05,Behra,Gordini,20,12,2,Engine,,0
+1954,8,Italian Grand Prix,1954-09-05,de Riu,Maserati,21,21,0,Did not qualify,,0
+1954,9,Spanish Grand Prix,1954-10-24,Hawthorn,Ferrari,1,3,80,Finished,3:13:52.1,8
+1954,9,Spanish Grand Prix,1954-10-24,Musso,Maserati,2,7,80,Finished,+1:13.2,6
+1954,9,Spanish Grand Prix,1954-10-24,Fangio,Mercedes,3,2,79,+1 Lap,,4
+1954,9,Spanish Grand Prix,1954-10-24,Mieres,Maserati,4,11,79,+1 Lap,,3
+1954,9,Spanish Grand Prix,1954-10-24,Kling,Mercedes,5,12,79,+4 Laps,,2
+1954,9,Spanish Grand Prix,1954-10-24,Godia,Maserati,6,13,76,+4 Laps,,0
+1954,9,Spanish Grand Prix,1954-10-24,Rosier,Maserati,7,20,74,+6 Laps,,0
+1954,9,Spanish Grand Prix,1954-10-24,Wharton,Maserati,8,14,74,+6 Laps,,0
+1954,9,Spanish Grand Prix,1954-10-24,Bira,Maserati,9,15,68,+12 Laps,,0
+1954,9,Spanish Grand Prix,1954-10-24,Mantovani,Maserati,10,10,58,Brakes,,0
+1954,9,Spanish Grand Prix,1954-10-24,de Graffenried,Maserati,11,21,57,Engine,,0
+1954,9,Spanish Grand Prix,1954-10-24,Volonterio,Maserati,11,21,57,Engine,,0
+1954,9,Spanish Grand Prix,1954-10-24,Herrmann,Mercedes,12,9,50,Injection,,0
+1954,9,Spanish Grand Prix,1954-10-24,Trintignant,Ferrari,13,8,47,Gearbox,,0
+1954,9,Spanish Grand Prix,1954-10-24,Pollet,Gordini,14,16,37,Engine,,0
+1954,9,Spanish Grand Prix,1954-10-24,Schell,Maserati,15,4,29,Transmission,,0
+1954,9,Spanish Grand Prix,1954-10-24,Moss,Maserati,16,6,20,Oil pump,,0
+1954,9,Spanish Grand Prix,1954-10-24,Behra,Gordini,17,18,17,Brakes,,0
+1954,9,Spanish Grand Prix,1954-10-24,Swaters,Ferrari,18,19,16,Engine,,0
+1954,9,Spanish Grand Prix,1954-10-24,Ascari,Lancia,19,1,10,Clutch,,1
+1954,9,Spanish Grand Prix,1954-10-24,Villoresi,Lancia,20,5,2,Brakes,,0
+1954,9,Spanish Grand Prix,1954-10-24,Manzon,Ferrari,21,17,2,Engine,,0
+1954,9,Spanish Grand Prix,1954-10-24,Collins,Vanwall,22,0,0,Accident,,0

@@ -1,0 +1,161 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1950,1,British Grand Prix,1950-05-13,Farina,Alfa Romeo,1,1,70,Finished,2:13:23.6,9
+1950,1,British Grand Prix,1950-05-13,Fagioli,Alfa Romeo,2,2,70,Finished,+2.6,6
+1950,1,British Grand Prix,1950-05-13,Parnell,Alfa Romeo,3,4,70,Finished,+52.0,4
+1950,1,British Grand Prix,1950-05-13,Cabantous,Talbot-Lago,4,6,68,+2 Laps,,3
+1950,1,British Grand Prix,1950-05-13,Rosier,Talbot-Lago,5,9,68,+2 Laps,,2
+1950,1,British Grand Prix,1950-05-13,Gerard,ERA,6,13,67,+3 Laps,,0
+1950,1,British Grand Prix,1950-05-13,Harrison,ERA,7,15,67,+3 Laps,,0
+1950,1,British Grand Prix,1950-05-13,Étancelin,Talbot-Lago,8,14,65,+5 Laps,,0
+1950,1,British Grand Prix,1950-05-13,Hampshire,Maserati,9,16,64,+6 Laps,,0
+1950,1,British Grand Prix,1950-05-13,Shawe Taylor,Maserati,10,20,64,+6 Laps,,0
+1950,1,British Grand Prix,1950-05-13,Fry,Maserati,10,20,64,+6 Laps,,0
+1950,1,British Grand Prix,1950-05-13,Claes,Talbot-Lago,11,21,64,+6 Laps,,0
+1950,1,British Grand Prix,1950-05-13,Fangio,Alfa Romeo,12,3,62,Oil leak,,0
+1950,1,British Grand Prix,1950-05-13,Kelly,Alta,13,19,57,Not classified,,0
+1950,1,British Grand Prix,1950-05-13,Bira,Maserati,14,5,49,Out of fuel,,0
+1950,1,British Grand Prix,1950-05-13,Murray,Maserati,15,18,44,Engine,,0
+1950,1,British Grand Prix,1950-05-13,Crossley,Alta,16,17,43,Transmission,,0
+1950,1,British Grand Prix,1950-05-13,de Graffenried,Maserati,17,8,36,Engine,,0
+1950,1,British Grand Prix,1950-05-13,Chiron,Maserati,18,11,26,Clutch,,0
+1950,1,British Grand Prix,1950-05-13,Martin,Talbot-Lago,19,7,8,Oil pressure,,0
+1950,1,British Grand Prix,1950-05-13,Walker,ERA,20,10,5,Gearbox,,0
+1950,1,British Grand Prix,1950-05-13,Rolt,ERA,20,10,5,Gearbox,,0
+1950,1,British Grand Prix,1950-05-13,Johnson,ERA,21,12,2,Supercharger,,0
+1950,2,Monaco Grand Prix,1950-05-21,Fangio,Alfa Romeo,1,1,100,Finished,3:13:18.7,9
+1950,2,Monaco Grand Prix,1950-05-21,Ascari,Ferrari,2,7,99,+1 Lap,,6
+1950,2,Monaco Grand Prix,1950-05-21,Chiron,Maserati,3,8,98,+2 Laps,,4
+1950,2,Monaco Grand Prix,1950-05-21,Sommer,Ferrari,4,9,97,+3 Laps,,3
+1950,2,Monaco Grand Prix,1950-05-21,Bira,Maserati,5,15,95,+5 Laps,,2
+1950,2,Monaco Grand Prix,1950-05-21,Gerard,ERA,6,16,94,+6 Laps,,0
+1950,2,Monaco Grand Prix,1950-05-21,Claes,Talbot-Lago,7,19,94,+6 Laps,,0
+1950,2,Monaco Grand Prix,1950-05-21,Villoresi,Ferrari,8,6,63,Axle,,0
+1950,2,Monaco Grand Prix,1950-05-21,Étancelin,Talbot-Lago,9,4,38,Oil leak,,0
+1950,2,Monaco Grand Prix,1950-05-21,González,Maserati,10,3,1,Accident,,0
+1950,2,Monaco Grand Prix,1950-05-21,Farina,Alfa Romeo,11,2,0,Accident,,0
+1950,2,Monaco Grand Prix,1950-05-21,Fagioli,Alfa Romeo,12,5,0,Accident,,0
+1950,2,Monaco Grand Prix,1950-05-21,Rosier,Talbot-Lago,13,10,0,Accident,,0
+1950,2,Monaco Grand Prix,1950-05-21,Manzon,Simca,14,11,0,Accident,,0
+1950,2,Monaco Grand Prix,1950-05-21,de Graffenried,Maserati,15,12,0,Accident,,0
+1950,2,Monaco Grand Prix,1950-05-21,Trintignant,Simca,16,13,0,Accident,,0
+1950,2,Monaco Grand Prix,1950-05-21,Harrison,ERA,17,14,0,Accident,,0
+1950,2,Monaco Grand Prix,1950-05-21,Rol,Maserati,18,17,0,Accident,,0
+1950,2,Monaco Grand Prix,1950-05-21,Schell,Cooper,19,20,0,Collision,,0
+1950,2,Monaco Grand Prix,1950-05-21,Whitehead,Ferrari,20,21,0,Engine,,0
+1950,2,Monaco Grand Prix,1950-05-21,Pián,Maserati,21,18,0,Accident,,0
+1950,3,Indianapolis 500,1950-05-30,Parsons,Kurtis Kraft,1,5,138,Finished,2:46:55.97,9
+1950,3,Indianapolis 500,1950-05-30,Holland,Deidt,2,10,137,+1 Lap,,6
+1950,3,Indianapolis 500,1950-05-30,Rose,Deidt,3,3,137,+1 Lap,,4
+1950,3,Indianapolis 500,1950-05-30,Green,Kurtis Kraft,4,12,137,+1 Lap,,3
+1950,3,Indianapolis 500,1950-05-30,Chitwood,Kurtis Kraft,5,9,136,+2 Laps,,1
+1950,3,Indianapolis 500,1950-05-30,Bettenhausen,Kurtis Kraft,5,9,136,+2 Laps,,1
+1950,3,Indianapolis 500,1950-05-30,Wallard,Moore,6,23,136,+2 Laps,,0
+1950,3,Indianapolis 500,1950-05-30,Faulkner,Kurtis Kraft,7,1,135,+3 Laps,,0
+1950,3,Indianapolis 500,1950-05-30,Connor,Lesovsky,8,4,135,+3 Laps,,0
+1950,3,Indianapolis 500,1950-05-30,Russo,Nichels,9,19,135,+3 Laps,,0
+1950,3,Indianapolis 500,1950-05-30,Flaherty,Kurtis Kraft,10,11,135,+3 Laps,,0
+1950,3,Indianapolis 500,1950-05-30,Fohr,Marchese,11,16,133,+5 Laps,,0
+1950,3,Indianapolis 500,1950-05-30,Carter,Stevens,12,13,133,+5 Laps,,0
+1950,3,Indianapolis 500,1950-05-30,Hellings,Kurtis Kraft,13,26,132,+6 Laps,,0
+1950,3,Indianapolis 500,1950-05-30,McGrath,Kurtis Kraft,14,6,131,Spun off,,0
+1950,3,Indianapolis 500,1950-05-30,Ruttman,Lesovsky,15,24,130,+8 Laps,,0
+1950,3,Indianapolis 500,1950-05-30,Hartley,Langley,16,31,128,+10 Laps,,0
+1950,3,Indianapolis 500,1950-05-30,Davies,Ewing,17,27,128,+10 Laps,,0
+1950,3,Indianapolis 500,1950-05-30,McDowell,Kurtis Kraft,18,33,128,+10 Laps,,0
+1950,3,Indianapolis 500,1950-05-30,Brown,Kurtis Kraft,19,20,127,+11 Laps,,0
+1950,3,Indianapolis 500,1950-05-30,Webb,Maserati,20,14,126,+12 Laps,,0
+1950,3,Indianapolis 500,1950-05-30,Hoyt,Kurtis Kraft,21,15,125,+13 Laps,,0
+1950,3,Indianapolis 500,1950-05-30,Ader,Rae,22,29,123,+15 Laps,,0
+1950,3,Indianapolis 500,1950-05-30,Holmes,Olson,23,30,123,Spun off,,0
+1950,3,Indianapolis 500,1950-05-30,Rathmann,Wetteroth,24,28,122,+16 Laps,,0
+1950,3,Indianapolis 500,1950-05-30,Banks,Maserati,25,21,112,Oil line,,0
+1950,3,Indianapolis 500,1950-05-30,Schindler,Snowberger,26,22,111,Transmission,,0
+1950,3,Indianapolis 500,1950-05-30,Levrett,Adams,27,17,108,Oil pressure,,0
+1950,3,Indianapolis 500,1950-05-30,Cantrell,Adams,27,17,108,Oil pressure,,0
+1950,3,Indianapolis 500,1950-05-30,Agabashian,Kurtis Kraft,28,2,64,Oil leak,,0
+1950,3,Indianapolis 500,1950-05-30,Jackson,Kurtis Kraft,29,32,52,Supercharger,,0
+1950,3,Indianapolis 500,1950-05-30,Hanks,Kurtis Kraft,30,25,42,Oil pressure,,0
+1950,3,Indianapolis 500,1950-05-30,Bettenhausen,Deidt,31,8,30,Wheel bearing,,0
+1950,3,Indianapolis 500,1950-05-30,Rathmann,Watson,32,18,25,Stalled,,0
+1950,3,Indianapolis 500,1950-05-30,Dinsmore,Kurtis Kraft,33,7,10,Oil leak,,0
+1950,4,Swiss Grand Prix,1950-06-04,Farina,Alfa Romeo,1,2,42,Finished,2:02:53.7,9
+1950,4,Swiss Grand Prix,1950-06-04,Fagioli,Alfa Romeo,2,3,42,Finished,+0.4,6
+1950,4,Swiss Grand Prix,1950-06-04,Rosier,Talbot-Lago,3,10,41,+1 Lap,,4
+1950,4,Swiss Grand Prix,1950-06-04,Bira,Maserati,4,8,40,+2 Laps,,3
+1950,4,Swiss Grand Prix,1950-06-04,Bonetto,Maserati,5,12,40,+2 Laps,,2
+1950,4,Swiss Grand Prix,1950-06-04,de Graffenried,Maserati,6,11,40,+2 Laps,,0
+1950,4,Swiss Grand Prix,1950-06-04,Pagani,Maserati,7,15,39,+3 Laps,,0
+1950,4,Swiss Grand Prix,1950-06-04,Schell,Talbot-Lago,8,18,39,+3 Laps,,0
+1950,4,Swiss Grand Prix,1950-06-04,Chiron,Maserati,9,16,39,+3 Laps,,0
+1950,4,Swiss Grand Prix,1950-06-04,Claes,Talbot-Lago,10,14,38,+4 Laps,,0
+1950,4,Swiss Grand Prix,1950-06-04,Branca,Maserati,11,17,35,+7 Laps,,0
+1950,4,Swiss Grand Prix,1950-06-04,Fangio,Alfa Romeo,12,1,32,Engine,,0
+1950,4,Swiss Grand Prix,1950-06-04,Étancelin,Talbot-Lago,13,6,25,Gearbox,,0
+1950,4,Swiss Grand Prix,1950-06-04,Martin,Talbot-Lago,14,9,19,Accident,,0
+1950,4,Swiss Grand Prix,1950-06-04,Sommer,Ferrari,15,13,19,Suspension,,0
+1950,4,Swiss Grand Prix,1950-06-04,Villoresi,Ferrari,16,4,9,Engine,,0
+1950,4,Swiss Grand Prix,1950-06-04,Ascari,Ferrari,17,5,4,Oil pump,,0
+1950,4,Swiss Grand Prix,1950-06-04,Cabantous,Talbot-Lago,18,7,0,Accident,,0
+1950,5,Belgian Grand Prix,1950-06-18,Fangio,Alfa Romeo,1,2,35,Finished,2:47:26.0,8
+1950,5,Belgian Grand Prix,1950-06-18,Fagioli,Alfa Romeo,2,3,35,Finished,+14.0,6
+1950,5,Belgian Grand Prix,1950-06-18,Rosier,Talbot-Lago,3,8,35,Finished,+2:19.0,4
+1950,5,Belgian Grand Prix,1950-06-18,Farina,Alfa Romeo,4,1,35,Finished,+4:05.0,4
+1950,5,Belgian Grand Prix,1950-06-18,Ascari,Ferrari,5,7,34,+1 Lap,,2
+1950,5,Belgian Grand Prix,1950-06-18,Villoresi,Ferrari,6,4,33,+2 Laps,,0
+1950,5,Belgian Grand Prix,1950-06-18,Levegh,Talbot-Lago,7,10,33,+2 Laps,,0
+1950,5,Belgian Grand Prix,1950-06-18,Claes,Talbot-Lago,8,14,22,+3 Laps,,0
+1950,5,Belgian Grand Prix,1950-06-18,Crossley,Alta,9,12,30,+5 Laps,,0
+1950,5,Belgian Grand Prix,1950-06-18,Branca,Maserati,10,11,29,+6 Laps,,0
+1950,5,Belgian Grand Prix,1950-06-18,Chaboud,Talbot-Lago,11,13,22,Oil pipe,,0
+1950,5,Belgian Grand Prix,1950-06-18,Sommer,Talbot-Lago,12,5,20,Oil pressure,,0
+1950,5,Belgian Grand Prix,1950-06-18,Étancelin,Talbot-Lago,13,6,15,Overheating,,0
+1950,5,Belgian Grand Prix,1950-06-18,Cabantous,Talbot-Lago,14,9,2,Oil pipe,,0
+1950,6,French Grand Prix,1950-07-02,Fangio,Alfa Romeo,1,1,64,Finished,2:57:52.8,9
+1950,6,French Grand Prix,1950-07-02,Fagioli,Alfa Romeo,2,3,64,Finished,+25.7,6
+1950,6,French Grand Prix,1950-07-02,Whitehead,Ferrari,3,18,61,+3 Laps,,4
+1950,6,French Grand Prix,1950-07-02,Manzon,Simca,4,12,61,+3 Laps,,3
+1950,6,French Grand Prix,1950-07-02,Étancelin,Talbot-Lago,5,4,59,+5 Laps,,1
+1950,6,French Grand Prix,1950-07-02,Chaboud,Talbot-Lago,5,4,59,+5 Laps,,1
+1950,6,French Grand Prix,1950-07-02,Pozzi,Talbot-Lago,6,15,56,+8 Laps,,0
+1950,6,French Grand Prix,1950-07-02,Rosier,Talbot-Lago,6,15,56,+8 Laps,,0
+1950,6,French Grand Prix,1950-07-02,Farina,Alfa Romeo,7,2,55,Fuel pump,,0
+1950,6,French Grand Prix,1950-07-02,Cabantous,Talbot-Lago,8,5,52,+12 Laps,,0
+1950,6,French Grand Prix,1950-07-02,Levegh,Talbot-Lago,9,9,36,Engine,,0
+1950,6,French Grand Prix,1950-07-02,Bonetto,Maserati,10,10,14,Engine,,0
+1950,6,French Grand Prix,1950-07-02,Claes,Talbot-Lago,11,14,11,Overheating,,0
+1950,6,French Grand Prix,1950-07-02,Rosier,Talbot-Lago,12,6,10,Overheating,,0
+1950,6,French Grand Prix,1950-07-02,Parnell,Maserati,13,11,9,Engine,,0
+1950,6,French Grand Prix,1950-07-02,Rol,Maserati,14,7,6,Engine,,0
+1950,6,French Grand Prix,1950-07-02,Chiron,Maserati,15,13,6,Engine,,0
+1950,6,French Grand Prix,1950-07-02,Hampshire,Maserati,16,17,5,Engine,,0
+1950,6,French Grand Prix,1950-07-02,Sommer,Talbot-Lago,17,16,4,Overheating,,0
+1950,6,French Grand Prix,1950-07-02,González,Maserati,18,8,3,Engine,,0
+1950,7,Italian Grand Prix,1950-09-03,Farina,Alfa Romeo,1,3,80,Finished,2:51:17.4,8
+1950,7,Italian Grand Prix,1950-09-03,Serafini,Ferrari,2,6,80,Finished,+1:18.6,3
+1950,7,Italian Grand Prix,1950-09-03,Ascari,Ferrari,2,6,80,Finished,,3
+1950,7,Italian Grand Prix,1950-09-03,Fagioli,Alfa Romeo,3,5,80,Finished,+1:35.6,4
+1950,7,Italian Grand Prix,1950-09-03,Rosier,Talbot-Lago,4,13,75,+5 Laps,,3
+1950,7,Italian Grand Prix,1950-09-03,Étancelin,Talbot-Lago,5,16,75,+5 Laps,,2
+1950,7,Italian Grand Prix,1950-09-03,de Graffenried,Maserati,6,17,72,+8 Laps,,0
+1950,7,Italian Grand Prix,1950-09-03,Whitehead,Ferrari,7,18,72,+8 Laps,,0
+1950,7,Italian Grand Prix,1950-09-03,Murray,Maserati,8,24,56,Gearbox,,0
+1950,7,Italian Grand Prix,1950-09-03,Harrison,ERA,9,21,51,Radiator,,0
+1950,7,Italian Grand Prix,1950-09-03,Sommer,Talbot-Lago,10,8,48,Gearbox,,0
+1950,7,Italian Grand Prix,1950-09-03,Mairesse,Talbot-Lago,11,11,42,Oil pipe,,0
+1950,7,Italian Grand Prix,1950-09-03,Rol,Maserati,12,9,39,Retired,,0
+1950,7,Italian Grand Prix,1950-09-03,Taruffi,Alfa Romeo,13,7,34,Engine,,0
+1950,7,Italian Grand Prix,1950-09-03,Fangio,Alfa Romeo,13,7,34,Engine,,0
+1950,7,Italian Grand Prix,1950-09-03,Levegh,Talbot-Lago,14,20,29,Gearbox,,0
+1950,7,Italian Grand Prix,1950-09-03,Fangio,Alfa Romeo,15,1,23,Gearbox,,1
+1950,7,Italian Grand Prix,1950-09-03,Claes,Talbot-Lago,16,22,22,Overheating,,0
+1950,7,Italian Grand Prix,1950-09-03,Ascari,Ferrari,17,2,21,Engine,,0
+1950,7,Italian Grand Prix,1950-09-03,Biondetti,Ferrari,18,25,17,Engine,,0
+1950,7,Italian Grand Prix,1950-09-03,Louveau,Talbot-Lago,19,16,16,Brakes,,0
+1950,7,Italian Grand Prix,1950-09-03,Comotti,Maserati,20,26,15,Retired,,0
+1950,7,Italian Grand Prix,1950-09-03,Trintignant,Simca,21,12,13,Water pipe,,0
+1950,7,Italian Grand Prix,1950-09-03,Chiron,Maserati,22,19,13,Oil pressure,,0
+1950,7,Italian Grand Prix,1950-09-03,Sanesi,Alfa Romeo,23,4,11,Engine,,0
+1950,7,Italian Grand Prix,1950-09-03,Manzon,Simca,24,10,7,Transmission,,0
+1950,7,Italian Grand Prix,1950-09-03,Bira,Maserati,25,15,1,Engine,,0
+1950,7,Italian Grand Prix,1950-09-03,Pietsch,Maserati,26,27,0,Engine,,0
+1950,7,Italian Grand Prix,1950-09-03,Bonetto,Milano,27,23,0,Withdrew,,0

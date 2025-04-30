@@ -1,0 +1,178 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1969,1,South African Grand Prix,1969-03-01,Stewart,Matra-Ford,1,4,80,Finished,1:50:39.1,9
+1969,1,South African Grand Prix,1969-03-01,Hill,Lotus-Ford,2,7,80,Finished,+18.8,6
+1969,1,South African Grand Prix,1969-03-01,Hulme,McLaren-Ford,3,3,80,Finished,+31.8,4
+1969,1,South African Grand Prix,1969-03-01,Siffert,Lotus-Ford,4,12,80,Finished,+49.2,3
+1969,1,South African Grand Prix,1969-03-01,McLaren,McLaren-Ford,5,8,79,+1 Lap,,2
+1969,1,South African Grand Prix,1969-03-01,Beltoise,Matra-Ford,6,11,78,+2 Laps,,1
+1969,1,South African Grand Prix,1969-03-01,Oliver,BRM,7,14,77,+3 Laps,,0
+1969,1,South African Grand Prix,1969-03-01,Tingle,Brabham-Repco,8,17,73,+7 Laps,,0
+1969,1,South African Grand Prix,1969-03-01,de Klerk,Brabham-Repco,9,16,67,Not classified,,0
+1969,1,South African Grand Prix,1969-03-01,Rindt,Lotus-Ford,10,2,44,Fuel pump,,0
+1969,1,South African Grand Prix,1969-03-01,Surtees,BRM,11,18,40,Engine,,0
+1969,1,South African Grand Prix,1969-03-01,Rodríguez,BRM,12,15,38,Water leak,,0
+1969,1,South African Grand Prix,1969-03-01,Amon,Ferrari,13,5,34,Engine,,0
+1969,1,South African Grand Prix,1969-03-01,Brabham,Brabham-Ford,14,1,32,Handling,,0
+1969,1,South African Grand Prix,1969-03-01,Andretti,Lotus-Ford,15,6,31,Gearbox,,0
+1969,1,South African Grand Prix,1969-03-01,Love,Lotus-Ford,16,10,31,Ignition,,0
+1969,1,South African Grand Prix,1969-03-01,Ickx,Brabham-Ford,17,13,20,Ignition,,0
+1969,1,South African Grand Prix,1969-03-01,van Rooyen,McLaren-Ford,18,9,12,Brakes,,0
+1969,2,Spanish Grand Prix,1969-05-04,Stewart,Matra-Ford,1,4,90,Finished,2:16:54.0,9
+1969,2,Spanish Grand Prix,1969-05-04,McLaren,McLaren-Ford,2,13,88,+2 Laps,,6
+1969,2,Spanish Grand Prix,1969-05-04,Beltoise,Matra-Ford,3,12,87,+3 Laps,,4
+1969,2,Spanish Grand Prix,1969-05-04,Hulme,McLaren-Ford,4,8,87,+3 Laps,,3
+1969,2,Spanish Grand Prix,1969-05-04,Surtees,BRM,5,9,84,+6 Laps,,2
+1969,2,Spanish Grand Prix,1969-05-04,Ickx,Brabham-Ford,6,7,83,+7 Laps,,1
+1969,2,Spanish Grand Prix,1969-05-04,Rodríguez,BRM,7,14,73,Engine,,0
+1969,2,Spanish Grand Prix,1969-05-04,Amon,Ferrari,8,2,56,Engine,,0
+1969,2,Spanish Grand Prix,1969-05-04,Brabham,Brabham-Ford,9,5,51,Engine,,0
+1969,2,Spanish Grand Prix,1969-05-04,Siffert,Lotus-Ford,10,6,30,Oil leak,,0
+1969,2,Spanish Grand Prix,1969-05-04,Rindt,Lotus-Ford,11,1,19,Accident,,0
+1969,2,Spanish Grand Prix,1969-05-04,Courage,Brabham-Ford,12,11,18,Engine,,0
+1969,2,Spanish Grand Prix,1969-05-04,Hill,Lotus-Ford,13,3,8,Accident,,0
+1969,2,Spanish Grand Prix,1969-05-04,Oliver,BRM,14,10,1,Oil pipe,,0
+1969,3,Monaco Grand Prix,1969-05-18,Hill,Lotus-Ford,1,4,80,Finished,1:56:59.4,9
+1969,3,Monaco Grand Prix,1969-05-18,Courage,Brabham-Ford,2,9,80,Finished,+17.3,6
+1969,3,Monaco Grand Prix,1969-05-18,Siffert,Lotus-Ford,3,5,80,Finished,+34.6,4
+1969,3,Monaco Grand Prix,1969-05-18,Attwood,Lotus-Ford,4,10,80,Finished,+52.9,3
+1969,3,Monaco Grand Prix,1969-05-18,McLaren,McLaren-Ford,5,11,79,+1 Lap,,2
+1969,3,Monaco Grand Prix,1969-05-18,Hulme,McLaren-Ford,6,12,78,+2 Laps,,1
+1969,3,Monaco Grand Prix,1969-05-18,Elford,Cooper-Maserati,7,16,74,+6 Laps,,0
+1969,3,Monaco Grand Prix,1969-05-18,Ickx,Brabham-Ford,8,7,48,Suspension,,0
+1969,3,Monaco Grand Prix,1969-05-18,Stewart,Matra-Ford,9,1,22,Halfshaft,,0
+1969,3,Monaco Grand Prix,1969-05-18,Beltoise,Matra-Ford,10,3,20,Halfshaft,,0
+1969,3,Monaco Grand Prix,1969-05-18,Amon,Ferrari,11,2,16,Differential,,0
+1969,3,Monaco Grand Prix,1969-05-18,Rodríguez,BRM,12,14,15,Engine,,0
+1969,3,Monaco Grand Prix,1969-05-18,Moser,Brabham-Ford,13,15,15,Halfshaft,,0
+1969,3,Monaco Grand Prix,1969-05-18,Surtees,BRM,14,6,9,Gearbox,,0
+1969,3,Monaco Grand Prix,1969-05-18,Brabham,Brabham-Ford,15,8,9,Accident,,0
+1969,3,Monaco Grand Prix,1969-05-18,Oliver,BRM,16,13,0,Accident,,0
+1969,4,Dutch Grand Prix,1969-06-21,Stewart,Matra-Ford,1,2,90,Finished,2:06:42.08,9
+1969,4,Dutch Grand Prix,1969-06-21,Siffert,Lotus-Ford,2,10,90,Finished,+24.52,6
+1969,4,Dutch Grand Prix,1969-06-21,Amon,Ferrari,3,4,90,Finished,+30.51,4
+1969,4,Dutch Grand Prix,1969-06-21,Hulme,McLaren-Ford,4,7,90,Finished,+37.16,3
+1969,4,Dutch Grand Prix,1969-06-21,Ickx,Brabham-Ford,5,5,90,Finished,+37.67,2
+1969,4,Dutch Grand Prix,1969-06-21,Brabham,Brabham-Ford,6,8,90,Finished,+1:10.81,1
+1969,4,Dutch Grand Prix,1969-06-21,Hill,Lotus-Ford,7,3,88,+2 Laps,,0
+1969,4,Dutch Grand Prix,1969-06-21,Beltoise,McLaren-Ford,8,11,87,+3 Laps,,0
+1969,4,Dutch Grand Prix,1969-06-21,Surtees,BRM,9,12,87,+3 Laps,,0
+1969,4,Dutch Grand Prix,1969-06-21,Elford,McLaren-Ford,10,15,84,+6 Laps,,0
+1969,4,Dutch Grand Prix,1969-06-21,Moser,Brabham-Ford,11,14,54,Ignition,,0
+1969,4,Dutch Grand Prix,1969-06-21,McLaren,McLaren-Ford,12,6,24,Suspension,,0
+1969,4,Dutch Grand Prix,1969-06-21,Rindt,Lotus-Ford,13,1,16,Halfshaft,,0
+1969,4,Dutch Grand Prix,1969-06-21,Courage,Brabham-Ford,14,9,12,Clutch,,0
+1969,4,Dutch Grand Prix,1969-06-21,Oliver,BRM,15,13,9,Gearbox,,0
+1969,5,French Grand Prix,1969-07-06,Stewart,Matra-Ford,1,1,38,Finished,1:56:47.4,9
+1969,5,French Grand Prix,1969-07-06,Beltoise,Matra-Ford,2,5,38,Finished,+57.1,6
+1969,5,French Grand Prix,1969-07-06,Ickx,Brabham-Ford,3,4,38,Finished,+57.3,4
+1969,5,French Grand Prix,1969-07-06,McLaren,McLaren-Ford,4,7,37,+1 Lap,,3
+1969,5,French Grand Prix,1969-07-06,Elford,McLaren-Ford,5,10,37,+1 Lap,,2
+1969,5,French Grand Prix,1969-07-06,Hill,Lotus-Ford,6,8,37,+1 Lap,,1
+1969,5,French Grand Prix,1969-07-06,Moser,Brabham-Ford,7,13,36,+2 Laps,,0
+1969,5,French Grand Prix,1969-07-06,Hulme,McLaren-Ford,8,2,35,+3 Laps,,0
+1969,5,French Grand Prix,1969-07-06,Siffert,Lotus-Ford,9,9,34,+4 Laps,,0
+1969,5,French Grand Prix,1969-07-06,Amon,Ferrari,10,6,30,Engine,,0
+1969,5,French Grand Prix,1969-07-06,Rindt,Lotus-Ford,11,3,22,Physical,,0
+1969,5,French Grand Prix,1969-07-06,Courage,Brabham-Ford,12,11,21,Chassis,,0
+1969,5,French Grand Prix,1969-07-06,Miles,Lotus-Ford,13,12,1,Fuel pump,,0
+1969,6,British Grand Prix,1969-07-19,Stewart,Matra-Ford,1,2,84,Finished,1:55:55.6,9
+1969,6,British Grand Prix,1969-07-19,Ickx,Brabham-Ford,2,4,83,+1 Lap,,6
+1969,6,British Grand Prix,1969-07-19,McLaren,McLaren-Ford,3,7,83,+1 Lap,,4
+1969,6,British Grand Prix,1969-07-19,Rindt,Lotus-Ford,4,1,83,+1 Lap,,3
+1969,6,British Grand Prix,1969-07-19,Courage,Brabham-Ford,5,10,83,+1 Lap,,2
+1969,6,British Grand Prix,1969-07-19,Elford,McLaren-Ford,6,11,82,+2 Laps,,1
+1969,6,British Grand Prix,1969-07-19,Hill,Lotus-Ford,7,12,82,+2 Laps,,0
+1969,6,British Grand Prix,1969-07-19,Siffert,Lotus-Ford,8,9,81,+3 Laps,,0
+1969,6,British Grand Prix,1969-07-19,Beltoise,Matra-Ford,9,17,78,+6 Laps,,0
+1969,6,British Grand Prix,1969-07-19,Miles,Lotus-Ford,10,14,75,+9 Laps,,0
+1969,6,British Grand Prix,1969-07-19,Rodríguez,Ferrari,11,8,61,Engine,,0
+1969,6,British Grand Prix,1969-07-19,Amon,Ferrari,12,5,45,Gearbox,,0
+1969,6,British Grand Prix,1969-07-19,Hulme,McLaren-Ford,13,3,27,Ignition,,0
+1969,6,British Grand Prix,1969-07-19,Oliver,BRM,14,13,19,Transmission,,0
+1969,6,British Grand Prix,1969-07-19,Bonnier,Lotus-Ford,15,16,6,Engine,,0
+1969,6,British Grand Prix,1969-07-19,Bell,McLaren-Ford,16,15,5,Suspension,,0
+1969,6,British Grand Prix,1969-07-19,Surtees,BRM,17,6,1,Suspension,,0
+1969,7,German Grand Prix,1969-08-03,Ickx,Brabham-Ford,1,1,14,Finished,1:49:55.4,9
+1969,7,German Grand Prix,1969-08-03,Stewart,Matra-Ford,2,2,14,Finished,+57.7,6
+1969,7,German Grand Prix,1969-08-03,McLaren,McLaren-Ford,3,8,14,Finished,+3:21.6,4
+1969,7,German Grand Prix,1969-08-03,Hill,Lotus-Ford,4,9,14,Finished,+3:58.8,3
+1969,7,German Grand Prix,1969-08-03,Siffert,Lotus-Ford,5,4,12,Suspension,,2
+1969,7,German Grand Prix,1969-08-03,Beltoise,Matra-Ford,6,10,12,Suspension,,1
+1969,7,German Grand Prix,1969-08-03,Hulme,McLaren-Ford,7,5,11,Transmission,,0
+1969,7,German Grand Prix,1969-08-03,Oliver,BRM-Ford,8,16,11,Oil leak,,0
+1969,7,German Grand Prix,1969-08-03,Rindt,Lotus-Ford,9,3,10,Ignition,,0
+1969,7,German Grand Prix,1969-08-03,Bonnier,Lotus-Ford,10,23,4,Fuel leak,,0
+1969,7,German Grand Prix,1969-08-03,Courage,Brabham-Ford,11,7,1,Accident,,0
+1969,7,German Grand Prix,1969-08-03,Elford,McLaren-Ford,12,6,0,Accident,,0
+1969,7,German Grand Prix,1969-08-03,Andretti,Lotus-Ford,13,15,0,Accident,,0
+1969,7,German Grand Prix,1969-08-03,Surtees,BRM,14,11,0,Withdrew,,0
+1969,8,Italian Grand Prix,1969-09-07,Stewart,Matra-Ford,1,3,68,Finished,1:39:11.26,9
+1969,8,Italian Grand Prix,1969-09-07,Rindt,Lotus-Ford,2,1,68,Finished,+0.08,6
+1969,8,Italian Grand Prix,1969-09-07,Beltoise,Matra-Ford,3,6,68,Finished,+0.17,4
+1969,8,Italian Grand Prix,1969-09-07,McLaren,McLaren-Ford,4,5,68,Finished,+0.19,3
+1969,8,Italian Grand Prix,1969-09-07,Courage,Brabham-Ford,5,4,68,Finished,+33.44,2
+1969,8,Italian Grand Prix,1969-09-07,Rodríguez,Ferrari,6,12,66,+2 Laps,,1
+1969,8,Italian Grand Prix,1969-09-07,Hulme,McLaren-Ford,7,2,66,+2 Laps,,0
+1969,8,Italian Grand Prix,1969-09-07,Siffert,Lotus-Ford,8,8,64,Engine,,0
+1969,8,Italian Grand Prix,1969-09-07,Hill,Lotus-Ford,9,9,63,Halfshaft,,0
+1969,8,Italian Grand Prix,1969-09-07,Ickx,Brabham-Ford,10,15,61,Out of fuel,,0
+1969,8,Italian Grand Prix,1969-09-07,Surtees,BRM,11,10,60,Not classified,,0
+1969,8,Italian Grand Prix,1969-09-07,Oliver,BRM,12,11,48,Oil pressure,,0
+1969,8,Italian Grand Prix,1969-09-07,Moser,Brabham-Ford,13,13,9,Fuel leak,,0
+1969,8,Italian Grand Prix,1969-09-07,Brabham,Brabham-Ford,14,7,6,Oil leak,,0
+1969,8,Italian Grand Prix,1969-09-07,Miles,Lotus-Ford,15,14,3,Engine,,0
+1969,9,Canadian Grand Prix,1969-09-20,Ickx,Brabham-Ford,1,1,90,Finished,1:59:25.7,9
+1969,9,Canadian Grand Prix,1969-09-20,Brabham,Brabham-Ford,2,6,90,Finished,+46.2,6
+1969,9,Canadian Grand Prix,1969-09-20,Rindt,Lotus-Ford,3,3,90,Finished,+52.0,4
+1969,9,Canadian Grand Prix,1969-09-20,Beltoise,Matra-Ford,4,2,89,+1 Lap,,3
+1969,9,Canadian Grand Prix,1969-09-20,McLaren,McLaren-Ford,5,9,87,+3 Laps,,2
+1969,9,Canadian Grand Prix,1969-09-20,Servoz-Gavin,Matra-Ford,6,15,84,+6 Laps,,1
+1969,9,Canadian Grand Prix,1969-09-20,Lovely,Lotus-Ford,7,16,81,+9 Laps,,0
+1969,9,Canadian Grand Prix,1969-09-20,Brack,BRM,8,18,80,Not classified,,0
+1969,9,Canadian Grand Prix,1969-09-20,Hill,Lotus-Ford,9,7,42,Engine,,0
+1969,9,Canadian Grand Prix,1969-09-20,Siffert,Lotus-Ford,10,8,40,Halfshaft,,0
+1969,9,Canadian Grand Prix,1969-09-20,Miles,Lotus-Ford,11,11,40,Gearbox,,0
+1969,9,Canadian Grand Prix,1969-09-20,Rodríguez,Ferrari,12,13,37,Oil pressure,,0
+1969,9,Canadian Grand Prix,1969-09-20,Stewart,Matra-Ford,13,4,32,Collision,,0
+1969,9,Canadian Grand Prix,1969-09-20,Pease,Eagle-Climax,14,17,22,Disqualified,,0
+1969,9,Canadian Grand Prix,1969-09-20,Surtees,BRM,15,14,15,Engine,,0
+1969,9,Canadian Grand Prix,1969-09-20,Courage,Brabham-Ford,16,10,13,Fuel leak,,0
+1969,9,Canadian Grand Prix,1969-09-20,Cordts,Brabham-Climax,17,19,10,Oil leak,,0
+1969,9,Canadian Grand Prix,1969-09-20,Hulme,McLaren-Ford,18,5,9,Distributor,,0
+1969,9,Canadian Grand Prix,1969-09-20,Oliver,BRM,19,12,2,Engine,,0
+1969,9,Canadian Grand Prix,1969-09-20,Moser,Brabham-Ford,20,20,0,Accident,,0
+1969,10,United States Grand Prix,1969-10-05,Rindt,Lotus-Ford,1,1,108,Finished,1:57:56.84,9
+1969,10,United States Grand Prix,1969-10-05,Courage,Brabham-Ford,2,9,108,Finished,+46.99,6
+1969,10,United States Grand Prix,1969-10-05,Surtees,BRM,3,11,106,+2 Laps,,4
+1969,10,United States Grand Prix,1969-10-05,Brabham,Brabham-Ford,4,18,106,+2 Laps,,3
+1969,10,United States Grand Prix,1969-10-05,Rodríguez,Ferrari,5,12,101,+7 Laps,,2
+1969,10,United States Grand Prix,1969-10-05,Moser,Brabham-Ford,6,17,98,+10 Laps,,1
+1969,10,United States Grand Prix,1969-10-05,Servoz-Gavin,Matra-Ford,7,15,92,Not classified,,0
+1969,10,United States Grand Prix,1969-10-05,Hill,Lotus-Ford,8,4,90,Accident,,0
+1969,10,United States Grand Prix,1969-10-05,Ickx,Brabham-Ford,9,8,77,Engine,,0
+1969,10,United States Grand Prix,1969-10-05,Eaton,BRM,10,9,76,Engine,,0
+1969,10,United States Grand Prix,1969-10-05,Beltoise,Matra-Ford,11,7,72,Engine,,0
+1969,10,United States Grand Prix,1969-10-05,Hulme,McLaren-Ford,12,2,52,Gearbox,,0
+1969,10,United States Grand Prix,1969-10-05,Stewart,Matra-Ford,13,3,35,Engine,,0
+1969,10,United States Grand Prix,1969-10-05,Lovely,Lotus-Ford,14,16,25,Halfshaft,,0
+1969,10,United States Grand Prix,1969-10-05,Oliver,BRM,15,14,23,Engine,,0
+1969,10,United States Grand Prix,1969-10-05,Siffert,Lotus-Ford,16,13,3,Fuel system,,0
+1969,10,United States Grand Prix,1969-10-05,Andretti,Lotus-Ford,17,5,3,Suspension,,0
+1969,10,United States Grand Prix,1969-10-05,McLaren,McLaren-Ford,18,6,0,Engine,,0
+1969,11,Mexican Grand Prix,1969-10-19,Hulme,McLaren-Ford,1,4,65,Finished,1:54:08.80,9
+1969,11,Mexican Grand Prix,1969-10-19,Ickx,Brabham-Ford,2,2,65,Finished,+2.56,6
+1969,11,Mexican Grand Prix,1969-10-19,Brabham,Brabham-Ford,3,1,65,Finished,+38.48,4
+1969,11,Mexican Grand Prix,1969-10-19,Stewart,Matra-Ford,4,3,65,Finished,+47.04,3
+1969,11,Mexican Grand Prix,1969-10-19,Beltoise,Matra-Ford,5,8,65,Finished,+1:38.52,2
+1969,11,Mexican Grand Prix,1969-10-19,Oliver,BRM,6,12,63,+2 Laps,,1
+1969,11,Mexican Grand Prix,1969-10-19,Rodríguez,Ferrari,7,15,63,+2 Laps,,0
+1969,11,Mexican Grand Prix,1969-10-19,Servoz-Gavin,Matra-Ford,8,14,63,+2 Laps,,0
+1969,11,Mexican Grand Prix,1969-10-19,Lovely,Lotus-Ford,9,16,62,+3 Laps,,0
+1969,11,Mexican Grand Prix,1969-10-19,Courage,Brabham-Ford,10,9,61,+4 Laps,,0
+1969,11,Mexican Grand Prix,1969-10-19,Moser,Brabham-Ford,11,13,60,Fuel leak,,0
+1969,11,Mexican Grand Prix,1969-10-19,Surtees,BRM,12,10,53,Gearbox,,0
+1969,11,Mexican Grand Prix,1969-10-19,Rindt,Lotus-Ford,13,6,21,Suspension,,0
+1969,11,Mexican Grand Prix,1969-10-19,Eaton,BRM,14,17,6,Gearbox,,0
+1969,11,Mexican Grand Prix,1969-10-19,Siffert,Lotus-Ford,15,5,4,Accident,,0
+1969,11,Mexican Grand Prix,1969-10-19,Miles,Lotus-Ford,16,11,3,Fuel pump,,0
+1969,11,Mexican Grand Prix,1969-10-19,McLaren,McLaren-Ford,17,7,0,Withdrew,,0

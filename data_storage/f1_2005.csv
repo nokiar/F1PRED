@@ -1,0 +1,377 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+2005,1,Australian Grand Prix,2005-03-06,Fisichella,Renault,1,1,57,Finished,1:24:17.336,10
+2005,1,Australian Grand Prix,2005-03-06,Barrichello,Ferrari,2,11,57,Finished,+5.553,8
+2005,1,Australian Grand Prix,2005-03-06,Alonso,Renault,3,13,57,Finished,+6.712,6
+2005,1,Australian Grand Prix,2005-03-06,Coulthard,Red Bull,4,5,57,Finished,+16.131,5
+2005,1,Australian Grand Prix,2005-03-06,Webber,Williams,5,3,57,Finished,+16.908,4
+2005,1,Australian Grand Prix,2005-03-06,Pablo Montoya,McLaren,6,9,57,Finished,+35.033,3
+2005,1,Australian Grand Prix,2005-03-06,Klien,Red Bull,7,6,57,Finished,+38.997,2
+2005,1,Australian Grand Prix,2005-03-06,Räikkönen,McLaren,8,10,57,Finished,+39.633,1
+2005,1,Australian Grand Prix,2005-03-06,Trulli,Toyota,9,2,57,Finished,+1:03.108,0
+2005,1,Australian Grand Prix,2005-03-06,Massa,Sauber,10,18,57,Finished,+1:04.393,0
+2005,1,Australian Grand Prix,2005-03-06,Button,BAR,11,8,56,+1 Lap,,0
+2005,1,Australian Grand Prix,2005-03-06,Schumacher,Toyota,12,15,56,+1 Lap,,0
+2005,1,Australian Grand Prix,2005-03-06,Villeneuve,Sauber,13,4,56,+1 Lap,,0
+2005,1,Australian Grand Prix,2005-03-06,Sato,BAR,14,20,55,+2 Laps,,0
+2005,1,Australian Grand Prix,2005-03-06,Karthikeyan,Jordan,15,12,55,+2 Laps,,0
+2005,1,Australian Grand Prix,2005-03-06,Monteiro,Jordan,16,14,55,+2 Laps,,0
+2005,1,Australian Grand Prix,2005-03-06,Friesacher,Minardi,17,16,55,+4 Laps,,0
+2005,1,Australian Grand Prix,2005-03-06,Schumacher,Ferrari,18,19,42,Accident,,0
+2005,1,Australian Grand Prix,2005-03-06,Heidfeld,Williams,19,7,42,Accident,,0
+2005,1,Australian Grand Prix,2005-03-06,Albers,Minardi,20,17,16,Gearbox,,0
+2005,2,Malaysian Grand Prix,2005-03-20,Alonso,Renault,1,1,56,Finished,1:31:33.736,10
+2005,2,Malaysian Grand Prix,2005-03-20,Trulli,Toyota,2,2,56,Finished,+24.327,8
+2005,2,Malaysian Grand Prix,2005-03-20,Heidfeld,Williams,3,10,56,Finished,+32.188,6
+2005,2,Malaysian Grand Prix,2005-03-20,Pablo Montoya,McLaren,4,11,56,Finished,+41.631,5
+2005,2,Malaysian Grand Prix,2005-03-20,Schumacher,Toyota,5,5,56,Finished,+51.854,4
+2005,2,Malaysian Grand Prix,2005-03-20,Coulthard,Red Bull,6,8,56,Finished,+1:12.543,3
+2005,2,Malaysian Grand Prix,2005-03-20,Schumacher,Ferrari,7,13,56,Finished,+1:19.988,2
+2005,2,Malaysian Grand Prix,2005-03-20,Klien,Red Bull,8,7,56,Finished,+1:20.835,1
+2005,2,Malaysian Grand Prix,2005-03-20,Räikkönen,McLaren,9,6,56,Finished,+1:21.580,0
+2005,2,Malaysian Grand Prix,2005-03-20,Massa,Sauber,10,14,55,+1 Lap,,0
+2005,2,Malaysian Grand Prix,2005-03-20,Karthikeyan,Jordan,11,17,54,+2 Laps,,0
+2005,2,Malaysian Grand Prix,2005-03-20,Monteiro,Jordan,12,18,53,+3 Laps,,0
+2005,2,Malaysian Grand Prix,2005-03-20,Albers,Minardi,13,19,52,+4 Laps,,0
+2005,2,Malaysian Grand Prix,2005-03-20,Barrichello,Ferrari,14,12,49,Tyre,,0
+2005,2,Malaysian Grand Prix,2005-03-20,Fisichella,Renault,15,3,36,Collision,,0
+2005,2,Malaysian Grand Prix,2005-03-20,Webber,Williams,16,4,36,Collision,,0
+2005,2,Malaysian Grand Prix,2005-03-20,Villeneuve,Sauber,17,16,26,Spun off,,0
+2005,2,Malaysian Grand Prix,2005-03-20,Button,BAR,18,9,2,Engine,,0
+2005,2,Malaysian Grand Prix,2005-03-20,Davidson,BAR,19,15,2,Engine,,0
+2005,2,Malaysian Grand Prix,2005-03-20,Friesacher,Minardi,20,20,2,Spun off,,0
+2005,3,Bahrain Grand Prix,2005-04-03,Alonso,Renault,1,1,57,Finished,1:29:18.531,10
+2005,3,Bahrain Grand Prix,2005-04-03,Trulli,Toyota,2,3,57,Finished,+13.409,8
+2005,3,Bahrain Grand Prix,2005-04-03,Räikkönen,McLaren,3,9,57,Finished,+32.063,6
+2005,3,Bahrain Grand Prix,2005-04-03,Schumacher,Toyota,4,6,57,Finished,+53.272,5
+2005,3,Bahrain Grand Prix,2005-04-03,de la Rosa,McLaren,5,8,57,Finished,+1:04.988,4
+2005,3,Bahrain Grand Prix,2005-04-03,Webber,Williams,6,5,57,Finished,+1:14.701,3
+2005,3,Bahrain Grand Prix,2005-04-03,Massa,Sauber,7,12,56,+1 Lap,,2
+2005,3,Bahrain Grand Prix,2005-04-03,Coulthard,Red Bull,8,14,56,+1 Lap,,1
+2005,3,Bahrain Grand Prix,2005-04-03,Barrichello,Ferrari,9,20,56,+1 Lap,,0
+2005,3,Bahrain Grand Prix,2005-04-03,Monteiro,Jordan,10,16,55,+2 Laps,,0
+2005,3,Bahrain Grand Prix,2005-04-03,Villeneuve,Sauber,11,15,54,Suspension,,0
+2005,3,Bahrain Grand Prix,2005-04-03,Friesacher,Minardi,12,19,54,+3 Laps,,0
+2005,3,Bahrain Grand Prix,2005-04-03,Albers,Minardi,13,18,53,+4 Laps,,0
+2005,3,Bahrain Grand Prix,2005-04-03,Button,BAR,14,11,46,Clutch,,0
+2005,3,Bahrain Grand Prix,2005-04-03,Sato,BAR,15,13,27,Brakes,,0
+2005,3,Bahrain Grand Prix,2005-04-03,Heidfeld,Williams,16,4,25,Engine,,0
+2005,3,Bahrain Grand Prix,2005-04-03,Schumacher,Ferrari,17,2,12,Hydraulics,,0
+2005,3,Bahrain Grand Prix,2005-04-03,Fisichella,Renault,18,10,4,Engine,,0
+2005,3,Bahrain Grand Prix,2005-04-03,Karthikeyan,Jordan,19,17,2,Electrical,,0
+2005,3,Bahrain Grand Prix,2005-04-03,Klien,Red Bull,20,7,0,Electrical,,0
+2005,4,San Marino Grand Prix,2005-04-24,Alonso,Renault,1,2,62,Finished,1:27:41.921,10
+2005,4,San Marino Grand Prix,2005-04-24,Schumacher,Ferrari,2,13,62,Finished,+0.215,8
+2005,4,San Marino Grand Prix,2005-04-24,Wurz,McLaren,3,7,62,Finished,+27.554,6
+2005,4,San Marino Grand Prix,2005-04-24,Villeneuve,Sauber,4,11,62,Finished,+1:04.442,5
+2005,4,San Marino Grand Prix,2005-04-24,Trulli,Toyota,5,5,62,Finished,+1:10.258,4
+2005,4,San Marino Grand Prix,2005-04-24,Heidfeld,Williams,6,8,62,Finished,+1:11.282,3
+2005,4,San Marino Grand Prix,2005-04-24,Webber,Williams,7,4,62,Finished,+1:23.297,2
+2005,4,San Marino Grand Prix,2005-04-24,Liuzzi,Red Bull,8,15,62,Finished,+1:23.764,1
+2005,4,San Marino Grand Prix,2005-04-24,Schumacher,Toyota,9,10,62,Finished,+1:35.841,0
+2005,4,San Marino Grand Prix,2005-04-24,Massa,Sauber,10,18,61,+1 Lap,,0
+2005,4,San Marino Grand Prix,2005-04-24,Coulthard,Red Bull,11,14,61,+1 Lap,,0
+2005,4,San Marino Grand Prix,2005-04-24,Karthikeyan,Jordan,12,16,61,+1 Lap,,0
+2005,4,San Marino Grand Prix,2005-04-24,Monteiro,Jordan,13,17,60,+2 Laps,,0
+2005,4,San Marino Grand Prix,2005-04-24,Albers,Minardi,14,20,20,Hydraulics,,0
+2005,4,San Marino Grand Prix,2005-04-24,Barrichello,Ferrari,15,9,18,Electrical,,0
+2005,4,San Marino Grand Prix,2005-04-24,Räikkönen,McLaren,16,1,9,Driveshaft,,0
+2005,4,San Marino Grand Prix,2005-04-24,Friesacher,Minardi,17,19,8,Clutch,,0
+2005,4,San Marino Grand Prix,2005-04-24,Fisichella,Renault,18,12,5,Accident,,0
+2005,4,San Marino Grand Prix,2005-04-24,Button,BAR,19,3,62,Disqualified,+10.4,0
+2005,4,San Marino Grand Prix,2005-04-24,Sato,BAR,20,6,62,Disqualified,+34.7,0
+2005,5,Spanish Grand Prix,2005-05-08,Räikkönen,McLaren,1,1,66,Finished,1:27:16.830,10
+2005,5,Spanish Grand Prix,2005-05-08,Alonso,Renault,2,3,66,Finished,+27.652,8
+2005,5,Spanish Grand Prix,2005-05-08,Trulli,Toyota,3,5,66,Finished,+45.947,6
+2005,5,Spanish Grand Prix,2005-05-08,Schumacher,Toyota,4,4,66,Finished,+46.719,5
+2005,5,Spanish Grand Prix,2005-05-08,Fisichella,Renault,5,6,66,Finished,+57.936,4
+2005,5,Spanish Grand Prix,2005-05-08,Webber,Williams,6,2,66,Finished,+1:08.542,3
+2005,5,Spanish Grand Prix,2005-05-08,Pablo Montoya,McLaren,7,7,65,+1 Lap,,2
+2005,5,Spanish Grand Prix,2005-05-08,Coulthard,Red Bull,8,9,65,+1 Lap,,1
+2005,5,Spanish Grand Prix,2005-05-08,Barrichello,Ferrari,9,16,65,+1 Lap,,0
+2005,5,Spanish Grand Prix,2005-05-08,Heidfeld,Williams,10,17,65,+1 Lap,,0
+2005,5,Spanish Grand Prix,2005-05-08,Massa,Sauber,11,10,63,Wheel rim,,0
+2005,5,Spanish Grand Prix,2005-05-08,Monteiro,Jordan,12,18,63,+3 Laps,,0
+2005,5,Spanish Grand Prix,2005-05-08,Karthikeyan,Jordan,13,13,63,+3 Laps,,0
+2005,5,Spanish Grand Prix,2005-05-08,Villeneuve,Sauber,14,12,51,Engine,,0
+2005,5,Spanish Grand Prix,2005-05-08,Schumacher,Ferrari,15,8,46,Puncture,,0
+2005,5,Spanish Grand Prix,2005-05-08,Albers,Minardi,16,14,19,Gearbox,,0
+2005,5,Spanish Grand Prix,2005-05-08,Friesacher,Minardi,17,15,11,Spun off,,0
+2005,5,Spanish Grand Prix,2005-05-08,Liuzzi,Red Bull,18,11,9,Spun off,,0
+2005,6,Monaco Grand Prix,2005-05-22,Räikkönen,McLaren,1,1,78,Finished,1:45:15.556,10
+2005,6,Monaco Grand Prix,2005-05-22,Heidfeld,Williams,2,6,78,Finished,+13.877,8
+2005,6,Monaco Grand Prix,2005-05-22,Webber,Williams,3,3,78,Finished,+18.484,6
+2005,6,Monaco Grand Prix,2005-05-22,Alonso,Renault,4,2,78,Finished,+36.487,5
+2005,6,Monaco Grand Prix,2005-05-22,Pablo Montoya,McLaren,5,16,78,Finished,+36.647,4
+2005,6,Monaco Grand Prix,2005-05-22,Schumacher,Toyota,6,18,78,Finished,+37.117,3
+2005,6,Monaco Grand Prix,2005-05-22,Schumacher,Ferrari,7,8,78,Finished,+37.223,2
+2005,6,Monaco Grand Prix,2005-05-22,Barrichello,Ferrari,8,10,78,Finished,+37.570,1
+2005,6,Monaco Grand Prix,2005-05-22,Massa,Sauber,9,11,77,+1 Lap,,0
+2005,6,Monaco Grand Prix,2005-05-22,Trulli,Toyota,10,5,77,+1 Lap,,0
+2005,6,Monaco Grand Prix,2005-05-22,Villeneuve,Sauber,11,9,77,+1 Lap,,0
+2005,6,Monaco Grand Prix,2005-05-22,Fisichella,Renault,12,4,77,+1 Lap,,0
+2005,6,Monaco Grand Prix,2005-05-22,Monteiro,Jordan,13,15,75,+3 Laps,,0
+2005,6,Monaco Grand Prix,2005-05-22,Albers,Minardi,14,14,73,+5 Laps,,0
+2005,6,Monaco Grand Prix,2005-05-22,Liuzzi,Red Bull,15,12,59,Accident,,0
+2005,6,Monaco Grand Prix,2005-05-22,Friesacher,Minardi,16,13,29,Accident,,0
+2005,6,Monaco Grand Prix,2005-05-22,Coulthard,Red Bull,17,7,23,Accident,,0
+2005,6,Monaco Grand Prix,2005-05-22,Karthikeyan,Jordan,18,17,18,Hydraulics,,0
+2005,7,European Grand Prix,2005-05-29,Alonso,Renault,1,6,59,Finished,1:31:46.648,10
+2005,7,European Grand Prix,2005-05-29,Heidfeld,Williams,2,1,59,Finished,+16.567,8
+2005,7,European Grand Prix,2005-05-29,Barrichello,Ferrari,3,7,59,Finished,+18.549,6
+2005,7,European Grand Prix,2005-05-29,Coulthard,Red Bull,4,12,59,Finished,+31.588,5
+2005,7,European Grand Prix,2005-05-29,Schumacher,Ferrari,5,10,59,Finished,+50.445,4
+2005,7,European Grand Prix,2005-05-29,Fisichella,Renault,6,9,59,Finished,+51.932,3
+2005,7,European Grand Prix,2005-05-29,Pablo Montoya,McLaren,7,5,59,Finished,+58.173,2
+2005,7,European Grand Prix,2005-05-29,Trulli,Toyota,8,4,59,Finished,+1:11.091,1
+2005,7,European Grand Prix,2005-05-29,Liuzzi,Red Bull,9,14,59,Finished,+1:11.529,0
+2005,7,European Grand Prix,2005-05-29,Button,BAR,10,13,59,Finished,+1:35.786,0
+2005,7,European Grand Prix,2005-05-29,Räikkönen,McLaren,11,2,58,Accident,,0
+2005,7,European Grand Prix,2005-05-29,Sato,BAR,12,16,58,+1 Lap,,0
+2005,7,European Grand Prix,2005-05-29,Villeneuve,Sauber,13,15,58,+1 Lap,,0
+2005,7,European Grand Prix,2005-05-29,Massa,Sauber,14,11,58,+1 Lap,,0
+2005,7,European Grand Prix,2005-05-29,Monteiro,Jordan,15,17,58,+1 Lap,,0
+2005,7,European Grand Prix,2005-05-29,Karthikeyan,Jordan,16,19,58,+1 Lap,,0
+2005,7,European Grand Prix,2005-05-29,Albers,Minardi,17,20,57,+2 Laps,,0
+2005,7,European Grand Prix,2005-05-29,Friesacher,Minardi,18,18,56,+3 Laps,,0
+2005,7,European Grand Prix,2005-05-29,Schumacher,Toyota,19,8,33,Spun off,,0
+2005,7,European Grand Prix,2005-05-29,Webber,Williams,20,3,0,Accident,,0
+2005,8,Canadian Grand Prix,2005-06-12,Räikkönen,McLaren,1,7,70,Finished,1:32:09.290,10
+2005,8,Canadian Grand Prix,2005-06-12,Schumacher,Ferrari,2,2,70,Finished,+1.1,8
+2005,8,Canadian Grand Prix,2005-06-12,Barrichello,Ferrari,3,20,70,Finished,+40.4,6
+2005,8,Canadian Grand Prix,2005-06-12,Massa,Sauber,4,11,70,Finished,+55.1,5
+2005,8,Canadian Grand Prix,2005-06-12,Webber,Williams,5,14,70,Finished,+55.7,4
+2005,8,Canadian Grand Prix,2005-06-12,Schumacher,Toyota,6,10,69,+1 Lap,,3
+2005,8,Canadian Grand Prix,2005-06-12,Coulthard,Red Bull,7,12,69,+1 Lap,,2
+2005,8,Canadian Grand Prix,2005-06-12,Klien,Red Bull,8,16,69,+1 Lap,,1
+2005,8,Canadian Grand Prix,2005-06-12,Villeneuve,Sauber,9,8,69,+1 Lap,,0
+2005,8,Canadian Grand Prix,2005-06-12,Monteiro,Jordan,10,18,67,+3 Laps,,0
+2005,8,Canadian Grand Prix,2005-06-12,Albers,Minardi,11,15,67,+3 Laps,,0
+2005,8,Canadian Grand Prix,2005-06-12,Trulli,Toyota,12,9,62,Brakes,,0
+2005,8,Canadian Grand Prix,2005-06-12,Button,BAR,13,1,46,Accident,,0
+2005,8,Canadian Grand Prix,2005-06-12,Heidfeld,Williams,14,13,43,Engine,,0
+2005,8,Canadian Grand Prix,2005-06-12,Sato,BAR,15,6,40,Brakes,,0
+2005,8,Canadian Grand Prix,2005-06-12,Friesacher,Minardi,16,19,39,Hydraulics,,0
+2005,8,Canadian Grand Prix,2005-06-12,Alonso,Renault,17,3,38,Suspension,,0
+2005,8,Canadian Grand Prix,2005-06-12,Fisichella,Renault,18,4,32,Hydraulics,,0
+2005,8,Canadian Grand Prix,2005-06-12,Karthikeyan,Jordan,19,17,24,Suspension,,0
+2005,8,Canadian Grand Prix,2005-06-12,Pablo Montoya,McLaren,20,5,52,Disqualified,,0
+2005,9,United States Grand Prix,2005-06-19,Schumacher,Ferrari,1,5,73,Finished,1:29:43.181,10
+2005,9,United States Grand Prix,2005-06-19,Barrichello,Ferrari,2,7,73,Finished,+1.5,8
+2005,9,United States Grand Prix,2005-06-19,Monteiro,Jordan,3,17,72,+1 Lap,,6
+2005,9,United States Grand Prix,2005-06-19,Karthikeyan,Jordan,4,19,72,+1 Lap,,5
+2005,9,United States Grand Prix,2005-06-19,Albers,Minardi,5,18,71,+2 Laps,,4
+2005,9,United States Grand Prix,2005-06-19,Friesacher,Minardi,6,20,71,+2 Laps,,3
+2005,9,United States Grand Prix,2005-06-19,Trulli,Toyota,7,1,0,Withdrew,,0
+2005,9,United States Grand Prix,2005-06-19,Räikkönen,McLaren,8,2,0,Withdrew,,0
+2005,9,United States Grand Prix,2005-06-19,Button,BAR,9,3,0,Withdrew,,0
+2005,9,United States Grand Prix,2005-06-19,Fisichella,Renault,10,4,0,Withdrew,,0
+2005,9,United States Grand Prix,2005-06-19,Alonso,Renault,11,6,0,Withdrew,,0
+2005,9,United States Grand Prix,2005-06-19,Sato,BAR,12,8,0,Withdrew,,0
+2005,9,United States Grand Prix,2005-06-19,Webber,Williams,13,9,0,Withdrew,,0
+2005,9,United States Grand Prix,2005-06-19,Massa,Sauber,14,10,0,Withdrew,,0
+2005,9,United States Grand Prix,2005-06-19,Pablo Montoya,McLaren,15,11,0,Withdrew,,0
+2005,9,United States Grand Prix,2005-06-19,Villeneuve,Sauber,16,12,0,Withdrew,,0
+2005,9,United States Grand Prix,2005-06-19,Zonta,Toyota,17,13,0,Withdrew,,0
+2005,9,United States Grand Prix,2005-06-19,Klien,Red Bull,18,14,0,Withdrew,,0
+2005,9,United States Grand Prix,2005-06-19,Heidfeld,Williams,19,15,0,Withdrew,,0
+2005,9,United States Grand Prix,2005-06-19,Coulthard,Red Bull,20,16,0,Withdrew,,0
+2005,10,French Grand Prix,2005-07-03,Alonso,Renault,1,1,70,Finished,1:31:22.232,10
+2005,10,French Grand Prix,2005-07-03,Räikkönen,McLaren,2,13,70,Finished,+11.8,8
+2005,10,French Grand Prix,2005-07-03,Schumacher,Ferrari,3,3,70,Finished,+1:21.9,6
+2005,10,French Grand Prix,2005-07-03,Button,BAR,4,7,69,+1 Lap,,5
+2005,10,French Grand Prix,2005-07-03,Trulli,Toyota,5,2,69,+1 Lap,,4
+2005,10,French Grand Prix,2005-07-03,Fisichella,Renault,6,6,69,+1 Lap,,3
+2005,10,French Grand Prix,2005-07-03,Schumacher,Toyota,7,11,69,+1 Lap,,2
+2005,10,French Grand Prix,2005-07-03,Villeneuve,Sauber,8,10,69,+1 Lap,,1
+2005,10,French Grand Prix,2005-07-03,Barrichello,Ferrari,9,5,69,+1 Lap,,0
+2005,10,French Grand Prix,2005-07-03,Coulthard,Red Bull,10,15,69,+1 Lap,,0
+2005,10,French Grand Prix,2005-07-03,Sato,BAR,11,4,69,+1 Lap,,0
+2005,10,French Grand Prix,2005-07-03,Webber,Williams,12,12,68,+2 Laps,,0
+2005,10,French Grand Prix,2005-07-03,Monteiro,Jordan,13,19,67,+3 Laps,,0
+2005,10,French Grand Prix,2005-07-03,Heidfeld,Williams,14,14,66,+4 Laps,,0
+2005,10,French Grand Prix,2005-07-03,Karthikeyan,Jordan,15,17,66,+4 Laps,,0
+2005,10,French Grand Prix,2005-07-03,Pablo Montoya,McLaren,16,8,46,Engine,,0
+2005,10,French Grand Prix,2005-07-03,Albers,Minardi,17,20,37,Puncture,,0
+2005,10,French Grand Prix,2005-07-03,Friesacher,Minardi,18,18,33,Puncture,,0
+2005,10,French Grand Prix,2005-07-03,Massa,Sauber,19,9,30,Hydraulics,,0
+2005,10,French Grand Prix,2005-07-03,Klien,Red Bull,20,16,1,Fuel pressure,,0
+2005,11,British Grand Prix,2005-07-10,Pablo Montoya,McLaren,1,3,60,Finished,1:24:29.588,10
+2005,11,British Grand Prix,2005-07-10,Alonso,Renault,2,1,60,Finished,+2.7,8
+2005,11,British Grand Prix,2005-07-10,Räikkönen,McLaren,3,12,60,Finished,+14.4,6
+2005,11,British Grand Prix,2005-07-10,Fisichella,Renault,4,6,60,Finished,+17.9,5
+2005,11,British Grand Prix,2005-07-10,Button,BAR,5,2,60,Finished,+40.3,4
+2005,11,British Grand Prix,2005-07-10,Schumacher,Ferrari,6,9,60,Finished,+1:15.3,3
+2005,11,British Grand Prix,2005-07-10,Barrichello,Ferrari,7,5,60,Finished,+1:16.6,2
+2005,11,British Grand Prix,2005-07-10,Schumacher,Toyota,8,8,60,Finished,+1:19.2,1
+2005,11,British Grand Prix,2005-07-10,Trulli,Toyota,9,4,60,Finished,+1:20.9,0
+2005,11,British Grand Prix,2005-07-10,Massa,Sauber,10,16,59,+1 Lap,,0
+2005,11,British Grand Prix,2005-07-10,Webber,Williams,11,11,59,+1 Lap,,0
+2005,11,British Grand Prix,2005-07-10,Heidfeld,Williams,12,14,59,+1 Lap,,0
+2005,11,British Grand Prix,2005-07-10,Coulthard,Red Bull,13,13,59,+1 Lap,,0
+2005,11,British Grand Prix,2005-07-10,Villeneuve,Sauber,14,10,59,+1 Lap,,0
+2005,11,British Grand Prix,2005-07-10,Klien,Red Bull,15,15,59,+1 Lap,,0
+2005,11,British Grand Prix,2005-07-10,Sato,BAR,16,7,58,+2 Laps,,0
+2005,11,British Grand Prix,2005-07-10,Monteiro,Jordan,17,20,58,+2 Laps,,0
+2005,11,British Grand Prix,2005-07-10,Albers,Minardi,18,18,57,+3 Laps,,0
+2005,11,British Grand Prix,2005-07-10,Friesacher,Minardi,19,19,56,+4 Laps,,0
+2005,11,British Grand Prix,2005-07-10,Karthikeyan,Jordan,20,17,10,Electrical,,0
+2005,12,German Grand Prix,2005-07-24,Alonso,Renault,1,3,67,Finished,1:26:28.599,10
+2005,12,German Grand Prix,2005-07-24,Pablo Montoya,McLaren,2,20,67,Finished,+22.569,8
+2005,12,German Grand Prix,2005-07-24,Button,BAR,3,2,67,Finished,+24.422,6
+2005,12,German Grand Prix,2005-07-24,Fisichella,Renault,4,4,67,Finished,+50.587,5
+2005,12,German Grand Prix,2005-07-24,Schumacher,Ferrari,5,5,67,Finished,+51.690,4
+2005,12,German Grand Prix,2005-07-24,Schumacher,Toyota,6,12,67,Finished,+52.242,3
+2005,12,German Grand Prix,2005-07-24,Coulthard,Red Bull,7,11,67,Finished,+52.700,2
+2005,12,German Grand Prix,2005-07-24,Massa,Sauber,8,13,67,Finished,+56.570,1
+2005,12,German Grand Prix,2005-07-24,Klien,Red Bull,9,10,67,Finished,+1:09.818,0
+2005,12,German Grand Prix,2005-07-24,Barrichello,Ferrari,10,15,66,+1 Lap,,0
+2005,12,German Grand Prix,2005-07-24,Heidfeld,Williams,11,7,66,+1 Lap,,0
+2005,12,German Grand Prix,2005-07-24,Sato,BAR,12,8,66,+1 Lap,,0
+2005,12,German Grand Prix,2005-07-24,Albers,Minardi,13,16,65,+2 Laps,,0
+2005,12,German Grand Prix,2005-07-24,Trulli,Toyota,14,9,64,+3 Laps,,0
+2005,12,German Grand Prix,2005-07-24,Villeneuve,Sauber,15,14,64,+3 Laps,,0
+2005,12,German Grand Prix,2005-07-24,Karthikeyan,Jordan,16,19,64,+3 Laps,,0
+2005,12,German Grand Prix,2005-07-24,Monteiro,Jordan,17,18,64,+3 Laps,,0
+2005,12,German Grand Prix,2005-07-24,Doornbos,Minardi,18,17,63,+4 Laps,,0
+2005,12,German Grand Prix,2005-07-24,Webber,Williams,19,6,55,+12 Laps,,0
+2005,12,German Grand Prix,2005-07-24,Räikkönen,McLaren,20,1,32,Hydraulics,,0
+2005,13,Hungarian Grand Prix,2005-07-31,Räikkönen,McLaren,1,4,70,Finished,1:37:25.552,10
+2005,13,Hungarian Grand Prix,2005-07-31,Schumacher,Ferrari,2,1,70,Finished,+35.581,8
+2005,13,Hungarian Grand Prix,2005-07-31,Schumacher,Toyota,3,5,70,Finished,+36.129,6
+2005,13,Hungarian Grand Prix,2005-07-31,Trulli,Toyota,4,3,70,Finished,+54.221,5
+2005,13,Hungarian Grand Prix,2005-07-31,Button,BAR,5,8,70,Finished,+58.832,4
+2005,13,Hungarian Grand Prix,2005-07-31,Heidfeld,Williams,6,12,70,Finished,+1:08.375,3
+2005,13,Hungarian Grand Prix,2005-07-31,Webber,Williams,7,16,69,+1 Lap,,2
+2005,13,Hungarian Grand Prix,2005-07-31,Sato,BAR,8,10,69,+1 Lap,,1
+2005,13,Hungarian Grand Prix,2005-07-31,Fisichella,Renault,9,9,69,+1 Lap,,0
+2005,13,Hungarian Grand Prix,2005-07-31,Barrichello,Ferrari,10,7,69,+1 Lap,,0
+2005,13,Hungarian Grand Prix,2005-07-31,Alonso,Renault,11,6,69,+1 Lap,,0
+2005,13,Hungarian Grand Prix,2005-07-31,Karthikeyan,Jordan,12,18,67,+3 Laps,,0
+2005,13,Hungarian Grand Prix,2005-07-31,Monteiro,Jordan,13,20,66,+4 Laps,,0
+2005,13,Hungarian Grand Prix,2005-07-31,Massa,Sauber,14,14,63,+7 Laps,,0
+2005,13,Hungarian Grand Prix,2005-07-31,Albers,Minardi,15,17,59,+11 Laps,,0
+2005,13,Hungarian Grand Prix,2005-07-31,Villeneuve,Sauber,16,15,56,Engine fire,,0
+2005,13,Hungarian Grand Prix,2005-07-31,Pablo Montoya,McLaren,17,2,41,Driveshaft,,0
+2005,13,Hungarian Grand Prix,2005-07-31,Doornbos,Minardi,18,19,26,Hydraulics,,0
+2005,13,Hungarian Grand Prix,2005-07-31,Coulthard,Red Bull,19,13,0,Accident,,0
+2005,13,Hungarian Grand Prix,2005-07-31,Klien,Red Bull,20,11,0,Accident,,0
+2005,14,Turkish Grand Prix,2005-08-21,Räikkönen,McLaren,1,1,58,Finished,1:24:34.454,10
+2005,14,Turkish Grand Prix,2005-08-21,Alonso,Renault,2,3,58,Finished,+18.609,8
+2005,14,Turkish Grand Prix,2005-08-21,Pablo Montoya,McLaren,3,4,58,Finished,+19.635,6
+2005,14,Turkish Grand Prix,2005-08-21,Fisichella,Renault,4,2,58,Finished,+37.973,5
+2005,14,Turkish Grand Prix,2005-08-21,Button,BAR,5,13,58,Finished,+39.304,4
+2005,14,Turkish Grand Prix,2005-08-21,Trulli,Toyota,6,5,58,Finished,+55.420,3
+2005,14,Turkish Grand Prix,2005-08-21,Coulthard,Red Bull,7,12,58,Finished,+1:09.292,2
+2005,14,Turkish Grand Prix,2005-08-21,Klien,Red Bull,8,10,58,Finished,+1:11.622,1
+2005,14,Turkish Grand Prix,2005-08-21,Sato,BAR,9,20,58,Finished,+1:19.987,0
+2005,14,Turkish Grand Prix,2005-08-21,Barrichello,Ferrari,10,11,57,+1 Lap,,0
+2005,14,Turkish Grand Prix,2005-08-21,Villeneuve,Sauber,11,16,57,+1 Lap,,0
+2005,14,Turkish Grand Prix,2005-08-21,Schumacher,Toyota,12,9,57,+1 Lap,,0
+2005,14,Turkish Grand Prix,2005-08-21,Doornbos,Minardi,13,17,55,+3 Laps,,0
+2005,14,Turkish Grand Prix,2005-08-21,Karthikeyan,Jordan,14,18,55,+3 Laps,,0
+2005,14,Turkish Grand Prix,2005-08-21,Monteiro,Jordan,15,14,55,+3 Laps,,0
+2005,14,Turkish Grand Prix,2005-08-21,Albers,Minardi,16,15,48,Retired,,0
+2005,14,Turkish Grand Prix,2005-08-21,Schumacher,Ferrari,17,19,32,Retired,,0
+2005,14,Turkish Grand Prix,2005-08-21,Heidfeld,Williams,18,6,29,Tyre,,0
+2005,14,Turkish Grand Prix,2005-08-21,Massa,Sauber,19,8,28,Engine,,0
+2005,14,Turkish Grand Prix,2005-08-21,Webber,Williams,20,7,20,Tyre,,0
+2005,15,Italian Grand Prix,2005-09-04,Pablo Montoya,McLaren,1,1,53,Finished,1:14:28.659,10
+2005,15,Italian Grand Prix,2005-09-04,Alonso,Renault,2,2,53,Finished,+2.479,8
+2005,15,Italian Grand Prix,2005-09-04,Fisichella,Renault,3,8,53,Finished,+17.975,6
+2005,15,Italian Grand Prix,2005-09-04,Räikkönen,McLaren,4,11,53,Finished,+22.775,5
+2005,15,Italian Grand Prix,2005-09-04,Trulli,Toyota,5,5,53,Finished,+33.786,4
+2005,15,Italian Grand Prix,2005-09-04,Schumacher,Toyota,6,9,53,Finished,+43.925,3
+2005,15,Italian Grand Prix,2005-09-04,Pizzonia,Williams,7,16,53,Finished,+44.643,2
+2005,15,Italian Grand Prix,2005-09-04,Button,BAR,8,3,53,Finished,+1:03.635,1
+2005,15,Italian Grand Prix,2005-09-04,Massa,Sauber,9,15,53,Finished,+1:15.413,0
+2005,15,Italian Grand Prix,2005-09-04,Schumacher,Ferrari,10,6,53,Finished,+1:36.070,0
+2005,15,Italian Grand Prix,2005-09-04,Villeneuve,Sauber,11,12,52,+1 Lap,,0
+2005,15,Italian Grand Prix,2005-09-04,Barrichello,Ferrari,12,7,52,+1 Lap,,0
+2005,15,Italian Grand Prix,2005-09-04,Klien,Red Bull,13,13,52,+1 Lap,,0
+2005,15,Italian Grand Prix,2005-09-04,Webber,Williams,14,14,52,+1 Lap,,0
+2005,15,Italian Grand Prix,2005-09-04,Coulthard,Red Bull,15,10,52,+1 Lap,,0
+2005,15,Italian Grand Prix,2005-09-04,Sato,BAR,16,4,52,+1 Lap,,0
+2005,15,Italian Grand Prix,2005-09-04,Monteiro,Jordan,17,17,51,+2 Laps,,0
+2005,15,Italian Grand Prix,2005-09-04,Doornbos,Minardi,18,18,51,+2 Laps,,0
+2005,15,Italian Grand Prix,2005-09-04,Albers,Minardi,19,20,51,+2 Laps,,0
+2005,15,Italian Grand Prix,2005-09-04,Karthikeyan,Jordan,20,19,50,+3 Laps,,0
+2005,16,Belgian Grand Prix,2005-09-11,Räikkönen,McLaren,1,2,44,Finished,1:30:01.295,10
+2005,16,Belgian Grand Prix,2005-09-11,Alonso,Renault,2,4,44,Finished,+28.3,8
+2005,16,Belgian Grand Prix,2005-09-11,Button,BAR,3,8,44,Finished,+32.0,6
+2005,16,Belgian Grand Prix,2005-09-11,Webber,Williams,4,9,44,Finished,+1:09.1,5
+2005,16,Belgian Grand Prix,2005-09-11,Barrichello,Ferrari,5,12,44,Finished,+1:18.1,4
+2005,16,Belgian Grand Prix,2005-09-11,Villeneuve,Sauber,6,14,44,Finished,+1:27.4,3
+2005,16,Belgian Grand Prix,2005-09-11,Schumacher,Toyota,7,5,44,Finished,+1:27.5,2
+2005,16,Belgian Grand Prix,2005-09-11,Monteiro,Jordan,8,19,43,+1 Lap,,1
+2005,16,Belgian Grand Prix,2005-09-11,Klien,Red Bull,9,16,43,+1 Lap,,0
+2005,16,Belgian Grand Prix,2005-09-11,Massa,Sauber,10,7,43,+1 Lap,,0
+2005,16,Belgian Grand Prix,2005-09-11,Karthikeyan,Jordan,11,20,43,+1 Lap,,0
+2005,16,Belgian Grand Prix,2005-09-11,Albers,Minardi,12,18,42,+2 Laps,,0
+2005,16,Belgian Grand Prix,2005-09-11,Doornbos,Minardi,13,17,41,+3 Laps,,0
+2005,16,Belgian Grand Prix,2005-09-11,Pablo Montoya,McLaren,14,1,40,Collision,,0
+2005,16,Belgian Grand Prix,2005-09-11,Pizzonia,Williams,15,15,39,Collision,,0
+2005,16,Belgian Grand Prix,2005-09-11,Trulli,Toyota,16,3,34,Accident,,0
+2005,16,Belgian Grand Prix,2005-09-11,Coulthard,Red Bull,17,11,18,Engine,,0
+2005,16,Belgian Grand Prix,2005-09-11,Schumacher,Ferrari,18,6,13,Accident,,0
+2005,16,Belgian Grand Prix,2005-09-11,Sato,BAR,19,10,13,Accident,,0
+2005,16,Belgian Grand Prix,2005-09-11,Fisichella,Renault,20,13,10,Accident,,0
+2005,17,Brazilian Grand Prix,2005-09-25,Pablo Montoya,McLaren,1,2,71,Finished,1:29:20.574,10
+2005,17,Brazilian Grand Prix,2005-09-25,Räikkönen,McLaren,2,5,71,Finished,+2.527,8
+2005,17,Brazilian Grand Prix,2005-09-25,Alonso,Renault,3,1,71,Finished,+24.840,6
+2005,17,Brazilian Grand Prix,2005-09-25,Schumacher,Ferrari,4,7,71,Finished,+35.668,5
+2005,17,Brazilian Grand Prix,2005-09-25,Fisichella,Renault,5,3,71,Finished,+40.218,4
+2005,17,Brazilian Grand Prix,2005-09-25,Barrichello,Ferrari,6,9,71,Finished,+1:09.173,3
+2005,17,Brazilian Grand Prix,2005-09-25,Button,BAR,7,4,70,+1 Lap,,2
+2005,17,Brazilian Grand Prix,2005-09-25,Schumacher,Toyota,8,10,70,+1 Lap,,1
+2005,17,Brazilian Grand Prix,2005-09-25,Klien,Red Bull,9,6,70,+1 Lap,,0
+2005,17,Brazilian Grand Prix,2005-09-25,Sato,BAR,10,19,70,+1 Lap,,0
+2005,17,Brazilian Grand Prix,2005-09-25,Massa,Sauber,11,8,70,+1 Lap,,0
+2005,17,Brazilian Grand Prix,2005-09-25,Villeneuve,Sauber,12,20,70,+1 Lap,,0
+2005,17,Brazilian Grand Prix,2005-09-25,Trulli,Toyota,13,17,69,+2 Laps,,0
+2005,17,Brazilian Grand Prix,2005-09-25,Albers,Minardi,14,16,69,+2 Laps,,0
+2005,17,Brazilian Grand Prix,2005-09-25,Karthikeyan,Jordan,15,15,68,+3 Laps,,0
+2005,17,Brazilian Grand Prix,2005-09-25,Monteiro,Jordan,16,11,55,Mechanical,,0
+2005,17,Brazilian Grand Prix,2005-09-25,Webber,Williams,17,12,45,+26 Laps,,0
+2005,17,Brazilian Grand Prix,2005-09-25,Doornbos,Minardi,18,18,34,Engine,,0
+2005,17,Brazilian Grand Prix,2005-09-25,Pizzonia,Williams,19,13,0,Accident,,0
+2005,17,Brazilian Grand Prix,2005-09-25,Coulthard,Red Bull,20,14,0,Accident,,0
+2005,18,Japanese Grand Prix,2005-10-09,Räikkönen,McLaren,1,17,53,Finished,1:29:02.212,10
+2005,18,Japanese Grand Prix,2005-10-09,Fisichella,Renault,2,3,53,Finished,+1.633,8
+2005,18,Japanese Grand Prix,2005-10-09,Alonso,Renault,3,16,53,Finished,+17.456,6
+2005,18,Japanese Grand Prix,2005-10-09,Webber,Williams,4,7,53,Finished,+22.274,5
+2005,18,Japanese Grand Prix,2005-10-09,Button,BAR,5,2,53,Finished,+29.507,4
+2005,18,Japanese Grand Prix,2005-10-09,Coulthard,Red Bull,6,6,53,Finished,+31.601,3
+2005,18,Japanese Grand Prix,2005-10-09,Schumacher,Ferrari,7,14,53,Finished,+33.879,2
+2005,18,Japanese Grand Prix,2005-10-09,Schumacher,Toyota,8,1,53,Finished,+49.548,1
+2005,18,Japanese Grand Prix,2005-10-09,Klien,Red Bull,9,4,53,Finished,+51.925,0
+2005,18,Japanese Grand Prix,2005-10-09,Massa,Sauber,10,10,53,Finished,+57.509,0
+2005,18,Japanese Grand Prix,2005-10-09,Barrichello,Ferrari,11,9,53,Finished,+1:00.633,0
+2005,18,Japanese Grand Prix,2005-10-09,Villeneuve,Sauber,12,8,53,Finished,+1:23.221,0
+2005,18,Japanese Grand Prix,2005-10-09,Monteiro,Jordan,13,20,52,+1 Lap,,0
+2005,18,Japanese Grand Prix,2005-10-09,Doornbos,Minardi,14,15,51,+2 Laps,,0
+2005,18,Japanese Grand Prix,2005-10-09,Karthikeyan,Jordan,15,11,51,+2 Laps,,0
+2005,18,Japanese Grand Prix,2005-10-09,Albers,Minardi,16,13,49,+4 Laps,,0
+2005,18,Japanese Grand Prix,2005-10-09,Pizzonia,Williams,17,12,9,Accident,,0
+2005,18,Japanese Grand Prix,2005-10-09,Trulli,Toyota,18,19,9,Accident,,0
+2005,18,Japanese Grand Prix,2005-10-09,Pablo Montoya,McLaren,19,18,0,Accident,,0
+2005,18,Japanese Grand Prix,2005-10-09,Sato,BAR,20,5,52,Disqualified,,0
+2005,19,Chinese Grand Prix,2005-10-16,Alonso,Renault,1,1,56,Finished,1:39:53.618,10
+2005,19,Chinese Grand Prix,2005-10-16,Räikkönen,McLaren,2,3,56,Finished,+4.0,8
+2005,19,Chinese Grand Prix,2005-10-16,Schumacher,Toyota,3,9,56,Finished,+25.3,6
+2005,19,Chinese Grand Prix,2005-10-16,Fisichella,Renault,4,2,56,Finished,+26.1,5
+2005,19,Chinese Grand Prix,2005-10-16,Klien,Red Bull,5,14,56,Finished,+31.8,4
+2005,19,Chinese Grand Prix,2005-10-16,Massa,Sauber,6,11,56,Finished,+36.4,3
+2005,19,Chinese Grand Prix,2005-10-16,Webber,Williams,7,10,56,Finished,+36.8,2
+2005,19,Chinese Grand Prix,2005-10-16,Button,BAR,8,4,56,Finished,+41.2,1
+2005,19,Chinese Grand Prix,2005-10-16,Coulthard,Red Bull,9,7,56,Finished,+44.2,0
+2005,19,Chinese Grand Prix,2005-10-16,Villeneuve,Sauber,10,16,56,Finished,+59.9,0
+2005,19,Chinese Grand Prix,2005-10-16,Monteiro,Jordan,11,19,56,Finished,+1:24.6,0
+2005,19,Chinese Grand Prix,2005-10-16,Barrichello,Ferrari,12,8,56,Finished,+1:32.8,0
+2005,19,Chinese Grand Prix,2005-10-16,Pizzonia,Williams,13,13,55,Tyre puncture,,0
+2005,19,Chinese Grand Prix,2005-10-16,Doornbos,Minardi,14,20,55,Out of fuel,,0
+2005,19,Chinese Grand Prix,2005-10-16,Trulli,Toyota,15,12,55,+1 Lap,,0
+2005,19,Chinese Grand Prix,2005-10-16,Albers,Minardi,16,18,50,Wheel nut,,0
+2005,19,Chinese Grand Prix,2005-10-16,Sato,BAR,17,17,34,Gearbox,,0
+2005,19,Chinese Grand Prix,2005-10-16,Karthikeyan,Jordan,18,15,28,Accident,,0
+2005,19,Chinese Grand Prix,2005-10-16,Pablo Montoya,McLaren,19,5,24,Engine,,0
+2005,19,Chinese Grand Prix,2005-10-16,Schumacher,Ferrari,20,6,20,Spun off,,0

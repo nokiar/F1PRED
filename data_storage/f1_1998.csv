@@ -1,0 +1,350 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1998,1,Australian Grand Prix,1998-03-08,Häkkinen,McLaren,1,1,58,Finished,1:31:46.0,10
+1998,1,Australian Grand Prix,1998-03-08,Coulthard,McLaren,2,2,58,Finished,+0.702,6
+1998,1,Australian Grand Prix,1998-03-08,Frentzen,Williams,3,6,57,+1 Lap,,4
+1998,1,Australian Grand Prix,1998-03-08,Irvine,Ferrari,4,8,57,+1 Lap,,3
+1998,1,Australian Grand Prix,1998-03-08,Villeneuve,Williams,5,4,57,+1 Lap,,2
+1998,1,Australian Grand Prix,1998-03-08,Herbert,Sauber,6,5,57,+1 Lap,,1
+1998,1,Australian Grand Prix,1998-03-08,Wurz,Benetton,7,11,57,+1 Lap,,0
+1998,1,Australian Grand Prix,1998-03-08,Hill,Jordan,8,10,57,+1 Lap,,0
+1998,1,Australian Grand Prix,1998-03-08,Panis,Prost,9,21,57,+1 Lap,,0
+1998,1,Australian Grand Prix,1998-03-08,Fisichella,Benetton,10,7,43,Broken wing,,0
+1998,1,Australian Grand Prix,1998-03-08,Alesi,Sauber,11,12,41,Engine,,0
+1998,1,Australian Grand Prix,1998-03-08,Trulli,Prost,12,15,26,Gearbox,,0
+1998,1,Australian Grand Prix,1998-03-08,Rosset,Tyrrell,13,19,25,Gearbox,,0
+1998,1,Australian Grand Prix,1998-03-08,Salo,Arrows,14,16,23,Gearbox,,0
+1998,1,Australian Grand Prix,1998-03-08,Tuero,Minardi,15,17,22,Engine,,0
+1998,1,Australian Grand Prix,1998-03-08,Nakano,Minardi,16,22,8,Halfshaft,,0
+1998,1,Australian Grand Prix,1998-03-08,Schumacher,Ferrari,17,3,5,Engine,,0
+1998,1,Australian Grand Prix,1998-03-08,Diniz,Arrows,18,20,2,Gearbox,,0
+1998,1,Australian Grand Prix,1998-03-08,Schumacher,Jordan,19,9,1,Collision,,0
+1998,1,Australian Grand Prix,1998-03-08,Magnussen,Stewart,20,18,1,Collision,,0
+1998,1,Australian Grand Prix,1998-03-08,Takagi,Tyrrell,21,13,1,Spun off,,0
+1998,1,Australian Grand Prix,1998-03-08,Barrichello,Stewart,22,14,0,Gearbox,,0
+1998,2,Brazilian Grand Prix,1998-03-29,Häkkinen,McLaren,1,1,72,Finished,1:37:12.2,10
+1998,2,Brazilian Grand Prix,1998-03-29,Coulthard,McLaren,2,2,72,Finished,+1.102,6
+1998,2,Brazilian Grand Prix,1998-03-29,Schumacher,Ferrari,3,4,72,Finished,+1:00.550,4
+1998,2,Brazilian Grand Prix,1998-03-29,Wurz,Benetton,4,5,72,Finished,+1:07.453,3
+1998,2,Brazilian Grand Prix,1998-03-29,Frentzen,Williams,5,3,71,+1 Lap,,2
+1998,2,Brazilian Grand Prix,1998-03-29,Fisichella,Benetton,6,7,71,+1 Lap,,1
+1998,2,Brazilian Grand Prix,1998-03-29,Villeneuve,Williams,7,10,71,+1 Lap,,0
+1998,2,Brazilian Grand Prix,1998-03-29,Irvine,Ferrari,8,6,71,+1 Lap,,0
+1998,2,Brazilian Grand Prix,1998-03-29,Alesi,Sauber,9,15,71,+1 Lap,,0
+1998,2,Brazilian Grand Prix,1998-03-29,Magnussen,Stewart,10,16,70,+2 Laps,,0
+1998,2,Brazilian Grand Prix,1998-03-29,Herbert,Sauber,11,14,67,Injury,,0
+1998,2,Brazilian Grand Prix,1998-03-29,Hill,Jordan,12,11,70,Disqualified,,0
+1998,2,Brazilian Grand Prix,1998-03-29,Panis,Prost,13,9,63,Engine,,0
+1998,2,Brazilian Grand Prix,1998-03-29,Barrichello,Stewart,14,13,56,Gearbox,,0
+1998,2,Brazilian Grand Prix,1998-03-29,Rosset,Tyrrell,15,21,52,Gearbox,,0
+1998,2,Brazilian Grand Prix,1998-03-29,Tuero,Minardi,16,19,44,Throttle,,0
+1998,2,Brazilian Grand Prix,1998-03-29,Diniz,Arrows,17,22,26,Gearbox,,0
+1998,2,Brazilian Grand Prix,1998-03-29,Takagi,Tyrrell,18,17,19,Engine,,0
+1998,2,Brazilian Grand Prix,1998-03-29,Salo,Arrows,19,20,18,Engine,,0
+1998,2,Brazilian Grand Prix,1998-03-29,Trulli,Prost,20,12,17,Fuel pump,,0
+1998,2,Brazilian Grand Prix,1998-03-29,Nakano,Minardi,21,18,3,Spun off,,0
+1998,2,Brazilian Grand Prix,1998-03-29,Schumacher,Jordan,22,8,0,Spun off,,0
+1998,3,Argentine Grand Prix,1998-04-12,Schumacher,Ferrari,1,2,72,Finished,1:48:36.1,10
+1998,3,Argentine Grand Prix,1998-04-12,Häkkinen,McLaren,2,3,72,Finished,+22.898,6
+1998,3,Argentine Grand Prix,1998-04-12,Irvine,Ferrari,3,4,72,Finished,+57.745,4
+1998,3,Argentine Grand Prix,1998-04-12,Wurz,Benetton,4,8,72,Finished,+1:08.134,3
+1998,3,Argentine Grand Prix,1998-04-12,Alesi,Sauber,5,11,72,Finished,+1:18.286,2
+1998,3,Argentine Grand Prix,1998-04-12,Coulthard,McLaren,6,1,72,Finished,+1:19.751,1
+1998,3,Argentine Grand Prix,1998-04-12,Fisichella,Benetton,7,10,72,Finished,+1:28.437,0
+1998,3,Argentine Grand Prix,1998-04-12,Hill,Jordan,8,9,71,+1 Lap,,0
+1998,3,Argentine Grand Prix,1998-04-12,Frentzen,Williams,9,6,71,+1 Lap,,0
+1998,3,Argentine Grand Prix,1998-04-12,Barrichello,Stewart,10,14,70,+2 Laps,,0
+1998,3,Argentine Grand Prix,1998-04-12,Trulli,Prost,11,16,70,+2 Laps,,0
+1998,3,Argentine Grand Prix,1998-04-12,Takagi,Tyrrell,12,13,70,+2 Laps,,0
+1998,3,Argentine Grand Prix,1998-04-12,Nakano,Minardi,13,19,69,+3 Laps,,0
+1998,3,Argentine Grand Prix,1998-04-12,Rosset,Tyrrell,14,21,68,+4 Laps,,0
+1998,3,Argentine Grand Prix,1998-04-12,Panis,Prost,15,15,65,Engine,,0
+1998,3,Argentine Grand Prix,1998-04-12,Tuero,Minardi,16,20,63,Spun off,,0
+1998,3,Argentine Grand Prix,1998-04-12,Villeneuve,Williams,17,7,52,Collision,,0
+1998,3,Argentine Grand Prix,1998-04-12,Herbert,Sauber,18,12,46,Collision,,0
+1998,3,Argentine Grand Prix,1998-04-12,Schumacher,Jordan,19,5,22,Suspension,,0
+1998,3,Argentine Grand Prix,1998-04-12,Salo,Arrows,20,17,18,Gearbox,,0
+1998,3,Argentine Grand Prix,1998-04-12,Magnussen,Stewart,21,22,17,Transmission,,0
+1998,3,Argentine Grand Prix,1998-04-12,Diniz,Arrows,22,18,13,Gearbox,,0
+1998,4,San Marino Grand Prix,1998-04-26,Coulthard,McLaren,1,1,62,Finished,1:34:25.4,10
+1998,4,San Marino Grand Prix,1998-04-26,Schumacher,Ferrari,2,3,62,Finished,+4.554,6
+1998,4,San Marino Grand Prix,1998-04-26,Irvine,Ferrari,3,4,62,Finished,+51.775,4
+1998,4,San Marino Grand Prix,1998-04-26,Villeneuve,Williams,4,6,62,Finished,+54.59,3
+1998,4,San Marino Grand Prix,1998-04-26,Frentzen,Williams,5,8,62,Finished,+1:17.476,2
+1998,4,San Marino Grand Prix,1998-04-26,Alesi,Sauber,6,12,61,+1 Lap,,1
+1998,4,San Marino Grand Prix,1998-04-26,Schumacher,Jordan,7,9,60,+2 Laps,,0
+1998,4,San Marino Grand Prix,1998-04-26,Tuero,Minardi,8,19,60,+2 Laps,,0
+1998,4,San Marino Grand Prix,1998-04-26,Salo,Arrows,9,14,60,+2 Laps,,0
+1998,4,San Marino Grand Prix,1998-04-26,Hill,Jordan,10,7,57,Hydraulics,,0
+1998,4,San Marino Grand Prix,1998-04-26,Panis,Prost,11,13,56,+6 Laps,,0
+1998,4,San Marino Grand Prix,1998-04-26,Rosset,Tyrrell,12,22,48,Engine,,0
+1998,4,San Marino Grand Prix,1998-04-26,Takagi,Tyrrell,13,15,40,Engine,,0
+1998,4,San Marino Grand Prix,1998-04-26,Trulli,Prost,14,16,34,Throttle,,0
+1998,4,San Marino Grand Prix,1998-04-26,Nakano,Minardi,15,21,27,Engine,,0
+1998,4,San Marino Grand Prix,1998-04-26,Diniz,Arrows,16,18,18,Engine,,0
+1998,4,San Marino Grand Prix,1998-04-26,Häkkinen,McLaren,17,2,17,Gearbox,,0
+1998,4,San Marino Grand Prix,1998-04-26,Fisichella,Benetton,18,10,17,Spun off,,0
+1998,4,San Marino Grand Prix,1998-04-26,Wurz,Benetton,19,5,17,Engine,,0
+1998,4,San Marino Grand Prix,1998-04-26,Herbert,Sauber,20,11,12,Puncture,,0
+1998,4,San Marino Grand Prix,1998-04-26,Magnussen,Stewart,21,20,8,Transmission,,0
+1998,4,San Marino Grand Prix,1998-04-26,Barrichello,Stewart,22,17,0,Spun off,,0
+1998,5,Spanish Grand Prix,1998-05-10,Häkkinen,McLaren,1,1,65,Finished,1:33:38.3,10
+1998,5,Spanish Grand Prix,1998-05-10,Coulthard,McLaren,2,2,65,Finished,+9.439,6
+1998,5,Spanish Grand Prix,1998-05-10,Schumacher,Ferrari,3,3,65,Finished,+47.095,4
+1998,5,Spanish Grand Prix,1998-05-10,Wurz,Benetton,4,5,65,Finished,+1:02.538,3
+1998,5,Spanish Grand Prix,1998-05-10,Barrichello,Stewart,5,9,64,+1 Lap,,2
+1998,5,Spanish Grand Prix,1998-05-10,Villeneuve,Williams,6,10,64,+1 Lap,,1
+1998,5,Spanish Grand Prix,1998-05-10,Herbert,Sauber,7,7,64,+1 Lap,,0
+1998,5,Spanish Grand Prix,1998-05-10,Frentzen,Williams,8,13,63,+2 Laps,,0
+1998,5,Spanish Grand Prix,1998-05-10,Trulli,Prost,9,16,63,+2 Laps,,0
+1998,5,Spanish Grand Prix,1998-05-10,Alesi,Sauber,10,14,63,+2 Laps,,0
+1998,5,Spanish Grand Prix,1998-05-10,Schumacher,Jordan,11,11,63,+2 Laps,,0
+1998,5,Spanish Grand Prix,1998-05-10,Magnussen,Stewart,12,18,63,+2 Laps,,0
+1998,5,Spanish Grand Prix,1998-05-10,Takagi,Tyrrell,13,21,63,+2 Laps,,0
+1998,5,Spanish Grand Prix,1998-05-10,Nakano,Minardi,14,20,63,+2 Laps,,0
+1998,5,Spanish Grand Prix,1998-05-10,Tuero,Minardi,15,19,63,+2 Laps,,0
+1998,5,Spanish Grand Prix,1998-05-10,Panis,Prost,16,12,60,+5 Laps,,0
+1998,5,Spanish Grand Prix,1998-05-10,Hill,Jordan,17,8,46,Engine,,0
+1998,5,Spanish Grand Prix,1998-05-10,Irvine,Ferrari,18,6,28,Collision,,0
+1998,5,Spanish Grand Prix,1998-05-10,Fisichella,Benetton,19,4,28,Collision,,0
+1998,5,Spanish Grand Prix,1998-05-10,Salo,Arrows,20,17,21,Engine,,0
+1998,5,Spanish Grand Prix,1998-05-10,Diniz,Arrows,21,15,20,Engine,,0
+1998,6,Monaco Grand Prix,1998-05-24,Häkkinen,McLaren,1,1,78,Finished,1:51:24.4,10
+1998,6,Monaco Grand Prix,1998-05-24,Fisichella,Benetton,2,3,78,Finished,+11.475,6
+1998,6,Monaco Grand Prix,1998-05-24,Irvine,Ferrari,3,7,78,Finished,+41.378,4
+1998,6,Monaco Grand Prix,1998-05-24,Salo,Arrows,4,8,78,Finished,+1:00.363,3
+1998,6,Monaco Grand Prix,1998-05-24,Villeneuve,Williams,5,13,77,+1 Lap,,2
+1998,6,Monaco Grand Prix,1998-05-24,Diniz,Arrows,6,12,77,+1 Lap,,1
+1998,6,Monaco Grand Prix,1998-05-24,Herbert,Sauber,7,9,77,+1 Lap,,0
+1998,6,Monaco Grand Prix,1998-05-24,Hill,Jordan,8,15,76,+2 Laps,,0
+1998,6,Monaco Grand Prix,1998-05-24,Nakano,Minardi,9,19,76,+2 Laps,,0
+1998,6,Monaco Grand Prix,1998-05-24,Schumacher,Ferrari,10,4,76,+2 Laps,,0
+1998,6,Monaco Grand Prix,1998-05-24,Takagi,Tyrrell,11,20,76,+2 Laps,,0
+1998,6,Monaco Grand Prix,1998-05-24,Alesi,Sauber,12,11,72,Gearbox,,0
+1998,6,Monaco Grand Prix,1998-05-24,Trulli,Prost,13,10,56,Gearbox,,0
+1998,6,Monaco Grand Prix,1998-05-24,Panis,Prost,14,18,49,Wheel,,0
+1998,6,Monaco Grand Prix,1998-05-24,Schumacher,Jordan,15,16,44,Suspension,,0
+1998,6,Monaco Grand Prix,1998-05-24,Wurz,Benetton,16,6,42,Spun off,,0
+1998,6,Monaco Grand Prix,1998-05-24,Magnussen,Stewart,17,17,30,Suspension,,0
+1998,6,Monaco Grand Prix,1998-05-24,Coulthard,McLaren,18,2,17,Engine,,0
+1998,6,Monaco Grand Prix,1998-05-24,Barrichello,Stewart,19,14,11,Suspension,,0
+1998,6,Monaco Grand Prix,1998-05-24,Frentzen,Williams,20,5,5,Collision,,0
+1998,6,Monaco Grand Prix,1998-05-24,Tuero,Minardi,21,21,0,Spun off,,0
+1998,6,Monaco Grand Prix,1998-05-24,Rosset,Tyrrell,22,0,0,Did not qualify,,0
+1998,7,Canadian Grand Prix,1998-06-07,Schumacher,Ferrari,1,3,69,Finished,1:40:57.3,10
+1998,7,Canadian Grand Prix,1998-06-07,Fisichella,Benetton,2,4,69,Finished,+16.662,6
+1998,7,Canadian Grand Prix,1998-06-07,Irvine,Ferrari,3,8,69,Finished,+1:00.059,4
+1998,7,Canadian Grand Prix,1998-06-07,Wurz,Benetton,4,11,69,Finished,+1:03.232,3
+1998,7,Canadian Grand Prix,1998-06-07,Barrichello,Stewart,5,13,69,Finished,+1:21.513,2
+1998,7,Canadian Grand Prix,1998-06-07,Magnussen,Stewart,6,20,68,+1 Lap,,1
+1998,7,Canadian Grand Prix,1998-06-07,Nakano,Minardi,7,18,68,+1 Lap,,0
+1998,7,Canadian Grand Prix,1998-06-07,Rosset,Tyrrell,8,22,68,+1 Lap,,0
+1998,7,Canadian Grand Prix,1998-06-07,Diniz,Arrows,9,19,68,+1 Lap,,0
+1998,7,Canadian Grand Prix,1998-06-07,Villeneuve,Williams,10,6,63,+6 Laps,,0
+1998,7,Canadian Grand Prix,1998-06-07,Tuero,Minardi,11,21,53,Electrical,,0
+1998,7,Canadian Grand Prix,1998-06-07,Hill,Jordan,12,10,42,Electrical,,0
+1998,7,Canadian Grand Prix,1998-06-07,Panis,Prost,13,15,39,Spun off,,0
+1998,7,Canadian Grand Prix,1998-06-07,Frentzen,Williams,14,7,20,Spun off,,0
+1998,7,Canadian Grand Prix,1998-06-07,Coulthard,McLaren,15,1,18,Throttle,,0
+1998,7,Canadian Grand Prix,1998-06-07,Herbert,Sauber,16,12,18,Spun off,,0
+1998,7,Canadian Grand Prix,1998-06-07,Salo,Arrows,17,17,18,Accident,,0
+1998,7,Canadian Grand Prix,1998-06-07,Häkkinen,McLaren,18,2,0,Gearbox,,0
+1998,7,Canadian Grand Prix,1998-06-07,Schumacher,Jordan,19,5,0,Gearbox,,0
+1998,7,Canadian Grand Prix,1998-06-07,Alesi,Sauber,20,9,0,Collision,,0
+1998,7,Canadian Grand Prix,1998-06-07,Trulli,Prost,21,14,0,Collision,,0
+1998,7,Canadian Grand Prix,1998-06-07,Takagi,Tyrrell,22,16,0,Transmission,,0
+1998,8,French Grand Prix,1998-06-28,Schumacher,Ferrari,1,2,71,Finished,1:34:45.0,10
+1998,8,French Grand Prix,1998-06-28,Irvine,Ferrari,2,4,71,Finished,+19.575,6
+1998,8,French Grand Prix,1998-06-28,Häkkinen,McLaren,3,1,71,Finished,+19.747,4
+1998,8,French Grand Prix,1998-06-28,Villeneuve,Williams,4,5,71,Finished,+1:06.965,3
+1998,8,French Grand Prix,1998-06-28,Wurz,Benetton,5,10,70,+1 Lap,,2
+1998,8,French Grand Prix,1998-06-28,Coulthard,McLaren,6,3,70,+1 Lap,,1
+1998,8,French Grand Prix,1998-06-28,Alesi,Sauber,7,11,70,+1 Lap,,0
+1998,8,French Grand Prix,1998-06-28,Herbert,Sauber,8,13,70,+1 Lap,,0
+1998,8,French Grand Prix,1998-06-28,Fisichella,Benetton,9,9,70,+1 Lap,,0
+1998,8,French Grand Prix,1998-06-28,Barrichello,Stewart,10,14,69,+2 Laps,,0
+1998,8,French Grand Prix,1998-06-28,Panis,Prost,11,16,69,+2 Laps,,0
+1998,8,French Grand Prix,1998-06-28,Verstappen,Stewart,12,15,69,+2 Laps,,0
+1998,8,French Grand Prix,1998-06-28,Salo,Arrows,13,19,69,+2 Laps,,0
+1998,8,French Grand Prix,1998-06-28,Diniz,Arrows,14,17,69,+2 Laps,,0
+1998,8,French Grand Prix,1998-06-28,Frentzen,Williams,15,8,68,Suspension,,0
+1998,8,French Grand Prix,1998-06-28,Schumacher,Jordan,16,6,68,+3 Laps,,0
+1998,8,French Grand Prix,1998-06-28,Nakano,Minardi,17,21,65,Engine,,0
+1998,8,French Grand Prix,1998-06-28,Takagi,Tyrrell,18,20,60,Engine,,0
+1998,8,French Grand Prix,1998-06-28,Trulli,Prost,19,12,55,Spun off,,0
+1998,8,French Grand Prix,1998-06-28,Tuero,Minardi,20,22,41,Gearbox,,0
+1998,8,French Grand Prix,1998-06-28,Hill,Jordan,21,7,19,Hydraulics,,0
+1998,8,French Grand Prix,1998-06-28,Rosset,Tyrrell,22,18,16,Hydraulics,,0
+1998,9,British Grand Prix,1998-07-12,Schumacher,Ferrari,1,2,60,Finished,1:47:02.4,10
+1998,9,British Grand Prix,1998-07-12,Häkkinen,McLaren,2,1,60,Finished,+22.465,6
+1998,9,British Grand Prix,1998-07-12,Irvine,Ferrari,3,5,60,Finished,+29.199,4
+1998,9,British Grand Prix,1998-07-12,Wurz,Benetton,4,11,59,+1 Lap,,3
+1998,9,British Grand Prix,1998-07-12,Fisichella,Benetton,5,10,59,+1 Lap,,2
+1998,9,British Grand Prix,1998-07-12,Schumacher,Jordan,6,21,59,+1 Lap,,1
+1998,9,British Grand Prix,1998-07-12,Villeneuve,Williams,7,3,59,+1 Lap,,0
+1998,9,British Grand Prix,1998-07-12,Nakano,Minardi,8,19,58,+2 Laps,,0
+1998,9,British Grand Prix,1998-07-12,Takagi,Tyrrell,9,17,56,+4 Laps,,0
+1998,9,British Grand Prix,1998-07-12,Alesi,Sauber,10,8,53,Electrical,,0
+1998,9,British Grand Prix,1998-07-12,Diniz,Arrows,11,12,45,Spun off,,0
+1998,9,British Grand Prix,1998-07-12,Panis,Prost,12,22,40,Spun off,,0
+1998,9,British Grand Prix,1998-07-12,Barrichello,Stewart,13,16,39,Spun off,,0
+1998,9,British Grand Prix,1998-07-12,Verstappen,Stewart,14,15,38,Engine,,0
+1998,9,British Grand Prix,1998-07-12,Coulthard,McLaren,15,4,37,Spun off,,0
+1998,9,British Grand Prix,1998-07-12,Trulli,Prost,16,14,37,Spun off,,0
+1998,9,British Grand Prix,1998-07-12,Rosset,Tyrrell,17,20,29,Spun off,,0
+1998,9,British Grand Prix,1998-07-12,Tuero,Minardi,18,18,29,Spun off,,0
+1998,9,British Grand Prix,1998-07-12,Herbert,Sauber,19,9,27,Spun off,,0
+1998,9,British Grand Prix,1998-07-12,Salo,Arrows,20,13,27,Throttle,,0
+1998,9,British Grand Prix,1998-07-12,Frentzen,Williams,21,6,15,Spun off,,0
+1998,9,British Grand Prix,1998-07-12,Hill,Jordan,22,7,13,Spun off,,0
+1998,10,Austrian Grand Prix,1998-07-26,Häkkinen,McLaren,1,3,71,Finished,1:30:44.0,10
+1998,10,Austrian Grand Prix,1998-07-26,Coulthard,McLaren,2,14,71,Finished,+5.289,6
+1998,10,Austrian Grand Prix,1998-07-26,Schumacher,Ferrari,3,4,71,Finished,+39.092,4
+1998,10,Austrian Grand Prix,1998-07-26,Irvine,Ferrari,4,8,71,Finished,+43.976,3
+1998,10,Austrian Grand Prix,1998-07-26,Schumacher,Jordan,5,9,71,Finished,+50.654,2
+1998,10,Austrian Grand Prix,1998-07-26,Villeneuve,Williams,6,11,71,Finished,+53.202,1
+1998,10,Austrian Grand Prix,1998-07-26,Hill,Jordan,7,15,71,Finished,+1:13.624,0
+1998,10,Austrian Grand Prix,1998-07-26,Herbert,Sauber,8,18,70,+1 Lap,,0
+1998,10,Austrian Grand Prix,1998-07-26,Wurz,Benetton,9,17,70,+1 Lap,,0
+1998,10,Austrian Grand Prix,1998-07-26,Trulli,Prost,10,16,70,+1 Lap,,0
+1998,10,Austrian Grand Prix,1998-07-26,Nakano,Minardi,11,21,70,+1 Lap,,0
+1998,10,Austrian Grand Prix,1998-07-26,Rosset,Tyrrell,12,22,69,+2 Laps,,0
+1998,10,Austrian Grand Prix,1998-07-26,Verstappen,Stewart,13,12,51,Engine,,0
+1998,10,Austrian Grand Prix,1998-07-26,Tuero,Minardi,14,19,30,Spun off,,0
+1998,10,Austrian Grand Prix,1998-07-26,Fisichella,Benetton,15,1,21,Collision,,0
+1998,10,Austrian Grand Prix,1998-07-26,Alesi,Sauber,16,2,21,Collision,,0
+1998,10,Austrian Grand Prix,1998-07-26,Frentzen,Williams,17,7,16,Engine,,0
+1998,10,Austrian Grand Prix,1998-07-26,Barrichello,Stewart,18,5,8,Brakes,,0
+1998,10,Austrian Grand Prix,1998-07-26,Diniz,Arrows,19,13,3,Collision,,0
+1998,10,Austrian Grand Prix,1998-07-26,Salo,Arrows,20,6,1,Collision,,0
+1998,10,Austrian Grand Prix,1998-07-26,Panis,Prost,21,10,0,Clutch,,0
+1998,10,Austrian Grand Prix,1998-07-26,Takagi,Tyrrell,22,20,0,Collision,,0
+1998,11,German Grand Prix,1998-08-02,Häkkinen,McLaren,1,1,45,Finished,1:20:48.0,10
+1998,11,German Grand Prix,1998-08-02,Coulthard,McLaren,2,2,45,Finished,+0.426,6
+1998,11,German Grand Prix,1998-08-02,Villeneuve,Williams,3,3,45,Finished,+2.577,4
+1998,11,German Grand Prix,1998-08-02,Hill,Jordan,4,5,45,Finished,+7.185,3
+1998,11,German Grand Prix,1998-08-02,Schumacher,Ferrari,5,9,45,Finished,+12.613,2
+1998,11,German Grand Prix,1998-08-02,Schumacher,Jordan,6,4,45,Finished,+29.738,1
+1998,11,German Grand Prix,1998-08-02,Fisichella,Benetton,7,8,45,Finished,+31.026,0
+1998,11,German Grand Prix,1998-08-02,Irvine,Ferrari,8,6,45,Finished,+31.649,0
+1998,11,German Grand Prix,1998-08-02,Frentzen,Williams,9,10,45,Finished,+32.784,0
+1998,11,German Grand Prix,1998-08-02,Alesi,Sauber,10,11,45,Finished,+48.371,0
+1998,11,German Grand Prix,1998-08-02,Wurz,Benetton,11,7,45,Finished,+57.994,0
+1998,11,German Grand Prix,1998-08-02,Trulli,Prost,12,14,44,+1 Lap,,0
+1998,11,German Grand Prix,1998-08-02,Takagi,Tyrrell,13,15,44,+1 Lap,,0
+1998,11,German Grand Prix,1998-08-02,Salo,Arrows,14,17,44,+1 Lap,,0
+1998,11,German Grand Prix,1998-08-02,Panis,Prost,15,16,44,+1 Lap,,0
+1998,11,German Grand Prix,1998-08-02,Tuero,Minardi,16,21,43,+2 Laps,,0
+1998,11,German Grand Prix,1998-08-02,Herbert,Sauber,17,12,37,Gearbox,,0
+1998,11,German Grand Prix,1998-08-02,Nakano,Minardi,18,20,36,Gearbox,,0
+1998,11,German Grand Prix,1998-08-02,Barrichello,Stewart,19,13,27,Gearbox,,0
+1998,11,German Grand Prix,1998-08-02,Verstappen,Stewart,20,19,24,Gearbox,,0
+1998,11,German Grand Prix,1998-08-02,Diniz,Arrows,21,18,2,Throttle,,0
+1998,12,Hungarian Grand Prix,1998-08-16,Schumacher,Ferrari,1,3,77,Finished,1:45:26.4,10
+1998,12,Hungarian Grand Prix,1998-08-16,Coulthard,McLaren,2,2,77,Finished,+9.433,6
+1998,12,Hungarian Grand Prix,1998-08-16,Villeneuve,Williams,3,6,77,Finished,+44.444,4
+1998,12,Hungarian Grand Prix,1998-08-16,Hill,Jordan,4,4,77,Finished,+55.076,3
+1998,12,Hungarian Grand Prix,1998-08-16,Frentzen,Williams,5,7,77,Finished,+56.51,2
+1998,12,Hungarian Grand Prix,1998-08-16,Häkkinen,McLaren,6,1,76,+1 Lap,,1
+1998,12,Hungarian Grand Prix,1998-08-16,Alesi,Sauber,7,11,76,+1 Lap,,0
+1998,12,Hungarian Grand Prix,1998-08-16,Fisichella,Benetton,8,8,76,+1 Lap,,0
+1998,12,Hungarian Grand Prix,1998-08-16,Schumacher,Jordan,9,10,76,+1 Lap,,0
+1998,12,Hungarian Grand Prix,1998-08-16,Herbert,Sauber,10,15,76,+1 Lap,,0
+1998,12,Hungarian Grand Prix,1998-08-16,Diniz,Arrows,11,12,74,+3 Laps,,0
+1998,12,Hungarian Grand Prix,1998-08-16,Panis,Prost,12,20,74,+3 Laps,,0
+1998,12,Hungarian Grand Prix,1998-08-16,Verstappen,Stewart,13,17,74,+3 Laps,,0
+1998,12,Hungarian Grand Prix,1998-08-16,Takagi,Tyrrell,14,18,74,+3 Laps,,0
+1998,12,Hungarian Grand Prix,1998-08-16,Nakano,Minardi,15,19,74,+3 Laps,,0
+1998,12,Hungarian Grand Prix,1998-08-16,Wurz,Benetton,16,9,69,Gearbox,,0
+1998,12,Hungarian Grand Prix,1998-08-16,Barrichello,Stewart,17,14,54,Gearbox,,0
+1998,12,Hungarian Grand Prix,1998-08-16,Trulli,Prost,18,16,28,Engine,,0
+1998,12,Hungarian Grand Prix,1998-08-16,Salo,Arrows,19,13,18,Gearbox,,0
+1998,12,Hungarian Grand Prix,1998-08-16,Irvine,Ferrari,20,5,13,Gearbox,,0
+1998,12,Hungarian Grand Prix,1998-08-16,Tuero,Minardi,21,21,13,Engine,,0
+1998,13,Belgian Grand Prix,1998-08-30,Hill,Jordan,1,3,44,Finished,1:43:47.407,10
+1998,13,Belgian Grand Prix,1998-08-30,Schumacher,Jordan,2,8,44,Finished,+0.932,6
+1998,13,Belgian Grand Prix,1998-08-30,Alesi,Sauber,3,10,44,Finished,+7.240,4
+1998,13,Belgian Grand Prix,1998-08-30,Frentzen,Williams,4,9,44,Finished,+32.243,3
+1998,13,Belgian Grand Prix,1998-08-30,Diniz,Arrows,5,16,44,Finished,+51.682,2
+1998,13,Belgian Grand Prix,1998-08-30,Trulli,Prost,6,13,42,+2 Laps,,1
+1998,13,Belgian Grand Prix,1998-08-30,Coulthard,McLaren,7,2,39,+5 Laps,,0
+1998,13,Belgian Grand Prix,1998-08-30,Nakano,Minardi,8,21,39,+5 Laps,,0
+1998,13,Belgian Grand Prix,1998-08-30,Fisichella,Benetton,9,7,26,Collision,,0
+1998,13,Belgian Grand Prix,1998-08-30,Schumacher,Ferrari,10,4,25,Collision,,0
+1998,13,Belgian Grand Prix,1998-08-30,Irvine,Ferrari,11,5,25,Spun off,,0
+1998,13,Belgian Grand Prix,1998-08-30,Tuero,Minardi,12,22,17,Gearbox,,0
+1998,13,Belgian Grand Prix,1998-08-30,Villeneuve,Williams,13,6,16,Spun off,,0
+1998,13,Belgian Grand Prix,1998-08-30,Takagi,Tyrrell,14,19,10,Spun off,,0
+1998,13,Belgian Grand Prix,1998-08-30,Verstappen,Stewart,15,17,8,Engine,,0
+1998,13,Belgian Grand Prix,1998-08-30,Häkkinen,McLaren,16,1,0,Collision,,0
+1998,13,Belgian Grand Prix,1998-08-30,Wurz,Benetton,17,11,0,Collision,,0
+1998,13,Belgian Grand Prix,1998-08-30,Herbert,Sauber,18,12,0,Collision,,0
+1998,13,Belgian Grand Prix,1998-08-30,Barrichello,Stewart,19,15,0,Collision,,0
+1998,13,Belgian Grand Prix,1998-08-30,Panis,Prost,20,14,0,Collision,,0
+1998,13,Belgian Grand Prix,1998-08-30,Salo,Arrows,21,18,0,Collision,,0
+1998,13,Belgian Grand Prix,1998-08-30,Rosset,Tyrrell,22,20,0,Collision,,0
+1998,14,Italian Grand Prix,1998-09-13,Schumacher,Ferrari,1,1,53,Finished,1:17:10.3,10
+1998,14,Italian Grand Prix,1998-09-13,Irvine,Ferrari,2,5,53,Finished,+37.977,6
+1998,14,Italian Grand Prix,1998-09-13,Schumacher,Jordan,3,6,53,Finished,+41.152,4
+1998,14,Italian Grand Prix,1998-09-13,Häkkinen,McLaren,4,3,53,Finished,+55.671,3
+1998,14,Italian Grand Prix,1998-09-13,Alesi,Sauber,5,8,53,Finished,+1:01.872,2
+1998,14,Italian Grand Prix,1998-09-13,Hill,Jordan,6,14,53,Finished,+1:06.688,1
+1998,14,Italian Grand Prix,1998-09-13,Frentzen,Williams,7,12,52,+1 Lap,,0
+1998,14,Italian Grand Prix,1998-09-13,Fisichella,Benetton,8,11,52,+1 Lap,,0
+1998,14,Italian Grand Prix,1998-09-13,Takagi,Tyrrell,9,19,52,+1 Lap,,0
+1998,14,Italian Grand Prix,1998-09-13,Barrichello,Stewart,10,13,52,+1 Lap,,0
+1998,14,Italian Grand Prix,1998-09-13,Tuero,Minardi,11,22,51,+2 Laps,,0
+1998,14,Italian Grand Prix,1998-09-13,Rosset,Tyrrell,12,18,51,+2 Laps,,0
+1998,14,Italian Grand Prix,1998-09-13,Trulli,Prost,13,10,50,+3 Laps,,0
+1998,14,Italian Grand Prix,1998-09-13,Verstappen,Stewart,14,17,39,Gearbox,,0
+1998,14,Italian Grand Prix,1998-09-13,Villeneuve,Williams,15,2,37,Spun off,,0
+1998,14,Italian Grand Prix,1998-09-13,Salo,Arrows,16,16,32,Throttle,,0
+1998,14,Italian Grand Prix,1998-09-13,Wurz,Benetton,17,7,24,Gearbox,,0
+1998,14,Italian Grand Prix,1998-09-13,Coulthard,McLaren,18,4,16,Engine,,0
+1998,14,Italian Grand Prix,1998-09-13,Panis,Prost,19,9,15,Vibrations,,0
+1998,14,Italian Grand Prix,1998-09-13,Nakano,Minardi,20,21,13,Engine,,0
+1998,14,Italian Grand Prix,1998-09-13,Herbert,Sauber,21,15,12,Spun off,,0
+1998,14,Italian Grand Prix,1998-09-13,Diniz,Arrows,22,20,10,Spun off,,0
+1998,15,Luxembourg Grand Prix,1998-09-27,Häkkinen,McLaren,1,3,67,Finished,1:32:14.789,10
+1998,15,Luxembourg Grand Prix,1998-09-27,Schumacher,Ferrari,2,1,67,Finished,+2.211,6
+1998,15,Luxembourg Grand Prix,1998-09-27,Coulthard,McLaren,3,5,67,Finished,+34.163,4
+1998,15,Luxembourg Grand Prix,1998-09-27,Irvine,Ferrari,4,2,67,Finished,+58.182,3
+1998,15,Luxembourg Grand Prix,1998-09-27,Frentzen,Williams,5,7,67,Finished,+1:00.247,2
+1998,15,Luxembourg Grand Prix,1998-09-27,Fisichella,Benetton,6,4,67,Finished,+1:01.359,1
+1998,15,Luxembourg Grand Prix,1998-09-27,Wurz,Benetton,7,8,67,Finished,+1:04.789,0
+1998,15,Luxembourg Grand Prix,1998-09-27,Villeneuve,Williams,8,9,66,+1 Lap,,0
+1998,15,Luxembourg Grand Prix,1998-09-27,Hill,Jordan,9,10,66,+1 Lap,,0
+1998,15,Luxembourg Grand Prix,1998-09-27,Alesi,Sauber,10,11,66,+1 Lap,,0
+1998,15,Luxembourg Grand Prix,1998-09-27,Barrichello,Stewart,11,12,65,+2 Laps,,0
+1998,15,Luxembourg Grand Prix,1998-09-27,Panis,Prost,12,15,65,+2 Laps,,0
+1998,15,Luxembourg Grand Prix,1998-09-27,Verstappen,Stewart,13,18,65,+2 Laps,,0
+1998,15,Luxembourg Grand Prix,1998-09-27,Salo,Arrows,14,16,65,+2 Laps,,0
+1998,15,Luxembourg Grand Prix,1998-09-27,Nakano,Minardi,15,20,65,+2 Laps,,0
+1998,15,Luxembourg Grand Prix,1998-09-27,Takagi,Tyrrell,16,19,65,+2 Laps,,0
+1998,15,Luxembourg Grand Prix,1998-09-27,Tuero,Minardi,17,21,56,Engine,,0
+1998,15,Luxembourg Grand Prix,1998-09-27,Schumacher,Jordan,18,6,53,Brakes,,0
+1998,15,Luxembourg Grand Prix,1998-09-27,Herbert,Sauber,19,13,37,Engine,,0
+1998,15,Luxembourg Grand Prix,1998-09-27,Rosset,Tyrrell,20,22,36,Engine,,0
+1998,15,Luxembourg Grand Prix,1998-09-27,Trulli,Prost,21,14,6,Transmission,,0
+1998,15,Luxembourg Grand Prix,1998-09-27,Diniz,Arrows,22,17,6,Hydraulics,,0
+1998,16,Japanese Grand Prix,1998-11-01,Häkkinen,McLaren,1,2,51,Finished,1:27:23.4,10
+1998,16,Japanese Grand Prix,1998-11-01,Irvine,Ferrari,2,4,51,Finished,+6.491,6
+1998,16,Japanese Grand Prix,1998-11-01,Coulthard,McLaren,3,3,51,Finished,+27.662,4
+1998,16,Japanese Grand Prix,1998-11-01,Hill,Jordan,4,8,51,Finished,+1:13.491,3
+1998,16,Japanese Grand Prix,1998-11-01,Frentzen,Williams,5,5,51,Finished,+1:13.857,2
+1998,16,Japanese Grand Prix,1998-11-01,Villeneuve,Williams,6,6,51,Finished,+1:15.867,1
+1998,16,Japanese Grand Prix,1998-11-01,Alesi,Sauber,7,12,51,Finished,+1:36.053,0
+1998,16,Japanese Grand Prix,1998-11-01,Fisichella,Benetton,8,10,51,Finished,+1:41.302,0
+1998,16,Japanese Grand Prix,1998-11-01,Wurz,Benetton,9,9,50,+1 Lap,,0
+1998,16,Japanese Grand Prix,1998-11-01,Herbert,Sauber,10,11,50,+1 Lap,,0
+1998,16,Japanese Grand Prix,1998-11-01,Panis,Prost,11,13,50,+1 Lap,,0
+1998,16,Japanese Grand Prix,1998-11-01,Trulli,Prost,12,14,48,+3 Laps,,0
+1998,16,Japanese Grand Prix,1998-11-01,Nakano,Minardi,13,20,40,Throttle,,0
+1998,16,Japanese Grand Prix,1998-11-01,Schumacher,Ferrari,14,1,31,Tyre,,0
+1998,16,Japanese Grand Prix,1998-11-01,Takagi,Tyrrell,15,17,28,Collision,,0
+1998,16,Japanese Grand Prix,1998-11-01,Tuero,Minardi,16,21,28,Collision,,0
+1998,16,Japanese Grand Prix,1998-11-01,Barrichello,Stewart,17,16,25,Hydraulics,,0
+1998,16,Japanese Grand Prix,1998-11-01,Verstappen,Stewart,18,19,21,Gearbox,,0
+1998,16,Japanese Grand Prix,1998-11-01,Salo,Arrows,19,15,14,Hydraulics,,0
+1998,16,Japanese Grand Prix,1998-11-01,Schumacher,Jordan,20,7,13,Engine,,0
+1998,16,Japanese Grand Prix,1998-11-01,Diniz,Arrows,21,18,2,Spun off,,0
+1998,16,Japanese Grand Prix,1998-11-01,Rosset,Tyrrell,22,0,0,Did not qualify,,0

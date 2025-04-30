@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>F1Pred</title>
+  <link rel="stylesheet" href="styles/styles.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <nav>
+      <img id="logoIni" src="assets/logoNoBGsmall.png" alt="Logo">
+      <div class="nav-links">
+        <a href="#" id="races">Races</a>
+        <a href="#" id="drivers">Drivers</a>
+        <a href="#" id="standings">Standings</a>
+        <a href="#" id="constructors">Constructors</a>
+        <a href="#" id="predictions">Predictions</a>
+      </div>
+      <button id="menu-toggle" class="menu-button">☰</button>
+      <div id="dropdown-menu" class="dropdown-menu">
+        <a href="#" id="dropdown-races">Races</a>
+        <a href="#" id="dropdown-drivers">Drivers</a>
+        <a href="#" id="dropdown-standings">Standings</a>
+        <a href="#" id="dropdown-constructors">Constructors</a>
+        <a href="#" id="dropdown-predictions">Predictions</a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section id="content">
+      <!-- Sección de bienvenida -->
+      <div id="welcome-section">
+        <h2 class="welcome-title">Welcome</h2>
+        <p class="welcome-intro">
+          Welcome to F1Pred, your essential Formula 1 companion! Dive into race details, explore driver stats and team info, track the latest championship standings, and check out our data-driven predictions. Everything you need to stay informed and engaged with the F1 season is right here.
+        </p>
+        <div class="card card-left">
+          <div class="card-half">
+            <img src="assets/f11.jpg" alt="Races" class="card-image">
+          </div>
+          <div class="card-half">
+            <div class="card-content">
+              <p class="card-text">
+                Explore detailed information on past and upcoming Formula 1 races. Find everything from circuit guides and weekend schedules to historical results and key race data for every event on the calendar.
+              </p>
+              <button id="goToRaces" class="section-button">Go to Races</button>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-half">
+            <div class="card-content">
+              <p class="card-text">
+                Get to know the stars of the F1 grid. Access detailed driver profiles featuring career highlights, key statistics like wins and podiums, and their team history throughout Formula 1.
+              </p>
+              <button id="goToDrivers" class="section-button">Go to Drivers</button>
+            </div>
+          </div>
+          <div class="card-half">
+            <img src="assets/f12.jpg" alt="Drivers" class="card-image">
+          </div>
+        </div>
+        <div class="card card-left">
+          <div class="card-half">
+            <img src="assets/f13.jpg" alt="Standings" class="card-image">
+          </div>
+          <div class="card-half">
+            <div class="card-content">
+              <p class="card-text">
+                Follow the championship battle as it unfolds throughout the season. View the latest, up-to-date points totals and rankings for both the World Drivers' and Constructors' Championships.
+              </p>
+              <button id="goToStandings" class="section-button">Go to Standings</button>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-half">
+            <div class="card-content">
+              <p class="card-text">
+                Discover the teams competing at the pinnacle of motorsport. Learn about each constructor's history, driver line-ups, and recent car performance.
+              </p>
+              <button id="goToConstructors" class="section-button">Go to Constructors</button>
+            </div>
+          </div>
+          <div class="card-half">
+            <img src="assets/f14.jpg" alt="Constructors" class="card-image">
+          </div>
+        </div>
+        <div class="card card-left">
+          <div class="card-half">
+            <img src="assets/f15.jpg" alt="Predictions" class="card-image">
+          </div>
+          <div class="card-half">
+            <div class="card-content">
+              <p class="card-text">
+                Curious about the next race outcome? Check out F1Pred's data-driven predictions for upcoming Grands Prix, including likely podium finishers and race winners.
+              </p>
+              <button id="goToPredictions" class="section-button">Go to Predictions</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Sección de predicciones -->
+      <div id="predictions-section" style="display: none; margin-top: 40px;">
+        <h2 style="text-align: center; color: white;">Race Predictions</h2>
+        <div style="text-align: center; margin-bottom: 20px;">
+          <label for="season-select" style="color: white;">Select Season:</label>
+          <select id="season-select"></select>
+          <label for="round-select" style="color: white;">Select Round:</label>
+          <select id="round-select"></select>
+          <button id="predict-button">Predict</button>
+        </div>
+        <div id="prediction-results" style="color: white; text-align: center;"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 F1Pred</p>
+  </footer>
+
+  <!-- Asegúrate de que los scripts se carguen al final del cuerpo -->
+  <script src="scripts/main.js"></script>
+</body>
+</html>

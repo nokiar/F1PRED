@@ -1,0 +1,480 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+2024,1,Bahrain Grand Prix,2024-03-02,Verstappen,Red Bull,1,1,57,Finished,1:31:44.742,26
+2024,1,Bahrain Grand Prix,2024-03-02,Pérez,Red Bull,2,5,57,Finished,+22.457,18
+2024,1,Bahrain Grand Prix,2024-03-02,Sainz,Ferrari,3,4,57,Finished,+25.110,15
+2024,1,Bahrain Grand Prix,2024-03-02,Leclerc,Ferrari,4,2,57,Finished,+39.669,12
+2024,1,Bahrain Grand Prix,2024-03-02,Russell,Mercedes,5,3,57,Finished,+46.788,10
+2024,1,Bahrain Grand Prix,2024-03-02,Norris,McLaren,6,7,57,Finished,+48.458,8
+2024,1,Bahrain Grand Prix,2024-03-02,Hamilton,Mercedes,7,9,57,Finished,+50.324,6
+2024,1,Bahrain Grand Prix,2024-03-02,Piastri,McLaren,8,8,57,Finished,+56.082,4
+2024,1,Bahrain Grand Prix,2024-03-02,Alonso,Aston Martin,9,6,57,Finished,+1:14.887,2
+2024,1,Bahrain Grand Prix,2024-03-02,Stroll,Aston Martin,10,12,57,Finished,+1:33.216,1
+2024,1,Bahrain Grand Prix,2024-03-02,Zhou,Sauber,11,17,56,+1 Lap,,0
+2024,1,Bahrain Grand Prix,2024-03-02,Magnussen,Haas F1 Team,12,15,56,+1 Lap,,0
+2024,1,Bahrain Grand Prix,2024-03-02,Ricciardo,RB F1 Team,13,14,56,+1 Lap,,0
+2024,1,Bahrain Grand Prix,2024-03-02,Tsunoda,RB F1 Team,14,11,56,+1 Lap,,0
+2024,1,Bahrain Grand Prix,2024-03-02,Albon,Williams,15,13,56,+1 Lap,,0
+2024,1,Bahrain Grand Prix,2024-03-02,Hülkenberg,Haas F1 Team,16,10,56,+1 Lap,,0
+2024,1,Bahrain Grand Prix,2024-03-02,Ocon,Alpine F1 Team,17,19,56,+1 Lap,,0
+2024,1,Bahrain Grand Prix,2024-03-02,Gasly,Alpine F1 Team,18,20,56,+1 Lap,,0
+2024,1,Bahrain Grand Prix,2024-03-02,Bottas,Sauber,19,16,56,+1 Lap,,0
+2024,1,Bahrain Grand Prix,2024-03-02,Sargeant,Williams,20,18,55,+2 Laps,,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Verstappen,Red Bull,1,1,50,Finished,1:20:43.273,25
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Pérez,Red Bull,2,3,50,Finished,+13.6431,18
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Leclerc,Ferrari,3,2,50,Finished,+18.639,16
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Piastri,McLaren,4,5,50,Finished,+32.007,12
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Alonso,Aston Martin,5,4,50,Finished,+35.759,10
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Russell,Mercedes,6,7,50,Finished,+39.936,8
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Bearman,Ferrari,7,11,50,Finished,+42.679,6
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Norris,McLaren,8,6,50,Finished,+45.708,4
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Hamilton,Mercedes,9,8,50,Finished,+47.391,2
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Hülkenberg,Haas F1 Team,10,15,50,Finished,+1:16.996,1
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Albon,Williams,11,12,50,Finished,+1:28.354,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Magnussen,Haas F1 Team,12,13,50,Finished,+1:45.7373,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Ocon,Alpine F1 Team,13,17,49,+1 Lap,,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Sargeant,Williams,14,19,49,+1 Lap,,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Tsunoda,RB F1 Team,15,9,49,+1 Lap,,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Ricciardo,RB F1 Team,16,14,49,+1 Lap,,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Bottas,Sauber,17,16,49,+1 Lap,,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Zhou,Sauber,18,20,49,+1 Lap,,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Stroll,Aston Martin,19,10,5,Accident,,0
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Gasly,Alpine F1 Team,20,18,1,Gearbox,,0
+2024,3,Australian Grand Prix,2024-03-24,Sainz,Ferrari,1,2,58,Finished,1:20:26.843,25
+2024,3,Australian Grand Prix,2024-03-24,Leclerc,Ferrari,2,4,58,Finished,+2.366,19
+2024,3,Australian Grand Prix,2024-03-24,Norris,McLaren,3,3,58,Finished,+5.904,15
+2024,3,Australian Grand Prix,2024-03-24,Piastri,McLaren,4,5,58,Finished,+35.770,12
+2024,3,Australian Grand Prix,2024-03-24,Pérez,Red Bull,5,6,58,Finished,+56.309,10
+2024,3,Australian Grand Prix,2024-03-24,Stroll,Aston Martin,6,9,58,Finished,+1:33.222,8
+2024,3,Australian Grand Prix,2024-03-24,Tsunoda,RB F1 Team,7,8,58,Finished,+1:35.601,6
+2024,3,Australian Grand Prix,2024-03-24,Alonso,Aston Martin,8,10,58,Finished,+1:40.992,4
+2024,3,Australian Grand Prix,2024-03-24,Hülkenberg,Haas F1 Team,9,16,58,Finished,+1:44.553,2
+2024,3,Australian Grand Prix,2024-03-24,Magnussen,Haas F1 Team,10,14,57,+1 Lap,,1
+2024,3,Australian Grand Prix,2024-03-24,Albon,Williams,11,12,57,+1 Lap,,0
+2024,3,Australian Grand Prix,2024-03-24,Ricciardo,RB F1 Team,12,18,57,+1 Lap,,0
+2024,3,Australian Grand Prix,2024-03-24,Gasly,Alpine F1 Team,13,17,57,+1 Lap,,0
+2024,3,Australian Grand Prix,2024-03-24,Bottas,Sauber,14,13,57,+1 Lap,,0
+2024,3,Australian Grand Prix,2024-03-24,Zhou,Sauber,15,19,57,+1 Lap,,0
+2024,3,Australian Grand Prix,2024-03-24,Ocon,Alpine F1 Team,16,15,57,+1 Lap,,0
+2024,3,Australian Grand Prix,2024-03-24,Russell,Mercedes,17,7,56,Accident,,0
+2024,3,Australian Grand Prix,2024-03-24,Hamilton,Mercedes,18,11,15,Engine,,0
+2024,3,Australian Grand Prix,2024-03-24,Verstappen,Red Bull,19,1,3,Brakes,,0
+2024,4,Japanese Grand Prix,2024-04-07,Verstappen,Red Bull,1,1,53,Finished,1:54:23.566,26
+2024,4,Japanese Grand Prix,2024-04-07,Pérez,Red Bull,2,2,53,Finished,+12.535,18
+2024,4,Japanese Grand Prix,2024-04-07,Sainz,Ferrari,3,4,53,Finished,+20.866,15
+2024,4,Japanese Grand Prix,2024-04-07,Leclerc,Ferrari,4,8,53,Finished,+26.522,12
+2024,4,Japanese Grand Prix,2024-04-07,Norris,McLaren,5,3,53,Finished,+29.700,10
+2024,4,Japanese Grand Prix,2024-04-07,Alonso,Aston Martin,6,5,53,Finished,+44.272,8
+2024,4,Japanese Grand Prix,2024-04-07,Russell,Mercedes,7,9,53,Finished,+45.951,6
+2024,4,Japanese Grand Prix,2024-04-07,Piastri,McLaren,8,6,53,Finished,+47.525,4
+2024,4,Japanese Grand Prix,2024-04-07,Hamilton,Mercedes,9,7,53,Finished,+48.626,2
+2024,4,Japanese Grand Prix,2024-04-07,Tsunoda,RB F1 Team,10,10,52,+1 Lap,,1
+2024,4,Japanese Grand Prix,2024-04-07,Hülkenberg,Haas F1 Team,11,12,52,+1 Lap,,0
+2024,4,Japanese Grand Prix,2024-04-07,Stroll,Aston Martin,12,16,52,+1 Lap,,0
+2024,4,Japanese Grand Prix,2024-04-07,Magnussen,Haas F1 Team,13,18,52,+1 Lap,,0
+2024,4,Japanese Grand Prix,2024-04-07,Bottas,Sauber,14,13,52,+1 Lap,,0
+2024,4,Japanese Grand Prix,2024-04-07,Ocon,Alpine F1 Team,15,15,52,+1 Lap,,0
+2024,4,Japanese Grand Prix,2024-04-07,Gasly,Alpine F1 Team,16,17,52,+1 Lap,,0
+2024,4,Japanese Grand Prix,2024-04-07,Sargeant,Williams,17,19,52,+1 Lap,,0
+2024,4,Japanese Grand Prix,2024-04-07,Zhou,Sauber,18,20,12,Gearbox,,0
+2024,4,Japanese Grand Prix,2024-04-07,Ricciardo,RB F1 Team,19,11,0,Accident,,0
+2024,4,Japanese Grand Prix,2024-04-07,Albon,Williams,20,14,0,Accident,,0
+2024,5,Chinese Grand Prix,2024-04-21,Verstappen,Red Bull,1,1,56,Finished,1:40:52.554,25
+2024,5,Chinese Grand Prix,2024-04-21,Norris,McLaren,2,4,56,Finished,+13.773,18
+2024,5,Chinese Grand Prix,2024-04-21,Pérez,Red Bull,3,2,56,Finished,+19.160,15
+2024,5,Chinese Grand Prix,2024-04-21,Leclerc,Ferrari,4,6,56,Finished,+23.623,12
+2024,5,Chinese Grand Prix,2024-04-21,Sainz,Ferrari,5,7,56,Finished,+33.983,10
+2024,5,Chinese Grand Prix,2024-04-21,Russell,Mercedes,6,8,56,Finished,+38.724,8
+2024,5,Chinese Grand Prix,2024-04-21,Alonso,Aston Martin,7,3,56,Finished,+43.414,7
+2024,5,Chinese Grand Prix,2024-04-21,Piastri,McLaren,8,5,56,Finished,+56.198,4
+2024,5,Chinese Grand Prix,2024-04-21,Hamilton,Mercedes,9,18,56,Finished,+57.986,2
+2024,5,Chinese Grand Prix,2024-04-21,Hülkenberg,Haas F1 Team,10,9,56,Finished,+1:00.476,1
+2024,5,Chinese Grand Prix,2024-04-21,Ocon,Alpine F1 Team,11,13,56,Finished,+1:02.812,0
+2024,5,Chinese Grand Prix,2024-04-21,Albon,Williams,12,14,56,Finished,+1:05.506,0
+2024,5,Chinese Grand Prix,2024-04-21,Gasly,Alpine F1 Team,13,15,56,Finished,+1:09.223,0
+2024,5,Chinese Grand Prix,2024-04-21,Zhou,Sauber,14,16,56,Finished,+1:11.689,0
+2024,5,Chinese Grand Prix,2024-04-21,Stroll,Aston Martin,15,11,56,Finished,+1:22.786,0
+2024,5,Chinese Grand Prix,2024-04-21,Magnussen,Haas F1 Team,16,17,56,Finished,+1:27.533,0
+2024,5,Chinese Grand Prix,2024-04-21,Sargeant,Williams,17,20,56,Finished,+1:35.110,0
+2024,5,Chinese Grand Prix,2024-04-21,Ricciardo,RB F1 Team,18,12,33,Retired,,0
+2024,5,Chinese Grand Prix,2024-04-21,Tsunoda,RB F1 Team,19,19,26,Retired,,0
+2024,5,Chinese Grand Prix,2024-04-21,Bottas,Sauber,20,10,19,Retired,,0
+2024,6,Miami Grand Prix,2024-05-05,Norris,McLaren,1,5,57,Finished,1:30:49.876,25
+2024,6,Miami Grand Prix,2024-05-05,Verstappen,Red Bull,2,1,57,Finished,+7.612,18
+2024,6,Miami Grand Prix,2024-05-05,Leclerc,Ferrari,3,2,57,Finished,+9.920,15
+2024,6,Miami Grand Prix,2024-05-05,Pérez,Red Bull,4,4,57,Finished,+14.650,12
+2024,6,Miami Grand Prix,2024-05-05,Sainz,Ferrari,5,3,57,Finished,+16.407,10
+2024,6,Miami Grand Prix,2024-05-05,Hamilton,Mercedes,6,8,57,Finished,+16.585,8
+2024,6,Miami Grand Prix,2024-05-05,Tsunoda,RB F1 Team,7,10,57,Finished,+26.185,6
+2024,6,Miami Grand Prix,2024-05-05,Russell,Mercedes,8,7,57,Finished,+34.789,4
+2024,6,Miami Grand Prix,2024-05-05,Alonso,Aston Martin,9,15,57,Finished,+37.107,2
+2024,6,Miami Grand Prix,2024-05-05,Ocon,Alpine F1 Team,10,13,57,Finished,+39.746,1
+2024,6,Miami Grand Prix,2024-05-05,Hülkenberg,Haas F1 Team,11,9,57,Finished,+40.789,0
+2024,6,Miami Grand Prix,2024-05-05,Gasly,Alpine F1 Team,12,12,57,Finished,+44.958,0
+2024,6,Miami Grand Prix,2024-05-05,Piastri,McLaren,13,6,57,Finished,+49.756,0
+2024,6,Miami Grand Prix,2024-05-05,Zhou,Sauber,14,19,57,Finished,+49.979,0
+2024,6,Miami Grand Prix,2024-05-05,Ricciardo,RB F1 Team,15,20,57,Finished,+50.956,0
+2024,6,Miami Grand Prix,2024-05-05,Bottas,Sauber,16,16,57,Finished,+52.356,0
+2024,6,Miami Grand Prix,2024-05-05,Stroll,Aston Martin,17,11,57,Finished,+55.173,0
+2024,6,Miami Grand Prix,2024-05-05,Albon,Williams,18,14,57,Finished,+1:16.091,0
+2024,6,Miami Grand Prix,2024-05-05,Magnussen,Haas F1 Team,19,18,57,Finished,+1:24.683,0
+2024,6,Miami Grand Prix,2024-05-05,Sargeant,Williams,20,17,27,Collision,,0
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Verstappen,Red Bull,1,1,63,Finished,1:25:25.252,25
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Norris,McLaren,2,2,63,Finished,+0.725,18
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Leclerc,Ferrari,3,3,63,Finished,+7.916,15
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Piastri,McLaren,4,5,63,Finished,+14.132,12
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Sainz,Ferrari,5,4,63,Finished,+22.325,10
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Hamilton,Mercedes,6,8,63,Finished,+35.104,8
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Russell,Mercedes,7,6,63,Finished,+47.154,7
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Pérez,Red Bull,8,11,63,Finished,+54.776,4
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Stroll,Aston Martin,9,13,63,Finished,+1:19.556,2
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Tsunoda,RB F1 Team,10,7,62,+1 Lap,,1
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Hülkenberg,Haas F1 Team,11,10,62,+1 Lap,,0
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Magnussen,Haas F1 Team,12,18,62,+1 Lap,,0
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Ricciardo,RB F1 Team,13,9,62,+1 Lap,,0
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Ocon,Alpine F1 Team,14,12,62,+1 Lap,,0
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Zhou,Sauber,15,17,62,+1 Lap,,0
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Gasly,Alpine F1 Team,16,15,62,+1 Lap,,0
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Sargeant,Williams,17,19,62,+1 Lap,,0
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Bottas,Sauber,18,16,62,+1 Lap,,0
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Alonso,Aston Martin,19,20,62,+1 Lap,,0
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Albon,Williams,20,14,51,Retired,,0
+2024,8,Monaco Grand Prix,2024-05-26,Leclerc,Ferrari,1,1,78,Finished,2:23:15.554,25
+2024,8,Monaco Grand Prix,2024-05-26,Piastri,McLaren,2,2,78,Finished,+7.152,18
+2024,8,Monaco Grand Prix,2024-05-26,Sainz,Ferrari,3,3,78,Finished,+7.585,15
+2024,8,Monaco Grand Prix,2024-05-26,Norris,McLaren,4,4,78,Finished,+8.650,12
+2024,8,Monaco Grand Prix,2024-05-26,Russell,Mercedes,5,5,78,Finished,+13.309,10
+2024,8,Monaco Grand Prix,2024-05-26,Verstappen,Red Bull,6,6,78,Finished,+13.853,8
+2024,8,Monaco Grand Prix,2024-05-26,Hamilton,Mercedes,7,7,78,Finished,+14.908,7
+2024,8,Monaco Grand Prix,2024-05-26,Tsunoda,RB F1 Team,8,8,77,+1 Lap,,4
+2024,8,Monaco Grand Prix,2024-05-26,Albon,Williams,9,9,77,+1 Lap,,2
+2024,8,Monaco Grand Prix,2024-05-26,Gasly,Alpine F1 Team,10,10,77,+1 Lap,,1
+2024,8,Monaco Grand Prix,2024-05-26,Alonso,Aston Martin,11,14,76,+2 Laps,,0
+2024,8,Monaco Grand Prix,2024-05-26,Ricciardo,RB F1 Team,12,12,76,+2 Laps,,0
+2024,8,Monaco Grand Prix,2024-05-26,Bottas,Sauber,13,17,76,+2 Laps,,0
+2024,8,Monaco Grand Prix,2024-05-26,Stroll,Aston Martin,14,13,76,+2 Laps,,0
+2024,8,Monaco Grand Prix,2024-05-26,Sargeant,Williams,15,15,76,+2 Laps,,0
+2024,8,Monaco Grand Prix,2024-05-26,Zhou,Sauber,16,18,76,+2 Laps,,0
+2024,8,Monaco Grand Prix,2024-05-26,Ocon,Alpine F1 Team,17,11,0,Collision,,0
+2024,8,Monaco Grand Prix,2024-05-26,Pérez,Red Bull,18,16,0,Collision,,0
+2024,8,Monaco Grand Prix,2024-05-26,Hülkenberg,Haas F1 Team,19,19,0,Collision,,0
+2024,8,Monaco Grand Prix,2024-05-26,Magnussen,Haas F1 Team,20,20,0,Collision,,0
+2024,9,Canadian Grand Prix,2024-06-09,Verstappen,Red Bull,1,2,70,Finished,1:45:47.927,25
+2024,9,Canadian Grand Prix,2024-06-09,Norris,McLaren,2,3,70,Finished,+3.879,18
+2024,9,Canadian Grand Prix,2024-06-09,Russell,Mercedes,3,1,70,Finished,+4.317,15
+2024,9,Canadian Grand Prix,2024-06-09,Hamilton,Mercedes,4,7,70,Finished,+4.915,13
+2024,9,Canadian Grand Prix,2024-06-09,Piastri,McLaren,5,4,70,Finished,+10.199,10
+2024,9,Canadian Grand Prix,2024-06-09,Alonso,Aston Martin,6,6,70,Finished,+17.510,8
+2024,9,Canadian Grand Prix,2024-06-09,Stroll,Aston Martin,7,9,70,Finished,+23.625,6
+2024,9,Canadian Grand Prix,2024-06-09,Ricciardo,RB F1 Team,8,5,70,Finished,+28.672,4
+2024,9,Canadian Grand Prix,2024-06-09,Gasly,Alpine F1 Team,9,15,70,Finished,+30.021,2
+2024,9,Canadian Grand Prix,2024-06-09,Ocon,Alpine F1 Team,10,18,70,Finished,+30.313,1
+2024,9,Canadian Grand Prix,2024-06-09,Hülkenberg,Haas F1 Team,11,17,70,Finished,+30.824,0
+2024,9,Canadian Grand Prix,2024-06-09,Magnussen,Haas F1 Team,12,14,70,Finished,+31.253,0
+2024,9,Canadian Grand Prix,2024-06-09,Bottas,Sauber,13,0,70,Finished,+40.487,0
+2024,9,Canadian Grand Prix,2024-06-09,Tsunoda,RB F1 Team,14,8,70,Finished,+52.694,0
+2024,9,Canadian Grand Prix,2024-06-09,Zhou,Sauber,15,0,69,+1 Lap,,0
+2024,9,Canadian Grand Prix,2024-06-09,Sainz,Ferrari,16,12,52,Collision,,0
+2024,9,Canadian Grand Prix,2024-06-09,Albon,Williams,17,10,52,Collision,,0
+2024,9,Canadian Grand Prix,2024-06-09,Pérez,Red Bull,18,16,51,Accident,,0
+2024,9,Canadian Grand Prix,2024-06-09,Leclerc,Ferrari,19,11,40,Engine,,0
+2024,9,Canadian Grand Prix,2024-06-09,Sargeant,Williams,20,13,23,Accident,,0
+2024,10,Spanish Grand Prix,2024-06-23,Verstappen,Red Bull,1,2,66,Finished,1:28:20.227,25
+2024,10,Spanish Grand Prix,2024-06-23,Norris,McLaren,2,1,66,Finished,+2.219,19
+2024,10,Spanish Grand Prix,2024-06-23,Hamilton,Mercedes,3,3,66,Finished,+17.790,15
+2024,10,Spanish Grand Prix,2024-06-23,Russell,Mercedes,4,4,66,Finished,+22.320,12
+2024,10,Spanish Grand Prix,2024-06-23,Leclerc,Ferrari,5,5,66,Finished,+22.709,10
+2024,10,Spanish Grand Prix,2024-06-23,Sainz,Ferrari,6,6,66,Finished,+31.028,8
+2024,10,Spanish Grand Prix,2024-06-23,Piastri,McLaren,7,9,66,Finished,+33.760,6
+2024,10,Spanish Grand Prix,2024-06-23,Pérez,Red Bull,8,11,66,Finished,+59.524,4
+2024,10,Spanish Grand Prix,2024-06-23,Gasly,Alpine F1 Team,9,7,66,Finished,+1:02.025,2
+2024,10,Spanish Grand Prix,2024-06-23,Ocon,Alpine F1 Team,10,8,66,Finished,+1:11.889,1
+2024,10,Spanish Grand Prix,2024-06-23,Hülkenberg,Haas F1 Team,11,13,66,Finished,+1:19.215,0
+2024,10,Spanish Grand Prix,2024-06-23,Alonso,Aston Martin,12,10,65,+1 Lap,,0
+2024,10,Spanish Grand Prix,2024-06-23,Zhou,Sauber,13,15,65,+1 Lap,,0
+2024,10,Spanish Grand Prix,2024-06-23,Stroll,Aston Martin,14,14,65,+1 Lap,,0
+2024,10,Spanish Grand Prix,2024-06-23,Ricciardo,RB F1 Team,15,18,65,+1 Lap,,0
+2024,10,Spanish Grand Prix,2024-06-23,Bottas,Sauber,16,12,65,+1 Lap,,0
+2024,10,Spanish Grand Prix,2024-06-23,Magnussen,Haas F1 Team,17,16,65,+1 Lap,,0
+2024,10,Spanish Grand Prix,2024-06-23,Albon,Williams,18,0,65,+1 Lap,,0
+2024,10,Spanish Grand Prix,2024-06-23,Tsunoda,RB F1 Team,19,17,65,+1 Lap,,0
+2024,10,Spanish Grand Prix,2024-06-23,Sargeant,Williams,20,19,64,+2 Laps,,0
+2024,11,Austrian Grand Prix,2024-06-30,Russell,Mercedes,1,3,71,Finished,1:24:22.798,25
+2024,11,Austrian Grand Prix,2024-06-30,Piastri,McLaren,2,7,71,Finished,+1.906,18
+2024,11,Austrian Grand Prix,2024-06-30,Sainz,Ferrari,3,4,71,Finished,+4.533,15
+2024,11,Austrian Grand Prix,2024-06-30,Hamilton,Mercedes,4,5,71,Finished,+23.142,12
+2024,11,Austrian Grand Prix,2024-06-30,Verstappen,Red Bull,5,1,71,Finished,+37.253,10
+2024,11,Austrian Grand Prix,2024-06-30,Hülkenberg,Haas F1 Team,6,9,71,Finished,+54.088,8
+2024,11,Austrian Grand Prix,2024-06-30,Pérez,Red Bull,7,8,71,Finished,+54.672,6
+2024,11,Austrian Grand Prix,2024-06-30,Magnussen,Haas F1 Team,8,12,71,Finished,+1:00.355,4
+2024,11,Austrian Grand Prix,2024-06-30,Ricciardo,RB F1 Team,9,11,71,Finished,+1:01.169,2
+2024,11,Austrian Grand Prix,2024-06-30,Gasly,Alpine F1 Team,10,13,71,Finished,+1:01.766,1
+2024,11,Austrian Grand Prix,2024-06-30,Leclerc,Ferrari,11,6,71,Finished,+1:07.056,0
+2024,11,Austrian Grand Prix,2024-06-30,Ocon,Alpine F1 Team,12,10,71,Finished,+1:08.325,0
+2024,11,Austrian Grand Prix,2024-06-30,Stroll,Aston Martin,13,17,70,+1 Lap,,0
+2024,11,Austrian Grand Prix,2024-06-30,Tsunoda,RB F1 Team,14,14,70,+1 Lap,,0
+2024,11,Austrian Grand Prix,2024-06-30,Albon,Williams,15,16,70,+1 Lap,,0
+2024,11,Austrian Grand Prix,2024-06-30,Bottas,Sauber,16,18,70,+1 Lap,,0
+2024,11,Austrian Grand Prix,2024-06-30,Zhou,Sauber,17,20,70,+1 Lap,,0
+2024,11,Austrian Grand Prix,2024-06-30,Alonso,Aston Martin,18,15,70,+1 Lap,,0
+2024,11,Austrian Grand Prix,2024-06-30,Sargeant,Williams,19,19,69,+2 Laps,,0
+2024,11,Austrian Grand Prix,2024-06-30,Norris,McLaren,20,2,64,+7 Laps,,0
+2024,12,British Grand Prix,2024-07-07,Hamilton,Mercedes,1,2,52,Finished,1:22:27.059,25
+2024,12,British Grand Prix,2024-07-07,Verstappen,Red Bull,2,4,52,Finished,+1.465,18
+2024,12,British Grand Prix,2024-07-07,Norris,McLaren,3,3,52,Finished,+7.547,15
+2024,12,British Grand Prix,2024-07-07,Piastri,McLaren,4,5,52,Finished,+12.429,12
+2024,12,British Grand Prix,2024-07-07,Sainz,Ferrari,5,7,52,Finished,+47.318,11
+2024,12,British Grand Prix,2024-07-07,Hülkenberg,Haas F1 Team,6,6,52,Finished,+55.722,8
+2024,12,British Grand Prix,2024-07-07,Stroll,Aston Martin,7,8,52,Finished,+56.569,6
+2024,12,British Grand Prix,2024-07-07,Alonso,Aston Martin,8,10,52,Finished,+1:03.577,4
+2024,12,British Grand Prix,2024-07-07,Albon,Williams,9,9,52,Finished,+1:08.387,2
+2024,12,British Grand Prix,2024-07-07,Tsunoda,RB F1 Team,10,13,52,Finished,+1:19.303,1
+2024,12,British Grand Prix,2024-07-07,Sargeant,Williams,11,12,52,Finished,+1:28.960,0
+2024,12,British Grand Prix,2024-07-07,Magnussen,Haas F1 Team,12,17,52,Finished,+1:30.153,0
+2024,12,British Grand Prix,2024-07-07,Ricciardo,RB F1 Team,13,15,51,+1 Lap,,0
+2024,12,British Grand Prix,2024-07-07,Leclerc,Ferrari,14,11,51,+1 Lap,,0
+2024,12,British Grand Prix,2024-07-07,Bottas,Sauber,15,16,51,+1 Lap,,0
+2024,12,British Grand Prix,2024-07-07,Ocon,Alpine F1 Team,16,18,50,+2 Laps,,0
+2024,12,British Grand Prix,2024-07-07,Pérez,Red Bull,17,0,50,+2 Laps,,0
+2024,12,British Grand Prix,2024-07-07,Zhou,Sauber,18,14,50,+2 Laps,,0
+2024,12,British Grand Prix,2024-07-07,Russell,Mercedes,19,1,33,Water pressure,,0
+2024,12,British Grand Prix,2024-07-07,Gasly,Alpine F1 Team,20,19,0,Gearbox,,0
+2024,13,Hungarian Grand Prix,2024-07-21,Piastri,McLaren,1,2,70,Finished,1:38:01.989,25
+2024,13,Hungarian Grand Prix,2024-07-21,Norris,McLaren,2,1,70,Finished,+2.141,18
+2024,13,Hungarian Grand Prix,2024-07-21,Hamilton,Mercedes,3,5,70,Finished,+14.880,15
+2024,13,Hungarian Grand Prix,2024-07-21,Leclerc,Ferrari,4,6,70,Finished,+19.686,12
+2024,13,Hungarian Grand Prix,2024-07-21,Verstappen,Red Bull,5,3,70,Finished,+21.349,10
+2024,13,Hungarian Grand Prix,2024-07-21,Sainz,Ferrari,6,4,70,Finished,+23.073,8
+2024,13,Hungarian Grand Prix,2024-07-21,Pérez,Red Bull,7,16,70,Finished,+39.792,6
+2024,13,Hungarian Grand Prix,2024-07-21,Russell,Mercedes,8,17,70,Finished,+42.368,5
+2024,13,Hungarian Grand Prix,2024-07-21,Tsunoda,RB F1 Team,9,10,70,Finished,+1:17.259,2
+2024,13,Hungarian Grand Prix,2024-07-21,Stroll,Aston Martin,10,8,70,Finished,+1:17.976,1
+2024,13,Hungarian Grand Prix,2024-07-21,Alonso,Aston Martin,11,7,70,Finished,+1:22.460,0
+2024,13,Hungarian Grand Prix,2024-07-21,Ricciardo,RB F1 Team,12,9,69,+1 Lap,,0
+2024,13,Hungarian Grand Prix,2024-07-21,Hülkenberg,Haas F1 Team,13,11,69,+1 Lap,,0
+2024,13,Hungarian Grand Prix,2024-07-21,Albon,Williams,14,13,69,+1 Lap,,0
+2024,13,Hungarian Grand Prix,2024-07-21,Magnussen,Haas F1 Team,15,15,69,+1 Lap,,0
+2024,13,Hungarian Grand Prix,2024-07-21,Bottas,Sauber,16,12,69,+1 Lap,,0
+2024,13,Hungarian Grand Prix,2024-07-21,Sargeant,Williams,17,14,69,+1 Lap,,0
+2024,13,Hungarian Grand Prix,2024-07-21,Ocon,Alpine F1 Team,18,19,69,+1 Lap,,0
+2024,13,Hungarian Grand Prix,2024-07-21,Zhou,Sauber,19,18,69,+1 Lap,,0
+2024,13,Hungarian Grand Prix,2024-07-21,Gasly,Alpine F1 Team,20,0,33,Hydraulics,,0
+2024,14,Belgian Grand Prix,2024-07-28,Hamilton,Mercedes,1,3,44,Finished,+0.526,25
+2024,14,Belgian Grand Prix,2024-07-28,Piastri,McLaren,2,5,44,Finished,+1.173,18
+2024,14,Belgian Grand Prix,2024-07-28,Leclerc,Ferrari,3,1,44,Finished,+8.549,15
+2024,14,Belgian Grand Prix,2024-07-28,Verstappen,Red Bull,4,11,44,Finished,+9.226,12
+2024,14,Belgian Grand Prix,2024-07-28,Norris,McLaren,5,4,44,Finished,+9.850,10
+2024,14,Belgian Grand Prix,2024-07-28,Sainz,Ferrari,6,7,44,Finished,+19.795,8
+2024,14,Belgian Grand Prix,2024-07-28,Pérez,Red Bull,7,2,44,Finished,+43.195,7
+2024,14,Belgian Grand Prix,2024-07-28,Alonso,Aston Martin,8,8,44,Finished,+49.963,4
+2024,14,Belgian Grand Prix,2024-07-28,Ocon,Alpine F1 Team,9,9,44,Finished,+52.552,2
+2024,14,Belgian Grand Prix,2024-07-28,Ricciardo,RB F1 Team,10,13,44,Finished,+54.926,1
+2024,14,Belgian Grand Prix,2024-07-28,Stroll,Aston Martin,11,15,44,Finished,+1:03.011,0
+2024,14,Belgian Grand Prix,2024-07-28,Albon,Williams,12,10,44,Finished,+1:03.651,0
+2024,14,Belgian Grand Prix,2024-07-28,Gasly,Alpine F1 Team,13,12,44,Finished,+1:04.365,0
+2024,14,Belgian Grand Prix,2024-07-28,Magnussen,Haas F1 Team,14,17,44,Finished,+1:06.631,0
+2024,14,Belgian Grand Prix,2024-07-28,Bottas,Sauber,15,14,44,Finished,+1:10.638,0
+2024,14,Belgian Grand Prix,2024-07-28,Tsunoda,RB F1 Team,16,20,44,Finished,+1:16.737,0
+2024,14,Belgian Grand Prix,2024-07-28,Sargeant,Williams,17,18,44,Finished,+1:26.057,0
+2024,14,Belgian Grand Prix,2024-07-28,Hülkenberg,Haas F1 Team,18,16,44,Finished,+1:28.833,0
+2024,14,Belgian Grand Prix,2024-07-28,Zhou,Sauber,19,19,5,Retired,,0
+2024,14,Belgian Grand Prix,2024-07-28,Russell,Mercedes,20,6,44,Disqualified,1:19:57.040,0
+2024,15,Dutch Grand Prix,2024-08-25,Norris,McLaren,1,1,72,Finished,1:30:45.519,26
+2024,15,Dutch Grand Prix,2024-08-25,Verstappen,Red Bull,2,2,72,Finished,+22.896,18
+2024,15,Dutch Grand Prix,2024-08-25,Leclerc,Ferrari,3,6,72,Finished,+25.439,15
+2024,15,Dutch Grand Prix,2024-08-25,Piastri,McLaren,4,3,72,Finished,+27.337,12
+2024,15,Dutch Grand Prix,2024-08-25,Sainz,Ferrari,5,10,72,Finished,+32.137,10
+2024,15,Dutch Grand Prix,2024-08-25,Pérez,Red Bull,6,5,72,Finished,+39.542,8
+2024,15,Dutch Grand Prix,2024-08-25,Russell,Mercedes,7,4,72,Finished,+44.617,6
+2024,15,Dutch Grand Prix,2024-08-25,Hamilton,Mercedes,8,14,72,Finished,+49.599,4
+2024,15,Dutch Grand Prix,2024-08-25,Gasly,Alpine F1 Team,9,9,71,+1 Lap,,2
+2024,15,Dutch Grand Prix,2024-08-25,Alonso,Aston Martin,10,7,71,+1 Lap,,1
+2024,15,Dutch Grand Prix,2024-08-25,Hülkenberg,Haas F1 Team,11,12,71,+1 Lap,,0
+2024,15,Dutch Grand Prix,2024-08-25,Ricciardo,RB F1 Team,12,13,71,+1 Lap,,0
+2024,15,Dutch Grand Prix,2024-08-25,Stroll,Aston Martin,13,8,71,+1 Lap,,0
+2024,15,Dutch Grand Prix,2024-08-25,Albon,Williams,14,19,71,+1 Lap,,0
+2024,15,Dutch Grand Prix,2024-08-25,Ocon,Alpine F1 Team,15,15,71,+1 Lap,,0
+2024,15,Dutch Grand Prix,2024-08-25,Sargeant,Williams,16,18,71,+1 Lap,,0
+2024,15,Dutch Grand Prix,2024-08-25,Tsunoda,RB F1 Team,17,11,71,+1 Lap,,0
+2024,15,Dutch Grand Prix,2024-08-25,Magnussen,Haas F1 Team,18,0,71,+1 Lap,,0
+2024,15,Dutch Grand Prix,2024-08-25,Bottas,Sauber,19,16,70,+2 Laps,,0
+2024,15,Dutch Grand Prix,2024-08-25,Zhou,Sauber,20,17,70,+2 Laps,,0
+2024,16,Italian Grand Prix,2024-09-01,Leclerc,Ferrari,1,4,53,Finished,1:14:40.727,25
+2024,16,Italian Grand Prix,2024-09-01,Piastri,McLaren,2,2,53,Finished,+2.664,18
+2024,16,Italian Grand Prix,2024-09-01,Norris,McLaren,3,1,53,Finished,+6.153,16
+2024,16,Italian Grand Prix,2024-09-01,Sainz,Ferrari,4,5,53,Finished,+15.621,12
+2024,16,Italian Grand Prix,2024-09-01,Hamilton,Mercedes,5,6,53,Finished,+22.820,10
+2024,16,Italian Grand Prix,2024-09-01,Verstappen,Red Bull,6,7,53,Finished,+37.932,8
+2024,16,Italian Grand Prix,2024-09-01,Russell,Mercedes,7,3,53,Finished,+39.715,6
+2024,16,Italian Grand Prix,2024-09-01,Pérez,Red Bull,8,8,53,Finished,+54.148,4
+2024,16,Italian Grand Prix,2024-09-01,Albon,Williams,9,9,53,Finished,+1:07.456,2
+2024,16,Italian Grand Prix,2024-09-01,Magnussen,Haas F1 Team,10,13,53,Finished,+1:08.302,1
+2024,16,Italian Grand Prix,2024-09-01,Alonso,Aston Martin,11,11,53,Finished,+1:08.495,0
+2024,16,Italian Grand Prix,2024-09-01,Colapinto,Williams,12,18,53,Finished,+1:21.308,0
+2024,16,Italian Grand Prix,2024-09-01,Ricciardo,RB F1 Team,13,12,53,Finished,+1:33.452,0
+2024,16,Italian Grand Prix,2024-09-01,Ocon,Alpine F1 Team,14,15,52,+1 Lap,,0
+2024,16,Italian Grand Prix,2024-09-01,Gasly,Alpine F1 Team,15,14,52,+1 Lap,,0
+2024,16,Italian Grand Prix,2024-09-01,Bottas,Sauber,16,19,52,+1 Lap,,0
+2024,16,Italian Grand Prix,2024-09-01,Hülkenberg,Haas F1 Team,17,10,52,+1 Lap,,0
+2024,16,Italian Grand Prix,2024-09-01,Zhou,Sauber,18,20,52,+1 Lap,,0
+2024,16,Italian Grand Prix,2024-09-01,Stroll,Aston Martin,19,17,52,+1 Lap,,0
+2024,16,Italian Grand Prix,2024-09-01,Tsunoda,RB F1 Team,20,16,7,Overheating,,0
+2024,17,Azerbaijan Grand Prix,2024-09-15,Piastri,McLaren,1,2,51,Finished,1:32:58.007,25
+2024,17,Azerbaijan Grand Prix,2024-09-15,Leclerc,Ferrari,2,1,51,Finished,+10.910,18
+2024,17,Azerbaijan Grand Prix,2024-09-15,Russell,Mercedes,3,5,51,Finished,+31.328,15
+2024,17,Azerbaijan Grand Prix,2024-09-15,Norris,McLaren,4,15,51,Finished,+36.143,13
+2024,17,Azerbaijan Grand Prix,2024-09-15,Verstappen,Red Bull,5,6,51,Finished,+1:17.098,10
+2024,17,Azerbaijan Grand Prix,2024-09-15,Alonso,Aston Martin,6,7,51,Finished,+1:25.468,8
+2024,17,Azerbaijan Grand Prix,2024-09-15,Albon,Williams,7,9,51,Finished,+1:27.396,6
+2024,17,Azerbaijan Grand Prix,2024-09-15,Colapinto,Williams,8,8,51,Finished,+1:29.541,4
+2024,17,Azerbaijan Grand Prix,2024-09-15,Hamilton,Mercedes,9,0,51,Finished,+1:32.401,2
+2024,17,Azerbaijan Grand Prix,2024-09-15,Bearman,Haas F1 Team,10,10,51,Finished,+1:33.127,1
+2024,17,Azerbaijan Grand Prix,2024-09-15,Hülkenberg,Haas F1 Team,11,12,51,Finished,+1:33.465,0
+2024,17,Azerbaijan Grand Prix,2024-09-15,Gasly,Alpine F1 Team,12,18,51,Finished,+1:57.189,0
+2024,17,Azerbaijan Grand Prix,2024-09-15,Ricciardo,RB F1 Team,13,14,51,Finished,+2:26.907,0
+2024,17,Azerbaijan Grand Prix,2024-09-15,Zhou,Sauber,14,17,51,Finished,+2:28.841,0
+2024,17,Azerbaijan Grand Prix,2024-09-15,Ocon,Alpine F1 Team,15,0,50,+1 Lap,,0
+2024,17,Azerbaijan Grand Prix,2024-09-15,Bottas,Sauber,16,16,50,+1 Lap,,0
+2024,17,Azerbaijan Grand Prix,2024-09-15,Pérez,Red Bull,17,4,49,Retired,,0
+2024,17,Azerbaijan Grand Prix,2024-09-15,Sainz,Ferrari,18,3,49,Retired,,0
+2024,17,Azerbaijan Grand Prix,2024-09-15,Stroll,Aston Martin,19,13,45,Retired,,0
+2024,17,Azerbaijan Grand Prix,2024-09-15,Tsunoda,RB F1 Team,20,11,14,Retired,,0
+2024,18,Singapore Grand Prix,2024-09-22,Norris,McLaren,1,1,62,Finished,1:40:52.571,25
+2024,18,Singapore Grand Prix,2024-09-22,Verstappen,Red Bull,2,2,62,Finished,+20.945,18
+2024,18,Singapore Grand Prix,2024-09-22,Piastri,McLaren,3,5,62,Finished,+41.823,15
+2024,18,Singapore Grand Prix,2024-09-22,Russell,Mercedes,4,4,62,Finished,+1:01.040,12
+2024,18,Singapore Grand Prix,2024-09-22,Leclerc,Ferrari,5,9,62,Finished,+1:02.430,10
+2024,18,Singapore Grand Prix,2024-09-22,Hamilton,Mercedes,6,3,62,Finished,+1:25.248,8
+2024,18,Singapore Grand Prix,2024-09-22,Sainz,Ferrari,7,10,62,Finished,+1:36.039,6
+2024,18,Singapore Grand Prix,2024-09-22,Alonso,Aston Martin,8,7,61,+1 Lap,,4
+2024,18,Singapore Grand Prix,2024-09-22,Hülkenberg,Haas F1 Team,9,6,61,+1 Lap,,2
+2024,18,Singapore Grand Prix,2024-09-22,Pérez,Red Bull,10,13,61,+1 Lap,,1
+2024,18,Singapore Grand Prix,2024-09-22,Colapinto,Williams,11,12,61,+1 Lap,,0
+2024,18,Singapore Grand Prix,2024-09-22,Tsunoda,RB F1 Team,12,8,61,+1 Lap,,0
+2024,18,Singapore Grand Prix,2024-09-22,Ocon,Alpine F1 Team,13,15,61,+1 Lap,,0
+2024,18,Singapore Grand Prix,2024-09-22,Stroll,Aston Martin,14,17,61,+1 Lap,,0
+2024,18,Singapore Grand Prix,2024-09-22,Zhou,Sauber,15,20,61,+1 Lap,,0
+2024,18,Singapore Grand Prix,2024-09-22,Bottas,Sauber,16,19,61,+1 Lap,,0
+2024,18,Singapore Grand Prix,2024-09-22,Gasly,Alpine F1 Team,17,18,61,+1 Lap,,0
+2024,18,Singapore Grand Prix,2024-09-22,Ricciardo,RB F1 Team,18,16,61,+1 Lap,,0
+2024,18,Singapore Grand Prix,2024-09-22,Magnussen,Haas F1 Team,19,14,57,Accident,,0
+2024,18,Singapore Grand Prix,2024-09-22,Albon,Williams,20,11,15,Power Unit,,0
+2024,19,United States Grand Prix,2024-10-20,Leclerc,Ferrari,1,4,56,Finished,1:35:09.639,25
+2024,19,United States Grand Prix,2024-10-20,Sainz,Ferrari,2,3,56,Finished,+8.562,18
+2024,19,United States Grand Prix,2024-10-20,Verstappen,Red Bull,3,2,56,Finished,+19.412,15
+2024,19,United States Grand Prix,2024-10-20,Norris,McLaren,4,1,56,Finished,+20.354,12
+2024,19,United States Grand Prix,2024-10-20,Piastri,McLaren,5,5,56,Finished,+21.921,10
+2024,19,United States Grand Prix,2024-10-20,Russell,Mercedes,6,20,56,Finished,+56.295,8
+2024,19,United States Grand Prix,2024-10-20,Pérez,Red Bull,7,9,56,Finished,+59.072,6
+2024,19,United States Grand Prix,2024-10-20,Hülkenberg,Haas F1 Team,8,11,56,Finished,+1:02.957,4
+2024,19,United States Grand Prix,2024-10-20,Lawson,RB F1 Team,9,19,56,Finished,+1:10.563,2
+2024,19,United States Grand Prix,2024-10-20,Colapinto,Williams,10,15,56,Finished,+1:11.979,1
+2024,19,United States Grand Prix,2024-10-20,Magnussen,Haas F1 Team,11,8,56,Finished,+1:19.782,0
+2024,19,United States Grand Prix,2024-10-20,Gasly,Alpine F1 Team,12,6,56,Finished,+1:30.558,0
+2024,19,United States Grand Prix,2024-10-20,Alonso,Aston Martin,13,7,55,+1 Lap,,0
+2024,19,United States Grand Prix,2024-10-20,Tsunoda,RB F1 Team,14,10,55,+1 Lap,,0
+2024,19,United States Grand Prix,2024-10-20,Stroll,Aston Martin,15,13,55,+1 Lap,,0
+2024,19,United States Grand Prix,2024-10-20,Albon,Williams,16,14,55,+1 Lap,,0
+2024,19,United States Grand Prix,2024-10-20,Bottas,Sauber,17,16,55,+1 Lap,,0
+2024,19,United States Grand Prix,2024-10-20,Ocon,Alpine F1 Team,18,12,55,+1 Lap,,0
+2024,19,United States Grand Prix,2024-10-20,Zhou,Sauber,19,18,55,+1 Lap,,0
+2024,19,United States Grand Prix,2024-10-20,Hamilton,Mercedes,20,17,1,Spun off,,0
+2024,20,Mexico City Grand Prix,2024-10-27,Sainz,Ferrari,1,1,71,Finished,1:40:55.800,25
+2024,20,Mexico City Grand Prix,2024-10-27,Norris,McLaren,2,3,71,Finished,+4.705,18
+2024,20,Mexico City Grand Prix,2024-10-27,Leclerc,Ferrari,3,4,71,Finished,+34.387,16
+2024,20,Mexico City Grand Prix,2024-10-27,Hamilton,Mercedes,4,6,71,Finished,+44.780,12
+2024,20,Mexico City Grand Prix,2024-10-27,Russell,Mercedes,5,5,71,Finished,+48.536,10
+2024,20,Mexico City Grand Prix,2024-10-27,Verstappen,Red Bull,6,2,71,Finished,+59.558,8
+2024,20,Mexico City Grand Prix,2024-10-27,Magnussen,Haas F1 Team,7,7,71,Finished,+1:03.642,6
+2024,20,Mexico City Grand Prix,2024-10-27,Piastri,McLaren,8,17,71,Finished,+1:04.928,4
+2024,20,Mexico City Grand Prix,2024-10-27,Hülkenberg,Haas F1 Team,9,10,70,+1 Lap,,2
+2024,20,Mexico City Grand Prix,2024-10-27,Gasly,Alpine F1 Team,10,8,70,+1 Lap,,1
+2024,20,Mexico City Grand Prix,2024-10-27,Stroll,Aston Martin,11,14,70,+1 Lap,,0
+2024,20,Mexico City Grand Prix,2024-10-27,Colapinto,Williams,12,16,70,+1 Lap,,0
+2024,20,Mexico City Grand Prix,2024-10-27,Ocon,Alpine F1 Team,13,0,70,+1 Lap,,0
+2024,20,Mexico City Grand Prix,2024-10-27,Bottas,Sauber,14,15,70,+1 Lap,,0
+2024,20,Mexico City Grand Prix,2024-10-27,Zhou,Sauber,15,19,70,+1 Lap,,0
+2024,20,Mexico City Grand Prix,2024-10-27,Lawson,RB F1 Team,16,12,70,+1 Lap,,0
+2024,20,Mexico City Grand Prix,2024-10-27,Pérez,Red Bull,17,18,70,+1 Lap,,0
+2024,20,Mexico City Grand Prix,2024-10-27,Alonso,Aston Martin,18,13,15,Brakes,,0
+2024,20,Mexico City Grand Prix,2024-10-27,Albon,Williams,19,9,0,Collision,,0
+2024,20,Mexico City Grand Prix,2024-10-27,Tsunoda,RB F1 Team,20,11,0,Collision,,0
+2024,21,São Paulo Grand Prix,2024-11-03,Verstappen,Red Bull,1,17,69,Finished,2:06:54.430,26
+2024,21,São Paulo Grand Prix,2024-11-03,Ocon,Alpine F1 Team,2,4,69,Finished,+19.477,18
+2024,21,São Paulo Grand Prix,2024-11-03,Gasly,Alpine F1 Team,3,13,69,Finished,+22.532,15
+2024,21,São Paulo Grand Prix,2024-11-03,Russell,Mercedes,4,2,69,Finished,+23.265,12
+2024,21,São Paulo Grand Prix,2024-11-03,Leclerc,Ferrari,5,6,69,Finished,+30.177,10
+2024,21,São Paulo Grand Prix,2024-11-03,Norris,McLaren,6,1,69,Finished,+31.372,8
+2024,21,São Paulo Grand Prix,2024-11-03,Tsunoda,RB F1 Team,7,3,69,Finished,+42.056,6
+2024,21,São Paulo Grand Prix,2024-11-03,Piastri,McLaren,8,8,69,Finished,+44.943,4
+2024,21,São Paulo Grand Prix,2024-11-03,Lawson,RB F1 Team,9,5,69,Finished,+50.452,2
+2024,21,São Paulo Grand Prix,2024-11-03,Hamilton,Mercedes,10,14,69,Finished,+50.753,1
+2024,21,São Paulo Grand Prix,2024-11-03,Pérez,Red Bull,11,12,69,Finished,+51.531,0
+2024,21,São Paulo Grand Prix,2024-11-03,Bearman,Haas F1 Team,12,15,69,Finished,+57.085,0
+2024,21,São Paulo Grand Prix,2024-11-03,Bottas,Sauber,13,11,69,Finished,+1:03.588,0
+2024,21,São Paulo Grand Prix,2024-11-03,Alonso,Aston Martin,14,9,69,Finished,+1:18.049,0
+2024,21,São Paulo Grand Prix,2024-11-03,Zhou,Sauber,15,19,69,Finished,+1:19.649,0
+2024,21,São Paulo Grand Prix,2024-11-03,Sainz,Ferrari,16,0,38,Accident,,0
+2024,21,São Paulo Grand Prix,2024-11-03,Colapinto,Williams,17,16,30,Accident,,0
+2024,21,São Paulo Grand Prix,2024-11-03,Albon,Williams,18,7,0,Withdrew,,0
+2024,21,São Paulo Grand Prix,2024-11-03,Stroll,Aston Martin,19,10,0,Withdrew,,0
+2024,21,São Paulo Grand Prix,2024-11-03,Hülkenberg,Haas F1 Team,20,17,0,Disqualified,,0
+2024,22,Las Vegas Grand Prix,2024-11-23,Russell,Mercedes,1,1,50,Finished,1:22:05.969,25
+2024,22,Las Vegas Grand Prix,2024-11-23,Hamilton,Mercedes,2,10,50,Finished,+7.313,18
+2024,22,Las Vegas Grand Prix,2024-11-23,Sainz,Ferrari,3,2,50,Finished,+11.906,15
+2024,22,Las Vegas Grand Prix,2024-11-23,Leclerc,Ferrari,4,4,50,Finished,+14.283,12
+2024,22,Las Vegas Grand Prix,2024-11-23,Verstappen,Red Bull,5,5,50,Finished,+16.582,10
+2024,22,Las Vegas Grand Prix,2024-11-23,Norris,McLaren,6,6,50,Finished,+43.385,9
+2024,22,Las Vegas Grand Prix,2024-11-23,Piastri,McLaren,7,8,50,Finished,+51.365,6
+2024,22,Las Vegas Grand Prix,2024-11-23,Hülkenberg,Haas F1 Team,8,9,50,Finished,+59.808,4
+2024,22,Las Vegas Grand Prix,2024-11-23,Tsunoda,RB F1 Team,9,7,50,Finished,+1:02.808,2
+2024,22,Las Vegas Grand Prix,2024-11-23,Pérez,Red Bull,10,15,50,Finished,+1:03.114,1
+2024,22,Las Vegas Grand Prix,2024-11-23,Alonso,Aston Martin,11,16,50,Finished,+1:09.195,0
+2024,22,Las Vegas Grand Prix,2024-11-23,Magnussen,Haas F1 Team,12,12,50,Finished,+1:09.803,0
+2024,22,Las Vegas Grand Prix,2024-11-23,Zhou,Sauber,13,13,50,Finished,+1:14.085,0
+2024,22,Las Vegas Grand Prix,2024-11-23,Colapinto,Williams,14,0,50,Finished,+1:15.172,0
+2024,22,Las Vegas Grand Prix,2024-11-23,Stroll,Aston Martin,15,18,50,Finished,+1:24.102,0
+2024,22,Las Vegas Grand Prix,2024-11-23,Lawson,RB F1 Team,16,14,50,Finished,+1:31.005,0
+2024,22,Las Vegas Grand Prix,2024-11-23,Ocon,Alpine F1 Team,17,11,49,+1 Lap,,0
+2024,22,Las Vegas Grand Prix,2024-11-23,Bottas,Sauber,18,19,49,+1 Lap,,0
+2024,22,Las Vegas Grand Prix,2024-11-23,Albon,Williams,19,17,25,Radiator,,0
+2024,22,Las Vegas Grand Prix,2024-11-23,Gasly,Alpine F1 Team,20,3,15,Engine,,0
+2024,23,Qatar Grand Prix,2024-12-01,Verstappen,Red Bull,1,2,57,Finished,1:31:05.323,25
+2024,23,Qatar Grand Prix,2024-12-01,Leclerc,Ferrari,2,5,57,Finished,+6.031,18
+2024,23,Qatar Grand Prix,2024-12-01,Piastri,McLaren,3,4,57,Finished,+6.819,15
+2024,23,Qatar Grand Prix,2024-12-01,Russell,Mercedes,4,1,57,Finished,+14.104,12
+2024,23,Qatar Grand Prix,2024-12-01,Gasly,Alpine F1 Team,5,11,57,Finished,+16.782,10
+2024,23,Qatar Grand Prix,2024-12-01,Sainz,Ferrari,6,7,57,Finished,+17.476,8
+2024,23,Qatar Grand Prix,2024-12-01,Alonso,Aston Martin,7,8,57,Finished,+19.867,6
+2024,23,Qatar Grand Prix,2024-12-01,Zhou,Sauber,8,12,57,Finished,+25.360,4
+2024,23,Qatar Grand Prix,2024-12-01,Magnussen,Haas F1 Team,9,10,57,Finished,+32.177,2
+2024,23,Qatar Grand Prix,2024-12-01,Norris,McLaren,10,3,57,Finished,+35.762,2
+2024,23,Qatar Grand Prix,2024-12-01,Bottas,Sauber,11,13,57,Finished,+50.243,0
+2024,23,Qatar Grand Prix,2024-12-01,Hamilton,Mercedes,12,6,57,Finished,+56.122,0
+2024,23,Qatar Grand Prix,2024-12-01,Tsunoda,RB F1 Team,13,14,57,Finished,+1:01.100,0
+2024,23,Qatar Grand Prix,2024-12-01,Lawson,RB F1 Team,14,17,57,Finished,+1:02.656,0
+2024,23,Qatar Grand Prix,2024-12-01,Albon,Williams,15,16,56,+1 Lap,,0
+2024,23,Qatar Grand Prix,2024-12-01,Hülkenberg,Haas F1 Team,16,18,39,Spun off,,0
+2024,23,Qatar Grand Prix,2024-12-01,Pérez,Red Bull,17,9,38,Spun off,,0
+2024,23,Qatar Grand Prix,2024-12-01,Stroll,Aston Martin,18,15,8,Collision damage,,0
+2024,23,Qatar Grand Prix,2024-12-01,Colapinto,Williams,19,19,0,Collision,,0
+2024,23,Qatar Grand Prix,2024-12-01,Ocon,Alpine F1 Team,20,20,0,Collision,,0
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Norris,McLaren,1,1,58,Finished,1:26:33.291,25
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Sainz,Ferrari,2,3,58,Finished,+5.832,18
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Leclerc,Ferrari,3,19,58,Finished,+31.928,15
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Hamilton,Mercedes,4,16,58,Finished,+36.483,12
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Russell,Mercedes,5,6,58,Finished,+37.538,10
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Verstappen,Red Bull,6,4,58,Finished,+49.847,8
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Gasly,Alpine F1 Team,7,5,58,Finished,+1:12.560,6
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Hülkenberg,Haas F1 Team,8,7,58,Finished,+1:15.554,4
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Alonso,Aston Martin,9,8,58,Finished,+1:22.373,2
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Piastri,McLaren,10,2,58,Finished,+1:23.821,1
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Albon,Williams,11,18,57,+1 Lap,,0
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Tsunoda,RB F1 Team,12,11,57,+1 Lap,,0
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Zhou,Sauber,13,15,57,+1 Lap,,0
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Stroll,Aston Martin,14,13,57,+1 Lap,,0
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Doohan,Alpine F1 Team,15,17,57,+1 Lap,,0
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Magnussen,Haas F1 Team,16,14,57,+1 Lap,,0
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Lawson,RB F1 Team,17,12,55,Engine,,0
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Bottas,Sauber,18,9,30,Collision damage,,0
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Colapinto,Williams,19,20,26,Engine,,0
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Pérez,Red Bull,20,10,0,Collision,,0

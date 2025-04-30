@@ -1,0 +1,437 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1974,1,Argentine Grand Prix,1974-01-13,Hulme,McLaren,1,10,53,Finished,1:41:02.01,9
+1974,1,Argentine Grand Prix,1974-01-13,Lauda,Ferrari,2,8,53,Finished,+9.27,6
+1974,1,Argentine Grand Prix,1974-01-13,Regazzoni,Ferrari,3,2,53,Finished,+20.41,4
+1974,1,Argentine Grand Prix,1974-01-13,Hailwood,McLaren,4,9,53,Finished,+31.79,3
+1974,1,Argentine Grand Prix,1974-01-13,Beltoise,BRM,5,14,53,Finished,+51.84,2
+1974,1,Argentine Grand Prix,1974-01-13,Depailler,Tyrrell,6,15,53,Finished,+1:52.48,1
+1974,1,Argentine Grand Prix,1974-01-13,Reutemann,Brabham,7,6,52,Out of fuel,,0
+1974,1,Argentine Grand Prix,1974-01-13,Ganley,March,8,19,52,Out of fuel,,0
+1974,1,Argentine Grand Prix,1974-01-13,Pescarolo,BRM,9,21,52,+1 Lap,,0
+1974,1,Argentine Grand Prix,1974-01-13,Fittipaldi,McLaren,10,3,52,+1 Lap,,0
+1974,1,Argentine Grand Prix,1974-01-13,Edwards,Lola,11,25,51,+2 Laps,,0
+1974,1,Argentine Grand Prix,1974-01-13,Watson,Brabham,12,20,49,+4 Laps,,0
+1974,1,Argentine Grand Prix,1974-01-13,Peterson,Team Lotus,13,1,48,+5 Laps,,0
+1974,1,Argentine Grand Prix,1974-01-13,Hill,Lola,14,17,45,Engine,,0
+1974,1,Argentine Grand Prix,1974-01-13,Ickx,Team Lotus,15,7,36,Clutch,,0
+1974,1,Argentine Grand Prix,1974-01-13,Robarts,Brabham,16,22,36,Gearbox,,0
+1974,1,Argentine Grand Prix,1974-01-13,Stuck,March,17,23,31,Clutch,,0
+1974,1,Argentine Grand Prix,1974-01-13,Migault,BRM,18,24,31,Water leak,,0
+1974,1,Argentine Grand Prix,1974-01-13,Scheckter,Tyrrell,19,12,25,Engine,,0
+1974,1,Argentine Grand Prix,1974-01-13,Pace,Surtees,20,11,21,Suspension,,0
+1974,1,Argentine Grand Prix,1974-01-13,Merzario,Iso Marlboro,21,13,19,Overheating,,0
+1974,1,Argentine Grand Prix,1974-01-13,Hunt,March,22,5,11,Overheating,,0
+1974,1,Argentine Grand Prix,1974-01-13,Mass,Surtees,23,18,10,Engine,,0
+1974,1,Argentine Grand Prix,1974-01-13,Revson,Shadow,24,4,1,Accident,,0
+1974,1,Argentine Grand Prix,1974-01-13,Jarier,Shadow,25,16,0,Accident,,0
+1974,2,Brazilian Grand Prix,1974-01-27,Fittipaldi,McLaren,1,1,32,Finished,1:24:37.06,9
+1974,2,Brazilian Grand Prix,1974-01-27,Regazzoni,Ferrari,2,8,32,Finished,+13.57,6
+1974,2,Brazilian Grand Prix,1974-01-27,Ickx,Team Lotus,3,5,31,+1 Lap,,4
+1974,2,Brazilian Grand Prix,1974-01-27,Pace,Surtees,4,12,31,+1 Lap,,3
+1974,2,Brazilian Grand Prix,1974-01-27,Hailwood,McLaren,5,7,31,+1 Lap,,2
+1974,2,Brazilian Grand Prix,1974-01-27,Peterson,Team Lotus,6,4,31,+1 Lap,,1
+1974,2,Brazilian Grand Prix,1974-01-27,Reutemann,Brabham,7,2,31,+1 Lap,,0
+1974,2,Brazilian Grand Prix,1974-01-27,Depailler,Tyrrell,8,16,31,+1 Lap,,0
+1974,2,Brazilian Grand Prix,1974-01-27,Hunt,March,9,18,31,+1 Lap,,0
+1974,2,Brazilian Grand Prix,1974-01-27,Beltoise,BRM,10,17,31,+1 Lap,,0
+1974,2,Brazilian Grand Prix,1974-01-27,Hill,Lola,11,21,31,+1 Lap,,0
+1974,2,Brazilian Grand Prix,1974-01-27,Hulme,McLaren,12,11,31,+1 Lap,,0
+1974,2,Brazilian Grand Prix,1974-01-27,Scheckter,Tyrrell,13,14,31,+1 Lap,,0
+1974,2,Brazilian Grand Prix,1974-01-27,Pescarolo,BRM,14,22,30,+2 Laps,,0
+1974,2,Brazilian Grand Prix,1974-01-27,Robarts,Brabham,15,24,30,+2 Laps,,0
+1974,2,Brazilian Grand Prix,1974-01-27,Migault,BRM,16,23,30,+2 Laps,,0
+1974,2,Brazilian Grand Prix,1974-01-27,Mass,Surtees,17,10,30,+2 Laps,,0
+1974,2,Brazilian Grand Prix,1974-01-27,Watson,Brabham,18,15,27,Clutch,,0
+1974,2,Brazilian Grand Prix,1974-01-27,Stuck,March,19,13,24,Transmission,,0
+1974,2,Brazilian Grand Prix,1974-01-27,Jarier,Shadow,20,19,21,Brakes,,0
+1974,2,Brazilian Grand Prix,1974-01-27,Merzario,Iso Marlboro,21,9,20,Throttle,,0
+1974,2,Brazilian Grand Prix,1974-01-27,Revson,Shadow,22,6,10,Overheating,,0
+1974,2,Brazilian Grand Prix,1974-01-27,Ganley,March,23,20,8,Ignition,,0
+1974,2,Brazilian Grand Prix,1974-01-27,Lauda,Ferrari,24,25,2,Engine,,0
+1974,2,Brazilian Grand Prix,1974-01-27,Edwards,Lola,25,3,2,Chassis,,0
+1974,3,South African Grand Prix,1974-03-30,Reutemann,Brabham,1,4,78,Finished,1:42:40.96,9
+1974,3,South African Grand Prix,1974-03-30,Beltoise,BRM,2,11,78,Finished,+33.94,6
+1974,3,South African Grand Prix,1974-03-30,Hailwood,McLaren,3,12,78,Finished,+42.16,4
+1974,3,South African Grand Prix,1974-03-30,Depailler,Tyrrell,4,15,78,Finished,+44.19,3
+1974,3,South African Grand Prix,1974-03-30,Stuck,March,5,7,78,Finished,+46.23,2
+1974,3,South African Grand Prix,1974-03-30,Merzario,Iso Marlboro,6,3,78,Finished,+56.04,1
+1974,3,South African Grand Prix,1974-03-30,Fittipaldi,McLaren,7,5,78,Finished,+1:08.39,0
+1974,3,South African Grand Prix,1974-03-30,Scheckter,Tyrrell,8,8,78,Finished,+1:10.54,0
+1974,3,South African Grand Prix,1974-03-30,Hulme,McLaren,9,9,77,+1 Lap,,0
+1974,3,South African Grand Prix,1974-03-30,Brambilla,March,10,19,77,+1 Lap,,0
+1974,3,South African Grand Prix,1974-03-30,Pace,Surtees,11,2,77,+1 Lap,,0
+1974,3,South African Grand Prix,1974-03-30,Hill,Lola,12,18,77,+1 Lap,,0
+1974,3,South African Grand Prix,1974-03-30,Scheckter,Team Lotus,13,22,76,+2 Laps,,0
+1974,3,South African Grand Prix,1974-03-30,Keizan,Tyrrell,14,24,76,+2 Laps,,0
+1974,3,South African Grand Prix,1974-03-30,Migault,BRM,15,25,75,+3 Laps,,0
+1974,3,South African Grand Prix,1974-03-30,Lauda,Ferrari,16,1,74,Ignition,,0
+1974,3,South African Grand Prix,1974-03-30,Robarts,Brabham,17,23,74,+4 Laps,,0
+1974,3,South African Grand Prix,1974-03-30,Pescarolo,BRM,18,21,72,+6 Laps,,0
+1974,3,South African Grand Prix,1974-03-30,Charlton,McLaren,19,20,71,+7 Laps,,0
+1974,3,South African Grand Prix,1974-03-30,Regazzoni,Ferrari,20,6,65,Oil pressure,,0
+1974,3,South African Grand Prix,1974-03-30,Watson,Brabham,21,13,54,Fuel system,,0
+1974,3,South African Grand Prix,1974-03-30,Ickx,Team Lotus,22,10,31,Brakes,,0
+1974,3,South African Grand Prix,1974-03-30,Hunt,Hesketh,23,14,13,Transmission,,0
+1974,3,South African Grand Prix,1974-03-30,Mass,Surtees,24,17,11,Suspension,,0
+1974,3,South African Grand Prix,1974-03-30,Driver,Team Lotus,25,26,6,Clutch,,0
+1974,3,South African Grand Prix,1974-03-30,Peterson,Team Lotus,26,16,2,Collision,,0
+1974,3,South African Grand Prix,1974-03-30,Belsø,Iso Marlboro,27,27,0,Clutch,,0
+1974,4,Spanish Grand Prix,1974-04-28,Lauda,Ferrari,1,1,84,Finished,2:00:29.56,9
+1974,4,Spanish Grand Prix,1974-04-28,Regazzoni,Ferrari,2,3,84,Finished,+35.61,6
+1974,4,Spanish Grand Prix,1974-04-28,Fittipaldi,McLaren,3,4,83,+1 Lap,,4
+1974,4,Spanish Grand Prix,1974-04-28,Stuck,March,4,13,82,+2 Laps,,3
+1974,4,Spanish Grand Prix,1974-04-28,Scheckter,Tyrrell,5,9,82,+2 Laps,,2
+1974,4,Spanish Grand Prix,1974-04-28,Hulme,McLaren,6,8,82,+2 Laps,,1
+1974,4,Spanish Grand Prix,1974-04-28,Redman,Shadow,7,21,81,+3 Laps,,0
+1974,4,Spanish Grand Prix,1974-04-28,Depailler,Tyrrell,8,16,81,+3 Laps,,0
+1974,4,Spanish Grand Prix,1974-04-28,Hailwood,McLaren,9,17,81,+3 Laps,,0
+1974,4,Spanish Grand Prix,1974-04-28,Hunt,Hesketh,10,10,81,+3 Laps,,0
+1974,4,Spanish Grand Prix,1974-04-28,Watson,Brabham,11,15,80,+4 Laps,,0
+1974,4,Spanish Grand Prix,1974-04-28,Pescarolo,BRM,12,20,80,+4 Laps,,0
+1974,4,Spanish Grand Prix,1974-04-28,Pace,Surtees,13,14,78,+6 Laps,,0
+1974,4,Spanish Grand Prix,1974-04-28,Schenken,Trojan,14,25,76,Spun off,,0
+1974,4,Spanish Grand Prix,1974-04-28,Jarier,Shadow,15,12,73,Not classified,,0
+1974,4,Spanish Grand Prix,1974-04-28,Hill,Lola,16,19,43,Engine,,0
+1974,4,Spanish Grand Prix,1974-04-28,Merzario,Iso Marlboro,17,7,37,Accident,,0
+1974,4,Spanish Grand Prix,1974-04-28,Mass,Surtees,18,18,35,Gearbox,,0
+1974,4,Spanish Grand Prix,1974-04-28,Migault,BRM,19,22,27,Engine,,0
+1974,4,Spanish Grand Prix,1974-04-28,Ickx,Team Lotus,20,5,26,Brakes,,0
+1974,4,Spanish Grand Prix,1974-04-28,Peterson,Team Lotus,21,2,23,Engine,,0
+1974,4,Spanish Grand Prix,1974-04-28,Amon,Amon,22,23,22,Brakes,,0
+1974,4,Spanish Grand Prix,1974-04-28,von Opel,Brabham,23,24,14,Oil leak,,0
+1974,4,Spanish Grand Prix,1974-04-28,Reutemann,Brabham,24,6,12,Spun off,,0
+1974,4,Spanish Grand Prix,1974-04-28,Beltoise,BRM,25,11,2,Engine,,0
+1974,4,Spanish Grand Prix,1974-04-28,Edwards,Lola,26,0,0,Did not qualify,,0
+1974,4,Spanish Grand Prix,1974-04-28,Belsø,Iso Marlboro,27,0,0,Did not qualify,,0
+1974,5,Belgian Grand Prix,1974-05-12,Fittipaldi,McLaren,1,4,85,Finished,1:44:20.57,9
+1974,5,Belgian Grand Prix,1974-05-12,Lauda,Ferrari,2,3,85,Finished,+0.35,6
+1974,5,Belgian Grand Prix,1974-05-12,Scheckter,Tyrrell,3,2,85,Finished,+45.61,4
+1974,5,Belgian Grand Prix,1974-05-12,Regazzoni,Ferrari,4,1,85,Finished,+52.02,3
+1974,5,Belgian Grand Prix,1974-05-12,Beltoise,BRM,5,7,85,Finished,+1:08.05,2
+1974,5,Belgian Grand Prix,1974-05-12,Hulme,McLaren,6,12,85,Finished,+1:10.54,1
+1974,5,Belgian Grand Prix,1974-05-12,Hailwood,McLaren,7,13,84,+1 Lap,,0
+1974,5,Belgian Grand Prix,1974-05-12,Hill,Lola,8,29,83,+2 Laps,,0
+1974,5,Belgian Grand Prix,1974-05-12,Brambilla,March,9,31,83,+2 Laps,,0
+1974,5,Belgian Grand Prix,1974-05-12,Schenken,Trojan,10,23,83,+2 Laps,,0
+1974,5,Belgian Grand Prix,1974-05-12,Watson,Brabham,11,19,83,+2 Laps,,0
+1974,5,Belgian Grand Prix,1974-05-12,Edwards,Lola,12,21,82,+3 Laps,,0
+1974,5,Belgian Grand Prix,1974-05-12,Jarier,Shadow,13,17,82,+3 Laps,,0
+1974,5,Belgian Grand Prix,1974-05-12,van Lennep,Iso Marlboro,14,30,82,+3 Laps,,0
+1974,5,Belgian Grand Prix,1974-05-12,Schuppan,Ensign,15,14,82,+3 Laps,,0
+1974,5,Belgian Grand Prix,1974-05-12,Migault,BRM,16,25,82,+3 Laps,,0
+1974,5,Belgian Grand Prix,1974-05-12,Pilette,Brabham,17,27,81,+4 Laps,,0
+1974,5,Belgian Grand Prix,1974-05-12,Redman,Shadow,18,18,80,Engine,,0
+1974,5,Belgian Grand Prix,1974-05-12,Ickx,Team Lotus,19,16,72,Overheating,,0
+1974,5,Belgian Grand Prix,1974-05-12,Pryce,Token,20,20,66,Collision,,0
+1974,5,Belgian Grand Prix,1974-05-12,Reutemann,Brabham,21,24,62,Engine,,0
+1974,5,Belgian Grand Prix,1974-05-12,Peterson,Team Lotus,22,5,56,Fuel leak,,0
+1974,5,Belgian Grand Prix,1974-05-12,Depailler,Tyrrell,23,28,53,Brakes,,0
+1974,5,Belgian Grand Prix,1974-05-12,Mass,Surtees,24,26,53,Suspension,,0
+1974,5,Belgian Grand Prix,1974-05-12,Larrousse,Brabham,25,11,53,Tyre,,0
+1974,5,Belgian Grand Prix,1974-05-12,Pace,Surtees,26,8,50,Handling,,0
+1974,5,Belgian Grand Prix,1974-05-12,von Opel,Brabham,27,22,49,Engine,,0
+1974,5,Belgian Grand Prix,1974-05-12,Hunt,Hesketh,28,9,45,Accident,,0
+1974,5,Belgian Grand Prix,1974-05-12,Merzario,Iso Marlboro,29,6,29,Transmission,,0
+1974,5,Belgian Grand Prix,1974-05-12,Pescarolo,BRM,30,15,12,Collision,,0
+1974,5,Belgian Grand Prix,1974-05-12,Stuck,March,31,10,6,Clutch,,0
+1974,5,Belgian Grand Prix,1974-05-12,Kinnunen,Surtees,32,0,0,Did not qualify,,0
+1974,6,Monaco Grand Prix,1974-05-26,Peterson,Team Lotus,1,3,78,Finished,1:58:03.7,9
+1974,6,Monaco Grand Prix,1974-05-26,Scheckter,Tyrrell,2,5,78,Finished,+28.8,6
+1974,6,Monaco Grand Prix,1974-05-26,Jarier,Shadow,3,6,78,Finished,+48.9,4
+1974,6,Monaco Grand Prix,1974-05-26,Regazzoni,Ferrari,4,2,78,Finished,+1:03.1,3
+1974,6,Monaco Grand Prix,1974-05-26,Fittipaldi,McLaren,5,13,77,+1 Lap,,2
+1974,6,Monaco Grand Prix,1974-05-26,Watson,Brabham,6,23,77,+1 Lap,,1
+1974,6,Monaco Grand Prix,1974-05-26,Hill,Lola,7,21,76,+2 Laps,,0
+1974,6,Monaco Grand Prix,1974-05-26,Edwards,Lola,8,26,75,+3 Laps,,0
+1974,6,Monaco Grand Prix,1974-05-26,Depailler,Tyrrell,9,4,74,+4 Laps,,0
+1974,6,Monaco Grand Prix,1974-05-26,Pescarolo,BRM,10,27,62,Gearbox,,0
+1974,6,Monaco Grand Prix,1974-05-26,Ickx,Team Lotus,11,19,34,Engine,,0
+1974,6,Monaco Grand Prix,1974-05-26,Lauda,Ferrari,12,1,32,Ignition,,0
+1974,6,Monaco Grand Prix,1974-05-26,Hunt,Hesketh,13,7,27,Halfshaft,,0
+1974,6,Monaco Grand Prix,1974-05-26,Hailwood,McLaren,14,10,11,Accident,,0
+1974,6,Monaco Grand Prix,1974-05-26,Reutemann,Brabham,15,8,5,Suspension,,0
+1974,6,Monaco Grand Prix,1974-05-26,Migault,BRM,16,22,4,Accident,,0
+1974,6,Monaco Grand Prix,1974-05-26,Schuppan,Ensign,17,25,4,Accident,,0
+1974,6,Monaco Grand Prix,1974-05-26,Stuck,March,18,9,3,Collision,,0
+1974,6,Monaco Grand Prix,1974-05-26,Beltoise,BRM,19,11,0,Collision,,0
+1974,6,Monaco Grand Prix,1974-05-26,Hulme,McLaren,20,12,0,Collision,,0
+1974,6,Monaco Grand Prix,1974-05-26,Merzario,Iso Marlboro,21,14,0,Collision,,0
+1974,6,Monaco Grand Prix,1974-05-26,Brambilla,March,22,15,0,Collision,,0
+1974,6,Monaco Grand Prix,1974-05-26,Redman,Shadow,23,16,0,Collision,,0
+1974,6,Monaco Grand Prix,1974-05-26,Pace,Surtees,24,18,0,Collision,,0
+1974,6,Monaco Grand Prix,1974-05-26,Schenken,Trojan,25,24,0,Collision,,0
+1974,6,Monaco Grand Prix,1974-05-26,Mass,Surtees,26,17,0,Withdrew,,0
+1974,6,Monaco Grand Prix,1974-05-26,Amon,Amon,27,20,0,Withdrew,,0
+1974,6,Monaco Grand Prix,1974-05-26,von Opel,Brabham,28,0,0,Did not qualify,,0
+1974,7,Swedish Grand Prix,1974-06-09,Scheckter,Tyrrell,1,2,80,Finished,1:58:31.391,9
+1974,7,Swedish Grand Prix,1974-06-09,Depailler,Tyrrell,2,1,80,Finished,+0.380,6
+1974,7,Swedish Grand Prix,1974-06-09,Hunt,Hesketh,3,6,80,Finished,+3.325,4
+1974,7,Swedish Grand Prix,1974-06-09,Fittipaldi,McLaren,4,9,80,Finished,+53.507,3
+1974,7,Swedish Grand Prix,1974-06-09,Jarier,Shadow,5,8,80,Finished,+1:16.403,2
+1974,7,Swedish Grand Prix,1974-06-09,Hill,Lola,6,15,79,+1 Lap,,1
+1974,7,Swedish Grand Prix,1974-06-09,Edwards,Lola,7,18,79,+1 Lap,,0
+1974,7,Swedish Grand Prix,1974-06-09,Belsø,Iso Marlboro,8,21,79,+1 Lap,,0
+1974,7,Swedish Grand Prix,1974-06-09,von Opel,Brabham,9,20,79,+1 Lap,,0
+1974,7,Swedish Grand Prix,1974-06-09,Brambilla,March,10,17,78,Engine,,0
+1974,7,Swedish Grand Prix,1974-06-09,Watson,Brabham,11,14,77,+3 Laps,,0
+1974,7,Swedish Grand Prix,1974-06-09,Schuppan,Ensign,12,26,77,Disqualified,,0
+1974,7,Swedish Grand Prix,1974-06-09,Lauda,Ferrari,13,3,70,Gearbox,,0
+1974,7,Swedish Grand Prix,1974-06-09,Wisell,March,14,16,59,Suspension,,0
+1974,7,Swedish Grand Prix,1974-06-09,Hulme,McLaren,15,12,56,Suspension,,0
+1974,7,Swedish Grand Prix,1974-06-09,Mass,Surtees,16,22,53,Suspension,,0
+1974,7,Swedish Grand Prix,1974-06-09,Reutemann,Brabham,17,10,30,Oil leak,,0
+1974,7,Swedish Grand Prix,1974-06-09,Ickx,Team Lotus,18,7,27,Engine,,0
+1974,7,Swedish Grand Prix,1974-06-09,Regazzoni,Ferrari,19,4,24,Gearbox,,0
+1974,7,Swedish Grand Prix,1974-06-09,Pace,Surtees,20,24,15,Handling,,0
+1974,7,Swedish Grand Prix,1974-06-09,Peterson,Team Lotus,21,5,8,Halfshaft,,0
+1974,7,Swedish Grand Prix,1974-06-09,Kinnunen,Surtees,22,25,8,Engine,,0
+1974,7,Swedish Grand Prix,1974-06-09,Hailwood,McLaren,23,11,5,Fuel leak,,0
+1974,7,Swedish Grand Prix,1974-06-09,Beltoise,BRM,24,13,3,Engine,,0
+1974,7,Swedish Grand Prix,1974-06-09,Roos,Shadow,25,23,2,Gearbox,,0
+1974,7,Swedish Grand Prix,1974-06-09,Pescarolo,BRM,26,19,0,Heat shield fire,,0
+1974,7,Swedish Grand Prix,1974-06-09,Robarts,Iso Marlboro,27,0,0,Did not qualify,,0
+1974,8,Dutch Grand Prix,1974-06-23,Lauda,Ferrari,1,1,75,Finished,1:43:00.35,9
+1974,8,Dutch Grand Prix,1974-06-23,Regazzoni,Ferrari,2,2,75,Finished,+8.25,6
+1974,8,Dutch Grand Prix,1974-06-23,Fittipaldi,McLaren,3,3,75,Finished,+30.27,4
+1974,8,Dutch Grand Prix,1974-06-23,Hailwood,McLaren,4,4,75,Finished,+31.29,3
+1974,8,Dutch Grand Prix,1974-06-23,Scheckter,Tyrrell,5,5,75,Finished,+34.28,2
+1974,8,Dutch Grand Prix,1974-06-23,Depailler,Tyrrell,6,8,75,Finished,+51.52,1
+1974,8,Dutch Grand Prix,1974-06-23,Watson,Brabham,7,13,75,Finished,+1:13.95,0
+1974,8,Dutch Grand Prix,1974-06-23,Peterson,Team Lotus,8,10,73,+2 Laps,,0
+1974,8,Dutch Grand Prix,1974-06-23,von Opel,Brabham,9,23,73,+2 Laps,,0
+1974,8,Dutch Grand Prix,1974-06-23,Brambilla,March,10,15,72,+3 Laps,,0
+1974,8,Dutch Grand Prix,1974-06-23,Ickx,Team Lotus,11,18,71,+4 Laps,,0
+1974,8,Dutch Grand Prix,1974-06-23,Reutemann,Brabham,12,12,71,+4 Laps,,0
+1974,8,Dutch Grand Prix,1974-06-23,Schuppan,Ensign,13,17,69,Disqualified,,0
+1974,8,Dutch Grand Prix,1974-06-23,Hulme,McLaren,14,9,65,Ignition,,0
+1974,8,Dutch Grand Prix,1974-06-23,Migault,BRM,15,25,60,Gearbox,,0
+1974,8,Dutch Grand Prix,1974-06-23,Merzario,Iso Marlboro,16,21,54,Gearbox,,0
+1974,8,Dutch Grand Prix,1974-06-23,Edwards,Lola,17,14,36,Fuel system,,0
+1974,8,Dutch Grand Prix,1974-06-23,Jarier,Shadow,18,7,28,Clutch,,0
+1974,8,Dutch Grand Prix,1974-06-23,Beltoise,BRM,19,16,18,Gearbox,,0
+1974,8,Dutch Grand Prix,1974-06-23,Hill,Lola,20,19,16,Gearbox,,0
+1974,8,Dutch Grand Prix,1974-06-23,Pescarolo,BRM,21,24,15,Handling,,0
+1974,8,Dutch Grand Prix,1974-06-23,Mass,Surtees,22,20,8,Transmission,,0
+1974,8,Dutch Grand Prix,1974-06-23,Hunt,Hesketh,23,6,2,Collision,,0
+1974,8,Dutch Grand Prix,1974-06-23,Pryce,Shadow,24,11,0,Collision,,0
+1974,8,Dutch Grand Prix,1974-06-23,Stuck,March,25,22,0,Accident,,0
+1974,8,Dutch Grand Prix,1974-06-23,Schenken,Trojan,26,0,0,Did not qualify,,0
+1974,8,Dutch Grand Prix,1974-06-23,van Lennep,Iso Marlboro,27,0,0,Did not qualify,,0
+1974,9,French Grand Prix,1974-07-07,Peterson,Team Lotus,1,2,80,Finished,1:21:55.02,9
+1974,9,French Grand Prix,1974-07-07,Lauda,Ferrari,2,1,80,Finished,+20.36,6
+1974,9,French Grand Prix,1974-07-07,Regazzoni,Ferrari,3,4,80,Finished,+27.84,4
+1974,9,French Grand Prix,1974-07-07,Scheckter,Tyrrell,4,7,80,Finished,+28.11,3
+1974,9,French Grand Prix,1974-07-07,Ickx,Team Lotus,5,13,80,Finished,+37.54,2
+1974,9,French Grand Prix,1974-07-07,Hulme,McLaren,6,11,80,Finished,+38.14,1
+1974,9,French Grand Prix,1974-07-07,Hailwood,McLaren,7,6,79,+1 Lap,,0
+1974,9,French Grand Prix,1974-07-07,Depailler,Tyrrell,8,9,79,+1 Lap,,0
+1974,9,French Grand Prix,1974-07-07,Merzario,Iso Marlboro,9,15,79,+1 Lap,,0
+1974,9,French Grand Prix,1974-07-07,Beltoise,BRM,10,17,79,+1 Lap,,0
+1974,9,French Grand Prix,1974-07-07,Brambilla,March,11,16,79,+1 Lap,,0
+1974,9,French Grand Prix,1974-07-07,Jarier,Shadow,12,12,79,+1 Lap,,0
+1974,9,French Grand Prix,1974-07-07,Hill,Lola,13,21,78,+2 Laps,,0
+1974,9,French Grand Prix,1974-07-07,Migault,BRM,14,22,78,+2 Laps,,0
+1974,9,French Grand Prix,1974-07-07,Edwards,Lola,15,20,77,+3 Laps,,0
+1974,9,French Grand Prix,1974-07-07,Watson,Brabham,16,14,76,+4 Laps,,0
+1974,9,French Grand Prix,1974-07-07,Fittipaldi,McLaren,17,5,27,Engine,,0
+1974,9,French Grand Prix,1974-07-07,Reutemann,Brabham,18,8,24,Handling,,0
+1974,9,French Grand Prix,1974-07-07,Mass,Surtees,19,18,4,Clutch,,0
+1974,9,French Grand Prix,1974-07-07,Pryce,Shadow,20,3,1,Collision,,0
+1974,9,French Grand Prix,1974-07-07,Pescarolo,BRM,21,19,1,Clutch,,0
+1974,9,French Grand Prix,1974-07-07,Hunt,Hesketh,22,10,0,Collision,,0
+1974,9,French Grand Prix,1974-07-07,Schuppan,Ensign,23,0,0,Did not qualify,,0
+1974,9,French Grand Prix,1974-07-07,von Opel,Brabham,24,0,0,Did not qualify,,0
+1974,9,French Grand Prix,1974-07-07,Pace,Brabham,25,0,0,Did not qualify,,0
+1974,9,French Grand Prix,1974-07-07,Jabouille,Iso Marlboro,26,0,0,Did not qualify,,0
+1974,9,French Grand Prix,1974-07-07,Stuck,March,27,0,0,Did not qualify,,0
+1974,9,French Grand Prix,1974-07-07,Dolhem,Surtees,28,0,0,Did not qualify,,0
+1974,9,French Grand Prix,1974-07-07,Kinnunen,Surtees,29,0,0,Did not qualify,,0
+1974,9,French Grand Prix,1974-07-07,Larrousse,Brabham,30,0,0,Did not qualify,,0
+1974,10,British Grand Prix,1974-07-20,Scheckter,Tyrrell,1,3,75,Finished,1:43:02.2,9
+1974,10,British Grand Prix,1974-07-20,Fittipaldi,McLaren,2,8,75,Finished,+15.3,6
+1974,10,British Grand Prix,1974-07-20,Ickx,Team Lotus,3,12,75,Finished,+1:01.5,4
+1974,10,British Grand Prix,1974-07-20,Regazzoni,Ferrari,4,7,75,Finished,+1:07.2,3
+1974,10,British Grand Prix,1974-07-20,Lauda,Ferrari,5,1,74,+1 Lap,,2
+1974,10,British Grand Prix,1974-07-20,Reutemann,Brabham,6,4,74,+1 Lap,,1
+1974,10,British Grand Prix,1974-07-20,Hulme,McLaren,7,19,74,+1 Lap,,0
+1974,10,British Grand Prix,1974-07-20,Pryce,Shadow,8,5,74,+1 Lap,,0
+1974,10,British Grand Prix,1974-07-20,Pace,Brabham,9,20,74,+1 Lap,,0
+1974,10,British Grand Prix,1974-07-20,Peterson,Team Lotus,10,2,73,+2 Laps,,0
+1974,10,British Grand Prix,1974-07-20,Watson,Brabham,11,13,73,+2 Laps,,0
+1974,10,British Grand Prix,1974-07-20,Beltoise,BRM,12,23,72,+3 Laps,,0
+1974,10,British Grand Prix,1974-07-20,Hill,Lola,13,22,69,+6 Laps,,0
+1974,10,British Grand Prix,1974-07-20,Mass,Surtees,14,17,68,+7 Laps,,0
+1974,10,British Grand Prix,1974-07-20,Pescarolo,BRM,15,24,64,Engine,,0
+1974,10,British Grand Prix,1974-07-20,Migault,BRM,16,14,62,Not classified,,0
+1974,10,British Grand Prix,1974-07-20,Hailwood,McLaren,17,11,57,Spun off,,0
+1974,10,British Grand Prix,1974-07-20,Jarier,Shadow,18,16,45,Suspension,,0
+1974,10,British Grand Prix,1974-07-20,Stuck,March,19,9,36,Accident,,0
+1974,10,British Grand Prix,1974-07-20,Depailler,Tyrrell,20,10,35,Engine,,0
+1974,10,British Grand Prix,1974-07-20,Merzario,Iso Marlboro,21,15,25,Engine,,0
+1974,10,British Grand Prix,1974-07-20,Brambilla,March,22,16,17,Fuel system,,0
+1974,10,British Grand Prix,1974-07-20,Schenken,Trojan,23,25,6,Suspension,,0
+1974,10,British Grand Prix,1974-07-20,Hunt,Hesketh,24,6,2,Suspension,,0
+1974,10,British Grand Prix,1974-07-20,Gethin,Lola,25,21,0,Physical,,0
+1974,10,British Grand Prix,1974-07-20,Purley,Token,26,0,0,Did not qualify,,0
+1974,10,British Grand Prix,1974-07-20,Bell,Surtees,27,0,0,Did not qualify,,0
+1974,10,British Grand Prix,1974-07-20,Belsø,Iso Marlboro,28,0,0,Did not qualify,,0
+1974,10,British Grand Prix,1974-07-20,Lombardi,Brabham,29,0,0,Did not qualify,,0
+1974,10,British Grand Prix,1974-07-20,Schuppan,Ensign,30,0,0,Did not qualify,,0
+1974,10,British Grand Prix,1974-07-20,Nicholson,Lyncar,31,0,0,Did not qualify,,0
+1974,10,British Grand Prix,1974-07-20,Ganley,Maki,32,0,0,Did not qualify,,0
+1974,10,British Grand Prix,1974-07-20,Wilds,March,33,0,0,Did not qualify,,0
+1974,10,British Grand Prix,1974-07-20,Kinnunen,Surtees,34,0,0,Did not qualify,,0
+1974,11,German Grand Prix,1974-08-04,Regazzoni,Ferrari,1,2,14,Finished,1:41:35.0,9
+1974,11,German Grand Prix,1974-08-04,Scheckter,Tyrrell,2,4,14,Finished,+50.7,6
+1974,11,German Grand Prix,1974-08-04,Reutemann,Brabham,3,6,14,Finished,+1:23.3,4
+1974,11,German Grand Prix,1974-08-04,Peterson,Team Lotus,4,8,14,Finished,+1:24.2,3
+1974,11,German Grand Prix,1974-08-04,Ickx,Team Lotus,5,9,14,Finished,+1:25.0,2
+1974,11,German Grand Prix,1974-08-04,Pryce,Shadow,6,11,14,Finished,+2:18.1,1
+1974,11,German Grand Prix,1974-08-04,Stuck,March,7,20,14,Finished,+2:58.7,0
+1974,11,German Grand Prix,1974-08-04,Jarier,Shadow,8,18,14,Finished,+3:25.9,0
+1974,11,German Grand Prix,1974-08-04,Hill,Lola,9,19,14,Finished,+3:26.4,0
+1974,11,German Grand Prix,1974-08-04,Pescarolo,BRM,10,24,14,Finished,+4:17.7,0
+1974,11,German Grand Prix,1974-08-04,Bell,Surtees,11,25,14,Finished,+5:17.7,0
+1974,11,German Grand Prix,1974-08-04,Pace,Brabham,12,17,14,Finished,+6:26.3,0
+1974,11,German Grand Prix,1974-08-04,Brambilla,March,13,23,14,Finished,+8:43.1,0
+1974,11,German Grand Prix,1974-08-04,Ashley,Token,14,20,13,+1 Lap,,0
+1974,11,German Grand Prix,1974-08-04,Hailwood,McLaren,15,12,12,Accident,,0
+1974,11,German Grand Prix,1974-08-04,Mass,Surtees,16,13,10,Engine,,0
+1974,11,German Grand Prix,1974-08-04,Hunt,Hesketh,17,10,10,Gearbox,,0
+1974,11,German Grand Prix,1974-08-04,Depailler,Tyrrell,18,5,5,Accident,,0
+1974,11,German Grand Prix,1974-08-04,Merzario,Iso Marlboro,19,16,5,Throttle,,0
+1974,11,German Grand Prix,1974-08-04,Beltoise,BRM,20,15,4,Fuel system,,0
+1974,11,German Grand Prix,1974-08-04,Schuppan,Ensign,21,22,4,Gearbox,,0
+1974,11,German Grand Prix,1974-08-04,Fittipaldi,McLaren,22,3,2,Suspension,,0
+1974,11,German Grand Prix,1974-08-04,Laffite,Iso Marlboro,23,21,2,Suspension,,0
+1974,11,German Grand Prix,1974-08-04,Watson,Brabham,24,14,1,Suspension,,0
+1974,11,German Grand Prix,1974-08-04,Lauda,Ferrari,25,1,0,Accident,,0
+1974,11,German Grand Prix,1974-08-04,Hulme,McLaren,26,7,0,Accident,,0
+1974,11,German Grand Prix,1974-08-04,Migault,BRM,27,0,0,Did not qualify,,0
+1974,11,German Grand Prix,1974-08-04,Schenken,Trojan,28,0,0,Did not qualify,,0
+1974,11,German Grand Prix,1974-08-04,Edwards,Lola,29,0,0,Did not qualify,,0
+1974,11,German Grand Prix,1974-08-04,Perkins,Amon,30,0,0,Did not qualify,,0
+1974,11,German Grand Prix,1974-08-04,Amon,Amon,31,0,0,Did not qualify,,0
+1974,11,German Grand Prix,1974-08-04,Ganley,Maki,32,0,0,Did not qualify,,0
+1974,12,Austrian Grand Prix,1974-08-18,Reutemann,Brabham,1,2,54,Finished,1:28:44.72,9
+1974,12,Austrian Grand Prix,1974-08-18,Hulme,McLaren,2,10,54,Finished,+42.92,6
+1974,12,Austrian Grand Prix,1974-08-18,Hunt,Hesketh,3,7,54,Finished,+1:01.54,4
+1974,12,Austrian Grand Prix,1974-08-18,Watson,Brabham,4,11,54,Finished,+1:09.39,3
+1974,12,Austrian Grand Prix,1974-08-18,Regazzoni,Ferrari,5,8,54,Finished,+1:13.08,2
+1974,12,Austrian Grand Prix,1974-08-18,Brambilla,March,6,20,54,Finished,+1:13.82,1
+1974,12,Austrian Grand Prix,1974-08-18,Hobbs,McLaren,7,17,53,+1 Lap,,0
+1974,12,Austrian Grand Prix,1974-08-18,Jarier,Shadow,8,23,52,+2 Laps,,0
+1974,12,Austrian Grand Prix,1974-08-18,Quester,Surtees,9,25,51,+3 Laps,,0
+1974,12,Austrian Grand Prix,1974-08-18,Schenken,Trojan,10,19,50,+4 Laps,,0
+1974,12,Austrian Grand Prix,1974-08-18,Stuck,March,11,15,48,Suspension,,0
+1974,12,Austrian Grand Prix,1974-08-18,Hill,Lola,12,21,48,+6 Laps,,0
+1974,12,Austrian Grand Prix,1974-08-18,Ashley,Token,13,24,46,Not classified,,0
+1974,12,Austrian Grand Prix,1974-08-18,Peterson,Team Lotus,14,6,45,Halfshaft,,0
+1974,12,Austrian Grand Prix,1974-08-18,Ickx,Team Lotus,15,22,43,Collision,,0
+1974,12,Austrian Grand Prix,1974-08-18,Depailler,Tyrrell,16,14,42,Collision,,0
+1974,12,Austrian Grand Prix,1974-08-18,Pace,Brabham,17,4,41,Fuel leak,,0
+1974,12,Austrian Grand Prix,1974-08-18,Fittipaldi,McLaren,18,3,37,Engine,,0
+1974,12,Austrian Grand Prix,1974-08-18,Laffite,Iso Marlboro,19,12,37,Not classified,,0
+1974,12,Austrian Grand Prix,1974-08-18,Merzario,Iso Marlboro,20,9,24,Fuel system,,0
+1974,12,Austrian Grand Prix,1974-08-18,Pryce,Shadow,21,16,22,Spun off,,0
+1974,12,Austrian Grand Prix,1974-08-18,Beltoise,BRM,22,18,22,Engine,,0
+1974,12,Austrian Grand Prix,1974-08-18,Lauda,Ferrari,23,1,17,Engine,,0
+1974,12,Austrian Grand Prix,1974-08-18,Stommelen,Lola,24,13,14,Accident,,0
+1974,12,Austrian Grand Prix,1974-08-18,Scheckter,Tyrrell,25,5,8,Engine,,0
+1974,12,Austrian Grand Prix,1974-08-18,Scheckter,Hesketh,26,0,0,Did not qualify,,0
+1974,12,Austrian Grand Prix,1974-08-18,Kinnunen,Surtees,27,0,0,Did not qualify,,0
+1974,12,Austrian Grand Prix,1974-08-18,Bell,Surtees,28,0,0,Did not qualify,,0
+1974,12,Austrian Grand Prix,1974-08-18,Wilds,Ensign,29,0,0,Did not qualify,,0
+1974,12,Austrian Grand Prix,1974-08-18,Jabouille,Surtees,30,0,0,Did not qualify,,0
+1974,12,Austrian Grand Prix,1974-08-18,Koinigg,Brabham,31,0,0,Did not qualify,,0
+1974,13,Italian Grand Prix,1974-09-08,Peterson,Team Lotus,1,7,52,Finished,1:22:56.6,9
+1974,13,Italian Grand Prix,1974-09-08,Fittipaldi,McLaren,2,6,52,Finished,+0.8,6
+1974,13,Italian Grand Prix,1974-09-08,Scheckter,Tyrrell,3,12,52,Finished,+24.7,4
+1974,13,Italian Grand Prix,1974-09-08,Merzario,Iso Marlboro,4,15,52,Finished,+1:27.7,3
+1974,13,Italian Grand Prix,1974-09-08,Pace,Brabham,5,3,51,+1 Lap,,2
+1974,13,Italian Grand Prix,1974-09-08,Hulme,McLaren,6,19,51,+1 Lap,,1
+1974,13,Italian Grand Prix,1974-09-08,Watson,Brabham,7,4,51,+1 Lap,,0
+1974,13,Italian Grand Prix,1974-09-08,Hill,Lola,8,21,51,+1 Lap,,0
+1974,13,Italian Grand Prix,1974-09-08,Hobbs,McLaren,9,23,51,+1 Lap,,0
+1974,13,Italian Grand Prix,1974-09-08,Pryce,Shadow,10,22,50,+2 Laps,,0
+1974,13,Italian Grand Prix,1974-09-08,Depailler,Tyrrell,11,10,50,+2 Laps,,0
+1974,13,Italian Grand Prix,1974-09-08,Regazzoni,Ferrari,12,5,40,Engine,,0
+1974,13,Italian Grand Prix,1974-09-08,Lauda,Ferrari,13,1,32,Engine,,0
+1974,13,Italian Grand Prix,1974-09-08,Ickx,Team Lotus,14,16,30,Throttle,,0
+1974,13,Italian Grand Prix,1974-09-08,Stommelen,Lola,15,14,25,Suspension,,0
+1974,13,Italian Grand Prix,1974-09-08,Laffite,Iso Marlboro,16,17,22,Engine,,0
+1974,13,Italian Grand Prix,1974-09-08,Jarier,Shadow,17,9,19,Engine,,0
+1974,13,Italian Grand Prix,1974-09-08,Brambilla,March,18,13,16,Accident,,0
+1974,13,Italian Grand Prix,1974-09-08,Schenken,Trojan,19,20,15,Gearbox,,0
+1974,13,Italian Grand Prix,1974-09-08,Reutemann,Brabham,20,2,12,Gearbox,,0
+1974,13,Italian Grand Prix,1974-09-08,Stuck,March,21,18,11,Chassis,,0
+1974,13,Italian Grand Prix,1974-09-08,Pescarolo,BRM,22,25,3,Engine,,0
+1974,13,Italian Grand Prix,1974-09-08,Hunt,Hesketh,23,8,2,Engine,,0
+1974,13,Italian Grand Prix,1974-09-08,Migault,BRM,24,24,1,Gearbox,,0
+1974,13,Italian Grand Prix,1974-09-08,Beltoise,BRM,25,11,0,Electrical,,0
+1974,13,Italian Grand Prix,1974-09-08,Dolhem,Surtees,26,0,0,Did not qualify,,0
+1974,13,Italian Grand Prix,1974-09-08,Facetti,Brabham,27,0,0,Did not qualify,,0
+1974,13,Italian Grand Prix,1974-09-08,Bell,Surtees,28,0,0,Did not qualify,,0
+1974,13,Italian Grand Prix,1974-09-08,Wilds,Ensign,29,0,0,Did not qualify,,0
+1974,13,Italian Grand Prix,1974-09-08,Amon,Amon,30,0,0,Did not qualify,,0
+1974,13,Italian Grand Prix,1974-09-08,Kinnunen,Surtees,31,0,0,Did not qualify,,0
+1974,14,Canadian Grand Prix,1974-09-22,Fittipaldi,McLaren,1,1,80,Finished,1:40:26.136,9
+1974,14,Canadian Grand Prix,1974-09-22,Regazzoni,Ferrari,2,6,80,Finished,+13.034,6
+1974,14,Canadian Grand Prix,1974-09-22,Peterson,Team Lotus,3,10,80,Finished,+14.494,4
+1974,14,Canadian Grand Prix,1974-09-22,Hunt,Hesketh,4,8,80,Finished,+15.669,3
+1974,14,Canadian Grand Prix,1974-09-22,Depailler,Tyrrell,5,7,80,Finished,+55.322,2
+1974,14,Canadian Grand Prix,1974-09-22,Hulme,McLaren,6,14,79,+1 Lap,,1
+1974,14,Canadian Grand Prix,1974-09-22,Andretti,Parnelli,7,16,79,+1 Lap,,0
+1974,14,Canadian Grand Prix,1974-09-22,Pace,Brabham,8,9,79,+1 Lap,,0
+1974,14,Canadian Grand Prix,1974-09-22,Reutemann,Brabham,9,4,79,+1 Lap,,0
+1974,14,Canadian Grand Prix,1974-09-22,Koinigg,Surtees,10,22,78,+2 Laps,,0
+1974,14,Canadian Grand Prix,1974-09-22,Stommelen,Lola,11,11,78,+2 Laps,,0
+1974,14,Canadian Grand Prix,1974-09-22,Donohue,Penske,12,24,78,+2 Laps,,0
+1974,14,Canadian Grand Prix,1974-09-22,Ickx,Team Lotus,13,21,78,+2 Laps,,0
+1974,14,Canadian Grand Prix,1974-09-22,Hill,Lola,14,20,77,+3 Laps,,0
+1974,14,Canadian Grand Prix,1974-09-22,Laffite,Iso Marlboro,15,18,74,Puncture,,0
+1974,14,Canadian Grand Prix,1974-09-22,Mass,McLaren,16,12,72,+8 Laps,,0
+1974,14,Canadian Grand Prix,1974-09-22,Amon,BRM,17,25,70,Not classified,,0
+1974,14,Canadian Grand Prix,1974-09-22,Lauda,Ferrari,18,2,67,Accident,,0
+1974,14,Canadian Grand Prix,1974-09-22,Pryce,Shadow,19,13,65,Engine,,0
+1974,14,Canadian Grand Prix,1974-09-22,Watson,Brabham,20,15,61,Suspension,,0
+1974,14,Canadian Grand Prix,1974-09-22,Beltoise,BRM,21,17,60,Not classified,,0
+1974,14,Canadian Grand Prix,1974-09-22,Scheckter,Tyrrell,22,3,48,Brakes,,0
+1974,14,Canadian Grand Prix,1974-09-22,Jarier,Shadow,23,5,46,Halfshaft,,0
+1974,14,Canadian Grand Prix,1974-09-22,Merzario,Iso Marlboro,24,19,40,Handling,,0
+1974,14,Canadian Grand Prix,1974-09-22,Wietzes,Brabham,25,26,33,Engine,,0
+1974,14,Canadian Grand Prix,1974-09-22,Stuck,March,26,23,12,Fuel system,,0
+1974,14,Canadian Grand Prix,1974-09-22,Bell,Surtees,27,0,0,Did not qualify,,0
+1974,14,Canadian Grand Prix,1974-09-22,Wilds,Ensign,28,0,0,Did not qualify,,0
+1974,14,Canadian Grand Prix,1974-09-22,Brambilla,March,29,0,0,Did not qualify,,0
+1974,14,Canadian Grand Prix,1974-09-22,Ashley,Brabham,30,0,0,Did not qualify,,0
+1974,15,United States Grand Prix,1974-10-06,Reutemann,Brabham,1,1,59,Finished,1:40:21.439,9
+1974,15,United States Grand Prix,1974-10-06,Pace,Brabham,2,4,59,Finished,+10.735,6
+1974,15,United States Grand Prix,1974-10-06,Hunt,Hesketh,3,2,59,Finished,+1:10.384,4
+1974,15,United States Grand Prix,1974-10-06,Fittipaldi,McLaren,4,8,59,Finished,+1:17.753,3
+1974,15,United States Grand Prix,1974-10-06,Watson,Brabham,5,7,59,Finished,+1:25.804,2
+1974,15,United States Grand Prix,1974-10-06,Depailler,Tyrrell,6,13,59,Finished,+1:27.506,1
+1974,15,United States Grand Prix,1974-10-06,Mass,McLaren,7,20,59,Finished,+1:30.012,0
+1974,15,United States Grand Prix,1974-10-06,Hill,Lola,8,24,58,+1 Lap,,0
+1974,15,United States Grand Prix,1974-10-06,Amon,BRM,9,12,57,+2 Laps,,0
+1974,15,United States Grand Prix,1974-10-06,Jarier,Shadow,10,10,57,+2 Laps,,0
+1974,15,United States Grand Prix,1974-10-06,Regazzoni,Ferrari,11,9,55,+4 Laps,,0
+1974,15,United States Grand Prix,1974-10-06,Stommelen,Lola,12,21,54,+5 Laps,,0
+1974,15,United States Grand Prix,1974-10-06,Peterson,Team Lotus,13,19,52,Fuel system,,0
+1974,15,United States Grand Prix,1974-10-06,Wilds,Ensign,14,22,50,Not classified,,0
+1974,15,United States Grand Prix,1974-10-06,Pryce,Shadow,15,18,47,Not classified,,0
+1974,15,United States Grand Prix,1974-10-06,Scheckter,Tyrrell,16,6,44,Fuel system,,0
+1974,15,United States Grand Prix,1974-10-06,Merzario,Iso Marlboro,17,15,43,Electrical,,0
+1974,15,United States Grand Prix,1974-10-06,Lauda,Ferrari,18,5,38,Suspension,,0
+1974,15,United States Grand Prix,1974-10-06,Laffite,Iso Marlboro,19,11,31,Engine,,0
+1974,15,United States Grand Prix,1974-10-06,Donohue,Penske,20,14,27,Suspension,,0
+1974,15,United States Grand Prix,1974-10-06,Dolhem,Surtees,21,26,25,Withdrew,,0
+1974,15,United States Grand Prix,1974-10-06,Brambilla,March,22,25,21,Fuel system,,0
+1974,15,United States Grand Prix,1974-10-06,Koinigg,Surtees,23,23,9,Fatal accident,,0
+1974,15,United States Grand Prix,1974-10-06,Ickx,Team Lotus,24,16,7,Suspension,,0
+1974,15,United States Grand Prix,1974-10-06,Schenken,Team Lotus,25,27,6,Disqualified,,0
+1974,15,United States Grand Prix,1974-10-06,Andretti,Parnelli,26,3,4,Disqualified,,0
+1974,15,United States Grand Prix,1974-10-06,Hulme,McLaren,27,17,4,Engine,,0
+1974,15,United States Grand Prix,1974-10-06,Stuck,March,28,0,0,Did not qualify,,0
+1974,15,United States Grand Prix,1974-10-06,Ashley,Brabham,29,0,0,Did not qualify,,0
+1974,15,United States Grand Prix,1974-10-06,Beltoise,BRM,30,0,0,Did not qualify,,0

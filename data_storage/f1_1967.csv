@@ -1,0 +1,206 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1967,1,South African Grand Prix,1967-01-02,Rodríguez,Cooper-Maserati,1,4,80,Finished,2:05:45.9,9
+1967,1,South African Grand Prix,1967-01-02,Love,Cooper-Climax,2,5,80,Finished,+26.4,6
+1967,1,South African Grand Prix,1967-01-02,Surtees,Honda,3,6,79,+1 Lap,,4
+1967,1,South African Grand Prix,1967-01-02,Hulme,Brabham-Repco,4,2,78,+2 Laps,,3
+1967,1,South African Grand Prix,1967-01-02,Anderson,Brabham-Climax,5,10,78,+2 Laps,,2
+1967,1,South African Grand Prix,1967-01-02,Brabham,Brabham-Repco,6,1,76,+4 Laps,,1
+1967,1,South African Grand Prix,1967-01-02,Charlton,Brabham-Climax,7,8,63,Not classified,,0
+1967,1,South African Grand Prix,1967-01-02,Botha,Brabham-Climax,8,17,60,Not classified,,0
+1967,1,South African Grand Prix,1967-01-02,Tingle,LDS-Climax,9,14,56,Accident,,0
+1967,1,South African Grand Prix,1967-01-02,Courage,Lotus-BRM,10,18,51,Fuel system,,0
+1967,1,South African Grand Prix,1967-01-02,Gurney,Eagle-Climax,11,11,44,Suspension,,0
+1967,1,South African Grand Prix,1967-01-02,Siffert,Cooper-Maserati,12,16,41,Engine,,0
+1967,1,South African Grand Prix,1967-01-02,Rindt,Cooper-Maserati,13,7,38,Engine,,0
+1967,1,South African Grand Prix,1967-01-02,Spence,BRM,14,13,31,Oil leak,,0
+1967,1,South African Grand Prix,1967-01-02,Bonnier,Cooper-Maserati,15,12,30,Engine,,0
+1967,1,South African Grand Prix,1967-01-02,Clark,Lotus-BRM,16,3,22,Engine,,0
+1967,1,South African Grand Prix,1967-01-02,Hill,Lotus-BRM,17,15,6,Accident,,0
+1967,1,South African Grand Prix,1967-01-02,Stewart,BRM,18,9,2,Engine,,0
+1967,2,Monaco Grand Prix,1967-05-07,Hulme,Brabham-Repco,1,4,100,Finished,2:34:34.3,9
+1967,2,Monaco Grand Prix,1967-05-07,Hill,Lotus-BRM,2,8,99,+1 Lap,,6
+1967,2,Monaco Grand Prix,1967-05-07,Amon,Ferrari,3,14,98,+2 Laps,,4
+1967,2,Monaco Grand Prix,1967-05-07,McLaren,McLaren-BRM,4,10,98,+3 Laps,,3
+1967,2,Monaco Grand Prix,1967-05-07,Rodríguez,Cooper-Maserati,5,16,96,+4 Laps,,2
+1967,2,Monaco Grand Prix,1967-05-07,Spence,BRM,6,12,96,+4 Laps,,1
+1967,2,Monaco Grand Prix,1967-05-07,Bandini,Ferrari,7,2,81,Accident,,0
+1967,2,Monaco Grand Prix,1967-05-07,Courage,BRM,8,13,64,Spun off,,0
+1967,2,Monaco Grand Prix,1967-05-07,Clark,Lotus-Climax,9,5,42,Suspension,,0
+1967,2,Monaco Grand Prix,1967-05-07,Surtees,Honda,10,3,32,Engine,,0
+1967,2,Monaco Grand Prix,1967-05-07,Siffert,Cooper-Maserati,11,9,31,Oil pressure,,0
+1967,2,Monaco Grand Prix,1967-05-07,Stewart,BRM,12,6,14,Differential,,0
+1967,2,Monaco Grand Prix,1967-05-07,Rindt,Cooper-Maserati,13,15,14,Gearbox,,0
+1967,2,Monaco Grand Prix,1967-05-07,Gurney,Eagle-Weslake,14,7,4,Fuel pump,,0
+1967,2,Monaco Grand Prix,1967-05-07,Servoz-Gavin,Matra,15,11,4,Injection,,0
+1967,2,Monaco Grand Prix,1967-05-07,Brabham,Brabham-Repco,16,1,0,Engine,,0
+1967,2,Monaco Grand Prix,1967-05-07,Anderson,Brabham-Climax,17,0,0,Did not qualify,,0
+1967,2,Monaco Grand Prix,1967-05-07,Beltoise,Matra,18,0,0,Did not qualify,,0
+1967,2,Monaco Grand Prix,1967-05-07,Ginther,Eagle-Climax,19,0,0,Did not qualify,,0
+1967,3,Dutch Grand Prix,1967-06-04,Clark,Lotus-Ford,1,8,90,Finished,2:14:45.1,9
+1967,3,Dutch Grand Prix,1967-06-04,Brabham,Brabham-Repco,2,3,90,Finished,+23.6,6
+1967,3,Dutch Grand Prix,1967-06-04,Hulme,Brabham-Repco,3,7,90,Finished,+25.7,4
+1967,3,Dutch Grand Prix,1967-06-04,Amon,Ferrari,4,9,90,Finished,+27.3,3
+1967,3,Dutch Grand Prix,1967-06-04,Parkes,Ferrari,5,10,89,+1 Lap,,2
+1967,3,Dutch Grand Prix,1967-06-04,Scarfiotti,Ferrari,6,15,89,+1 Lap,,1
+1967,3,Dutch Grand Prix,1967-06-04,Irwin,Lotus-BRM,7,13,88,+2 Laps,,0
+1967,3,Dutch Grand Prix,1967-06-04,Spence,BRM,8,12,87,+3 Laps,,0
+1967,3,Dutch Grand Prix,1967-06-04,Anderson,Brabham-Climax,9,17,86,+4 Laps,,0
+1967,3,Dutch Grand Prix,1967-06-04,Siffert,Cooper-Maserati,10,16,83,+7 Laps,,0
+1967,3,Dutch Grand Prix,1967-06-04,Surtees,Honda,11,6,73,Throttle,,0
+1967,3,Dutch Grand Prix,1967-06-04,Stewart,BRM,12,11,51,Brakes,,0
+1967,3,Dutch Grand Prix,1967-06-04,Rindt,Cooper-Maserati,13,4,41,Suspension,,0
+1967,3,Dutch Grand Prix,1967-06-04,Rodríguez,Cooper-Maserati,14,5,39,Gearbox,,0
+1967,3,Dutch Grand Prix,1967-06-04,Hill,Lotus-Ford,15,1,11,Engine,,0
+1967,3,Dutch Grand Prix,1967-06-04,Gurney,Eagle-Weslake,16,2,8,Injection,,0
+1967,3,Dutch Grand Prix,1967-06-04,McLaren,McLaren-BRM,17,14,1,Accident,,0
+1967,4,Belgian Grand Prix,1967-06-18,Gurney,Eagle-Weslake,1,2,28,Finished,1:40:49.4,9
+1967,4,Belgian Grand Prix,1967-06-18,Stewart,BRM,2,6,28,Finished,+1:03.0,6
+1967,4,Belgian Grand Prix,1967-06-18,Amon,Ferrari,3,5,28,Finished,+1:40.0,4
+1967,4,Belgian Grand Prix,1967-06-18,Rindt,Cooper-Maserati,4,4,28,Finished,+2:13.9,3
+1967,4,Belgian Grand Prix,1967-06-18,Spence,BRM,5,11,27,+1 Lap,,2
+1967,4,Belgian Grand Prix,1967-06-18,Clark,Lotus-Ford,6,1,27,+1 Lap,,1
+1967,4,Belgian Grand Prix,1967-06-18,Siffert,Cooper-Maserati,7,16,27,+1 Lap,,0
+1967,4,Belgian Grand Prix,1967-06-18,Anderson,Brabham-Climax,8,17,26,+2 Laps,,0
+1967,4,Belgian Grand Prix,1967-06-18,Rodríguez,Cooper-Maserati,9,13,25,Engine,,0
+1967,4,Belgian Grand Prix,1967-06-18,Ligier,Cooper-Maserati,10,18,25,+3 Laps,,0
+1967,4,Belgian Grand Prix,1967-06-18,Scarfiotti,Ferrari,11,9,24,Not classified,,0
+1967,4,Belgian Grand Prix,1967-06-18,Brabham,Brabham-Repco,12,7,15,Engine,,0
+1967,4,Belgian Grand Prix,1967-06-18,Hulme,Brabham-Repco,13,14,14,Engine,,0
+1967,4,Belgian Grand Prix,1967-06-18,Bonnier,Cooper-Maserati,14,12,10,Engine,,0
+1967,4,Belgian Grand Prix,1967-06-18,Hill,Lotus-Ford,15,3,3,Clutch,,0
+1967,4,Belgian Grand Prix,1967-06-18,Surtees,Honda,16,10,1,Engine,,0
+1967,4,Belgian Grand Prix,1967-06-18,Irwin,BRM,17,15,1,Engine,,0
+1967,4,Belgian Grand Prix,1967-06-18,Parkes,Ferrari,18,8,0,Accident,,0
+1967,5,French Grand Prix,1967-07-02,Brabham,Brabham-Repco,1,2,80,Finished,2:13:21.3,9
+1967,5,French Grand Prix,1967-07-02,Hulme,Brabham-Repco,2,6,80,Finished,+49.5,6
+1967,5,French Grand Prix,1967-07-02,Stewart,BRM,3,10,79,+1 Lap,,4
+1967,5,French Grand Prix,1967-07-02,Siffert,Cooper-Maserati,4,11,77,+3 Laps,,3
+1967,5,French Grand Prix,1967-07-02,Irwin,BRM,5,9,76,Engine,,2
+1967,5,French Grand Prix,1967-07-02,Rodríguez,Cooper-Maserati,6,13,76,+4 Laps,,1
+1967,5,French Grand Prix,1967-07-02,Ligier,Cooper-Maserati,7,15,68,Not classified,,0
+1967,5,French Grand Prix,1967-07-02,Amon,Ferrari,8,7,47,Throttle,,0
+1967,5,French Grand Prix,1967-07-02,Gurney,Eagle-Weslake,9,3,40,Fuel leak,,0
+1967,5,French Grand Prix,1967-07-02,Rindt,Cooper-Maserati,10,8,33,Engine,,0
+1967,5,French Grand Prix,1967-07-02,McLaren,Eagle-Weslake,11,5,26,Ignition,,0
+1967,5,French Grand Prix,1967-07-02,Clark,Lotus-Ford,12,4,23,Differential,,0
+1967,5,French Grand Prix,1967-07-02,Anderson,Brabham-Climax,13,14,16,Ignition,,0
+1967,5,French Grand Prix,1967-07-02,Hill,Lotus-Ford,14,1,13,Differential,,0
+1967,5,French Grand Prix,1967-07-02,Spence,BRM,15,12,9,Halfshaft,,0
+1967,6,British Grand Prix,1967-07-15,Clark,Lotus-Ford,1,1,80,Finished,1:59:25.6,9
+1967,6,British Grand Prix,1967-07-15,Hulme,Brabham-Repco,2,4,80,Finished,+12.8,6
+1967,6,British Grand Prix,1967-07-15,Amon,Ferrari,3,6,80,Finished,+16.6,4
+1967,6,British Grand Prix,1967-07-15,Brabham,Brabham-Repco,4,3,80,Finished,+21.8,3
+1967,6,British Grand Prix,1967-07-15,Rodríguez,Cooper-Maserati,5,9,79,+1 Lap,,2
+1967,6,British Grand Prix,1967-07-15,Surtees,Honda,6,7,78,+2 Laps,,1
+1967,6,British Grand Prix,1967-07-15,Irwin,BRM,7,13,77,+3 Laps,,0
+1967,6,British Grand Prix,1967-07-15,Hobbs,BRM,8,14,77,+3 Laps,,0
+1967,6,British Grand Prix,1967-07-15,Rees,Cooper-Maserati,9,15,76,+4 Laps,,0
+1967,6,British Grand Prix,1967-07-15,Ligier,Brabham-Repco,10,21,76,+4 Laps,,0
+1967,6,British Grand Prix,1967-07-15,Anderson,Brabham-Climax,11,17,67,Engine,,0
+1967,6,British Grand Prix,1967-07-15,Hill,Lotus-Ford,12,2,64,Engine,,0
+1967,6,British Grand Prix,1967-07-15,Spence,BRM,13,11,44,Ignition,,0
+1967,6,British Grand Prix,1967-07-15,Gurney,Eagle-Weslake,14,5,34,Clutch,,0
+1967,6,British Grand Prix,1967-07-15,Moser,Cooper-ATS,15,20,29,Oil pressure,,0
+1967,6,British Grand Prix,1967-07-15,Rindt,Cooper-Maserati,16,8,26,Engine,,0
+1967,6,British Grand Prix,1967-07-15,Stewart,BRM,17,12,20,Transmission,,0
+1967,6,British Grand Prix,1967-07-15,McLaren,Eagle-Weslake,18,10,14,Engine,,0
+1967,6,British Grand Prix,1967-07-15,Siffert,Cooper-Maserati,19,18,10,Engine,,0
+1967,6,British Grand Prix,1967-07-15,Bonnier,Cooper-Maserati,20,9,0,Engine,,0
+1967,6,British Grand Prix,1967-07-15,Courage,BRM,21,0,0,Withdrew,,0
+1967,7,German Grand Prix,1967-08-06,Hulme,Brabham-Repco,1,2,15,Finished,2:05:55.7,9
+1967,7,German Grand Prix,1967-08-06,Brabham,Brabham-Repco,2,7,15,Finished,+38.5,6
+1967,7,German Grand Prix,1967-08-06,Amon,Ferrari,3,8,15,Finished,+39.0,4
+1967,7,German Grand Prix,1967-08-06,Surtees,Honda,4,6,15,Finished,+2:25.7,3
+1967,7,German Grand Prix,1967-08-06,Oliver,Lotus-Ford,5,19,15,Finished,+5:30.7,0
+1967,7,German Grand Prix,1967-08-06,Bonnier,Cooper-Maserati,6,16,15,Finished,+8:42.1,2
+1967,7,German Grand Prix,1967-08-06,Rees,Brabham-Ford,7,20,15,Finished,+8:47.9,0
+1967,7,German Grand Prix,1967-08-06,Ligier,Brabham-Repco,8,17,14,+1 Lap,,1
+1967,7,German Grand Prix,1967-08-06,Irwin,BRM,9,15,13,+2 Laps,,0
+1967,7,German Grand Prix,1967-08-06,Hobbs,Lola,10,22,13,+2 Laps,,0
+1967,7,German Grand Prix,1967-08-06,Rodríguez,Cooper-Maserati,11,10,13,+2 Laps,,0
+1967,7,German Grand Prix,1967-08-06,Gurney,Eagle-Weslake,12,4,12,Halfshaft,,0
+1967,7,German Grand Prix,1967-08-06,Ickx,Matra,13,18,12,Suspension,,0
+1967,7,German Grand Prix,1967-08-06,Hart,Protos,14,25,12,+3 Laps,,0
+1967,7,German Grand Prix,1967-08-06,Siffert,Cooper-Maserati,15,12,12,Fuel pump,,0
+1967,7,German Grand Prix,1967-08-06,Hill,Lotus-Ford,16,13,8,Suspension,,0
+1967,7,German Grand Prix,1967-08-06,Hahne,Lola,17,14,6,Suspension,,0
+1967,7,German Grand Prix,1967-08-06,Stewart,BRM,18,3,5,Differential,,0
+1967,7,German Grand Prix,1967-08-06,Clark,Lotus-Ford,19,1,4,Suspension,,0
+1967,7,German Grand Prix,1967-08-06,Rindt,Cooper-Maserati,20,9,4,Radiator,,0
+1967,7,German Grand Prix,1967-08-06,Ahrens,Protos,21,23,4,Radiator,,0
+1967,7,German Grand Prix,1967-08-06,McLaren,Eagle-Weslake,22,5,3,Oil leak,,0
+1967,7,German Grand Prix,1967-08-06,Spence,BRM,23,11,3,Differential,,0
+1967,7,German Grand Prix,1967-08-06,Schlesser,Matra,24,21,2,Engine,,0
+1967,8,Canadian Grand Prix,1967-08-27,Brabham,Brabham-Repco,1,7,90,Finished,2:40:40.0,9
+1967,8,Canadian Grand Prix,1967-08-27,Hulme,Brabham-Repco,2,3,90,Finished,+1:01.9,6
+1967,8,Canadian Grand Prix,1967-08-27,Gurney,Eagle-Weslake,3,5,89,+1 Lap,,4
+1967,8,Canadian Grand Prix,1967-08-27,Hill,Lotus-Ford,4,2,88,+2 Laps,,3
+1967,8,Canadian Grand Prix,1967-08-27,Spence,BRM,5,10,87,+3 Laps,,2
+1967,8,Canadian Grand Prix,1967-08-27,Amon,Ferrari,6,4,87,+3 Laps,,1
+1967,8,Canadian Grand Prix,1967-08-27,McLaren,McLaren-BRM,7,6,86,+4 Laps,,0
+1967,8,Canadian Grand Prix,1967-08-27,Bonnier,Cooper-Maserati,8,14,85,+5 Laps,,0
+1967,8,Canadian Grand Prix,1967-08-27,Hobbs,BRM,9,12,85,+5 Laps,,0
+1967,8,Canadian Grand Prix,1967-08-27,Attwood,Cooper-Maserati,10,13,84,+6 Laps,,0
+1967,8,Canadian Grand Prix,1967-08-27,Fisher,Lotus-BRM,11,17,81,+9 Laps,,0
+1967,8,Canadian Grand Prix,1967-08-27,Clark,Lotus-Ford,12,1,69,Ignition,,0
+1967,8,Canadian Grand Prix,1967-08-27,Wietzes,Lotus-Ford,13,16,69,Disqualified,,0
+1967,8,Canadian Grand Prix,1967-08-27,Stewart,BRM,14,9,65,Throttle,,0
+1967,8,Canadian Grand Prix,1967-08-27,Pease,Eagle-Climax,15,15,47,Not classified,,0
+1967,8,Canadian Grand Prix,1967-08-27,Irwin,BRM,16,11,18,Spun off,,0
+1967,8,Canadian Grand Prix,1967-08-27,Rindt,Cooper-Maserati,17,8,4,Ignition,,0
+1967,8,Canadian Grand Prix,1967-08-27,Jones,Cooper-Climax,18,0,0,Did not qualify,,0
+1967,9,Italian Grand Prix,1967-09-10,Surtees,Honda,1,9,68,Finished,1:43:45.0,9
+1967,9,Italian Grand Prix,1967-09-10,Brabham,Brabham-Repco,2,2,68,Finished,+0.2,6
+1967,9,Italian Grand Prix,1967-09-10,Clark,Lotus-Ford,3,1,68,Finished,+23.1,4
+1967,9,Italian Grand Prix,1967-09-10,Rindt,Cooper-Maserati,4,11,68,Finished,+56.6,3
+1967,9,Italian Grand Prix,1967-09-10,Spence,BRM,5,12,67,+1 Lap,,2
+1967,9,Italian Grand Prix,1967-09-10,Ickx,Cooper-Maserati,6,15,66,+2 Laps,,1
+1967,9,Italian Grand Prix,1967-09-10,Amon,Ferrari,7,4,64,+4 Laps,,0
+1967,9,Italian Grand Prix,1967-09-10,Hill,Lotus-Ford,8,8,58,Engine,,0
+1967,9,Italian Grand Prix,1967-09-10,Siffert,Cooper-Maserati,9,13,50,Accident,,0
+1967,9,Italian Grand Prix,1967-09-10,Baghetti,Lotus-Ford,10,17,50,Engine,,0
+1967,9,Italian Grand Prix,1967-09-10,McLaren,McLaren-BRM,11,3,46,Engine,,0
+1967,9,Italian Grand Prix,1967-09-10,Bonnier,Cooper-Maserati,12,14,46,Overheating,,0
+1967,9,Italian Grand Prix,1967-09-10,Stewart,BRM,13,7,45,Engine,,0
+1967,9,Italian Grand Prix,1967-09-10,Hulme,Brabham-Repco,14,6,30,Overheating,,0
+1967,9,Italian Grand Prix,1967-09-10,Ligier,Brabham-Repco,15,18,26,Engine,,0
+1967,9,Italian Grand Prix,1967-09-10,Irwin,BRM,16,16,16,Injection,,0
+1967,9,Italian Grand Prix,1967-09-10,Scarfiotti,Eagle-Weslake,17,10,5,Engine,,0
+1967,9,Italian Grand Prix,1967-09-10,Gurney,Eagle-Weslake,18,5,4,Engine,,0
+1967,10,United States Grand Prix,1967-10-01,Clark,Lotus-Ford,1,2,108,Finished,2:03:13.2,9
+1967,10,United States Grand Prix,1967-10-01,Hill,Lotus-Ford,2,1,108,Finished,+6.3,6
+1967,10,United States Grand Prix,1967-10-01,Hulme,Brabham-Repco,3,6,107,+1 Lap,,4
+1967,10,United States Grand Prix,1967-10-01,Siffert,Cooper-Maserati,4,12,106,+2 Laps,,3
+1967,10,United States Grand Prix,1967-10-01,Brabham,Brabham-Repco,5,5,104,+4 Laps,,2
+1967,10,United States Grand Prix,1967-10-01,Bonnier,Cooper-Maserati,6,15,101,+7 Laps,,1
+1967,10,United States Grand Prix,1967-10-01,Beltoise,McLaren-Ford,7,18,101,+7 Laps,,0
+1967,10,United States Grand Prix,1967-10-01,Surtees,Honda,8,11,96,Alternator,,0
+1967,10,United States Grand Prix,1967-10-01,Amon,Ferrari,9,4,95,Engine,,0
+1967,10,United States Grand Prix,1967-10-01,Stewart,BRM,10,10,72,Injection,,0
+1967,10,United States Grand Prix,1967-10-01,Ickx,Cooper-Maserati,11,16,45,Overheating,,0
+1967,10,United States Grand Prix,1967-10-01,Ligier,Brabham-Repco,12,17,43,Engine,,0
+1967,10,United States Grand Prix,1967-10-01,Irwin,BRM,13,14,41,Engine,,0
+1967,10,United States Grand Prix,1967-10-01,Spence,BRM,14,13,35,Engine,,0
+1967,10,United States Grand Prix,1967-10-01,Rindt,Cooper-Maserati,15,8,33,Engine,,0
+1967,10,United States Grand Prix,1967-10-01,Gurney,Eagle-Weslake,16,3,24,Suspension,,0
+1967,10,United States Grand Prix,1967-10-01,McLaren,McLaren-BRM,17,9,16,Water leak,,0
+1967,10,United States Grand Prix,1967-10-01,Solana,Lotus-Ford,18,7,7,Ignition,,0
+1967,11,Mexican Grand Prix,1967-10-22,Clark,Lotus-Ford,1,1,65,Finished,1:59:28.70,9
+1967,11,Mexican Grand Prix,1967-10-22,Brabham,Brabham-Repco,2,5,65,Finished,+1:25.36,6
+1967,11,Mexican Grand Prix,1967-10-22,Hulme,Brabham-Repco,3,6,64,+1 Lap,,4
+1967,11,Mexican Grand Prix,1967-10-22,Surtees,Honda,4,7,64,+1 Lap,,3
+1967,11,Mexican Grand Prix,1967-10-22,Spence,BRM,5,11,63,+2 Laps,,2
+1967,11,Mexican Grand Prix,1967-10-22,Rodríguez,Cooper-Maserati,6,13,63,+2 Laps,,1
+1967,11,Mexican Grand Prix,1967-10-22,Beltoise,McLaren-Ford,7,14,63,+2 Laps,,0
+1967,11,Mexican Grand Prix,1967-10-22,Williams,Ferrari,8,16,63,+2 Laps,,0
+1967,11,Mexican Grand Prix,1967-10-22,Amon,Ferrari,9,2,62,Out of fuel,,0
+1967,11,Mexican Grand Prix,1967-10-22,Bonnier,Cooper-Maserati,10,17,61,+4 Laps,,0
+1967,11,Mexican Grand Prix,1967-10-22,Ligier,Brabham-Repco,11,19,41,+4 Laps,,0
+1967,11,Mexican Grand Prix,1967-10-22,Siffert,Cooper-Maserati,12,10,59,Overheating,,0
+1967,11,Mexican Grand Prix,1967-10-22,McLaren,McLaren-BRM,13,8,45,Oil pressure,,0
+1967,11,Mexican Grand Prix,1967-10-22,Irwin,BRM,14,15,33,Oil leak,,0
+1967,11,Mexican Grand Prix,1967-10-22,Stewart,BRM,15,12,24,Engine,,0
+1967,11,Mexican Grand Prix,1967-10-22,Hill,Lotus-Ford,16,4,18,Halfshaft,,0
+1967,11,Mexican Grand Prix,1967-10-22,Solana,Lotus-BRM,17,9,12,Suspension,,0
+1967,11,Mexican Grand Prix,1967-10-22,Gurney,Eagle-Climax,18,3,4,Radiator,,0
+1967,11,Mexican Grand Prix,1967-10-22,Fisher,Lotus-BRM,19,10,0,Fuel system,,0

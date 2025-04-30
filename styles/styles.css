@@ -1,0 +1,623 @@
+/* Estilos generales */
+body {
+  font-family: "Raleway", serif;
+  font-optical-sizing: auto;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f9;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
+
+.nav-links {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  margin: 0 25px;
+  transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+  color: #ff0000;
+}
+
+main {
+  padding: 20px;
+  background-color: #555555;
+  flex: 1;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+#logoIni {
+  
+  width: 250px;
+  height: 60px;
+  margin: 0 auto;
+  margin-top: 13px;
+  display: block;
+  cursor: pointer;
+}
+
+#content {
+  background-color: #555555;
+}
+
+/* Estilos para el selector */
+#year-selector {
+  margin-bottom: 20px;
+}
+
+#year-selector select,
+#year-selector button {
+  margin-right: 10px;
+}
+
+#selectionContainer {
+  color: white;
+  font-size:xx-large;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#searchControls {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+#searchControls button {
+  font-size: large;
+  margin: 0 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #333;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#searchControls button:hover {
+  transition: color 0.3s ease;
+  color: #ff0000;
+}
+
+#searchControls select {
+  width: 150px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #333;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: large;
+}
+
+#detailsContainer {
+  margin-top: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#infoCard{
+  color: white;
+  background-color: #333;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 15px;
+  width: 250px;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s ease;
+}
+
+#infoCard:hover {
+  transform: scale(1.05);
+}
+
+#infoCard2 {
+  color: white;
+  background-color: #333;
+  margin: 10px;
+  padding: 20px;
+  border: 1px solid #333;
+  border-radius: 15px;
+  width: 350px;
+  height: auto;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  align-items: center;
+  justify-items: center;
+  transition: transform 0.3s ease, color 0.3s ease;
+  cursor: pointer;
+}
+
+#infoCard2:hover {
+  transform: scale(1.05);
+  color: #ff0000;
+}
+
+#infoCard2 img {
+  width: 125px;
+}
+
+#raceCard {
+  color: white;
+  background-color: #333;
+  margin: 10px;
+  padding: 20px;
+  border: 1px solid #333;
+  border-radius: 15px;
+  transition: transform 0.3s ease, color 0.3s ease;
+  cursor: pointer;
+  width: 450px;
+}
+
+/* #raceCard:hover {
+} */
+
+#raceGridResults {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+#driverResult {
+  font-size: 16px;
+  color: white;
+}
+
+#driverResult:first-child {
+  color: gold;
+}
+
+#driverResult:nth-child(2) {
+  color: silver;
+}
+
+#driverResult:nth-child(3) {
+  color: #cd7f32; /* Bronze */
+}
+
+#driverResult:not(:first-child):hover {
+  color: red;
+}
+
+#predictionCard {
+  color: white;
+  background-color: #333;
+  margin: 10px;
+  padding: 20px;
+  border: 1px solid #333;
+  border-radius: 15px;
+  width: 300px;
+  transition: transform 0.3s ease, color 0.3s ease;
+  cursor: pointer;
+}
+
+#predictionCard:hover {
+  transform: scale(1.05);
+  color: #ff0000;
+}
+
+#loading {
+  color: white;
+  text-align: center;
+  font-size: 2em;
+  margin-top: 20px;
+}
+
+#standingsContainer {
+  color: white;
+  font-size: xx-large;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#standingsControls {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+#standingsControls button {
+  font-size: large;
+  margin: 0 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #333;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#standingsControls button:hover {
+  color: #ff0000;
+}
+
+#standingsControls select {
+  width: 150px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #333;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: large;
+}
+
+#standingsDetails {
+  margin-top: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+#standingsCard {
+  color: white;
+  background-color: #333;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 15px;
+  width: 300px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s ease;
+}
+
+#standingsCard:hover {
+  transform: scale(1.05);
+}
+
+#driverStandingsList, #constructorStandingsList {
+  margin-top: 20px;
+  width: 500px;
+  text-align: left;
+  max-width: 600px;
+  background-color: #333;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 10px;
+}
+
+.standingsRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.standingsRow:hover {
+  background-color: #444;
+  transform: translateX(5px);
+}
+
+.standingsName {
+  text-align: left;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.standingsName span {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.standingsPoints {
+  text-align: right;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#driverStandingsList li, #constructorStandingsList li {
+  padding: 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+#driverStandingsList li:hover, #constructorStandingsList li:hover {
+  background-color: #444;
+  transform: translateX(5px);
+}
+
+#predictionsControls select {
+  width: 150px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #333;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: large;
+}
+
+#predictionsControls button {
+  font-size: large;
+  margin: 0 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #333;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#predictionsControls button:hover {
+  color: #ff0000;
+}
+
+#predictionsControls {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+#predictionsTitle {
+  color: white;
+  font-size: xx-large;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#seasonInput {
+  margin-right: 10px;
+}
+
+#welcome-section {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.welcome-title {
+  color: white;
+  font-size: 2em;
+}
+
+.welcome-intro {
+  color: white;
+  font-size: 1.5em;
+  margin-top: 10px;
+  max-width: 50%; /* Restrict width to 50% */
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  
+}
+
+.card {
+  background-color: #333;
+  border-radius: 15px;
+  margin: 20px auto;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: row; /* Horizontal layout */
+  gap: 20px;
+  opacity: 0; /* Initially hidden */
+  transform: translateX(100px); /* Start off-screen */
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out, background-color 0.3s ease, transform 0.9s ease; /* Smooth animation */
+}
+
+.card.card-left {
+  transform: translateX(-100px); /* Start off-screen to the left */
+}
+
+.card.visible {
+  opacity: 1; /* Fully visible */
+  transform: translateX(0); /* Move to final position */
+}
+
+.card:hover {
+  background-color: #222; /* Darker background on hover */
+  transform: scale(1.02); /* Slightly increase size */
+}
+
+.card-half {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-image {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.card-content {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.card-text {
+  color: white;
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+#welcome-section div {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+#welcome-section img {
+  max-width: 45%;
+  height: auto;
+}
+
+#welcome-section p {
+  max-width: 70%;
+  text-align: center; /* Changed from left to center */
+  font-size: 1.5em;
+  color: white;
+  margin: 0 auto; /* Center horizontally */
+  margin-bottom: 50px;
+}
+
+#welcome-section img {
+  max-width: 100%;
+  height: auto;
+  flex: 1 1 calc(33.33% - 20px); /* Adjust for spacing */
+  /* margin: 10px; */
+}
+
+.section-button {
+  background-color: #cc0000; /* Darker red */
+  color: white;
+  border: none;
+  border-radius: 10px; /* Rounded corners */
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.section-button:hover {
+  background-color: #ff0000; /* Lighter red on hover */
+}
+
+/* Styles for the dropdown menu */
+.menu-button {
+  display: none;
+  background-color: #333;
+  color: white;
+  border: none;
+  font-size: 1.5em;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 60px;
+  right: 10px;
+  background-color: #333;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+}
+
+.dropdown-menu a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  transition: background-color 0.3s ease;
+}
+
+.dropdown-menu a:hover {
+  background-color: #444;
+}
+
+/* Responsive layout for narrow screens */
+@media (max-width: 768px) {
+  .nav-links {
+    display: none; /* Hide navigation links */
+  }
+
+  .menu-button {
+    display: block; /* Show menu button */
+  }
+
+  .dropdown-menu {
+    width: 200px;
+  }
+}
+
+/* Responsive layout for narrow screens */
+@media (max-width: 768px) {
+  .card {
+    flex-direction: column; /* Stack content vertically */
+  }
+
+  .card-half {
+    width: 100%; /* Full width for each half */
+  }
+
+  .card-image {
+    margin-bottom: 20px; /* Add spacing below the image */
+  }
+}
+
+/* Responsive layout for standings on narrow screens */
+@media (max-width: 768px) {
+  #driverStandingsList, #constructorStandingsList {
+    width: 95%; /* Make the standings almost full width */
+    margin: 0 auto; /* Center the standings */
+  }
+
+  .standingsRow {
+    flex-direction: column; /* Stack content vertically */
+    align-items: flex-start; /* Align items to the start */
+    gap: 5px; /* Add spacing between stacked items */
+  }
+
+  .standingsName {
+    font-size: 14px; /* Reduce font size for better fit */
+    width: 100%; /* Ensure it spans full width */
+  }
+
+  .standingsPoints {
+    font-size: 14px; /* Reduce font size for better fit */
+    text-align: right; /* Keep points aligned to the right */
+    width: 100%; /* Ensure it spans full width */
+  }
+}
+
+/* Center dropdown button and menu for narrow screens */
+@media (max-width: 768px) {
+  .menu-button {
+    display: block; /* Show menu button */
+    margin: 0 auto; /* Center the button */
+  }
+
+  .dropdown-menu {
+    width: 200px;
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%); /* Adjust for centering */
+    text-align: center; /* Center text inside the dropdown */
+  }
+}

@@ -1,0 +1,384 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1980,1,Argentine Grand Prix,1980-01-13,Jones,Williams,1,1,53,Finished,1:43:24.38,9
+1980,1,Argentine Grand Prix,1980-01-13,Piquet,Brabham,2,4,53,Finished,+24.59,6
+1980,1,Argentine Grand Prix,1980-01-13,Rosberg,Fittipaldi,3,13,53,Finished,+1:18.64,4
+1980,1,Argentine Grand Prix,1980-01-13,Daly,Tyrrell,4,22,53,Finished,+1:23.48,3
+1980,1,Argentine Grand Prix,1980-01-13,Giacomelli,Alfa Romeo,5,20,52,+1 Lap,,2
+1980,1,Argentine Grand Prix,1980-01-13,Prost,McLaren,6,12,52,+1 Lap,,1
+1980,1,Argentine Grand Prix,1980-01-13,Zunino,Brabham,7,16,51,+2 Laps,,0
+1980,1,Argentine Grand Prix,1980-01-13,Depailler,Alfa Romeo,8,23,46,Engine,,0
+1980,1,Argentine Grand Prix,1980-01-13,Scheckter,Ferrari,9,11,45,Engine,,0
+1980,1,Argentine Grand Prix,1980-01-13,Regazzoni,Ensign,10,15,44,Not classified,,0
+1980,1,Argentine Grand Prix,1980-01-13,Fittipaldi,Fittipaldi,11,24,37,Not classified,,0
+1980,1,Argentine Grand Prix,1980-01-13,Villeneuve,Ferrari,12,8,36,Accident,,0
+1980,1,Argentine Grand Prix,1980-01-13,Laffite,Ligier,13,2,30,Engine,,0
+1980,1,Argentine Grand Prix,1980-01-13,Patrese,Arrows,14,7,27,Engine,,0
+1980,1,Argentine Grand Prix,1980-01-13,Surer,ATS,15,21,27,Heat shield fire,,0
+1980,1,Argentine Grand Prix,1980-01-13,Andretti,Team Lotus,16,6,20,Fuel system,,0
+1980,1,Argentine Grand Prix,1980-01-13,Mass,Arrows,17,14,20,Gearbox,,0
+1980,1,Argentine Grand Prix,1980-01-13,Reutemann,Williams,18,10,12,Engine,,0
+1980,1,Argentine Grand Prix,1980-01-13,de Angelis,Team Lotus,19,5,7,Suspension,,0
+1980,1,Argentine Grand Prix,1980-01-13,Watson,McLaren,20,17,5,Gearbox,,0
+1980,1,Argentine Grand Prix,1980-01-13,Jabouille,Renault,21,9,3,Gearbox,,0
+1980,1,Argentine Grand Prix,1980-01-13,Arnoux,Renault,22,19,2,Suspension,,0
+1980,1,Argentine Grand Prix,1980-01-13,Pironi,Ligier,23,3,1,Engine,,0
+1980,1,Argentine Grand Prix,1980-01-13,Jarier,Tyrrell,24,18,1,Collision,,0
+1980,1,Argentine Grand Prix,1980-01-13,Kennedy,Shadow,25,0,0,Did not qualify,,0
+1980,1,Argentine Grand Prix,1980-01-13,Johansson,Shadow,26,0,0,Did not qualify,,0
+1980,1,Argentine Grand Prix,1980-01-13,Lammers,ATS,27,0,0,Did not qualify,,0
+1980,1,Argentine Grand Prix,1980-01-13,Cheever,Osella,28,0,0,Did not qualify,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Arnoux,Renault,1,6,40,Finished,1:40:01.33,9
+1980,2,Brazilian Grand Prix,1980-01-27,de Angelis,Team Lotus,2,7,40,Finished,+21.86,6
+1980,2,Brazilian Grand Prix,1980-01-27,Jones,Williams,3,10,40,Finished,+1:06.11,4
+1980,2,Brazilian Grand Prix,1980-01-27,Pironi,Ligier,4,2,40,Finished,+1:40.13,3
+1980,2,Brazilian Grand Prix,1980-01-27,Prost,McLaren,5,13,40,Finished,+1:45.41,2
+1980,2,Brazilian Grand Prix,1980-01-27,Patrese,Arrows,6,14,39,+1 Lap,,1
+1980,2,Brazilian Grand Prix,1980-01-27,Surer,ATS,7,20,39,+1 Lap,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Zunino,Brabham,8,18,39,+1 Lap,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Rosberg,Fittipaldi,9,15,39,+1 Lap,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Mass,Arrows,10,16,39,+1 Lap,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Watson,McLaren,11,23,39,+1 Lap,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Jarier,Tyrrell,12,22,39,+1 Lap,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Giacomelli,Alfa Romeo,13,17,39,+1 Lap,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Daly,Tyrrell,14,24,38,+2 Laps,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Fittipaldi,Fittipaldi,15,19,38,+2 Laps,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Villeneuve,Ferrari,16,3,36,Throttle,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Depailler,Alfa Romeo,17,21,33,Electrical,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Jabouille,Renault,18,1,25,Turbo,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Piquet,Brabham,19,9,14,Suspension,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Laffite,Ligier,20,5,13,Electrical,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Regazzoni,Ensign,21,12,13,Engine,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Scheckter,Ferrari,22,8,10,Engine,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Andretti,Team Lotus,23,11,1,Spun off,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Reutemann,Williams,24,4,1,Halfshaft,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Lammers,ATS,25,0,0,Did not qualify,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Kennedy,Shadow,26,0,0,Did not qualify,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Johansson,Shadow,27,0,0,Did not qualify,,0
+1980,2,Brazilian Grand Prix,1980-01-27,Cheever,Osella,28,0,0,Did not qualify,,0
+1980,3,South African Grand Prix,1980-03-01,Arnoux,Renault,1,2,78,Finished,1:36:52.54,9
+1980,3,South African Grand Prix,1980-03-01,Laffite,Ligier,2,4,78,Finished,+34.07,6
+1980,3,South African Grand Prix,1980-03-01,Pironi,Ligier,3,5,78,Finished,+52.49,4
+1980,3,South African Grand Prix,1980-03-01,Piquet,Brabham,4,3,78,Finished,+1:01.02,3
+1980,3,South African Grand Prix,1980-03-01,Reutemann,Williams,5,6,77,+1 Lap,,2
+1980,3,South African Grand Prix,1980-03-01,Mass,Arrows,6,19,77,+1 Lap,,1
+1980,3,South African Grand Prix,1980-03-01,Jarier,Tyrrell,7,13,77,+1 Lap,,0
+1980,3,South African Grand Prix,1980-03-01,Fittipaldi,Fittipaldi,8,18,77,+1 Lap,,0
+1980,3,South African Grand Prix,1980-03-01,Regazzoni,Ensign,9,20,77,+1 Lap,,0
+1980,3,South African Grand Prix,1980-03-01,Zunino,Brabham,10,17,77,+1 Lap,,0
+1980,3,South African Grand Prix,1980-03-01,Watson,McLaren,11,21,76,+2 Laps,,0
+1980,3,South African Grand Prix,1980-03-01,Andretti,Team Lotus,12,15,76,+2 Laps,,0
+1980,3,South African Grand Prix,1980-03-01,Lees,Shadow,13,24,70,Suspension,,0
+1980,3,South African Grand Prix,1980-03-01,Giacomelli,Alfa Romeo,14,12,69,Engine,,0
+1980,3,South African Grand Prix,1980-03-01,Jabouille,Renault,15,1,61,Puncture,,0
+1980,3,South African Grand Prix,1980-03-01,Daly,Tyrrell,16,16,61,Puncture,,0
+1980,3,South African Grand Prix,1980-03-01,Rosberg,Fittipaldi,17,23,58,Accident,,0
+1980,3,South African Grand Prix,1980-03-01,Depailler,Alfa Romeo,18,7,53,Not classified,,0
+1980,3,South African Grand Prix,1980-03-01,Jones,Williams,19,8,34,Gearbox,,0
+1980,3,South African Grand Prix,1980-03-01,Villeneuve,Ferrari,20,10,31,Transmission,,0
+1980,3,South African Grand Prix,1980-03-01,Scheckter,Ferrari,21,9,14,Engine,,0
+1980,3,South African Grand Prix,1980-03-01,Patrese,Arrows,22,11,10,Spun off,,0
+1980,3,South African Grand Prix,1980-03-01,Cheever,Osella,23,22,8,Spun off,,0
+1980,3,South African Grand Prix,1980-03-01,de Angelis,Team Lotus,24,14,1,Spun off,,0
+1980,3,South African Grand Prix,1980-03-01,Prost,McLaren,25,0,0,Accident,,0
+1980,3,South African Grand Prix,1980-03-01,Surer,ATS,26,0,0,Accident,,0
+1980,3,South African Grand Prix,1980-03-01,Kennedy,Shadow,27,0,0,Did not qualify,,0
+1980,3,South African Grand Prix,1980-03-01,Lammers,ATS,28,0,0,Did not qualify,,0
+1980,4,United States Grand Prix West,1980-03-30,Piquet,Brabham,1,1,80,Finished,1:50:19.4,9
+1980,4,United States Grand Prix West,1980-03-30,Patrese,Arrows,2,8,80,Finished,+49.212,6
+1980,4,United States Grand Prix West,1980-03-30,Fittipaldi,Fittipaldi,3,24,80,Finished,+1:18.563,4
+1980,4,United States Grand Prix West,1980-03-30,Watson,McLaren,4,21,79,+1 Lap,,3
+1980,4,United States Grand Prix West,1980-03-30,Scheckter,Ferrari,5,16,79,+1 Lap,,2
+1980,4,United States Grand Prix West,1980-03-30,Pironi,Ligier,6,9,79,+1 Lap,,1
+1980,4,United States Grand Prix West,1980-03-30,Mass,Arrows,7,17,79,+1 Lap,,0
+1980,4,United States Grand Prix West,1980-03-30,Daly,Tyrrell,8,14,79,+1 Lap,,0
+1980,4,United States Grand Prix West,1980-03-30,Arnoux,Renault,9,2,78,+2 Laps,,0
+1980,4,United States Grand Prix West,1980-03-30,Jabouille,Renault,10,11,71,+9 Laps,,0
+1980,4,United States Grand Prix West,1980-03-30,Rosberg,Fittipaldi,11,22,58,Overheating,,0
+1980,4,United States Grand Prix West,1980-03-30,Regazzoni,Ensign,12,23,50,Accident,,0
+1980,4,United States Grand Prix West,1980-03-30,Giacomelli,Alfa Romeo,13,6,49,Accident,,0
+1980,4,United States Grand Prix West,1980-03-30,Jones,Williams,14,5,47,Accident,,0
+1980,4,United States Grand Prix West,1980-03-30,Villeneuve,Ferrari,15,10,46,Transmission,,0
+1980,4,United States Grand Prix West,1980-03-30,Depailler,Alfa Romeo,16,3,40,Suspension,,0
+1980,4,United States Grand Prix West,1980-03-30,Laffite,Ligier,17,13,36,Puncture,,0
+1980,4,United States Grand Prix West,1980-03-30,Cheever,Osella,18,19,11,Transmission,,0
+1980,4,United States Grand Prix West,1980-03-30,Reutemann,Williams,19,7,3,Transmission,,0
+1980,4,United States Grand Prix West,1980-03-30,Jarier,Tyrrell,20,12,3,Accident,,0
+1980,4,United States Grand Prix West,1980-03-30,de Angelis,Team Lotus,21,20,3,Accident,,0
+1980,4,United States Grand Prix West,1980-03-30,Lammers,ATS,22,4,0,Transmission,,0
+1980,4,United States Grand Prix West,1980-03-30,Andretti,Team Lotus,23,15,0,Accident,,0
+1980,4,United States Grand Prix West,1980-03-30,Zunino,Brabham,24,18,0,Accident,,0
+1980,4,United States Grand Prix West,1980-03-30,Kennedy,Shadow,25,0,0,Did not qualify,,0
+1980,4,United States Grand Prix West,1980-03-30,Lees,Shadow,26,0,0,Did not qualify,,0
+1980,4,United States Grand Prix West,1980-03-30,South,McLaren,27,0,0,Did not qualify,,0
+1980,5,Belgian Grand Prix,1980-05-04,Pironi,Ligier,1,2,72,Finished,1:38:47.4,9
+1980,5,Belgian Grand Prix,1980-05-04,Jones,Williams,2,1,72,Finished,+47.37,6
+1980,5,Belgian Grand Prix,1980-05-04,Reutemann,Williams,3,4,72,Finished,+84.12,4
+1980,5,Belgian Grand Prix,1980-05-04,Arnoux,Renault,4,6,71,+1 Lap,,3
+1980,5,Belgian Grand Prix,1980-05-04,Jarier,Tyrrell,5,9,71,+1 Lap,,2
+1980,5,Belgian Grand Prix,1980-05-04,Villeneuve,Ferrari,6,12,71,+1 Lap,,1
+1980,5,Belgian Grand Prix,1980-05-04,Rosberg,Fittipaldi,7,21,71,+1 Lap,,0
+1980,5,Belgian Grand Prix,1980-05-04,Scheckter,Ferrari,8,14,70,+2 Laps,,0
+1980,5,Belgian Grand Prix,1980-05-04,Daly,Tyrrell,9,11,70,+2 Laps,,0
+1980,5,Belgian Grand Prix,1980-05-04,de Angelis,Team Lotus,10,8,69,Spun off,,0
+1980,5,Belgian Grand Prix,1980-05-04,Laffite,Ligier,11,3,68,+4 Laps,,0
+1980,5,Belgian Grand Prix,1980-05-04,Lammers,ATS,12,15,64,Engine,,0
+1980,5,Belgian Grand Prix,1980-05-04,Watson,McLaren,13,20,61,Not classified,,0
+1980,5,Belgian Grand Prix,1980-05-04,Patrese,Arrows,14,16,58,Spun off,,0
+1980,5,Belgian Grand Prix,1980-05-04,Andretti,Team Lotus,15,17,41,Gearbox,,0
+1980,5,Belgian Grand Prix,1980-05-04,Depailler,Alfa Romeo,16,10,38,Exhaust,,0
+1980,5,Belgian Grand Prix,1980-05-04,Piquet,Brabham,17,7,32,Spun off,,0
+1980,5,Belgian Grand Prix,1980-05-04,Prost,McLaren,18,19,29,Transmission,,0
+1980,5,Belgian Grand Prix,1980-05-04,Fittipaldi,Fittipaldi,19,24,16,Electrical,,0
+1980,5,Belgian Grand Prix,1980-05-04,Needell,Ensign,20,23,12,Engine,,0
+1980,5,Belgian Grand Prix,1980-05-04,Giacomelli,Alfa Romeo,21,18,11,Suspension,,0
+1980,5,Belgian Grand Prix,1980-05-04,Zunino,Brabham,22,22,5,Gearbox,,0
+1980,5,Belgian Grand Prix,1980-05-04,Mass,Arrows,23,13,1,Spun off,,0
+1980,5,Belgian Grand Prix,1980-05-04,Jabouille,Renault,24,5,1,Clutch,,0
+1980,5,Belgian Grand Prix,1980-05-04,Lees,Shadow,25,0,0,Did not qualify,,0
+1980,5,Belgian Grand Prix,1980-05-04,Kennedy,Shadow,26,0,0,Did not qualify,,0
+1980,5,Belgian Grand Prix,1980-05-04,Cheever,Osella,27,0,0,Did not qualify,,0
+1980,6,Monaco Grand Prix,1980-05-18,Reutemann,Williams,1,2,76,Finished,1:55:34.365,9
+1980,6,Monaco Grand Prix,1980-05-18,Laffite,Ligier,2,5,76,Finished,+1:13.629,6
+1980,6,Monaco Grand Prix,1980-05-18,Piquet,Brabham,3,4,76,Finished,+1:17.726,4
+1980,6,Monaco Grand Prix,1980-05-18,Mass,Arrows,4,15,75,+1 Lap,,3
+1980,6,Monaco Grand Prix,1980-05-18,Villeneuve,Ferrari,5,6,75,+1 Lap,,2
+1980,6,Monaco Grand Prix,1980-05-18,Fittipaldi,Fittipaldi,6,18,74,+2 Laps,,1
+1980,6,Monaco Grand Prix,1980-05-18,Andretti,Team Lotus,7,19,73,+3 Laps,,0
+1980,6,Monaco Grand Prix,1980-05-18,Patrese,Arrows,8,11,73,+3 Laps,,0
+1980,6,Monaco Grand Prix,1980-05-18,de Angelis,Team Lotus,9,14,68,Accident,,0
+1980,6,Monaco Grand Prix,1980-05-18,Lammers,ATS,10,13,64,Not classified,,0
+1980,6,Monaco Grand Prix,1980-05-18,Pironi,Ligier,11,1,54,Accident,,0
+1980,6,Monaco Grand Prix,1980-05-18,Arnoux,Renault,12,20,53,Accident,,0
+1980,6,Monaco Grand Prix,1980-05-18,Depailler,Alfa Romeo,13,7,50,Engine,,0
+1980,6,Monaco Grand Prix,1980-05-18,Scheckter,Ferrari,14,17,27,Handling,,0
+1980,6,Monaco Grand Prix,1980-05-18,Jabouille,Renault,15,16,25,Gearbox,,0
+1980,6,Monaco Grand Prix,1980-05-18,Jones,Williams,16,3,24,Differential,,0
+1980,6,Monaco Grand Prix,1980-05-18,Giacomelli,Alfa Romeo,17,8,0,Accident,,0
+1980,6,Monaco Grand Prix,1980-05-18,Jarier,Tyrrell,18,9,0,Accident,,0
+1980,6,Monaco Grand Prix,1980-05-18,Prost,McLaren,19,10,0,Accident,,0
+1980,6,Monaco Grand Prix,1980-05-18,Daly,Tyrrell,20,12,0,Accident,,0
+1980,6,Monaco Grand Prix,1980-05-18,Watson,McLaren,21,0,0,Did not qualify,,0
+1980,6,Monaco Grand Prix,1980-05-18,Cheever,Osella,22,0,0,Did not qualify,,0
+1980,6,Monaco Grand Prix,1980-05-18,Lees,Shadow,23,0,0,Did not qualify,,0
+1980,6,Monaco Grand Prix,1980-05-18,Rosberg,Fittipaldi,24,0,0,Did not qualify,,0
+1980,6,Monaco Grand Prix,1980-05-18,Zunino,Brabham,25,0,0,Did not qualify,,0
+1980,6,Monaco Grand Prix,1980-05-18,Needell,Ensign,26,0,0,Did not qualify,,0
+1980,6,Monaco Grand Prix,1980-05-18,Kennedy,Shadow,27,0,0,Did not qualify,,0
+1980,7,French Grand Prix,1980-06-29,Jones,Williams,1,4,54,Finished,1:32:43.4,9
+1980,7,French Grand Prix,1980-06-29,Pironi,Ligier,2,3,54,Finished,+4.52,6
+1980,7,French Grand Prix,1980-06-29,Laffite,Ligier,3,1,54,Finished,+30.26,4
+1980,7,French Grand Prix,1980-06-29,Piquet,Brabham,4,8,54,Finished,+1:14.88,3
+1980,7,French Grand Prix,1980-06-29,Arnoux,Renault,5,2,54,Finished,+1:16.15,2
+1980,7,French Grand Prix,1980-06-29,Reutemann,Williams,6,5,54,Finished,+1:16.74,1
+1980,7,French Grand Prix,1980-06-29,Watson,McLaren,7,13,53,+1 Lap,,0
+1980,7,French Grand Prix,1980-06-29,Villeneuve,Ferrari,8,17,53,+1 Lap,,0
+1980,7,French Grand Prix,1980-06-29,Patrese,Arrows,9,18,53,+1 Lap,,0
+1980,7,French Grand Prix,1980-06-29,Mass,Arrows,10,15,53,+1 Lap,,0
+1980,7,French Grand Prix,1980-06-29,Daly,Tyrrell,11,20,52,+2 Laps,,0
+1980,7,French Grand Prix,1980-06-29,Scheckter,Ferrari,12,19,52,+2 Laps,,0
+1980,7,French Grand Prix,1980-06-29,Fittipaldi,Fittipaldi,13,24,50,Engine,,0
+1980,7,French Grand Prix,1980-06-29,Jarier,Tyrrell,14,16,50,+4 Laps,,0
+1980,7,French Grand Prix,1980-06-29,Cheever,Osella,15,21,43,Engine,,0
+1980,7,French Grand Prix,1980-06-29,Surer,ATS,16,11,26,Gearbox,,0
+1980,7,French Grand Prix,1980-06-29,Depailler,Alfa Romeo,17,10,25,Handling,,0
+1980,7,French Grand Prix,1980-06-29,Andretti,Team Lotus,18,12,18,Gearbox,,0
+1980,7,French Grand Prix,1980-06-29,Rosberg,Fittipaldi,19,23,8,Spun off,,0
+1980,7,French Grand Prix,1980-06-29,Giacomelli,Alfa Romeo,20,9,8,Handling,,0
+1980,7,French Grand Prix,1980-06-29,Prost,McLaren,21,7,6,Transmission,,0
+1980,7,French Grand Prix,1980-06-29,de Angelis,Team Lotus,22,14,3,Clutch,,0
+1980,7,French Grand Prix,1980-06-29,Jabouille,Renault,23,6,0,Transmission,,0
+1980,7,French Grand Prix,1980-06-29,Zunino,Brabham,24,22,0,Clutch,,0
+1980,7,French Grand Prix,1980-06-29,Lees,Shadow,25,0,0,Did not qualify,,0
+1980,7,French Grand Prix,1980-06-29,Lammers,Ensign,26,0,0,Did not qualify,,0
+1980,7,French Grand Prix,1980-06-29,Kennedy,Shadow,27,0,0,Did not qualify,,0
+1980,8,British Grand Prix,1980-07-13,Jones,Williams,1,3,76,Finished,1:34:49.228,9
+1980,8,British Grand Prix,1980-07-13,Piquet,Brabham,2,5,76,Finished,+11.007,6
+1980,8,British Grand Prix,1980-07-13,Reutemann,Williams,3,4,76,Finished,+13.285,4
+1980,8,British Grand Prix,1980-07-13,Daly,Tyrrell,4,10,75,+1 Lap,,3
+1980,8,British Grand Prix,1980-07-13,Jarier,Tyrrell,5,11,75,+1 Lap,,2
+1980,8,British Grand Prix,1980-07-13,Prost,McLaren,6,7,75,+1 Lap,,1
+1980,8,British Grand Prix,1980-07-13,Rebaque,Brabham,7,17,74,+2 Laps,,0
+1980,8,British Grand Prix,1980-07-13,Watson,McLaren,8,12,74,Engine,,0
+1980,8,British Grand Prix,1980-07-13,Patrese,Arrows,9,21,73,+3 Laps,,0
+1980,8,British Grand Prix,1980-07-13,Scheckter,Ferrari,10,23,73,+3 Laps,,0
+1980,8,British Grand Prix,1980-07-13,Keegan,Williams,11,18,73,+3 Laps,,0
+1980,8,British Grand Prix,1980-07-13,Fittipaldi,Fittipaldi,12,22,72,+4 Laps,,0
+1980,8,British Grand Prix,1980-07-13,Mass,Arrows,13,24,69,+7 Laps,,0
+1980,8,British Grand Prix,1980-07-13,Arnoux,Renault,14,16,67,Not classified,,0
+1980,8,British Grand Prix,1980-07-13,Pironi,Ligier,15,1,63,Tyre,,0
+1980,8,British Grand Prix,1980-07-13,Surer,ATS,16,15,59,Engine,,0
+1980,8,British Grand Prix,1980-07-13,Andretti,Team Lotus,17,9,57,Gearbox,,0
+1980,8,British Grand Prix,1980-07-13,Giacomelli,Alfa Romeo,18,6,42,Spun off,,0
+1980,8,British Grand Prix,1980-07-13,Villeneuve,Ferrari,19,19,35,Engine,,0
+1980,8,British Grand Prix,1980-07-13,Laffite,Ligier,20,2,30,Tyre,,0
+1980,8,British Grand Prix,1980-07-13,Depailler,Alfa Romeo,21,8,27,Engine,,0
+1980,8,British Grand Prix,1980-07-13,Cheever,Osella,22,20,17,Suspension,,0
+1980,8,British Grand Prix,1980-07-13,de Angelis,Team Lotus,23,14,16,Suspension,,0
+1980,8,British Grand Prix,1980-07-13,Jabouille,Renault,24,13,4,Engine,,0
+1980,8,British Grand Prix,1980-07-13,Lammers,Ensign,25,0,0,Did not qualify,,0
+1980,8,British Grand Prix,1980-07-13,Rosberg,Fittipaldi,26,0,0,Did not qualify,,0
+1980,8,British Grand Prix,1980-07-13,Wilson,Williams,27,0,0,Did not qualify,,0
+1980,9,German Grand Prix,1980-08-10,Laffite,Ligier,1,5,45,Finished,1:23:59.73,9
+1980,9,German Grand Prix,1980-08-10,Reutemann,Williams,2,4,45,Finished,+3.19,6
+1980,9,German Grand Prix,1980-08-10,Jones,Williams,3,1,45,Finished,+43.53,4
+1980,9,German Grand Prix,1980-08-10,Piquet,Brabham,4,6,45,Finished,+44.48,3
+1980,9,German Grand Prix,1980-08-10,Giacomelli,Alfa Romeo,5,19,45,Finished,+1:16.49,2
+1980,9,German Grand Prix,1980-08-10,Villeneuve,Ferrari,6,16,45,Finished,+1:28.72,1
+1980,9,German Grand Prix,1980-08-10,Andretti,Team Lotus,7,9,45,Finished,+1:33.01,0
+1980,9,German Grand Prix,1980-08-10,Mass,Arrows,8,17,45,Finished,+1:47.75,0
+1980,9,German Grand Prix,1980-08-10,Patrese,Arrows,9,10,44,+1 Lap,,0
+1980,9,German Grand Prix,1980-08-10,Daly,Tyrrell,10,22,44,+1 Lap,,0
+1980,9,German Grand Prix,1980-08-10,Prost,McLaren,11,14,44,+1 Lap,,0
+1980,9,German Grand Prix,1980-08-10,Surer,ATS,12,13,44,+1 Lap,,0
+1980,9,German Grand Prix,1980-08-10,Scheckter,Ferrari,13,21,44,+1 Lap,,0
+1980,9,German Grand Prix,1980-08-10,Lammers,Ensign,14,24,44,+1 Lap,,0
+1980,9,German Grand Prix,1980-08-10,Jarier,Tyrrell,15,23,44,+1 Lap,,0
+1980,9,German Grand Prix,1980-08-10,de Angelis,Team Lotus,16,11,43,Wheel bearing,,0
+1980,9,German Grand Prix,1980-08-10,Watson,McLaren,17,20,39,Engine,,0
+1980,9,German Grand Prix,1980-08-10,Jabouille,Renault,18,2,27,Engine,,0
+1980,9,German Grand Prix,1980-08-10,Arnoux,Renault,19,3,26,Engine,,0
+1980,9,German Grand Prix,1980-08-10,Cheever,Osella,20,18,23,Gearbox,,0
+1980,9,German Grand Prix,1980-08-10,Pironi,Ligier,21,7,18,Transmission,,0
+1980,9,German Grand Prix,1980-08-10,Fittipaldi,Fittipaldi,22,12,18,Brakes,,0
+1980,9,German Grand Prix,1980-08-10,Rosberg,Fittipaldi,23,8,8,Wheel bearing,,0
+1980,9,German Grand Prix,1980-08-10,Rebaque,Brabham,24,15,4,Gearbox,,0
+1980,9,German Grand Prix,1980-08-10,Keegan,Williams,25,0,0,Did not qualify,,0
+1980,9,German Grand Prix,1980-08-10,Ertl,ATS,26,0,0,Did not qualify,,0
+1980,10,Austrian Grand Prix,1980-08-17,Jabouille,Renault,1,2,54,Finished,1:26:15.73,9
+1980,10,Austrian Grand Prix,1980-08-17,Jones,Williams,2,3,54,Finished,+0.82,6
+1980,10,Austrian Grand Prix,1980-08-17,Reutemann,Williams,3,4,54,Finished,+19.36,4
+1980,10,Austrian Grand Prix,1980-08-17,Laffite,Ligier,4,5,54,Finished,+42.02,3
+1980,10,Austrian Grand Prix,1980-08-17,Piquet,Brabham,5,7,54,Finished,+1:02.81,2
+1980,10,Austrian Grand Prix,1980-08-17,de Angelis,Team Lotus,6,9,54,Finished,+1:14.97,1
+1980,10,Austrian Grand Prix,1980-08-17,Prost,McLaren,7,12,54,Finished,+1:33.41,0
+1980,10,Austrian Grand Prix,1980-08-17,Villeneuve,Ferrari,8,15,53,+1 Lap,,0
+1980,10,Austrian Grand Prix,1980-08-17,Arnoux,Renault,9,1,53,+1 Lap,,0
+1980,10,Austrian Grand Prix,1980-08-17,Rebaque,Brabham,10,14,53,+1 Lap,,0
+1980,10,Austrian Grand Prix,1980-08-17,Fittipaldi,Fittipaldi,11,23,53,+1 Lap,,0
+1980,10,Austrian Grand Prix,1980-08-17,Surer,ATS,12,16,53,+1 Lap,,0
+1980,10,Austrian Grand Prix,1980-08-17,Scheckter,Ferrari,13,22,53,+1 Lap,,0
+1980,10,Austrian Grand Prix,1980-08-17,Patrese,Arrows,14,18,53,+1 Lap,,0
+1980,10,Austrian Grand Prix,1980-08-17,Keegan,Williams,15,20,52,+2 Laps,,0
+1980,10,Austrian Grand Prix,1980-08-17,Rosberg,Fittipaldi,16,11,52,+2 Laps,,0
+1980,10,Austrian Grand Prix,1980-08-17,Mansell,Team Lotus,17,24,40,Engine,,0
+1980,10,Austrian Grand Prix,1980-08-17,Watson,McLaren,18,21,34,Engine,,0
+1980,10,Austrian Grand Prix,1980-08-17,Giacomelli,Alfa Romeo,19,8,28,Wheel,,0
+1980,10,Austrian Grand Prix,1980-08-17,Pironi,Ligier,20,13,25,Handling,,0
+1980,10,Austrian Grand Prix,1980-08-17,Jarier,Tyrrell,21,6,25,Electrical,,0
+1980,10,Austrian Grand Prix,1980-08-17,Cheever,Osella,22,19,23,Wheel bearing,,0
+1980,10,Austrian Grand Prix,1980-08-17,Daly,Tyrrell,23,10,12,Brakes,,0
+1980,10,Austrian Grand Prix,1980-08-17,Andretti,Team Lotus,24,17,6,Engine,,0
+1980,10,Austrian Grand Prix,1980-08-17,Lammers,Ensign,25,0,0,Did not qualify,,0
+1980,10,Austrian Grand Prix,1980-08-17,Mass,Arrows,26,0,0,Did not qualify,,0
+1980,11,Dutch Grand Prix,1980-08-31,Piquet,Brabham,1,5,72,Finished,1:38:13.83,9
+1980,11,Dutch Grand Prix,1980-08-31,Arnoux,Renault,2,1,72,Finished,+12.93,6
+1980,11,Dutch Grand Prix,1980-08-31,Laffite,Ligier,3,6,72,Finished,+13.43,4
+1980,11,Dutch Grand Prix,1980-08-31,Reutemann,Williams,4,3,72,Finished,+15.29,3
+1980,11,Dutch Grand Prix,1980-08-31,Jarier,Tyrrell,5,17,72,Finished,+1:00.02,2
+1980,11,Dutch Grand Prix,1980-08-31,Prost,McLaren,6,18,72,Finished,+1:22.62,1
+1980,11,Dutch Grand Prix,1980-08-31,Villeneuve,Ferrari,7,7,71,+1 Lap,,0
+1980,11,Dutch Grand Prix,1980-08-31,Andretti,Team Lotus,8,10,70,Out of fuel,,0
+1980,11,Dutch Grand Prix,1980-08-31,Scheckter,Ferrari,9,12,70,+2 Laps,,0
+1980,11,Dutch Grand Prix,1980-08-31,Surer,ATS,10,20,69,+3 Laps,,0
+1980,11,Dutch Grand Prix,1980-08-31,Jones,Williams,11,4,69,+3 Laps,,0
+1980,11,Dutch Grand Prix,1980-08-31,Daly,Tyrrell,12,23,60,Brakes,,0
+1980,11,Dutch Grand Prix,1980-08-31,Giacomelli,Alfa Romeo,13,8,58,Accident,,0
+1980,11,Dutch Grand Prix,1980-08-31,Cheever,Osella,14,19,38,Engine,,0
+1980,11,Dutch Grand Prix,1980-08-31,Patrese,Arrows,15,14,29,Engine,,0
+1980,11,Dutch Grand Prix,1980-08-31,Jabouille,Renault,16,2,23,Handling,,0
+1980,11,Dutch Grand Prix,1980-08-31,Brambilla,Alfa Romeo,17,22,21,Accident,,0
+1980,11,Dutch Grand Prix,1980-08-31,Lees,Ensign,18,24,21,Accident,,0
+1980,11,Dutch Grand Prix,1980-08-31,Watson,McLaren,19,9,18,Engine,,0
+1980,11,Dutch Grand Prix,1980-08-31,Fittipaldi,Fittipaldi,20,21,16,Brakes,,0
+1980,11,Dutch Grand Prix,1980-08-31,Mansell,Team Lotus,21,16,15,Brakes,,0
+1980,11,Dutch Grand Prix,1980-08-31,de Angelis,Team Lotus,22,11,2,Accident,,0
+1980,11,Dutch Grand Prix,1980-08-31,Pironi,Ligier,23,15,2,Accident,,0
+1980,11,Dutch Grand Prix,1980-08-31,Rebaque,Brabham,24,13,1,Gearbox,,0
+1980,11,Dutch Grand Prix,1980-08-31,Keegan,Williams,25,0,0,Did not qualify,,0
+1980,11,Dutch Grand Prix,1980-08-31,Lammers,Ensign,26,0,0,Did not qualify,,0
+1980,11,Dutch Grand Prix,1980-08-31,Thackwell,Arrows,27,0,0,Did not qualify,,0
+1980,11,Dutch Grand Prix,1980-08-31,Rosberg,Fittipaldi,28,0,0,Did not qualify,,0
+1980,11,Dutch Grand Prix,1980-08-31,Mass,Arrows,29,0,0,Withdrew,,0
+1980,12,Italian Grand Prix,1980-09-14,Piquet,Brabham,1,5,60,Finished,1:38:07.52,9
+1980,12,Italian Grand Prix,1980-09-14,Jones,Williams,2,6,60,Finished,+28.93,6
+1980,12,Italian Grand Prix,1980-09-14,Reutemann,Williams,3,3,60,Finished,+1:13.67,4
+1980,12,Italian Grand Prix,1980-09-14,de Angelis,Team Lotus,4,18,59,+1 Lap,,3
+1980,12,Italian Grand Prix,1980-09-14,Rosberg,Fittipaldi,5,11,59,+1 Lap,,2
+1980,12,Italian Grand Prix,1980-09-14,Pironi,Ligier,6,13,59,+1 Lap,,1
+1980,12,Italian Grand Prix,1980-09-14,Prost,McLaren,7,24,59,+1 Lap,,0
+1980,12,Italian Grand Prix,1980-09-14,Scheckter,Ferrari,8,16,59,+1 Lap,,0
+1980,12,Italian Grand Prix,1980-09-14,Laffite,Ligier,9,20,59,+1 Lap,,0
+1980,12,Italian Grand Prix,1980-09-14,Arnoux,Renault,10,1,58,+2 Laps,,0
+1980,12,Italian Grand Prix,1980-09-14,Keegan,Williams,11,21,58,+2 Laps,,0
+1980,12,Italian Grand Prix,1980-09-14,Cheever,Osella,12,17,57,+3 Laps,,0
+1980,12,Italian Grand Prix,1980-09-14,Jarier,Tyrrell,13,12,54,Brakes,,0
+1980,12,Italian Grand Prix,1980-09-14,Jabouille,Renault,14,2,53,Gearbox,,0
+1980,12,Italian Grand Prix,1980-09-14,Surer,ATS,15,23,45,Engine,,0
+1980,12,Italian Grand Prix,1980-09-14,Andretti,Team Lotus,16,10,40,Engine,,0
+1980,12,Italian Grand Prix,1980-09-14,Patrese,Arrows,17,7,38,Engine,,0
+1980,12,Italian Grand Prix,1980-09-14,Daly,Tyrrell,18,22,33,Accident,,0
+1980,12,Italian Grand Prix,1980-09-14,Watson,McLaren,19,14,20,Wheel bearing,,0
+1980,12,Italian Grand Prix,1980-09-14,Rebaque,Brabham,20,9,18,Suspension,,0
+1980,12,Italian Grand Prix,1980-09-14,Fittipaldi,Fittipaldi,21,15,17,Accident,,0
+1980,12,Italian Grand Prix,1980-09-14,Villeneuve,Ferrari,22,8,5,Puncture,,0
+1980,12,Italian Grand Prix,1980-09-14,Giacomelli,Alfa Romeo,23,4,5,Puncture,,0
+1980,12,Italian Grand Prix,1980-09-14,Brambilla,Alfa Romeo,24,19,4,Spun off,,0
+1980,12,Italian Grand Prix,1980-09-14,Mansell,Team Lotus,25,0,0,Did not qualify,,0
+1980,12,Italian Grand Prix,1980-09-14,Winkelhock,Arrows,26,0,0,Did not qualify,,0
+1980,12,Italian Grand Prix,1980-09-14,Lammers,Ensign,27,0,0,Did not qualify,,0
+1980,12,Italian Grand Prix,1980-09-14,Lees,Ensign,28,0,0,Did not qualify,,0
+1980,13,Canadian Grand Prix,1980-09-28,Jones,Williams,1,2,70,Finished,1:46:45.53,9
+1980,13,Canadian Grand Prix,1980-09-28,Reutemann,Williams,2,5,70,Finished,+15.54,6
+1980,13,Canadian Grand Prix,1980-09-28,Pironi,Ligier,3,3,70,Finished,+19.07,4
+1980,13,Canadian Grand Prix,1980-09-28,Watson,McLaren,4,7,70,Finished,+30.98,3
+1980,13,Canadian Grand Prix,1980-09-28,Villeneuve,Ferrari,5,22,70,Finished,+55.23,2
+1980,13,Canadian Grand Prix,1980-09-28,Rebaque,Brabham,6,10,69,+1 Lap,,1
+1980,13,Canadian Grand Prix,1980-09-28,Jarier,Tyrrell,7,15,69,+1 Lap,,0
+1980,13,Canadian Grand Prix,1980-09-28,Laffite,Ligier,8,9,68,Out of fuel,,0
+1980,13,Canadian Grand Prix,1980-09-28,Rosberg,Fittipaldi,9,6,68,+2 Laps,,0
+1980,13,Canadian Grand Prix,1980-09-28,de Angelis,Team Lotus,10,17,68,+2 Laps,,0
+1980,13,Canadian Grand Prix,1980-09-28,Mass,Arrows,11,21,67,+3 Laps,,0
+1980,13,Canadian Grand Prix,1980-09-28,Lammers,Ensign,12,19,66,+4 Laps,,0
+1980,13,Canadian Grand Prix,1980-09-28,Prost,McLaren,13,12,41,Suspension,,0
+1980,13,Canadian Grand Prix,1980-09-28,Arnoux,Renault,14,23,39,Brakes,,0
+1980,13,Canadian Grand Prix,1980-09-28,Jabouille,Renault,15,13,25,Suspension,,0
+1980,13,Canadian Grand Prix,1980-09-28,Piquet,Brabham,16,1,23,Engine,,0
+1980,13,Canadian Grand Prix,1980-09-28,Andretti,Team Lotus,17,18,11,Engine,,0
+1980,13,Canadian Grand Prix,1980-09-28,de Cesaris,Alfa Romeo,18,8,8,Engine,,0
+1980,13,Canadian Grand Prix,1980-09-28,Cheever,Osella,19,14,8,Fuel system,,0
+1980,13,Canadian Grand Prix,1980-09-28,Fittipaldi,Fittipaldi,20,16,8,Gearbox,,0
+1980,13,Canadian Grand Prix,1980-09-28,Giacomelli,Alfa Romeo,21,4,7,Chassis,,0
+1980,13,Canadian Grand Prix,1980-09-28,Patrese,Arrows,22,11,6,Accident,,0
+1980,13,Canadian Grand Prix,1980-09-28,Daly,Tyrrell,23,20,0,Accident,,0
+1980,13,Canadian Grand Prix,1980-09-28,Thackwell,Tyrrell,24,24,0,Accident,,0
+1980,13,Canadian Grand Prix,1980-09-28,Surer,ATS,25,0,0,Did not qualify,,0
+1980,13,Canadian Grand Prix,1980-09-28,Scheckter,Ferrari,26,0,0,Did not qualify,,0
+1980,13,Canadian Grand Prix,1980-09-28,Keegan,Williams,27,0,0,Did not qualify,,0
+1980,13,Canadian Grand Prix,1980-09-28,Cogan,Williams,28,0,0,Did not qualify,,0
+1980,14,United States Grand Prix,1980-10-05,Jones,Williams,1,5,59,Finished,1:34:36.05,9
+1980,14,United States Grand Prix,1980-10-05,Reutemann,Williams,2,3,59,Finished,+4.21,6
+1980,14,United States Grand Prix,1980-10-05,Pironi,Ligier,3,7,59,Finished,+12.57,4
+1980,14,United States Grand Prix,1980-10-05,de Angelis,Team Lotus,4,4,59,Finished,+29.69,3
+1980,14,United States Grand Prix,1980-10-05,Laffite,Ligier,5,12,58,+1 Lap,,2
+1980,14,United States Grand Prix,1980-10-05,Andretti,Team Lotus,6,11,58,+1 Lap,,1
+1980,14,United States Grand Prix,1980-10-05,Arnoux,Renault,7,6,58,+1 Lap,,0
+1980,14,United States Grand Prix,1980-10-05,Surer,ATS,8,17,57,+2 Laps,,0
+1980,14,United States Grand Prix,1980-10-05,Keegan,Williams,9,15,57,+2 Laps,,0
+1980,14,United States Grand Prix,1980-10-05,Rosberg,Fittipaldi,10,14,57,+2 Laps,,0
+1980,14,United States Grand Prix,1980-10-05,Scheckter,Ferrari,11,23,56,+3 Laps,,0
+1980,14,United States Grand Prix,1980-10-05,Watson,McLaren,12,9,50,+9 Laps,,0
+1980,14,United States Grand Prix,1980-10-05,Villeneuve,Ferrari,13,18,49,Accident,,0
+1980,14,United States Grand Prix,1980-10-05,Jarier,Tyrrell,14,22,40,Not classified,,0
+1980,14,United States Grand Prix,1980-10-05,Mass,Arrows,15,24,36,Transmission,,0
+1980,14,United States Grand Prix,1980-10-05,Giacomelli,Alfa Romeo,16,1,31,Electrical,,0
+1980,14,United States Grand Prix,1980-10-05,Piquet,Brabham,17,2,25,Spun off,,0
+1980,14,United States Grand Prix,1980-10-05,Rebaque,Brabham,18,8,20,Engine,,0
+1980,14,United States Grand Prix,1980-10-05,Cheever,Osella,19,16,20,Suspension,,0
+1980,14,United States Grand Prix,1980-10-05,Patrese,Arrows,20,20,16,Spun off,,0
+1980,14,United States Grand Prix,1980-10-05,Lammers,Ensign,21,25,16,Steering,,0
+1980,14,United States Grand Prix,1980-10-05,Fittipaldi,Fittipaldi,22,19,15,Suspension,,0
+1980,14,United States Grand Prix,1980-10-05,Daly,Tyrrell,23,21,3,Spun off,,0
+1980,14,United States Grand Prix,1980-10-05,de Cesaris,Alfa Romeo,24,10,2,Accident,,0
+1980,14,United States Grand Prix,1980-10-05,Prost,McLaren,25,13,0,Withdrew,,0
+1980,14,United States Grand Prix,1980-10-05,Thackwell,Tyrrell,26,0,0,Did not qualify,,0
+1980,14,United States Grand Prix,1980-10-05,Lees,Williams,27,0,0,Did not qualify,,0
