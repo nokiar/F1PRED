@@ -1,31 +1,48 @@
-````markdown
-# F1PRED: AI-Powered Formula 1 Analysis and Prediction
+# 🏎️ F1PRED: AI-Powered Formula 1 Analysis and Prediction
 
-## Project Overview
+## 🧠 Project Overview
 
-F1PRED is a web application developed as a final year BSc (Hons) Computing project for the University of Worcester[cite: 83]. It investigates the effectiveness of Artificial Intelligence (AI) models in predicting Formula 1 race outcomes[cite: 84]. The application allows users to explore historical F1 data (races, drivers, constructors, standings) and view AI-generated predictions for race win probabilities[cite: 86, 209].
+**F1PRED** is a web application developed as a final year BSc (Hons) Computing project for the University of Worcester. It investigates the effectiveness of Artificial Intelligence (AI) models in predicting Formula 1 race outcomes.
 
-The project utilises historical data fetched from the Ergast API [cite: 86] and employs a Neural Network model built with TensorFlow/Keras to generate predictions[cite: 87, 210]. Key findings during development indicated moderate predictive accuracy[cite: 89], highlighting the dominant influence of constructor performance [cite: 88] and the challenges posed by data limitations [cite: 90] and the sport's unpredictability[cite: 90].
+The application enables users to:
+- Explore historical F1 data (races, drivers, constructors, standings).
+- View AI-generated win probability predictions for F1 races.
 
-## Features
+The project uses historical data from the [Ergast API](https://ergast.com/mrd/) and a Neural Network model built with TensorFlow/Keras. Key findings indicate:
+- Moderate predictive accuracy.
+- Significant influence of constructor performance.
+- Challenges due to limited data and the sport's unpredictability.
 
-* **Historical Data Browser:** View detailed results for Races, Drivers, Constructors, and Standings across different F1 seasons (1950-present).
-* **AI Predictions:** Select a season and round to view AI-generated win probability predictions for drivers in that race.
-* **Comparative View:** Display actual race results alongside AI predictions for direct comparison and evaluation (within the Predictions section).
+---
 
-## Technologies Used
+## ✨ Features
 
-* **Frontend:** HTML, CSS, JavaScript (with jQuery)
-* **Backend (API & AI):** Python
-    * **Web Framework:** Flask
-    * **API Communication:** Flask-Cors
-    * **Machine Learning:** TensorFlow / Keras
-    * **Data Handling:** Pandas, NumPy
-    * **Preprocessing:** Scikit-learn
-* **Data Source:** Ergast Developer API (for historical data)
-* **Deployment Consideration:** Gunicorn (WSGI Server) [included in requirements.txt]
+- **Historical Data Browser** – View detailed results for races, drivers, constructors, and standings across F1 seasons (1950–present).
+- **AI Predictions** – Select a season and round to view AI-generated win probability predictions.
+- **Comparative View** – Display actual race results alongside AI predictions for evaluation.
 
-## Project Structure
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+- HTML, CSS, JavaScript (with jQuery)
+
+### Backend (API & AI)
+- Python
+  - Flask (Web Framework)
+  - Flask-CORS (API Communication)
+  - TensorFlow / Keras (Machine Learning)
+  - Pandas, NumPy (Data Handling)
+  - Scikit-learn (Preprocessing)
+
+### Other
+- **Data Source:** [Ergast Developer API](https://ergast.com/mrd/)
+- **Deployment:** Gunicorn (WSGI Server)
+
+---
+
+## 📁 Project Structure
 
 ```
 F1PRED/
@@ -39,79 +56,92 @@ F1PRED/
 ├── styles/
 │   └── styles.css        # Frontend CSS styles
 │
-├── data_storage/         # (Created by data_generation.py) Stores downloaded CSVs
+├── data_storage/         # Created by data_generation.py
 │   └── f1_YYYY.csv       # CSV file per season
 │
-├── assets/               # Folder for images, logos etc.
+├── assets/               # Images, logos, etc.
 │
-├── data_generation.py    # Script to download data from Ergast API
+├── data_generation.py    # Downloads historical data from Ergast API
 ├── index.html            # Main frontend HTML file
-├── requirements.txt      # Python dependencies for backend
+├── requirements.txt      # Python backend dependencies
 └── README.md             # This file
 ```
 
-## Setup and Installation
+---
 
-1.  **Clone the repository:**
-    ```bash
-    git clone <your-repository-url>
-    cd F1PRED
-    ```
+## ⚙️ Setup and Installation
 
-2.  **Create a Virtual Environment (Recommended):**
-    ```bash
-    python -m venv venv
-    ```
-    Activate it:
-    * Windows: `.\venv\Scripts\activate`
-    * macOS/Linux: `source venv/bin/activate`
+1. **Clone the repository**
+   ```bash
+   git clone <your-repository-url>
+   cd F1PRED
+   ```
 
-3.  **Install Dependencies:** Ensure you have Python 3 installed. Install the required libraries for the backend:
-    ```bash
-    pip install -r requirements.txt
-    ```
+2. **Create a Virtual Environment (Recommended)**
+   ```bash
+   python -m venv venv
+   ```
+   Activate it:
+   - Windows: `.\venv\Scripts\activate`
+   - macOS/Linux: `source venv/bin/activate`
 
-4.  **Generate Historical Data:** Before running the backend for the first time, you need to download the historical race data. Run the data generation script:
-    ```bash
-    python data_generation.py
-    ```
-    This will contact the Ergast API and create CSV files for each season in the `data_storage` directory. This might take some time depending on the number of years and API responsiveness.
+3. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-## Running the Application
+4. **Generate Historical Data**
+   ```bash
+   python data_generation.py
+   ```
+   This fetches race data from the Ergast API and stores it in `data_storage/`.
 
-The application consists of two parts that need to be run separately: the backend API and the frontend interface.
+---
 
-### 1. Running the Backend (Prediction API)
+## 🚀 Running the Application
 
-* Navigate to the project's root directory (`F1PRED`) in your terminal (and ensure your virtual environment is activated if you created one).
-* Run the Flask application script:
-    ```bash
-    python predictions/pred.py
-    ```
-* This will:
-    * Load the data from `data_storage`.
-    * Train the AI model (this happens once on startup). You will see epoch output in the console.
-    * Start the Flask development server, typically available at `http://127.0.0.1:5000`.
-* Keep this terminal window open while using the application, as it runs the server.
+### 1. Start the Backend (Prediction API)
 
-### 2. Running the Frontend
+From the root directory (`F1PRED`):
 
-* The frontend (`index.html`) needs to be served by a local web server to handle potential CORS issues when making API calls to the backend. Simply opening the `index.html` file directly in the browser (`file://...`) might prevent the JavaScript from fetching data from `http://127.0.0.1:5000`.
-* **Option A: Using VS Code Live Server:** If you use Visual Studio Code, install the "Live Server" extension, right-click on `index.html` in the file explorer, and select "Open with Live Server".
-* **Option B: Using Python's HTTP Server:**
-    * Open a *new* terminal window.
-    * Navigate to the project's root directory (`F1PRED`).
-    * Run the command: `python -m http.server` (for Python 3).
-    * This will start a simple server, usually at `http://localhost:8000`. Open this address in your web browser.
-* Once the frontend is open in your browser via a local server, you can navigate through the sections. The "Predictions" section will make calls to the backend running at `http://127.0.0.1:5000`.
+```bash
+python predictions/pred.py
+```
 
-## Author
+- Trains the AI model and starts the Flask server at `http://127.0.0.1:5000`.
 
-* **Carlos Germa** [cite: 83]
+> 💡 Keep this terminal running during use.
 
-## Supervisor
+---
 
-* **Akinola Siyanbola** [cite: 83]
+### 2. Start the Frontend
 
-*(Optional: Add a License section here if you wish, e.g., MIT License)*
-````
+The frontend should be served via a local server to avoid CORS issues.
+
+#### Option A: VS Code Live Server
+- Install the "Live Server" extension.
+- Right-click `index.html` → "Open with Live Server".
+
+#### Option B: Python HTTP Server
+```bash
+python -m http.server
+```
+- Opens at `http://localhost:8000`.
+
+> 🔗 Make sure the backend at `http://127.0.0.1:5000` is running first.
+
+---
+
+## 👨‍💻 Author
+
+- **Carlos Germa**
+
+## 🧑‍🏫 Supervisor
+
+- **Akinola Siyanbola**
+
+---
+
+## 📄 License
+
+_(Optional: Add a license such as MIT, GPL, etc.)_
