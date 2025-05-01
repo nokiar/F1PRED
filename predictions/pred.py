@@ -69,8 +69,7 @@ def train_and_evaluate_model(X_train, X_test, y_train, y_test):
 
 # Make predictions for a specific race
 def predict_for_race(model, data, label_encoder_driver):
-    print("This function is no longer used for console input predictions.")
-    # You can remove this code if it is no longer needed.
+    print("Test.")
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
