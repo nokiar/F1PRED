@@ -19,7 +19,6 @@ The project uses historical data from the [Ergast API](https://ergast.com/mrd/) 
 
 - **Historical Data Browser** – View detailed results for races, drivers, constructors, and standings across F1 seasons (1950–present).
 - **AI Predictions** – Select a season and round to view AI-generated win probability predictions.
-- **Comparative View** – Display actual race results alongside AI predictions for evaluation.
 
 ---
 
@@ -38,7 +37,6 @@ The project uses historical data from the [Ergast API](https://ergast.com/mrd/) 
 
 ### Other
 - **Data Source:** [Ergast Developer API](https://ergast.com/mrd/)
-- **Deployment:** Gunicorn (WSGI Server)
 
 ---
 
@@ -73,24 +71,16 @@ F1PRED/
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
+   git clone <https://github.com/nokiar/F1PRED.git>
    cd F1PRED
    ```
 
-2. **Create a Virtual Environment (Recommended)**
-   ```bash
-   python -m venv venv
-   ```
-   Activate it:
-   - Windows: `.\venv\Scripts\activate`
-   - macOS/Linux: `source venv/bin/activate`
-
-3. **Install Dependencies**
+2. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Generate Historical Data**
+3. **Generate Historical Data**
    ```bash
    python data_generation.py
    ```
