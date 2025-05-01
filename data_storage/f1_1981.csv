@@ -1,0 +1,450 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1981,1,United States Grand Prix West,1981-03-15,Jones,Williams,1,2,80,Finished,1:50:41.33,9
+1981,1,United States Grand Prix West,1981-03-15,Reutemann,Williams,2,3,80,Finished,+9.19,6
+1981,1,United States Grand Prix West,1981-03-15,Piquet,Brabham,3,4,80,Finished,+34.92,4
+1981,1,United States Grand Prix West,1981-03-15,Andretti,Alfa Romeo,4,6,80,Finished,+49.31,3
+1981,1,United States Grand Prix West,1981-03-15,Cheever,Tyrrell,5,8,80,Finished,+1:06.70,2
+1981,1,United States Grand Prix West,1981-03-15,Tambay,Theodore,6,17,79,+1 Lap,,1
+1981,1,United States Grand Prix West,1981-03-15,Serra,Fittipaldi,7,18,78,+2 Laps,,0
+1981,1,United States Grand Prix West,1981-03-15,Arnoux,Renault,8,20,77,+3 Laps,,0
+1981,1,United States Grand Prix West,1981-03-15,Surer,Ensign,9,19,70,Fuel system,,0
+1981,1,United States Grand Prix West,1981-03-15,Pironi,Ferrari,10,11,67,Fuel system,,0
+1981,1,United States Grand Prix West,1981-03-15,Jarier,Ligier,11,10,64,Fuel pump,,0
+1981,1,United States Grand Prix West,1981-03-15,Rebaque,Brabham,12,15,49,Accident,,0
+1981,1,United States Grand Prix West,1981-03-15,Giacomelli,Alfa Romeo,13,9,41,Collision,,0
+1981,1,United States Grand Prix West,1981-03-15,Laffite,Ligier,14,12,41,Collision,,0
+1981,1,United States Grand Prix West,1981-03-15,Rosberg,Fittipaldi,15,16,41,Engine,,0
+1981,1,United States Grand Prix West,1981-03-15,Lammers,ATS,16,21,41,Collision,,0
+1981,1,United States Grand Prix West,1981-03-15,Patrese,Arrows,17,1,33,Fuel system,,0
+1981,1,United States Grand Prix West,1981-03-15,Gabbiani,Osella,18,24,26,Accident,,0
+1981,1,United States Grand Prix West,1981-03-15,Mansell,Team Lotus,19,7,25,Accident,,0
+1981,1,United States Grand Prix West,1981-03-15,Villeneuve,Ferrari,20,5,17,Halfshaft,,0
+1981,1,United States Grand Prix West,1981-03-15,Watson,McLaren,21,23,16,Brakes,,0
+1981,1,United States Grand Prix West,1981-03-15,de Angelis,Team Lotus,22,13,13,Accident,,0
+1981,1,United States Grand Prix West,1981-03-15,Prost,Renault,23,14,0,Collision,,0
+1981,1,United States Grand Prix West,1981-03-15,de Cesaris,McLaren,24,22,0,Collision,,0
+1981,1,United States Grand Prix West,1981-03-15,Cogan,Tyrrell,25,0,0,Did not qualify,,0
+1981,1,United States Grand Prix West,1981-03-15,Daly,March,26,0,0,Did not qualify,,0
+1981,1,United States Grand Prix West,1981-03-15,Guerra,Osella,27,0,0,Did not qualify,,0
+1981,1,United States Grand Prix West,1981-03-15,Stohr,Arrows,28,0,0,Did not qualify,,0
+1981,1,United States Grand Prix West,1981-03-15,Salazar,March,29,0,0,Did not qualify,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Reutemann,Williams,1,2,62,Finished,2:00:23.66,9
+1981,2,Brazilian Grand Prix,1981-03-29,Jones,Williams,2,3,62,Finished,+4.44,6
+1981,2,Brazilian Grand Prix,1981-03-29,Patrese,Arrows,3,4,62,Finished,+1:03.08,4
+1981,2,Brazilian Grand Prix,1981-03-29,Surer,Ensign,4,18,62,Finished,+1:17.03,3
+1981,2,Brazilian Grand Prix,1981-03-29,de Angelis,Team Lotus,5,10,62,Finished,+1:26.42,2
+1981,2,Brazilian Grand Prix,1981-03-29,Laffite,Ligier,6,16,62,Finished,+1:26.83,1
+1981,2,Brazilian Grand Prix,1981-03-29,Jarier,Ligier,7,23,62,Finished,+1:30.25,0
+1981,2,Brazilian Grand Prix,1981-03-29,Watson,McLaren,8,15,61,+1 Lap,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Rosberg,Fittipaldi,9,12,61,+1 Lap,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Tambay,Theodore,10,19,61,+1 Lap,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Mansell,Team Lotus,11,13,61,+1 Lap,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Piquet,Brabham,12,1,60,+2 Laps,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Zunino,Tyrrell,13,24,57,+5 Laps,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Cheever,Tyrrell,14,14,49,Not classified,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Giacomelli,Alfa Romeo,15,6,40,Not classified,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Villeneuve,Ferrari,16,7,25,Turbo,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Rebaque,Brabham,17,11,22,Spun off,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Prost,Renault,18,5,20,Collision,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Stohr,Arrows,19,21,20,Accident,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Pironi,Ferrari,20,17,19,Collision,,0
+1981,2,Brazilian Grand Prix,1981-03-29,de Cesaris,McLaren,21,20,9,Engine,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Arnoux,Renault,22,8,0,Collision,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Andretti,Alfa Romeo,23,9,0,Collision,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Serra,Fittipaldi,24,22,0,Collision,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Lammers,ATS,25,0,0,Did not qualify,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Gabbiani,Osella,26,0,0,Did not qualify,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Guerra,Osella,27,0,0,Did not qualify,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Salazar,Osella,28,0,0,Did not qualify,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Daly,March,29,0,0,Did not qualify,,0
+1981,2,Brazilian Grand Prix,1981-03-29,Londoño,Ensign,30,0,0,Withdrew,,0
+1981,3,Argentine Grand Prix,1981-04-12,Piquet,Brabham,1,1,53,Finished,1:34:32.74,9
+1981,3,Argentine Grand Prix,1981-04-12,Reutemann,Williams,2,4,53,Finished,+26.61,6
+1981,3,Argentine Grand Prix,1981-04-12,Prost,Renault,3,2,53,Finished,+49.98,4
+1981,3,Argentine Grand Prix,1981-04-12,Jones,Williams,4,3,53,Finished,+1:07.88,3
+1981,3,Argentine Grand Prix,1981-04-12,Arnoux,Renault,5,5,53,Finished,+1:31.85,2
+1981,3,Argentine Grand Prix,1981-04-12,de Angelis,Team Lotus,6,10,52,+1 Lap,,1
+1981,3,Argentine Grand Prix,1981-04-12,Patrese,Arrows,7,9,52,+1 Lap,,0
+1981,3,Argentine Grand Prix,1981-04-12,Andretti,Alfa Romeo,8,17,52,+1 Lap,,0
+1981,3,Argentine Grand Prix,1981-04-12,Stohr,Arrows,9,19,52,+1 Lap,,0
+1981,3,Argentine Grand Prix,1981-04-12,Giacomelli,Alfa Romeo,10,22,51,Out of fuel,,0
+1981,3,Argentine Grand Prix,1981-04-12,de Cesaris,McLaren,11,18,51,+2 Laps,,0
+1981,3,Argentine Grand Prix,1981-04-12,Lammers,ATS,12,23,51,+2 Laps,,0
+1981,3,Argentine Grand Prix,1981-04-12,Zunino,Tyrrell,13,24,51,+2 Laps,,0
+1981,3,Argentine Grand Prix,1981-04-12,Villeneuve,Ferrari,14,7,40,Transmission,,0
+1981,3,Argentine Grand Prix,1981-04-12,Tambay,Theodore,15,14,36,Oil leak,,0
+1981,3,Argentine Grand Prix,1981-04-12,Watson,McLaren,16,11,36,Transmission,,0
+1981,3,Argentine Grand Prix,1981-04-12,Rebaque,Brabham,17,6,32,Electrical,,0
+1981,3,Argentine Grand Prix,1981-04-12,Serra,Fittipaldi,18,20,28,Gearbox,,0
+1981,3,Argentine Grand Prix,1981-04-12,Laffite,Ligier,19,21,19,Handling,,0
+1981,3,Argentine Grand Prix,1981-04-12,Surer,Ensign,20,16,14,Engine,,0
+1981,3,Argentine Grand Prix,1981-04-12,Rosberg,Fittipaldi,21,8,4,Fuel system,,0
+1981,3,Argentine Grand Prix,1981-04-12,Mansell,Team Lotus,22,15,3,Engine,,0
+1981,3,Argentine Grand Prix,1981-04-12,Pironi,Ferrari,23,12,3,Engine,,0
+1981,3,Argentine Grand Prix,1981-04-12,Cheever,Tyrrell,24,13,1,Clutch,,0
+1981,3,Argentine Grand Prix,1981-04-12,Guerra,Osella,25,0,0,Did not qualify,,0
+1981,3,Argentine Grand Prix,1981-04-12,Gabbiani,Osella,26,0,0,Did not qualify,,0
+1981,3,Argentine Grand Prix,1981-04-12,Daly,March,27,0,0,Did not qualify,,0
+1981,3,Argentine Grand Prix,1981-04-12,Jabouille,Ligier,28,0,0,Did not qualify,,0
+1981,3,Argentine Grand Prix,1981-04-12,Salazar,March,29,0,0,Did not qualify,,0
+1981,4,San Marino Grand Prix,1981-05-03,Piquet,Brabham,1,5,60,Finished,1:51:23.97,9
+1981,4,San Marino Grand Prix,1981-05-03,Patrese,Arrows,2,9,60,Finished,+4.58,6
+1981,4,San Marino Grand Prix,1981-05-03,Reutemann,Williams,3,2,60,Finished,+6.34,4
+1981,4,San Marino Grand Prix,1981-05-03,Rebaque,Brabham,4,13,60,Finished,+22.89,3
+1981,4,San Marino Grand Prix,1981-05-03,Pironi,Ferrari,5,6,60,Finished,+25.87,2
+1981,4,San Marino Grand Prix,1981-05-03,de Cesaris,McLaren,6,14,60,Finished,+1:06.61,1
+1981,4,San Marino Grand Prix,1981-05-03,Villeneuve,Ferrari,7,1,60,Finished,+1:41.97,0
+1981,4,San Marino Grand Prix,1981-05-03,Arnoux,Renault,8,3,59,+1 Lap,,0
+1981,4,San Marino Grand Prix,1981-05-03,Surer,Ensign,9,21,59,+1 Lap,,0
+1981,4,San Marino Grand Prix,1981-05-03,Watson,McLaren,10,7,58,+2 Laps,,0
+1981,4,San Marino Grand Prix,1981-05-03,Tambay,Theodore,11,16,58,+2 Laps,,0
+1981,4,San Marino Grand Prix,1981-05-03,Jones,Williams,12,8,58,+2 Laps,,0
+1981,4,San Marino Grand Prix,1981-05-03,Borgudd,ATS,13,24,57,+3 Laps,,0
+1981,4,San Marino Grand Prix,1981-05-03,Jabouille,Ligier,14,18,45,Not classified,,0
+1981,4,San Marino Grand Prix,1981-05-03,Salazar,March,15,23,38,Spun off,,0
+1981,4,San Marino Grand Prix,1981-05-03,Alboreto,Tyrrell,16,17,31,Collision,,0
+1981,4,San Marino Grand Prix,1981-05-03,Gabbiani,Osella,17,20,31,Collision,,0
+1981,4,San Marino Grand Prix,1981-05-03,Giacomelli,Alfa Romeo,18,11,28,Collision,,0
+1981,4,San Marino Grand Prix,1981-05-03,Cheever,Tyrrell,19,19,28,Collision,,0
+1981,4,San Marino Grand Prix,1981-05-03,Andretti,Alfa Romeo,20,12,26,Gearbox,,0
+1981,4,San Marino Grand Prix,1981-05-03,Rosberg,Fittipaldi,21,15,14,Engine,,0
+1981,4,San Marino Grand Prix,1981-05-03,Laffite,Ligier,22,10,7,Suspension,,0
+1981,4,San Marino Grand Prix,1981-05-03,Prost,Renault,23,4,3,Gearbox,,0
+1981,4,San Marino Grand Prix,1981-05-03,Guerra,Osella,24,22,0,Accident,,0
+1981,4,San Marino Grand Prix,1981-05-03,Stohr,Arrows,25,0,0,Did not qualify,,0
+1981,4,San Marino Grand Prix,1981-05-03,Daly,March,26,0,0,Did not qualify,,0
+1981,4,San Marino Grand Prix,1981-05-03,Lammers,ATS,27,0,0,Retired,,0
+1981,4,San Marino Grand Prix,1981-05-03,Serra,Fittipaldi,28,0,0,Did not qualify,,0
+1981,4,San Marino Grand Prix,1981-05-03,Warwick,Toleman,29,0,0,Did not qualify,,0
+1981,4,San Marino Grand Prix,1981-05-03,Henton,Toleman,30,0,0,Did not qualify,,0
+1981,4,San Marino Grand Prix,1981-05-03,de Angelis,Team Lotus,31,0,0,Withdrew,,0
+1981,4,San Marino Grand Prix,1981-05-03,Mansell,Team Lotus,32,0,0,Withdrew,,0
+1981,5,Belgian Grand Prix,1981-05-17,Reutemann,Williams,1,1,54,Finished,1:16:31.61,9
+1981,5,Belgian Grand Prix,1981-05-17,Laffite,Ligier,2,9,54,Finished,+36.06,6
+1981,5,Belgian Grand Prix,1981-05-17,Mansell,Team Lotus,3,10,54,Finished,+43.69,4
+1981,5,Belgian Grand Prix,1981-05-17,Villeneuve,Ferrari,4,7,54,Finished,+47.64,3
+1981,5,Belgian Grand Prix,1981-05-17,de Angelis,Team Lotus,5,14,54,Finished,+49.20,2
+1981,5,Belgian Grand Prix,1981-05-17,Cheever,Tyrrell,6,8,54,Finished,+52.51,1
+1981,5,Belgian Grand Prix,1981-05-17,Watson,McLaren,7,5,54,Finished,+1:01.66,0
+1981,5,Belgian Grand Prix,1981-05-17,Pironi,Ferrari,8,3,54,Finished,+1:32.04,0
+1981,5,Belgian Grand Prix,1981-05-17,Giacomelli,Alfa Romeo,9,17,54,Finished,+1:35.58,0
+1981,5,Belgian Grand Prix,1981-05-17,Andretti,Alfa Romeo,10,18,53,+1 Lap,,0
+1981,5,Belgian Grand Prix,1981-05-17,Surer,Ensign,11,15,52,+2 Laps,,0
+1981,5,Belgian Grand Prix,1981-05-17,Alboreto,Tyrrell,12,19,52,+2 Laps,,0
+1981,5,Belgian Grand Prix,1981-05-17,Ghinzani,Osella,13,24,50,+4 Laps,,0
+1981,5,Belgian Grand Prix,1981-05-17,Rebaque,Brabham,14,21,39,Accident,,0
+1981,5,Belgian Grand Prix,1981-05-17,Jabouille,Ligier,15,16,35,Transmission,,0
+1981,5,Belgian Grand Prix,1981-05-17,Serra,Fittipaldi,16,20,29,Engine,,0
+1981,5,Belgian Grand Prix,1981-05-17,Gabbiani,Osella,17,22,22,Engine,,0
+1981,5,Belgian Grand Prix,1981-05-17,Jones,Williams,18,6,19,Accident,,0
+1981,5,Belgian Grand Prix,1981-05-17,de Cesaris,McLaren,19,23,11,Gearbox,,0
+1981,5,Belgian Grand Prix,1981-05-17,Piquet,Brabham,20,2,10,Accident,,0
+1981,5,Belgian Grand Prix,1981-05-17,Rosberg,Fittipaldi,21,11,10,Gearbox,,0
+1981,5,Belgian Grand Prix,1981-05-17,Prost,Renault,22,12,2,Clutch,,0
+1981,5,Belgian Grand Prix,1981-05-17,Patrese,Arrows,23,4,0,Collision,,0
+1981,5,Belgian Grand Prix,1981-05-17,Stohr,Arrows,24,13,0,Collision,,0
+1981,5,Belgian Grand Prix,1981-05-17,Daly,March,25,0,0,Did not qualify,,0
+1981,5,Belgian Grand Prix,1981-05-17,Arnoux,Renault,26,0,0,Did not qualify,,0
+1981,5,Belgian Grand Prix,1981-05-17,Salazar,March,27,0,0,Did not qualify,,0
+1981,5,Belgian Grand Prix,1981-05-17,Borgudd,ATS,28,0,0,Did not qualify,,0
+1981,5,Belgian Grand Prix,1981-05-17,Tambay,Theodore,29,0,0,Did not qualify,,0
+1981,5,Belgian Grand Prix,1981-05-17,Warwick,Toleman,30,0,0,Did not qualify,,0
+1981,5,Belgian Grand Prix,1981-05-17,Henton,Toleman,31,0,0,Did not qualify,,0
+1981,6,Monaco Grand Prix,1981-05-31,Villeneuve,Ferrari,1,2,76,Finished,1:54:23.38,9
+1981,6,Monaco Grand Prix,1981-05-31,Jones,Williams,2,7,76,Finished,+39.91,6
+1981,6,Monaco Grand Prix,1981-05-31,Laffite,Ligier,3,8,76,Finished,+1:29.24,4
+1981,6,Monaco Grand Prix,1981-05-31,Pironi,Ferrari,4,17,75,+1 Lap,,3
+1981,6,Monaco Grand Prix,1981-05-31,Cheever,Tyrrell,5,15,74,+2 Laps,,2
+1981,6,Monaco Grand Prix,1981-05-31,Surer,Ensign,6,19,74,+2 Laps,,1
+1981,6,Monaco Grand Prix,1981-05-31,Tambay,Theodore,7,16,72,+4 Laps,,0
+1981,6,Monaco Grand Prix,1981-05-31,Piquet,Brabham,8,1,53,Spun off,,0
+1981,6,Monaco Grand Prix,1981-05-31,Watson,McLaren,9,10,52,Engine,,0
+1981,6,Monaco Grand Prix,1981-05-31,Alboreto,Tyrrell,10,20,50,Collision,,0
+1981,6,Monaco Grand Prix,1981-05-31,Giacomelli,Alfa Romeo,11,18,50,Collision,,0
+1981,6,Monaco Grand Prix,1981-05-31,Prost,Renault,12,9,45,Engine,,0
+1981,6,Monaco Grand Prix,1981-05-31,Reutemann,Williams,13,4,33,Gearbox,,0
+1981,6,Monaco Grand Prix,1981-05-31,de Angelis,Team Lotus,14,6,32,Engine,,0
+1981,6,Monaco Grand Prix,1981-05-31,Arnoux,Renault,15,13,32,Spun off,,0
+1981,6,Monaco Grand Prix,1981-05-31,Patrese,Arrows,16,5,29,Gearbox,,0
+1981,6,Monaco Grand Prix,1981-05-31,Mansell,Team Lotus,17,3,15,Suspension,,0
+1981,6,Monaco Grand Prix,1981-05-31,Stohr,Arrows,18,14,14,Fuel system,,0
+1981,6,Monaco Grand Prix,1981-05-31,de Cesaris,McLaren,19,11,0,Collision,,0
+1981,6,Monaco Grand Prix,1981-05-31,Andretti,Alfa Romeo,20,12,0,Collision,,0
+1981,6,Monaco Grand Prix,1981-05-31,Rosberg,Fittipaldi,21,0,0,Did not qualify,,0
+1981,6,Monaco Grand Prix,1981-05-31,Jabouille,Ligier,22,0,0,Did not qualify,,0
+1981,6,Monaco Grand Prix,1981-05-31,Rebaque,Brabham,23,0,0,Did not qualify,,0
+1981,6,Monaco Grand Prix,1981-05-31,Serra,Fittipaldi,24,0,0,Did not qualify,,0
+1981,6,Monaco Grand Prix,1981-05-31,Ghinzani,Osella,25,0,0,Did not qualify,,0
+1981,6,Monaco Grand Prix,1981-05-31,Gabbiani,Osella,26,0,0,Did not qualify,,0
+1981,6,Monaco Grand Prix,1981-05-31,Borgudd,ATS,27,0,0,Did not qualify,,0
+1981,6,Monaco Grand Prix,1981-05-31,Daly,March,28,0,0,Did not qualify,,0
+1981,6,Monaco Grand Prix,1981-05-31,Salazar,March,29,0,0,Did not qualify,,0
+1981,6,Monaco Grand Prix,1981-05-31,Henton,Toleman,30,0,0,Did not qualify,,0
+1981,6,Monaco Grand Prix,1981-05-31,Warwick,Toleman,31,0,0,Did not qualify,,0
+1981,7,Spanish Grand Prix,1981-06-21,Villeneuve,Ferrari,1,7,80,Finished,1:46:35.01,9
+1981,7,Spanish Grand Prix,1981-06-21,Laffite,Ligier,2,1,80,Finished,+0.22,6
+1981,7,Spanish Grand Prix,1981-06-21,Watson,McLaren,3,4,80,Finished,+0.58,4
+1981,7,Spanish Grand Prix,1981-06-21,Reutemann,Williams,4,3,80,Finished,+1.01,3
+1981,7,Spanish Grand Prix,1981-06-21,de Angelis,Team Lotus,5,10,80,Finished,+1.24,2
+1981,7,Spanish Grand Prix,1981-06-21,Mansell,Team Lotus,6,11,80,Finished,+28.58,1
+1981,7,Spanish Grand Prix,1981-06-21,Jones,Williams,7,2,80,Finished,+56.58,0
+1981,7,Spanish Grand Prix,1981-06-21,Andretti,Alfa Romeo,8,8,80,Finished,+1:00.80,0
+1981,7,Spanish Grand Prix,1981-06-21,Arnoux,Renault,9,17,80,Finished,+1:07.08,0
+1981,7,Spanish Grand Prix,1981-06-21,Giacomelli,Alfa Romeo,10,6,80,Finished,+1:13.65,0
+1981,7,Spanish Grand Prix,1981-06-21,Serra,Fittipaldi,11,21,79,+1 Lap,,0
+1981,7,Spanish Grand Prix,1981-06-21,Rosberg,Fittipaldi,12,15,78,+2 Laps,,0
+1981,7,Spanish Grand Prix,1981-06-21,Tambay,Theodore,13,16,78,+2 Laps,,0
+1981,7,Spanish Grand Prix,1981-06-21,Salazar,Ensign,14,24,77,+3 Laps,,0
+1981,7,Spanish Grand Prix,1981-06-21,Pironi,Ferrari,15,13,76,+4 Laps,,0
+1981,7,Spanish Grand Prix,1981-06-21,Daly,March,16,22,75,+5 Laps,,0
+1981,7,Spanish Grand Prix,1981-06-21,Cheever,Tyrrell,17,20,62,Not classified,,0
+1981,7,Spanish Grand Prix,1981-06-21,Jabouille,Ligier,18,19,51,Brakes,,0
+1981,7,Spanish Grand Prix,1981-06-21,Rebaque,Brabham,19,18,46,Gearbox,,0
+1981,7,Spanish Grand Prix,1981-06-21,Stohr,Arrows,20,23,43,Ignition,,0
+1981,7,Spanish Grand Prix,1981-06-21,Piquet,Brabham,21,9,43,Accident,,0
+1981,7,Spanish Grand Prix,1981-06-21,Prost,Renault,22,5,28,Spun off,,0
+1981,7,Spanish Grand Prix,1981-06-21,Patrese,Arrows,23,12,21,Brakes,,0
+1981,7,Spanish Grand Prix,1981-06-21,de Cesaris,McLaren,24,14,9,Accident,,0
+1981,7,Spanish Grand Prix,1981-06-21,Alboreto,Tyrrell,25,0,0,Did not qualify,,0
+1981,7,Spanish Grand Prix,1981-06-21,Gabbiani,Osella,26,0,0,Did not qualify,,0
+1981,7,Spanish Grand Prix,1981-06-21,Borgudd,ATS,27,0,0,Did not qualify,,0
+1981,7,Spanish Grand Prix,1981-06-21,Henton,Toleman,28,0,0,Did not qualify,,0
+1981,7,Spanish Grand Prix,1981-06-21,Warwick,Toleman,29,0,0,Did not qualify,,0
+1981,7,Spanish Grand Prix,1981-06-21,Francia,Osella,30,0,0,Did not qualify,,0
+1981,8,French Grand Prix,1981-07-05,Prost,Renault,1,3,80,Finished,1:35:48.13,9
+1981,8,French Grand Prix,1981-07-05,Watson,McLaren,2,2,80,Finished,+2.29,6
+1981,8,French Grand Prix,1981-07-05,Piquet,Brabham,3,4,80,Finished,+24.22,4
+1981,8,French Grand Prix,1981-07-05,Arnoux,Renault,4,1,80,Finished,+42.30,3
+1981,8,French Grand Prix,1981-07-05,Pironi,Ferrari,5,14,79,+1 Lap,,2
+1981,8,French Grand Prix,1981-07-05,de Angelis,Team Lotus,6,8,79,+1 Lap,,1
+1981,8,French Grand Prix,1981-07-05,Mansell,Team Lotus,7,13,79,+1 Lap,,0
+1981,8,French Grand Prix,1981-07-05,Andretti,Alfa Romeo,8,10,79,+1 Lap,,0
+1981,8,French Grand Prix,1981-07-05,Rebaque,Brabham,9,15,78,+2 Laps,,0
+1981,8,French Grand Prix,1981-07-05,Reutemann,Williams,10,7,78,+2 Laps,,0
+1981,8,French Grand Prix,1981-07-05,de Cesaris,McLaren,11,5,78,+2 Laps,,0
+1981,8,French Grand Prix,1981-07-05,Surer,Theodore,12,21,78,+2 Laps,,0
+1981,8,French Grand Prix,1981-07-05,Cheever,Tyrrell,13,19,77,+3 Laps,,0
+1981,8,French Grand Prix,1981-07-05,Patrese,Arrows,14,18,77,+3 Laps,,0
+1981,8,French Grand Prix,1981-07-05,Giacomelli,Alfa Romeo,15,12,77,+3 Laps,,0
+1981,8,French Grand Prix,1981-07-05,Alboreto,Tyrrell,16,23,77,+3 Laps,,0
+1981,8,French Grand Prix,1981-07-05,Jones,Williams,17,9,76,Collision,,0
+1981,8,French Grand Prix,1981-07-05,Laffite,Ligier,18,6,57,Suspension,,0
+1981,8,French Grand Prix,1981-07-05,Daly,March,19,20,55,Engine,,0
+1981,8,French Grand Prix,1981-07-05,Villeneuve,Ferrari,20,11,41,Electrical,,0
+1981,8,French Grand Prix,1981-07-05,Tambay,Ligier,21,16,30,Wheel bearing,,0
+1981,8,French Grand Prix,1981-07-05,Rosberg,Fittipaldi,22,17,11,Suspension,,0
+1981,8,French Grand Prix,1981-07-05,Salazar,Ensign,23,22,6,Suspension,,0
+1981,8,French Grand Prix,1981-07-05,Serra,Fittipaldi,24,24,0,Withdrew,,0
+1981,8,French Grand Prix,1981-07-05,Stohr,Arrows,25,0,0,Did not qualify,,0
+1981,8,French Grand Prix,1981-07-05,Henton,Toleman,26,0,0,Did not qualify,,0
+1981,8,French Grand Prix,1981-07-05,Borgudd,ATS,27,0,0,Did not qualify,,0
+1981,8,French Grand Prix,1981-07-05,Gabbiani,Osella,28,0,0,Did not qualify,,0
+1981,8,French Grand Prix,1981-07-05,Warwick,Toleman,29,0,0,Did not qualify,,0
+1981,9,British Grand Prix,1981-07-18,Watson,McLaren,1,5,68,Finished,1:26:54.80,9
+1981,9,British Grand Prix,1981-07-18,Reutemann,Williams,2,9,68,Finished,+40.65,6
+1981,9,British Grand Prix,1981-07-18,Laffite,Ligier,3,14,67,+1 Lap,,4
+1981,9,British Grand Prix,1981-07-18,Cheever,Tyrrell,4,23,67,+1 Lap,,3
+1981,9,British Grand Prix,1981-07-18,Rebaque,Brabham,5,13,67,+1 Lap,,2
+1981,9,British Grand Prix,1981-07-18,Borgudd,ATS,6,21,67,+1 Lap,,1
+1981,9,British Grand Prix,1981-07-18,Daly,March,7,17,66,+2 Laps,,0
+1981,9,British Grand Prix,1981-07-18,Jarier,Osella,8,20,65,+3 Laps,,0
+1981,9,British Grand Prix,1981-07-18,Arnoux,Renault,9,1,64,Distributor,,0
+1981,9,British Grand Prix,1981-07-18,Patrese,Arrows,10,10,64,Engine,,0
+1981,9,British Grand Prix,1981-07-18,Surer,Theodore,11,24,61,Out of fuel,,0
+1981,9,British Grand Prix,1981-07-18,Andretti,Alfa Romeo,12,11,59,Throttle,,0
+1981,9,British Grand Prix,1981-07-18,Rosberg,Fittipaldi,13,14,56,Suspension,,0
+1981,9,British Grand Prix,1981-07-18,de Angelis,Team Lotus,14,22,25,Disqualified,,0
+1981,9,British Grand Prix,1981-07-18,Prost,Renault,15,2,17,Distributor,,0
+1981,9,British Grand Prix,1981-07-18,Tambay,Ligier,16,15,15,Clutch,,0
+1981,9,British Grand Prix,1981-07-18,Pironi,Ferrari,17,4,13,Turbo,,0
+1981,9,British Grand Prix,1981-07-18,Piquet,Brabham,18,3,11,Tyre,,0
+1981,9,British Grand Prix,1981-07-18,Giacomelli,Alfa Romeo,19,12,5,Transmission,,0
+1981,9,British Grand Prix,1981-07-18,Villeneuve,Ferrari,20,8,4,Spun off,,0
+1981,9,British Grand Prix,1981-07-18,Jones,Williams,21,7,3,Collision,,0
+1981,9,British Grand Prix,1981-07-18,de Cesaris,McLaren,22,6,3,Spun off,,0
+1981,9,British Grand Prix,1981-07-18,Alboreto,Tyrrell,23,19,1,Clutch,,0
+1981,9,British Grand Prix,1981-07-18,Stohr,Arrows,24,18,8,Spun off,,0
+1981,9,British Grand Prix,1981-07-18,Serra,Fittipaldi,25,0,0,Did not qualify,,0
+1981,9,British Grand Prix,1981-07-18,Henton,Toleman,26,0,0,Did not qualify,,0
+1981,9,British Grand Prix,1981-07-18,Mansell,Team Lotus,27,0,0,Did not qualify,,0
+1981,9,British Grand Prix,1981-07-18,Salazar,Ensign,28,0,0,Did not qualify,,0
+1981,9,British Grand Prix,1981-07-18,Warwick,Toleman,29,0,0,Did not qualify,,0
+1981,9,British Grand Prix,1981-07-18,Gabbiani,Osella,30,0,0,Did not qualify,,0
+1981,10,German Grand Prix,1981-08-02,Piquet,Brabham,1,6,45,Finished,1:25:55.60,9
+1981,10,German Grand Prix,1981-08-02,Prost,Renault,2,1,45,Finished,+11.52,6
+1981,10,German Grand Prix,1981-08-02,Laffite,Ligier,3,7,45,Finished,+1:04.60,4
+1981,10,German Grand Prix,1981-08-02,Rebaque,Brabham,4,16,45,Finished,+1:39.69,3
+1981,10,German Grand Prix,1981-08-02,Cheever,Tyrrell,5,18,45,Finished,+1:50.52,2
+1981,10,German Grand Prix,1981-08-02,Watson,McLaren,6,9,44,+1 Lap,,1
+1981,10,German Grand Prix,1981-08-02,de Angelis,Team Lotus,7,14,44,+1 Lap,,0
+1981,10,German Grand Prix,1981-08-02,Jarier,Osella,8,17,44,+1 Lap,,0
+1981,10,German Grand Prix,1981-08-02,Andretti,Alfa Romeo,9,12,44,+1 Lap,,0
+1981,10,German Grand Prix,1981-08-02,Villeneuve,Ferrari,10,8,44,+1 Lap,,0
+1981,10,German Grand Prix,1981-08-02,Jones,Williams,11,4,44,+1 Lap,,0
+1981,10,German Grand Prix,1981-08-02,Stohr,Arrows,12,26,44,+1 Lap,,0
+1981,10,German Grand Prix,1981-08-02,Arnoux,Renault,13,2,44,+1 Lap,,0
+1981,10,German Grand Prix,1981-08-02,Surer,Theodore,14,22,43,Suspension,,0
+1981,10,German Grand Prix,1981-08-02,Giacomelli,Alfa Romeo,15,17,43,+2 Laps,,0
+1981,10,German Grand Prix,1981-08-02,Salazar,Ensign,16,23,39,Not classified,,0
+1981,10,German Grand Prix,1981-08-02,Borgudd,ATS,17,28,35,Engine,,0
+1981,10,German Grand Prix,1981-08-02,Reutemann,Williams,18,3,27,Engine,,0
+1981,10,German Grand Prix,1981-08-02,Patrese,Arrows,19,13,27,Engine,,0
+1981,10,German Grand Prix,1981-08-02,Tambay,Ligier,20,11,27,Transmission,,0
+1981,10,German Grand Prix,1981-08-02,Daly,March,21,21,15,Suspension,,0
+1981,10,German Grand Prix,1981-08-02,Mansell,Team Lotus,22,15,12,Fuel leak,,0
+1981,10,German Grand Prix,1981-08-02,de Cesaris,McLaren,23,10,4,Collision,,0
+1981,10,German Grand Prix,1981-08-02,Pironi,Ferrari,24,5,1,Electrical,,0
+1981,10,German Grand Prix,1981-08-02,Rosberg,Fittipaldi,25,0,0,Did not qualify,,0
+1981,10,German Grand Prix,1981-08-02,Henton,Toleman,26,0,0,Did not qualify,,0
+1981,10,German Grand Prix,1981-08-02,Gabbiani,Osella,27,0,0,Did not qualify,,0
+1981,10,German Grand Prix,1981-08-02,Warwick,Toleman,28,0,0,Did not qualify,,0
+1981,10,German Grand Prix,1981-08-02,Alboreto,Tyrrell,29,0,0,Did not qualify,,0
+1981,10,German Grand Prix,1981-08-02,Serra,Fittipaldi,30,0,0,Did not qualify,,0
+1981,11,Austrian Grand Prix,1981-08-16,Laffite,Ligier,1,4,53,Finished,1:27:36.47,9
+1981,11,Austrian Grand Prix,1981-08-16,Arnoux,Renault,2,1,53,Finished,+5.17,6
+1981,11,Austrian Grand Prix,1981-08-16,Piquet,Brabham,3,7,53,Finished,+7.34,4
+1981,11,Austrian Grand Prix,1981-08-16,Jones,Williams,4,6,53,Finished,+12.04,3
+1981,11,Austrian Grand Prix,1981-08-16,Reutemann,Williams,5,5,53,Finished,+31.85,2
+1981,11,Austrian Grand Prix,1981-08-16,Watson,McLaren,6,12,53,Finished,+1:31.14,1
+1981,11,Austrian Grand Prix,1981-08-16,de Angelis,Team Lotus,7,9,52,+1 Lap,,0
+1981,11,Austrian Grand Prix,1981-08-16,de Cesaris,McLaren,8,18,52,+1 Lap,,0
+1981,11,Austrian Grand Prix,1981-08-16,Pironi,Ferrari,9,8,52,+1 Lap,,0
+1981,11,Austrian Grand Prix,1981-08-16,Jarier,Osella,10,14,51,+2 Laps,,0
+1981,11,Austrian Grand Prix,1981-08-16,Daly,March,11,19,47,+6 Laps,,0
+1981,11,Austrian Grand Prix,1981-08-16,Andretti,Alfa Romeo,12,13,46,Engine,,0
+1981,11,Austrian Grand Prix,1981-08-16,Borgudd,ATS,13,21,44,Brakes,,0
+1981,11,Austrian Grand Prix,1981-08-16,Patrese,Arrows,14,10,43,Engine,,0
+1981,11,Austrian Grand Prix,1981-08-16,Salazar,Ensign,15,20,43,Oil pressure,,0
+1981,11,Austrian Grand Prix,1981-08-16,Alboreto,Tyrrell,16,22,40,Gearbox,,0
+1981,11,Austrian Grand Prix,1981-08-16,Giacomelli,Alfa Romeo,17,16,35,Heat shield fire,,0
+1981,11,Austrian Grand Prix,1981-08-16,Rebaque,Brabham,18,15,32,Clutch,,0
+1981,11,Austrian Grand Prix,1981-08-16,Stohr,Arrows,19,24,27,Overheating,,0
+1981,11,Austrian Grand Prix,1981-08-16,Prost,Renault,20,2,26,Suspension,,0
+1981,11,Austrian Grand Prix,1981-08-16,Tambay,Ligier,21,17,26,Engine,,0
+1981,11,Austrian Grand Prix,1981-08-16,Mansell,Team Lotus,22,11,23,Engine,,0
+1981,11,Austrian Grand Prix,1981-08-16,Villeneuve,Ferrari,23,3,11,Accident,,0
+1981,11,Austrian Grand Prix,1981-08-16,Surer,Theodore,24,23,0,Distributor,,0
+1981,11,Austrian Grand Prix,1981-08-16,Cheever,Tyrrell,25,0,0,Did not qualify,,0
+1981,11,Austrian Grand Prix,1981-08-16,Warwick,Toleman,26,0,0,Did not qualify,,0
+1981,11,Austrian Grand Prix,1981-08-16,Henton,Toleman,27,0,0,Did not qualify,,0
+1981,11,Austrian Grand Prix,1981-08-16,Gabbiani,Osella,28,0,0,Did not qualify,,0
+1981,12,Dutch Grand Prix,1981-08-30,Prost,Renault,1,1,72,Finished,1:40:22.43,9
+1981,12,Dutch Grand Prix,1981-08-30,Piquet,Brabham,2,3,72,Finished,+8.24,6
+1981,12,Dutch Grand Prix,1981-08-30,Jones,Williams,3,4,72,Finished,+35.50,4
+1981,12,Dutch Grand Prix,1981-08-30,Rebaque,Brabham,4,15,71,+1 Lap,,3
+1981,12,Dutch Grand Prix,1981-08-30,de Angelis,Team Lotus,5,9,71,+1 Lap,,2
+1981,12,Dutch Grand Prix,1981-08-30,Salazar,Ensign,6,24,70,+2 Laps,,1
+1981,12,Dutch Grand Prix,1981-08-30,Stohr,Arrows,7,21,69,+3 Laps,,0
+1981,12,Dutch Grand Prix,1981-08-30,Surer,Theodore,8,20,69,+3 Laps,,0
+1981,12,Dutch Grand Prix,1981-08-30,Alboreto,Tyrrell,9,25,68,Engine,,0
+1981,12,Dutch Grand Prix,1981-08-30,Borgudd,ATS,10,23,68,+4 Laps,,0
+1981,12,Dutch Grand Prix,1981-08-30,Andretti,Alfa Romeo,11,7,62,Accident,,0
+1981,12,Dutch Grand Prix,1981-08-30,Watson,McLaren,12,8,50,Ignition,,0
+1981,12,Dutch Grand Prix,1981-08-30,Cheever,Tyrrell,13,22,46,Suspension,,0
+1981,12,Dutch Grand Prix,1981-08-30,Jarier,Osella,14,18,29,Transmission,,0
+1981,12,Dutch Grand Prix,1981-08-30,Arnoux,Renault,15,2,21,Engine,,0
+1981,12,Dutch Grand Prix,1981-08-30,Giacomelli,Alfa Romeo,16,14,19,Tyre,,0
+1981,12,Dutch Grand Prix,1981-08-30,Laffite,Ligier,17,6,18,Collision,,0
+1981,12,Dutch Grand Prix,1981-08-30,Reutemann,Williams,18,5,18,Collision,,0
+1981,12,Dutch Grand Prix,1981-08-30,Patrese,Arrows,19,10,16,Suspension,,0
+1981,12,Dutch Grand Prix,1981-08-30,Daly,March,20,19,5,Suspension,,0
+1981,12,Dutch Grand Prix,1981-08-30,Pironi,Ferrari,21,12,4,Collision,,0
+1981,12,Dutch Grand Prix,1981-08-30,Mansell,Team Lotus,22,17,1,Engine,,0
+1981,12,Dutch Grand Prix,1981-08-30,Tambay,Ligier,23,11,1,Collision,,0
+1981,12,Dutch Grand Prix,1981-08-30,Villeneuve,Ferrari,24,16,0,Collision,,0
+1981,12,Dutch Grand Prix,1981-08-30,de Cesaris,McLaren,25,0,0,Withdrew,,0
+1981,12,Dutch Grand Prix,1981-08-30,Henton,Toleman,26,0,0,Did not qualify,,0
+1981,12,Dutch Grand Prix,1981-08-30,Rosberg,Fittipaldi,27,0,0,Did not qualify,,0
+1981,12,Dutch Grand Prix,1981-08-30,Serra,Fittipaldi,28,0,0,Did not qualify,,0
+1981,12,Dutch Grand Prix,1981-08-30,Gabbiani,Osella,29,0,0,Did not qualify,,0
+1981,12,Dutch Grand Prix,1981-08-30,Warwick,Toleman,30,0,0,Did not qualify,,0
+1981,13,Italian Grand Prix,1981-09-13,Prost,Renault,1,3,52,Finished,1:26:36.897,9
+1981,13,Italian Grand Prix,1981-09-13,Jones,Williams,2,5,52,Finished,+22.175,6
+1981,13,Italian Grand Prix,1981-09-13,Reutemann,Williams,3,2,52,Finished,+50.587,4
+1981,13,Italian Grand Prix,1981-09-13,de Angelis,Team Lotus,4,11,52,Finished,+1:32.902,3
+1981,13,Italian Grand Prix,1981-09-13,Pironi,Ferrari,5,8,52,Finished,+1:34.522,2
+1981,13,Italian Grand Prix,1981-09-13,Piquet,Brabham,6,6,51,Engine,,1
+1981,13,Italian Grand Prix,1981-09-13,de Cesaris,McLaren,7,16,51,Puncture,,0
+1981,13,Italian Grand Prix,1981-09-13,Giacomelli,Alfa Romeo,8,10,50,+2 Laps,,0
+1981,13,Italian Grand Prix,1981-09-13,Jarier,Osella,9,18,50,+2 Laps,,0
+1981,13,Italian Grand Prix,1981-09-13,Henton,Toleman,10,23,49,+3 Laps,,0
+1981,13,Italian Grand Prix,1981-09-13,Andretti,Alfa Romeo,11,13,40,Engine,,0
+1981,13,Italian Grand Prix,1981-09-13,Daly,March,12,19,36,Gearbox,,0
+1981,13,Italian Grand Prix,1981-09-13,Tambay,Ligier,13,15,22,Puncture,,0
+1981,13,Italian Grand Prix,1981-09-13,Mansell,Team Lotus,14,12,21,Suspension,,0
+1981,13,Italian Grand Prix,1981-09-13,Watson,McLaren,15,7,19,Accident,,0
+1981,13,Italian Grand Prix,1981-09-13,Patrese,Arrows,16,20,18,Gearbox,,0
+1981,13,Italian Grand Prix,1981-09-13,Alboreto,Tyrrell,17,22,17,Accident,,0
+1981,13,Italian Grand Prix,1981-09-13,Salazar,Ensign,18,24,13,Spun off,,0
+1981,13,Italian Grand Prix,1981-09-13,Arnoux,Renault,19,1,12,Spun off,,0
+1981,13,Italian Grand Prix,1981-09-13,Laffite,Ligier,20,4,11,Puncture,,0
+1981,13,Italian Grand Prix,1981-09-13,Cheever,Tyrrell,21,17,11,Spun off,,0
+1981,13,Italian Grand Prix,1981-09-13,Borgudd,ATS,22,21,10,Spun off,,0
+1981,13,Italian Grand Prix,1981-09-13,Villeneuve,Ferrari,23,9,5,Engine,,0
+1981,13,Italian Grand Prix,1981-09-13,Rebaque,Brabham,24,14,1,Electrical,,0
+1981,13,Italian Grand Prix,1981-09-13,Surer,Theodore,25,0,0,Did not qualify,,0
+1981,13,Italian Grand Prix,1981-09-13,Gabbiani,Osella,26,0,0,Did not qualify,,0
+1981,13,Italian Grand Prix,1981-09-13,Warwick,Toleman,27,0,0,Did not qualify,,0
+1981,13,Italian Grand Prix,1981-09-13,Stohr,Arrows,28,0,0,Did not qualify,,0
+1981,13,Italian Grand Prix,1981-09-13,Rosberg,Fittipaldi,29,0,0,Did not qualify,,0
+1981,13,Italian Grand Prix,1981-09-13,Serra,Fittipaldi,30,0,0,Did not qualify,,0
+1981,14,Canadian Grand Prix,1981-09-27,Laffite,Ligier,1,10,63,Finished,2:01:25.20,9
+1981,14,Canadian Grand Prix,1981-09-27,Watson,McLaren,2,9,63,Finished,+6.23,6
+1981,14,Canadian Grand Prix,1981-09-27,Villeneuve,Ferrari,3,11,63,Finished,+1:50.27,4
+1981,14,Canadian Grand Prix,1981-09-27,Giacomelli,Alfa Romeo,4,15,62,+1 Lap,,3
+1981,14,Canadian Grand Prix,1981-09-27,Piquet,Brabham,5,1,62,+1 Lap,,2
+1981,14,Canadian Grand Prix,1981-09-27,de Angelis,Team Lotus,6,7,62,+1 Lap,,1
+1981,14,Canadian Grand Prix,1981-09-27,Andretti,Alfa Romeo,7,16,62,+1 Lap,,0
+1981,14,Canadian Grand Prix,1981-09-27,Daly,March,8,20,61,+2 Laps,,0
+1981,14,Canadian Grand Prix,1981-09-27,Surer,Theodore,9,19,61,+2 Laps,,0
+1981,14,Canadian Grand Prix,1981-09-27,Reutemann,Williams,10,2,60,+3 Laps,,0
+1981,14,Canadian Grand Prix,1981-09-27,Alboreto,Tyrrell,11,22,59,+4 Laps,,0
+1981,14,Canadian Grand Prix,1981-09-27,Cheever,Tyrrell,12,14,56,Engine,,0
+1981,14,Canadian Grand Prix,1981-09-27,de Cesaris,McLaren,13,13,51,Spun off,,0
+1981,14,Canadian Grand Prix,1981-09-27,Prost,Renault,14,4,48,Collision,,0
+1981,14,Canadian Grand Prix,1981-09-27,Mansell,Team Lotus,15,5,45,Collision,,0
+1981,14,Canadian Grand Prix,1981-09-27,Borgudd,ATS,16,21,40,Spun off,,0
+1981,14,Canadian Grand Prix,1981-09-27,Rebaque,Brabham,17,6,35,Spun off,,0
+1981,14,Canadian Grand Prix,1981-09-27,Jarier,Osella,18,23,26,Collision,,0
+1981,14,Canadian Grand Prix,1981-09-27,Jones,Williams,19,3,24,Handling,,0
+1981,14,Canadian Grand Prix,1981-09-27,Pironi,Ferrari,20,12,24,Ignition,,0
+1981,14,Canadian Grand Prix,1981-09-27,Salazar,Ensign,21,24,8,Spun off,,0
+1981,14,Canadian Grand Prix,1981-09-27,Tambay,Ligier,22,17,6,Spun off,,0
+1981,14,Canadian Grand Prix,1981-09-27,Patrese,Arrows,23,18,6,Spun off,,0
+1981,14,Canadian Grand Prix,1981-09-27,Arnoux,Renault,24,8,0,Collision,,0
+1981,14,Canadian Grand Prix,1981-09-27,Rosberg,Fittipaldi,25,0,0,Did not qualify,,0
+1981,14,Canadian Grand Prix,1981-09-27,Serra,Fittipaldi,26,0,0,Did not qualify,,0
+1981,14,Canadian Grand Prix,1981-09-27,Henton,Toleman,27,0,0,Did not qualify,,0
+1981,14,Canadian Grand Prix,1981-09-27,Villeneuve Sr.,Arrows,28,0,0,Did not qualify,,0
+1981,14,Canadian Grand Prix,1981-09-27,Warwick,Toleman,29,0,0,Did not qualify,,0
+1981,14,Canadian Grand Prix,1981-09-27,Gabbiani,Osella,30,0,0,Did not qualify,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Jones,Williams,1,2,75,Finished,1:44:09.077,9
+1981,15,Caesars Palace Grand Prix,1981-10-17,Prost,Renault,2,5,75,Finished,+20.048,6
+1981,15,Caesars Palace Grand Prix,1981-10-17,Giacomelli,Alfa Romeo,3,8,75,Finished,+20.428,4
+1981,15,Caesars Palace Grand Prix,1981-10-17,Mansell,Team Lotus,4,9,75,Finished,+47.473,3
+1981,15,Caesars Palace Grand Prix,1981-10-17,Piquet,Brabham,5,4,75,Finished,+1:16.438,2
+1981,15,Caesars Palace Grand Prix,1981-10-17,Laffite,Ligier,6,12,75,Finished,+1:18.175,1
+1981,15,Caesars Palace Grand Prix,1981-10-17,Watson,McLaren,7,6,75,Finished,+1:18.497,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Reutemann,Williams,8,1,74,+1 Lap,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Pironi,Ferrari,9,18,73,+2 Laps,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Rosberg,Fittipaldi,10,20,73,+2 Laps,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Patrese,Arrows,11,11,71,+4 Laps,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,de Cesaris,McLaren,12,14,69,+6 Laps,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Alboreto,Tyrrell,13,17,67,Engine,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Salazar,Ensign,14,24,61,Not classified,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Warwick,Toleman,15,22,43,Gearbox,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Andretti,Alfa Romeo,16,10,29,Suspension,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Villeneuve,Ferrari,17,3,22,Disqualified,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Rebaque,Brabham,18,16,20,Throttle,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Surer,Theodore,19,23,19,Suspension,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Cheever,Tyrrell,20,19,10,Engine,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Arnoux,Renault,21,13,10,Electrical,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Tambay,Ligier,22,7,2,Accident,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,de Angelis,Team Lotus,23,15,2,Water leak,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Jarier,Osella,24,21,0,Transmission,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Borgudd,ATS,25,0,0,Did not qualify,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Serra,Fittipaldi,26,0,0,Did not qualify,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Daly,March,27,0,0,Did not qualify,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Villeneuve Sr.,Arrows,28,0,0,Did not qualify,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Henton,Toleman,29,0,0,Did not qualify,,0
+1981,15,Caesars Palace Grand Prix,1981-10-17,Gabbiani,Osella,30,0,0,Did not qualify,,0

@@ -1,0 +1,361 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+2004,1,Australian Grand Prix,2004-03-07,Schumacher,Ferrari,1,1,58,Finished,1:24:15.757,10
+2004,1,Australian Grand Prix,2004-03-07,Barrichello,Ferrari,2,2,58,Finished,+13.605,8
+2004,1,Australian Grand Prix,2004-03-07,Alonso,Renault,3,5,58,Finished,+34.673,6
+2004,1,Australian Grand Prix,2004-03-07,Schumacher,Williams,4,8,58,Finished,+1:00.423,5
+2004,1,Australian Grand Prix,2004-03-07,Pablo Montoya,Williams,5,3,58,Finished,+1:08.536,4
+2004,1,Australian Grand Prix,2004-03-07,Button,BAR,6,4,58,Finished,+1:10.598,3
+2004,1,Australian Grand Prix,2004-03-07,Trulli,Renault,7,9,57,+1 Lap,,2
+2004,1,Australian Grand Prix,2004-03-07,Coulthard,McLaren,8,12,57,+1 Lap,,1
+2004,1,Australian Grand Prix,2004-03-07,Sato,BAR,9,7,57,+1 Lap,,0
+2004,1,Australian Grand Prix,2004-03-07,Fisichella,Sauber,10,14,57,+1 Lap,,0
+2004,1,Australian Grand Prix,2004-03-07,Klien,Jaguar,11,19,56,+2 Laps,,0
+2004,1,Australian Grand Prix,2004-03-07,da Matta,Toyota,12,13,56,+2 Laps,,0
+2004,1,Australian Grand Prix,2004-03-07,Panis,Toyota,13,18,56,+2 Laps,,0
+2004,1,Australian Grand Prix,2004-03-07,Pantano,Jordan,14,16,55,+3 Laps,,0
+2004,1,Australian Grand Prix,2004-03-07,Massa,Sauber,15,11,44,Engine,,0
+2004,1,Australian Grand Prix,2004-03-07,Heidfeld,Jordan,16,15,43,Transmission,,0
+2004,1,Australian Grand Prix,2004-03-07,Bruni,Minardi,17,20,43,Not classified,,0
+2004,1,Australian Grand Prix,2004-03-07,Webber,Jaguar,18,6,29,Transmission,,0
+2004,1,Australian Grand Prix,2004-03-07,Baumgartner,Minardi,19,17,13,Electrical,,0
+2004,1,Australian Grand Prix,2004-03-07,Räikkönen,McLaren,20,10,9,Engine,,0
+2004,2,Malaysian Grand Prix,2004-03-21,Schumacher,Ferrari,1,1,56,Finished,1:31:07.490,10
+2004,2,Malaysian Grand Prix,2004-03-21,Pablo Montoya,Williams,2,4,56,Finished,+5.022,8
+2004,2,Malaysian Grand Prix,2004-03-21,Button,BAR,3,6,56,Finished,+11.568,6
+2004,2,Malaysian Grand Prix,2004-03-21,Barrichello,Ferrari,4,3,56,Finished,+13.615,5
+2004,2,Malaysian Grand Prix,2004-03-21,Trulli,Renault,5,8,56,Finished,+37.360,4
+2004,2,Malaysian Grand Prix,2004-03-21,Coulthard,McLaren,6,9,56,Finished,+53.098,3
+2004,2,Malaysian Grand Prix,2004-03-21,Alonso,Renault,7,19,56,Finished,+1:07.877,2
+2004,2,Malaysian Grand Prix,2004-03-21,Massa,Sauber,8,11,55,+1 Lap,,1
+2004,2,Malaysian Grand Prix,2004-03-21,da Matta,Toyota,9,10,55,+1 Lap,,0
+2004,2,Malaysian Grand Prix,2004-03-21,Klien,Jaguar,10,13,55,+1 Lap,,0
+2004,2,Malaysian Grand Prix,2004-03-21,Fisichella,Sauber,11,12,55,+1 Lap,,0
+2004,2,Malaysian Grand Prix,2004-03-21,Panis,Toyota,12,14,55,+1 Lap,,0
+2004,2,Malaysian Grand Prix,2004-03-21,Pantano,Jordan,13,18,54,+2 Laps,,0
+2004,2,Malaysian Grand Prix,2004-03-21,Bruni,Minardi,14,16,53,+3 Laps,,0
+2004,2,Malaysian Grand Prix,2004-03-21,Sato,BAR,15,20,52,+4 Laps,,0
+2004,2,Malaysian Grand Prix,2004-03-21,Baumgartner,Minardi,16,17,52,+4 Laps,,0
+2004,2,Malaysian Grand Prix,2004-03-21,Räikkönen,McLaren,17,5,40,Transmission,,0
+2004,2,Malaysian Grand Prix,2004-03-21,Heidfeld,Jordan,18,15,34,Transmission,,0
+2004,2,Malaysian Grand Prix,2004-03-21,Schumacher,Williams,19,7,27,Engine,,0
+2004,2,Malaysian Grand Prix,2004-03-21,Webber,Jaguar,20,2,23,Spun off,,0
+2004,3,Bahrain Grand Prix,2004-04-04,Schumacher,Ferrari,1,1,57,Finished,1:28:34.875,10
+2004,3,Bahrain Grand Prix,2004-04-04,Barrichello,Ferrari,2,2,57,Finished,+1.367,8
+2004,3,Bahrain Grand Prix,2004-04-04,Button,BAR,3,6,57,Finished,+26.687,6
+2004,3,Bahrain Grand Prix,2004-04-04,Trulli,Renault,4,7,57,Finished,+32.214,5
+2004,3,Bahrain Grand Prix,2004-04-04,Sato,BAR,5,5,57,Finished,+52.460,4
+2004,3,Bahrain Grand Prix,2004-04-04,Alonso,Renault,6,16,57,Finished,+53.156,3
+2004,3,Bahrain Grand Prix,2004-04-04,Schumacher,Williams,7,4,57,Finished,+58.155,2
+2004,3,Bahrain Grand Prix,2004-04-04,Webber,Jaguar,8,14,56,+1 Lap,,1
+2004,3,Bahrain Grand Prix,2004-04-04,Panis,Toyota,9,8,56,+1 Lap,,0
+2004,3,Bahrain Grand Prix,2004-04-04,da Matta,Toyota,10,9,56,+1 Lap,,0
+2004,3,Bahrain Grand Prix,2004-04-04,Fisichella,Sauber,11,11,56,+1 Lap,,0
+2004,3,Bahrain Grand Prix,2004-04-04,Massa,Sauber,12,13,56,+1 Lap,,0
+2004,3,Bahrain Grand Prix,2004-04-04,Pablo Montoya,Williams,13,3,56,+1 Lap,,0
+2004,3,Bahrain Grand Prix,2004-04-04,Klien,Jaguar,14,12,56,+1 Lap,,0
+2004,3,Bahrain Grand Prix,2004-04-04,Heidfeld,Jordan,15,18,56,+1 Lap,,0
+2004,3,Bahrain Grand Prix,2004-04-04,Pantano,Jordan,16,15,55,+2 Laps,,0
+2004,3,Bahrain Grand Prix,2004-04-04,Bruni,Minardi,17,17,52,+5 Laps,,0
+2004,3,Bahrain Grand Prix,2004-04-04,Coulthard,McLaren,18,10,50,Pneumatics,,0
+2004,3,Bahrain Grand Prix,2004-04-04,Baumgartner,Minardi,19,20,44,Engine,,0
+2004,3,Bahrain Grand Prix,2004-04-04,Räikkönen,McLaren,20,19,7,Engine,,0
+2004,4,San Marino Grand Prix,2004-04-25,Schumacher,Ferrari,1,2,62,Finished,1:26:19.670,10
+2004,4,San Marino Grand Prix,2004-04-25,Button,BAR,2,1,62,Finished,+9.702,8
+2004,4,San Marino Grand Prix,2004-04-25,Pablo Montoya,Williams,3,3,62,Finished,+21.617,6
+2004,4,San Marino Grand Prix,2004-04-25,Alonso,Renault,4,6,62,Finished,+23.654,5
+2004,4,San Marino Grand Prix,2004-04-25,Trulli,Renault,5,9,62,Finished,+36.216,4
+2004,4,San Marino Grand Prix,2004-04-25,Barrichello,Ferrari,6,4,62,Finished,+36.683,3
+2004,4,San Marino Grand Prix,2004-04-25,Schumacher,Williams,7,5,62,Finished,+55.730,2
+2004,4,San Marino Grand Prix,2004-04-25,Räikkönen,McLaren,8,20,61,+1 Lap,,1
+2004,4,San Marino Grand Prix,2004-04-25,Fisichella,Sauber,9,18,61,+1 Lap,,0
+2004,4,San Marino Grand Prix,2004-04-25,Massa,Sauber,10,12,61,+1 Lap,,0
+2004,4,San Marino Grand Prix,2004-04-25,Panis,Toyota,11,13,61,+1 Lap,,0
+2004,4,San Marino Grand Prix,2004-04-25,Coulthard,McLaren,12,11,61,+1 Lap,,0
+2004,4,San Marino Grand Prix,2004-04-25,Webber,Jaguar,13,8,61,+1 Lap,,0
+2004,4,San Marino Grand Prix,2004-04-25,Klien,Jaguar,14,14,60,+2 Laps,,0
+2004,4,San Marino Grand Prix,2004-04-25,Baumgartner,Minardi,15,19,58,+4 Laps,,0
+2004,4,San Marino Grand Prix,2004-04-25,Sato,BAR,16,7,56,Engine,,0
+2004,4,San Marino Grand Prix,2004-04-25,Heidfeld,Jordan,17,16,48,Driveshaft,,0
+2004,4,San Marino Grand Prix,2004-04-25,da Matta,Toyota,18,10,32,Accident,,0
+2004,4,San Marino Grand Prix,2004-04-25,Bruni,Minardi,19,17,22,Brakes,,0
+2004,4,San Marino Grand Prix,2004-04-25,Pantano,Jordan,20,15,6,Hydraulics,,0
+2004,5,Spanish Grand Prix,2004-05-09,Schumacher,Ferrari,1,1,66,Finished,1:27:32.841,10
+2004,5,Spanish Grand Prix,2004-05-09,Barrichello,Ferrari,2,5,66,Finished,+13.290,8
+2004,5,Spanish Grand Prix,2004-05-09,Trulli,Renault,3,4,66,Finished,+32.294,6
+2004,5,Spanish Grand Prix,2004-05-09,Alonso,Renault,4,8,66,Finished,+32.952,5
+2004,5,Spanish Grand Prix,2004-05-09,Sato,BAR,5,3,66,Finished,+42.327,4
+2004,5,Spanish Grand Prix,2004-05-09,Schumacher,Williams,6,6,66,Finished,+1:13.804,3
+2004,5,Spanish Grand Prix,2004-05-09,Fisichella,Sauber,7,12,66,Finished,+1:17.108,2
+2004,5,Spanish Grand Prix,2004-05-09,Button,BAR,8,14,65,+1 Lap,,1
+2004,5,Spanish Grand Prix,2004-05-09,Massa,Sauber,9,17,65,+1 Lap,,0
+2004,5,Spanish Grand Prix,2004-05-09,Coulthard,McLaren,10,10,65,+1 Lap,,0
+2004,5,Spanish Grand Prix,2004-05-09,Räikkönen,McLaren,11,13,65,+1 Lap,,0
+2004,5,Spanish Grand Prix,2004-05-09,Webber,Jaguar,12,9,65,+1 Lap,,0
+2004,5,Spanish Grand Prix,2004-05-09,da Matta,Toyota,13,11,65,+1 Lap,,0
+2004,5,Spanish Grand Prix,2004-05-09,Pantano,Jordan,14,19,51,Steering,,0
+2004,5,Spanish Grand Prix,2004-05-09,Pablo Montoya,Williams,15,2,46,Brakes,,0
+2004,5,Spanish Grand Prix,2004-05-09,Klien,Jaguar,16,16,43,Throttle,,0
+2004,5,Spanish Grand Prix,2004-05-09,Panis,Toyota,17,7,33,Hydraulics,,0
+2004,5,Spanish Grand Prix,2004-05-09,Heidfeld,Jordan,18,15,33,Hydraulics,,0
+2004,5,Spanish Grand Prix,2004-05-09,Bruni,Minardi,19,18,31,Spun off,,0
+2004,5,Spanish Grand Prix,2004-05-09,Baumgartner,Minardi,20,20,17,Spun off,,0
+2004,6,Monaco Grand Prix,2004-05-23,Trulli,Renault,1,1,77,Finished,1:45:46.601,10
+2004,6,Monaco Grand Prix,2004-05-23,Button,BAR,2,2,77,Finished,+0.497,8
+2004,6,Monaco Grand Prix,2004-05-23,Barrichello,Ferrari,3,6,77,Finished,+1:15.766,6
+2004,6,Monaco Grand Prix,2004-05-23,Pablo Montoya,Williams,4,9,76,+1 Lap,,5
+2004,6,Monaco Grand Prix,2004-05-23,Massa,Sauber,5,16,76,+1 Lap,,4
+2004,6,Monaco Grand Prix,2004-05-23,da Matta,Toyota,6,15,76,+1 Lap,,3
+2004,6,Monaco Grand Prix,2004-05-23,Heidfeld,Jordan,7,17,75,+2 Laps,,2
+2004,6,Monaco Grand Prix,2004-05-23,Panis,Toyota,8,13,74,+3 Laps,,1
+2004,6,Monaco Grand Prix,2004-05-23,Baumgartner,Minardi,9,19,71,+6 Laps,,0
+2004,6,Monaco Grand Prix,2004-05-23,Schumacher,Williams,10,12,69,Gearbox,,0
+2004,6,Monaco Grand Prix,2004-05-23,Schumacher,Ferrari,11,4,45,Collision,,0
+2004,6,Monaco Grand Prix,2004-05-23,Alonso,Renault,12,3,41,Accident,,0
+2004,6,Monaco Grand Prix,2004-05-23,Räikkönen,McLaren,13,5,27,Pneumatics,,0
+2004,6,Monaco Grand Prix,2004-05-23,Bruni,Minardi,14,20,15,Gearbox,,0
+2004,6,Monaco Grand Prix,2004-05-23,Pantano,Jordan,15,18,12,Transmission,,0
+2004,6,Monaco Grand Prix,2004-05-23,Webber,Jaguar,16,11,11,Gearbox,,0
+2004,6,Monaco Grand Prix,2004-05-23,Sato,BAR,17,7,2,Engine,,0
+2004,6,Monaco Grand Prix,2004-05-23,Coulthard,McLaren,18,8,2,Collision,,0
+2004,6,Monaco Grand Prix,2004-05-23,Fisichella,Sauber,19,10,2,Collision,,0
+2004,6,Monaco Grand Prix,2004-05-23,Klien,Jaguar,20,14,0,Accident,,0
+2004,7,European Grand Prix,2004-05-30,Schumacher,Ferrari,1,1,60,Finished,1:32:35.101,10
+2004,7,European Grand Prix,2004-05-30,Barrichello,Ferrari,2,7,60,Finished,+17.989,8
+2004,7,European Grand Prix,2004-05-30,Button,BAR,3,5,60,Finished,+22.533,6
+2004,7,European Grand Prix,2004-05-30,Trulli,Renault,4,3,60,Finished,+53.673,5
+2004,7,European Grand Prix,2004-05-30,Alonso,Renault,5,6,60,Finished,+1:00.987,4
+2004,7,European Grand Prix,2004-05-30,Fisichella,Sauber,6,19,60,Finished,+1:13.448,3
+2004,7,European Grand Prix,2004-05-30,Webber,Jaguar,7,14,60,Finished,+1:16.206,2
+2004,7,European Grand Prix,2004-05-30,Pablo Montoya,Williams,8,8,59,+1 Lap,,1
+2004,7,European Grand Prix,2004-05-30,Massa,Sauber,9,16,59,+1 Lap,,0
+2004,7,European Grand Prix,2004-05-30,Heidfeld,Jordan,10,13,59,+1 Lap,,0
+2004,7,European Grand Prix,2004-05-30,Panis,Toyota,11,10,59,+1 Lap,,0
+2004,7,European Grand Prix,2004-05-30,Klien,Jaguar,12,12,59,+1 Lap,,0
+2004,7,European Grand Prix,2004-05-30,Pantano,Jordan,13,15,58,+2 Laps,,0
+2004,7,European Grand Prix,2004-05-30,Bruni,Minardi,14,20,57,+3 Laps,,0
+2004,7,European Grand Prix,2004-05-30,Baumgartner,Minardi,15,17,57,+3 Laps,,0
+2004,7,European Grand Prix,2004-05-30,Sato,BAR,16,2,47,Engine,,0
+2004,7,European Grand Prix,2004-05-30,Coulthard,McLaren,17,18,25,Engine,,0
+2004,7,European Grand Prix,2004-05-30,Räikkönen,McLaren,18,4,9,Engine,,0
+2004,7,European Grand Prix,2004-05-30,Schumacher,Williams,19,9,0,Collision,,0
+2004,7,European Grand Prix,2004-05-30,da Matta,Toyota,20,11,0,Collision,,0
+2004,8,Canadian Grand Prix,2004-06-13,Schumacher,Ferrari,1,6,70,Finished,1:28:24.803,10
+2004,8,Canadian Grand Prix,2004-06-13,Barrichello,Ferrari,2,7,70,Finished,+5.108,8
+2004,8,Canadian Grand Prix,2004-06-13,Button,BAR,3,2,70,Finished,+20.409,6
+2004,8,Canadian Grand Prix,2004-06-13,Fisichella,Sauber,4,11,69,+1 Lap,,5
+2004,8,Canadian Grand Prix,2004-06-13,Räikkönen,McLaren,5,8,69,+1 Lap,,4
+2004,8,Canadian Grand Prix,2004-06-13,Coulthard,McLaren,6,9,69,+1 Lap,,3
+2004,8,Canadian Grand Prix,2004-06-13,Glock,Jordan,7,16,68,+2 Laps,,2
+2004,8,Canadian Grand Prix,2004-06-13,Heidfeld,Jordan,8,15,68,+2 Laps,,1
+2004,8,Canadian Grand Prix,2004-06-13,Klien,Jaguar,9,10,67,+3 Laps,,0
+2004,8,Canadian Grand Prix,2004-06-13,Baumgartner,Minardi,10,18,66,+4 Laps,,0
+2004,8,Canadian Grand Prix,2004-06-13,Massa,Sauber,11,17,62,Accident,,0
+2004,8,Canadian Grand Prix,2004-06-13,Sato,BAR,12,20,48,Engine,,0
+2004,8,Canadian Grand Prix,2004-06-13,Alonso,Renault,13,5,44,Driveshaft,,0
+2004,8,Canadian Grand Prix,2004-06-13,Bruni,Minardi,14,19,30,Gearbox,,0
+2004,8,Canadian Grand Prix,2004-06-13,Webber,Jaguar,15,14,6,Suspension,,0
+2004,8,Canadian Grand Prix,2004-06-13,Trulli,Renault,16,3,0,Transmission,,0
+2004,8,Canadian Grand Prix,2004-06-13,Schumacher,Williams,17,1,70,Disqualified,,0
+2004,8,Canadian Grand Prix,2004-06-13,Pablo Montoya,Williams,18,4,70,Disqualified,,0
+2004,8,Canadian Grand Prix,2004-06-13,da Matta,Toyota,19,12,69,Disqualified,,0
+2004,8,Canadian Grand Prix,2004-06-13,Panis,Toyota,20,13,69,Disqualified,,0
+2004,9,United States Grand Prix,2004-06-20,Schumacher,Ferrari,1,2,73,Finished,1:40:29.914,10
+2004,9,United States Grand Prix,2004-06-20,Barrichello,Ferrari,2,1,73,Finished,+2.950,8
+2004,9,United States Grand Prix,2004-06-20,Sato,BAR,3,3,73,Finished,+22.036,6
+2004,9,United States Grand Prix,2004-06-20,Trulli,Renault,4,20,73,Finished,+34.544,5
+2004,9,United States Grand Prix,2004-06-20,Panis,Toyota,5,8,73,Finished,+37.534,4
+2004,9,United States Grand Prix,2004-06-20,Räikkönen,McLaren,6,7,72,+1 Lap,,3
+2004,9,United States Grand Prix,2004-06-20,Coulthard,McLaren,7,12,72,+1 Lap,,2
+2004,9,United States Grand Prix,2004-06-20,Baumgartner,Minardi,8,19,70,+3 Laps,,1
+2004,9,United States Grand Prix,2004-06-20,Fisichella,Sauber,9,14,65,+8 Laps,,0
+2004,9,United States Grand Prix,2004-06-20,Webber,Jaguar,10,10,60,Engine,,0
+2004,9,United States Grand Prix,2004-06-20,Pablo Montoya,Williams,11,5,57,Disqualified,,0
+2004,9,United States Grand Prix,2004-06-20,Heidfeld,Jordan,12,16,40,Engine,,0
+2004,9,United States Grand Prix,2004-06-20,Button,BAR,13,4,26,Gearbox,,0
+2004,9,United States Grand Prix,2004-06-20,da Matta,Toyota,14,11,17,Gearbox,,0
+2004,9,United States Grand Prix,2004-06-20,Schumacher,Williams,15,6,9,Tyre,,0
+2004,9,United States Grand Prix,2004-06-20,Alonso,Renault,16,9,8,Tyre,,0
+2004,9,United States Grand Prix,2004-06-20,Klien,Jaguar,17,13,0,Collision,,0
+2004,9,United States Grand Prix,2004-06-20,Massa,Sauber,18,15,0,Collision,,0
+2004,9,United States Grand Prix,2004-06-20,Pantano,Jordan,19,17,0,Collision,,0
+2004,9,United States Grand Prix,2004-06-20,Bruni,Minardi,20,18,0,Collision,,0
+2004,10,French Grand Prix,2004-07-04,Schumacher,Ferrari,1,2,70,Finished,1:30:18.133,10
+2004,10,French Grand Prix,2004-07-04,Alonso,Renault,2,1,70,Finished,+8.329,8
+2004,10,French Grand Prix,2004-07-04,Barrichello,Ferrari,3,10,70,Finished,+31.622,6
+2004,10,French Grand Prix,2004-07-04,Trulli,Renault,4,5,70,Finished,+32.082,5
+2004,10,French Grand Prix,2004-07-04,Button,BAR,5,4,70,Finished,+32.482,4
+2004,10,French Grand Prix,2004-07-04,Coulthard,McLaren,6,3,70,Finished,+35.520,3
+2004,10,French Grand Prix,2004-07-04,Räikkönen,McLaren,7,9,70,Finished,+36.230,2
+2004,10,French Grand Prix,2004-07-04,Pablo Montoya,Williams,8,6,70,Finished,+43.419,1
+2004,10,French Grand Prix,2004-07-04,Webber,Jaguar,9,12,70,Finished,+52.394,0
+2004,10,French Grand Prix,2004-07-04,Gené,Williams,10,8,70,Finished,+58.166,0
+2004,10,French Grand Prix,2004-07-04,Klien,Jaguar,11,13,69,+1 Lap,,0
+2004,10,French Grand Prix,2004-07-04,Fisichella,Sauber,12,15,69,+1 Lap,,0
+2004,10,French Grand Prix,2004-07-04,Massa,Sauber,13,16,69,+1 Lap,,0
+2004,10,French Grand Prix,2004-07-04,da Matta,Toyota,14,11,69,+1 Lap,,0
+2004,10,French Grand Prix,2004-07-04,Panis,Toyota,15,14,68,+2 Laps,,0
+2004,10,French Grand Prix,2004-07-04,Heidfeld,Jordan,16,17,68,+2 Laps,,0
+2004,10,French Grand Prix,2004-07-04,Pantano,Jordan,17,18,67,+3 Laps,,0
+2004,10,French Grand Prix,2004-07-04,Bruni,Minardi,18,19,66,+4 Laps,,0
+2004,10,French Grand Prix,2004-07-04,Baumgartner,Minardi,19,20,31,Spun off,,0
+2004,10,French Grand Prix,2004-07-04,Sato,BAR,20,7,15,Engine,,0
+2004,11,British Grand Prix,2004-07-11,Schumacher,Ferrari,1,4,60,Finished,1:24:42.700,10
+2004,11,British Grand Prix,2004-07-11,Räikkönen,McLaren,2,1,60,Finished,+2.130,8
+2004,11,British Grand Prix,2004-07-11,Barrichello,Ferrari,3,2,60,Finished,+3.114,6
+2004,11,British Grand Prix,2004-07-11,Button,BAR,4,3,60,Finished,+10.683,5
+2004,11,British Grand Prix,2004-07-11,Pablo Montoya,Williams,5,7,60,Finished,+12.173,4
+2004,11,British Grand Prix,2004-07-11,Fisichella,Sauber,6,20,60,Finished,+12.888,3
+2004,11,British Grand Prix,2004-07-11,Coulthard,McLaren,7,6,60,Finished,+19.668,2
+2004,11,British Grand Prix,2004-07-11,Webber,Jaguar,8,9,60,Finished,+23.701,1
+2004,11,British Grand Prix,2004-07-11,Massa,Sauber,9,10,60,Finished,+24.023,0
+2004,11,British Grand Prix,2004-07-11,Alonso,Renault,10,16,60,Finished,+24.835,0
+2004,11,British Grand Prix,2004-07-11,Sato,BAR,11,8,60,Finished,+33.736,0
+2004,11,British Grand Prix,2004-07-11,Gené,Williams,12,11,60,Finished,+34.303,0
+2004,11,British Grand Prix,2004-07-11,da Matta,Toyota,13,12,59,+1 Lap,,0
+2004,11,British Grand Prix,2004-07-11,Klien,Jaguar,14,13,59,+1 Lap,,0
+2004,11,British Grand Prix,2004-07-11,Heidfeld,Jordan,15,15,59,+1 Lap,,0
+2004,11,British Grand Prix,2004-07-11,Bruni,Minardi,16,18,56,+4 Laps,,0
+2004,11,British Grand Prix,2004-07-11,Pantano,Jordan,17,14,47,Spun off,,0
+2004,11,British Grand Prix,2004-07-11,Trulli,Renault,18,5,39,Accident,,0
+2004,11,British Grand Prix,2004-07-11,Baumgartner,Minardi,19,19,29,Engine,,0
+2004,11,British Grand Prix,2004-07-11,Panis,Toyota,20,17,16,Accident,,0
+2004,12,German Grand Prix,2004-07-25,Schumacher,Ferrari,1,1,66,Finished,1:23:54.848,10
+2004,12,German Grand Prix,2004-07-25,Button,BAR,2,13,66,Finished,+8.388,8
+2004,12,German Grand Prix,2004-07-25,Alonso,Renault,3,5,66,Finished,+16.351,6
+2004,12,German Grand Prix,2004-07-25,Coulthard,McLaren,4,4,66,Finished,+19.231,5
+2004,12,German Grand Prix,2004-07-25,Pablo Montoya,Williams,5,2,66,Finished,+23.055,4
+2004,12,German Grand Prix,2004-07-25,Webber,Jaguar,6,11,66,Finished,+41.108,3
+2004,12,German Grand Prix,2004-07-25,Pizzonia,Williams,7,10,66,Finished,+41.956,2
+2004,12,German Grand Prix,2004-07-25,Sato,BAR,8,8,66,Finished,+46.842,1
+2004,12,German Grand Prix,2004-07-25,Fisichella,Sauber,9,14,66,Finished,+1:07.102,0
+2004,12,German Grand Prix,2004-07-25,Klien,Jaguar,10,12,66,Finished,+1:08.578,0
+2004,12,German Grand Prix,2004-07-25,Trulli,Renault,11,6,66,Finished,+1:10.258,0
+2004,12,German Grand Prix,2004-07-25,Barrichello,Ferrari,12,7,66,Finished,+1:13.252,0
+2004,12,German Grand Prix,2004-07-25,Massa,Sauber,13,16,65,+1 Lap,,0
+2004,12,German Grand Prix,2004-07-25,Panis,Toyota,14,9,65,+1 Lap,,0
+2004,12,German Grand Prix,2004-07-25,Pantano,Jordan,15,17,63,+3 Laps,,0
+2004,12,German Grand Prix,2004-07-25,Baumgartner,Minardi,16,20,62,+4 Laps,,0
+2004,12,German Grand Prix,2004-07-25,Bruni,Minardi,17,19,62,+4 Laps,,0
+2004,12,German Grand Prix,2004-07-25,Heidfeld,Jordan,18,18,42,Handling,,0
+2004,12,German Grand Prix,2004-07-25,da Matta,Toyota,19,15,38,Puncture,,0
+2004,12,German Grand Prix,2004-07-25,Räikkönen,McLaren,20,3,13,Rear wing,,0
+2004,13,Hungarian Grand Prix,2004-08-15,Schumacher,Ferrari,1,1,70,Finished,1:35:26.131,10
+2004,13,Hungarian Grand Prix,2004-08-15,Barrichello,Ferrari,2,2,70,Finished,+4.696,8
+2004,13,Hungarian Grand Prix,2004-08-15,Alonso,Renault,3,5,70,Finished,+44.599,6
+2004,13,Hungarian Grand Prix,2004-08-15,Pablo Montoya,Williams,4,7,70,Finished,+1:02.613,5
+2004,13,Hungarian Grand Prix,2004-08-15,Button,BAR,5,4,70,Finished,+1:07.439,4
+2004,13,Hungarian Grand Prix,2004-08-15,Sato,BAR,6,3,69,+1 Lap,,3
+2004,13,Hungarian Grand Prix,2004-08-15,Pizzonia,Williams,7,6,69,+1 Lap,,2
+2004,13,Hungarian Grand Prix,2004-08-15,Fisichella,Sauber,8,8,69,+1 Lap,,1
+2004,13,Hungarian Grand Prix,2004-08-15,Coulthard,McLaren,9,12,69,+1 Lap,,0
+2004,13,Hungarian Grand Prix,2004-08-15,Webber,Jaguar,10,11,69,+1 Lap,,0
+2004,13,Hungarian Grand Prix,2004-08-15,Panis,Toyota,11,13,69,+1 Lap,,0
+2004,13,Hungarian Grand Prix,2004-08-15,Heidfeld,Jordan,12,16,68,+2 Laps,,0
+2004,13,Hungarian Grand Prix,2004-08-15,Klien,Jaguar,13,14,68,+2 Laps,,0
+2004,13,Hungarian Grand Prix,2004-08-15,Bruni,Minardi,14,19,66,+4 Laps,,0
+2004,13,Hungarian Grand Prix,2004-08-15,Baumgartner,Minardi,15,18,65,+5 Laps,,0
+2004,13,Hungarian Grand Prix,2004-08-15,Pantano,Jordan,16,17,48,Gearbox,,0
+2004,13,Hungarian Grand Prix,2004-08-15,Trulli,Renault,17,9,41,Engine,,0
+2004,13,Hungarian Grand Prix,2004-08-15,Zonta,Toyota,18,15,31,Electronics,,0
+2004,13,Hungarian Grand Prix,2004-08-15,Massa,Sauber,19,20,21,Brakes,,0
+2004,13,Hungarian Grand Prix,2004-08-15,Räikkönen,McLaren,20,10,13,Electrical,,0
+2004,14,Belgian Grand Prix,2004-08-29,Räikkönen,McLaren,1,10,44,Finished,1:32:35.274,10
+2004,14,Belgian Grand Prix,2004-08-29,Schumacher,Ferrari,2,2,44,Finished,+3.132,8
+2004,14,Belgian Grand Prix,2004-08-29,Barrichello,Ferrari,3,6,44,Finished,+4.371,6
+2004,14,Belgian Grand Prix,2004-08-29,Massa,Sauber,4,8,44,Finished,+12.504,5
+2004,14,Belgian Grand Prix,2004-08-29,Fisichella,Sauber,5,5,44,Finished,+14.104,4
+2004,14,Belgian Grand Prix,2004-08-29,Klien,Jaguar,6,13,44,Finished,+14.614,3
+2004,14,Belgian Grand Prix,2004-08-29,Coulthard,McLaren,7,4,44,Finished,+17.970,2
+2004,14,Belgian Grand Prix,2004-08-29,Panis,Toyota,8,9,44,Finished,+18.693,1
+2004,14,Belgian Grand Prix,2004-08-29,Trulli,Renault,9,1,44,Finished,+22.115,0
+2004,14,Belgian Grand Prix,2004-08-29,Zonta,Toyota,10,20,41,Engine,,0
+2004,14,Belgian Grand Prix,2004-08-29,Heidfeld,Jordan,11,16,40,+4 Laps,,0
+2004,14,Belgian Grand Prix,2004-08-29,Pablo Montoya,Williams,12,11,37,Tyre,,0
+2004,14,Belgian Grand Prix,2004-08-29,Pizzonia,Williams,13,14,31,Gearbox,,0
+2004,14,Belgian Grand Prix,2004-08-29,Button,BAR,14,12,29,Collision,,0
+2004,14,Belgian Grand Prix,2004-08-29,Baumgartner,Minardi,15,18,28,Collision,,0
+2004,14,Belgian Grand Prix,2004-08-29,Alonso,Renault,16,3,11,Engine,,0
+2004,14,Belgian Grand Prix,2004-08-29,Webber,Jaguar,17,7,0,Collision,,0
+2004,14,Belgian Grand Prix,2004-08-29,Sato,BAR,18,15,0,Collision,,0
+2004,14,Belgian Grand Prix,2004-08-29,Bruni,Minardi,19,17,0,Collision,,0
+2004,14,Belgian Grand Prix,2004-08-29,Pantano,Jordan,20,19,0,Collision,,0
+2004,15,Italian Grand Prix,2004-09-12,Barrichello,Ferrari,1,1,53,Finished,1:15:18.448,10
+2004,15,Italian Grand Prix,2004-09-12,Schumacher,Ferrari,2,3,53,Finished,+1.347,8
+2004,15,Italian Grand Prix,2004-09-12,Button,BAR,3,6,53,Finished,+10.197,6
+2004,15,Italian Grand Prix,2004-09-12,Sato,BAR,4,5,53,Finished,+15.370,5
+2004,15,Italian Grand Prix,2004-09-12,Pablo Montoya,Williams,5,2,53,Finished,+32.352,4
+2004,15,Italian Grand Prix,2004-09-12,Coulthard,McLaren,6,10,53,Finished,+33.439,3
+2004,15,Italian Grand Prix,2004-09-12,Pizzonia,Williams,7,8,53,Finished,+33.752,2
+2004,15,Italian Grand Prix,2004-09-12,Fisichella,Sauber,8,15,53,Finished,+35.431,1
+2004,15,Italian Grand Prix,2004-09-12,Webber,Jaguar,9,12,53,Finished,+56.761,0
+2004,15,Italian Grand Prix,2004-09-12,Trulli,Renault,10,9,53,Finished,+1:06.316,0
+2004,15,Italian Grand Prix,2004-09-12,Zonta,Toyota,11,11,53,Finished,+1:22.531,0
+2004,15,Italian Grand Prix,2004-09-12,Massa,Sauber,12,16,52,+1 Lap,,0
+2004,15,Italian Grand Prix,2004-09-12,Klien,Jaguar,13,14,52,+1 Lap,,0
+2004,15,Italian Grand Prix,2004-09-12,Heidfeld,Jordan,14,20,52,+1 Lap,,0
+2004,15,Italian Grand Prix,2004-09-12,Baumgartner,Minardi,15,19,50,+3 Laps,,0
+2004,15,Italian Grand Prix,2004-09-12,Alonso,Renault,16,4,40,Spun off,,0
+2004,15,Italian Grand Prix,2004-09-12,Pantano,Jordan,17,17,33,Accident,,0
+2004,15,Italian Grand Prix,2004-09-12,Bruni,Minardi,18,18,29,Fire,,0
+2004,15,Italian Grand Prix,2004-09-12,Räikkönen,McLaren,19,7,13,Engine,,0
+2004,15,Italian Grand Prix,2004-09-12,Panis,Toyota,20,13,0,Collision,,0
+2004,16,Chinese Grand Prix,2004-09-26,Barrichello,Ferrari,1,1,56,Finished,1:29:12.420,10
+2004,16,Chinese Grand Prix,2004-09-26,Button,BAR,2,3,56,Finished,+1.035,8
+2004,16,Chinese Grand Prix,2004-09-26,Räikkönen,McLaren,3,2,56,Finished,+1.469,6
+2004,16,Chinese Grand Prix,2004-09-26,Alonso,Renault,4,6,56,Finished,+32.510,5
+2004,16,Chinese Grand Prix,2004-09-26,Pablo Montoya,Williams,5,10,56,Finished,+45.193,4
+2004,16,Chinese Grand Prix,2004-09-26,Sato,BAR,6,18,56,Finished,+54.791,3
+2004,16,Chinese Grand Prix,2004-09-26,Fisichella,Sauber,7,7,56,Finished,+1:05.454,2
+2004,16,Chinese Grand Prix,2004-09-26,Massa,Sauber,8,4,56,Finished,+1:20.080,1
+2004,16,Chinese Grand Prix,2004-09-26,Coulthard,McLaren,9,9,56,Finished,+1:20.619,0
+2004,16,Chinese Grand Prix,2004-09-26,Webber,Jaguar,10,11,55,+1 Lap,,0
+2004,16,Chinese Grand Prix,2004-09-26,Villeneuve,Renault,11,12,55,+1 Lap,,0
+2004,16,Chinese Grand Prix,2004-09-26,Schumacher,Ferrari,12,20,55,+1 Lap,,0
+2004,16,Chinese Grand Prix,2004-09-26,Heidfeld,Jordan,13,14,55,+1 Lap,,0
+2004,16,Chinese Grand Prix,2004-09-26,Panis,Toyota,14,8,55,+1 Lap,,0
+2004,16,Chinese Grand Prix,2004-09-26,Glock,Jordan,15,16,55,+1 Lap,,0
+2004,16,Chinese Grand Prix,2004-09-26,Baumgartner,Minardi,16,19,53,+3 Laps,,0
+2004,16,Chinese Grand Prix,2004-09-26,Bruni,Minardi,17,17,38,Wheel,,0
+2004,16,Chinese Grand Prix,2004-09-26,Schumacher,Williams,18,5,37,Collision,,0
+2004,16,Chinese Grand Prix,2004-09-26,Zonta,Toyota,19,13,35,Transmission,,0
+2004,16,Chinese Grand Prix,2004-09-26,Klien,Jaguar,20,15,11,Collision,,0
+2004,17,Japanese Grand Prix,2004-10-10,Schumacher,Ferrari,1,1,53,Finished,1:24:26.985,10
+2004,17,Japanese Grand Prix,2004-10-10,Schumacher,Williams,2,2,53,Finished,+14.098,8
+2004,17,Japanese Grand Prix,2004-10-10,Button,BAR,3,5,53,Finished,+19.662,6
+2004,17,Japanese Grand Prix,2004-10-10,Sato,BAR,4,4,53,Finished,+31.781,5
+2004,17,Japanese Grand Prix,2004-10-10,Alonso,Renault,5,11,53,Finished,+37.767,4
+2004,17,Japanese Grand Prix,2004-10-10,Räikkönen,McLaren,6,12,53,Finished,+39.362,3
+2004,17,Japanese Grand Prix,2004-10-10,Pablo Montoya,Williams,7,13,53,Finished,+55.347,2
+2004,17,Japanese Grand Prix,2004-10-10,Fisichella,Sauber,8,7,53,Finished,+56.276,1
+2004,17,Japanese Grand Prix,2004-10-10,Massa,Sauber,9,19,53,Finished,+1:29.656,0
+2004,17,Japanese Grand Prix,2004-10-10,Villeneuve,Renault,10,9,52,+1 Lap,,0
+2004,17,Japanese Grand Prix,2004-10-10,Trulli,Toyota,11,6,52,+1 Lap,,0
+2004,17,Japanese Grand Prix,2004-10-10,Klien,Jaguar,12,14,52,+1 Lap,,0
+2004,17,Japanese Grand Prix,2004-10-10,Heidfeld,Jordan,13,16,52,+1 Lap,,0
+2004,17,Japanese Grand Prix,2004-10-10,Panis,Toyota,14,10,51,+2 Laps,,0
+2004,17,Japanese Grand Prix,2004-10-10,Glock,Jordan,15,17,51,+2 Laps,,0
+2004,17,Japanese Grand Prix,2004-10-10,Bruni,Minardi,16,18,50,+3 Laps,,0
+2004,17,Japanese Grand Prix,2004-10-10,Baumgartner,Minardi,17,20,41,Spun off,,0
+2004,17,Japanese Grand Prix,2004-10-10,Coulthard,McLaren,18,8,38,Collision,,0
+2004,17,Japanese Grand Prix,2004-10-10,Barrichello,Ferrari,19,15,38,Collision,,0
+2004,17,Japanese Grand Prix,2004-10-10,Webber,Jaguar,20,3,20,Overheating,,0
+2004,18,Brazilian Grand Prix,2004-10-24,Pablo Montoya,Williams,1,2,71,Finished,1:28:01.451,10
+2004,18,Brazilian Grand Prix,2004-10-24,Räikkönen,McLaren,2,3,71,Finished,+1.022,8
+2004,18,Brazilian Grand Prix,2004-10-24,Barrichello,Ferrari,3,1,71,Finished,+24.099,6
+2004,18,Brazilian Grand Prix,2004-10-24,Alonso,Renault,4,8,71,Finished,+48.508,5
+2004,18,Brazilian Grand Prix,2004-10-24,Schumacher,Williams,5,7,71,Finished,+49.740,4
+2004,18,Brazilian Grand Prix,2004-10-24,Sato,BAR,6,6,71,Finished,+50.248,3
+2004,18,Brazilian Grand Prix,2004-10-24,Schumacher,Ferrari,7,18,71,Finished,+50.626,2
+2004,18,Brazilian Grand Prix,2004-10-24,Massa,Sauber,8,4,71,Finished,+1:02.310,1
+2004,18,Brazilian Grand Prix,2004-10-24,Fisichella,Sauber,9,10,71,Finished,+1:03.842,0
+2004,18,Brazilian Grand Prix,2004-10-24,Villeneuve,Renault,10,13,70,+1 Lap,,0
+2004,18,Brazilian Grand Prix,2004-10-24,Coulthard,McLaren,11,12,70,+1 Lap,,0
+2004,18,Brazilian Grand Prix,2004-10-24,Trulli,Toyota,12,9,70,+1 Lap,,0
+2004,18,Brazilian Grand Prix,2004-10-24,Zonta,Toyota,13,14,70,+1 Lap,,0
+2004,18,Brazilian Grand Prix,2004-10-24,Klien,Jaguar,14,15,69,+2 Laps,,0
+2004,18,Brazilian Grand Prix,2004-10-24,Glock,Jordan,15,17,69,+2 Laps,,0
+2004,18,Brazilian Grand Prix,2004-10-24,Baumgartner,Minardi,16,19,67,+4 Laps,,0
+2004,18,Brazilian Grand Prix,2004-10-24,Bruni,Minardi,17,20,67,+4 Laps,,0
+2004,18,Brazilian Grand Prix,2004-10-24,Webber,Jaguar,18,11,23,Collision,,0
+2004,18,Brazilian Grand Prix,2004-10-24,Heidfeld,Jordan,19,16,15,Clutch,,0
+2004,18,Brazilian Grand Prix,2004-10-24,Button,BAR,20,5,3,Engine,,0

@@ -1,0 +1,196 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1959,1,Monaco Grand Prix,1959-05-10,Brabham,Cooper-Climax,1,3,100,Finished,2:55:51.3,9
+1959,1,Monaco Grand Prix,1959-05-10,Brooks,Ferrari,2,4,100,Finished,+20.4,6
+1959,1,Monaco Grand Prix,1959-05-10,Trintignant,Cooper-Climax,3,6,98,+2 Laps,,4
+1959,1,Monaco Grand Prix,1959-05-10,Hill,Ferrari,4,5,97,+3 Laps,,3
+1959,1,Monaco Grand Prix,1959-05-10,McLaren,Cooper-Climax,5,13,96,+4 Laps,,2
+1959,1,Monaco Grand Prix,1959-05-10,Salvadori,Cooper-Maserati,6,8,83,+17 Laps,,0
+1959,1,Monaco Grand Prix,1959-05-10,Moss,Cooper-Climax,7,1,81,Transmission,,0
+1959,1,Monaco Grand Prix,1959-05-10,Flockhart,BRM,8,10,64,Spun off,,0
+1959,1,Monaco Grand Prix,1959-05-10,Schell,BRM,9,9,48,Accident,,0
+1959,1,Monaco Grand Prix,1959-05-10,Bonnier,BRM,10,7,44,Brakes,,0
+1959,1,Monaco Grand Prix,1959-05-10,Behra,Ferrari,11,2,24,Engine,,0
+1959,1,Monaco Grand Prix,1959-05-10,Hill,Team Lotus,12,14,21,Heat shield fire,,0
+1959,1,Monaco Grand Prix,1959-05-10,Gregory,Cooper-Climax,13,11,6,Gearbox,,0
+1959,1,Monaco Grand Prix,1959-05-10,von Trips,Porsche,14,12,1,Collision,,0
+1959,1,Monaco Grand Prix,1959-05-10,Allison,Ferrari,15,15,1,Collision,,0
+1959,1,Monaco Grand Prix,1959-05-10,Halford,Team Lotus,16,16,1,Collision,,0
+1959,1,Monaco Grand Prix,1959-05-10,Bueb,Cooper-Climax,17,0,0,Did not qualify,,0
+1959,1,Monaco Grand Prix,1959-05-10,Scarlatti,Maserati,18,0,0,Did not qualify,,0
+1959,1,Monaco Grand Prix,1959-05-10,de Changy,Cooper-Climax,19,0,0,Did not qualify,,0
+1959,1,Monaco Grand Prix,1959-05-10,Bianchi,Cooper-Climax,20,0,0,Did not qualify,,0
+1959,1,Monaco Grand Prix,1959-05-10,de Filippis,Porsche,21,0,0,Did not qualify,,0
+1959,1,Monaco Grand Prix,1959-05-10,Lovely,Team Lotus,22,0,0,Did not qualify,,0
+1959,1,Monaco Grand Prix,1959-05-10,Lucienbonnet,Cooper-Climax,23,0,0,Did not qualify,,0
+1959,1,Monaco Grand Prix,1959-05-10,Testut,Maserati,24,0,0,Did not qualify,,0
+1959,2,Indianapolis 500,1959-05-30,Ward,Watson,1,6,200,Finished,3:40:49.20,8
+1959,2,Indianapolis 500,1959-05-30,Rathmann,Watson,2,3,200,Finished,+0:23.28,6
+1959,2,Indianapolis 500,1959-05-30,Thomson,Lesovsky,3,1,200,Finished,+0:50.64,5
+1959,2,Indianapolis 500,1959-05-30,Bettenhausen,Epperly,4,15,200,Finished,+1:47.09,3
+1959,2,Indianapolis 500,1959-05-30,Goldsmith,Epperly,5,16,200,Finished,+2:06.44,2
+1959,2,Indianapolis 500,1959-05-30,Boyd,Epperly,6,11,200,Finished,+3:16.98,0
+1959,2,Indianapolis 500,1959-05-30,Carter,Kurtis Kraft,7,12,200,Finished,+4:09.92,0
+1959,2,Indianapolis 500,1959-05-30,Johnson,Kurtis Kraft,8,8,200,Finished,+4:10.53,0
+1959,2,Indianapolis 500,1959-05-30,Russo,Kurtis Kraft,9,27,200,Finished,+4:11.04,0
+1959,2,Indianapolis 500,1959-05-30,Foyt,Kuzma,10,17,200,Finished,+4:14.48,0
+1959,2,Indianapolis 500,1959-05-30,Hartley,Kuzma,11,9,200,Finished,+5:42.48,0
+1959,2,Indianapolis 500,1959-05-30,Veith,Moore,12,7,200,Finished,+6:09.73,0
+1959,2,Indianapolis 500,1959-05-30,Herman,Dunn,13,23,200,Finished,+6:40.40,0
+1959,2,Indianapolis 500,1959-05-30,Daywalt,Kurtis Kraft,14,13,200,Finished,+6:41.54,0
+1959,2,Indianapolis 500,1959-05-30,Arnold,Kurtis Kraft,15,21,200,Finished,+8:19.86,0
+1959,2,Indianapolis 500,1959-05-30,McWithey,Kurtis Kraft,16,33,200,Finished,+11:41.69,0
+1959,2,Indianapolis 500,1959-05-30,Sachs,Kuzma,17,2,182,Spun off,,0
+1959,2,Indianapolis 500,1959-05-30,Keller,Kuzma,18,28,163,Engine,,0
+1959,2,Indianapolis 500,1959-05-30,Flaherty,Watson,19,18,162,Accident,,0
+1959,2,Indianapolis 500,1959-05-30,Rathmann,Watson,20,4,150,Heat shield fire,,0
+1959,2,Indianapolis 500,1959-05-30,Cheesbourg,Kuzma,21,30,147,Magneto,,0
+1959,2,Indianapolis 500,1959-05-30,Freeland,Kurtis Kraft,22,25,136,Magneto,,0
+1959,2,Indianapolis 500,1959-05-30,Crawford,Elder,23,32,115,Accident,,0
+1959,2,Indianapolis 500,1959-05-30,Branson,Phillips,24,10,112,Suspension,,0
+1959,2,Indianapolis 500,1959-05-30,Christie,Kurtis Kraft,25,24,109,Engine,,0
+1959,2,Indianapolis 500,1959-05-30,Grim,Kurtis Kraft,26,5,85,Magneto,,0
+1959,2,Indianapolis 500,1959-05-30,Turner,Christensen,27,14,47,Fuel leak,,0
+1959,2,Indianapolis 500,1959-05-30,Weyant,Kurtis Kraft,28,29,45,Accident,,0
+1959,2,Indianapolis 500,1959-05-30,Larson,Kurtis Kraft,29,19,45,Accident,,0
+1959,2,Indianapolis 500,1959-05-30,Magill,Sutton,30,31,45,Accident,,0
+1959,2,Indianapolis 500,1959-05-30,Amick,Kurtis Kraft,31,26,45,Accident,,0
+1959,2,Indianapolis 500,1959-05-30,Sutton,Lesovsky,32,22,34,Accident,,0
+1959,2,Indianapolis 500,1959-05-30,Bryan,Epperly,33,20,1,Engine,,0
+1959,3,Dutch Grand Prix,1959-05-31,Bonnier,BRM,1,1,75,Finished,2:05:26.8,8
+1959,3,Dutch Grand Prix,1959-05-31,Brabham,Cooper-Climax,2,2,75,Finished,+14.2,6
+1959,3,Dutch Grand Prix,1959-05-31,Gregory,Cooper-Climax,3,7,75,Finished,+1:23.0,4
+1959,3,Dutch Grand Prix,1959-05-31,Ireland,Team Lotus,4,9,74,+1 Lap,,3
+1959,3,Dutch Grand Prix,1959-05-31,Behra,Ferrari,5,4,74,+1 Lap,,2
+1959,3,Dutch Grand Prix,1959-05-31,Hill,Ferrari,6,12,73,+2 Laps,,0
+1959,3,Dutch Grand Prix,1959-05-31,Hill,Team Lotus,7,5,73,+2 Laps,,0
+1959,3,Dutch Grand Prix,1959-05-31,Trintignant,Cooper-Climax,8,11,73,+2 Laps,,0
+1959,3,Dutch Grand Prix,1959-05-31,Allison,Ferrari,9,15,71,+4 Laps,,0
+1959,3,Dutch Grand Prix,1959-05-31,de Beaufort,Porsche,10,14,68,+7 Laps,,0
+1959,3,Dutch Grand Prix,1959-05-31,Moss,Cooper-Climax,11,3,62,Gearbox,,1
+1959,3,Dutch Grand Prix,1959-05-31,Schell,BRM,12,6,46,Gearbox,,0
+1959,3,Dutch Grand Prix,1959-05-31,Brooks,Ferrari,13,8,42,Oil leak,,0
+1959,3,Dutch Grand Prix,1959-05-31,Shelby,Aston Martin,14,10,25,Engine,,0
+1959,3,Dutch Grand Prix,1959-05-31,Salvadori,Aston Martin,15,13,3,Engine,,0
+1959,4,French Grand Prix,1959-07-05,Brooks,Ferrari,1,1,50,Finished,2:01:26.5,8
+1959,4,French Grand Prix,1959-07-05,Hill,Ferrari,2,3,50,Finished,+27.5,6
+1959,4,French Grand Prix,1959-07-05,Brabham,Cooper-Climax,3,2,50,Finished,+1:37.7,4
+1959,4,French Grand Prix,1959-07-05,Gendebien,Ferrari,4,11,50,Finished,+1:47.5,3
+1959,4,French Grand Prix,1959-07-05,McLaren,Cooper-Climax,5,10,50,Finished,+1:47.7,2
+1959,4,French Grand Prix,1959-07-05,Flockhart,BRM,6,13,50,Finished,+2:05.7,0
+1959,4,French Grand Prix,1959-07-05,Schell,BRM,7,9,47,+3 Laps,,0
+1959,4,French Grand Prix,1959-07-05,Scarlatti,Maserati,8,21,41,+9 Laps,,0
+1959,4,French Grand Prix,1959-07-05,de Beaufort,Maserati,9,20,40,+10 Laps,,0
+1959,4,French Grand Prix,1959-07-05,d'Orey,Maserati,10,18,40,+10 Laps,,0
+1959,4,French Grand Prix,1959-07-05,Trintignant,Cooper-Climax,11,8,36,+14 Laps,,0
+1959,4,French Grand Prix,1959-07-05,Moss,BRM,12,4,42,Disqualified,,1
+1959,4,French Grand Prix,1959-07-05,Behra,Ferrari,13,5,31,Engine,,0
+1959,4,French Grand Prix,1959-07-05,Salvadori,Cooper-Maserati,14,16,20,Engine,,0
+1959,4,French Grand Prix,1959-07-05,Gurney,Ferrari,15,12,19,Radiator,,0
+1959,4,French Grand Prix,1959-07-05,Ireland,Team Lotus,16,15,14,Wheel,,0
+1959,4,French Grand Prix,1959-07-05,Burgess,Cooper-Maserati,17,19,13,Engine,,0
+1959,4,French Grand Prix,1959-07-05,Gregory,Cooper-Climax,18,7,8,Physical,,0
+1959,4,French Grand Prix,1959-07-05,Hill,Team Lotus,19,14,7,Radiator,,0
+1959,4,French Grand Prix,1959-07-05,Davis,Cooper-Maserati,20,17,7,Oil leak,,0
+1959,4,French Grand Prix,1959-07-05,Bonnier,BRM,21,6,6,Engine,,0
+1959,4,French Grand Prix,1959-07-05,Fontes,Maserati,22,0,0,Withdrew,,0
+1959,5,British Grand Prix,1959-07-18,Brabham,Cooper-Climax,1,1,75,Finished,2:30:11.6,8
+1959,5,British Grand Prix,1959-07-18,Moss,BRM,2,7,75,Finished,+22.2,6.5
+1959,5,British Grand Prix,1959-07-18,McLaren,Cooper-Climax,3,8,75,Finished,+22.4,4.5
+1959,5,British Grand Prix,1959-07-18,Schell,BRM,4,3,74,+1 Lap,,3
+1959,5,British Grand Prix,1959-07-18,Trintignant,Cooper-Climax,5,4,74,+1 Lap,,2
+1959,5,British Grand Prix,1959-07-18,Salvadori,Aston Martin,6,2,74,+1 Lap,,0
+1959,5,British Grand Prix,1959-07-18,Gregory,Cooper-Climax,7,5,73,+2 Laps,,0
+1959,5,British Grand Prix,1959-07-18,Stacey,Team Lotus,8,12,71,+4 Laps,,0
+1959,5,British Grand Prix,1959-07-18,Hill,Team Lotus,9,9,70,+5 Laps,,0
+1959,5,British Grand Prix,1959-07-18,Bristow,Cooper-Borgward,10,16,70,+5 Laps,,0
+1959,5,British Grand Prix,1959-07-18,Taylor,Cooper-Climax,11,21,69,+6 Laps,,0
+1959,5,British Grand Prix,1959-07-18,Ashdown,Cooper-Climax,12,23,69,+6 Laps,,0
+1959,5,British Grand Prix,1959-07-18,Bueb,Cooper-Borgward,13,18,69,+6 Laps,,0
+1959,5,British Grand Prix,1959-07-18,Shelby,Aston Martin,14,6,69,Ignition,,0
+1959,5,British Grand Prix,1959-07-18,d'Orey,Maserati,15,20,57,Accident,,0
+1959,5,British Grand Prix,1959-07-18,Flockhart,BRM,16,11,53,Spun off,,0
+1959,5,British Grand Prix,1959-07-18,Fairman,Cooper-Climax,17,15,39,Gearbox,,0
+1959,5,British Grand Prix,1959-07-18,Bonnier,BRM,18,10,37,Brakes,,0
+1959,5,British Grand Prix,1959-07-18,Burgess,Cooper-Maserati,19,13,31,Transmission,,0
+1959,5,British Grand Prix,1959-07-18,Herrmann,Cooper-Maserati,20,19,21,Gearbox,,0
+1959,5,British Grand Prix,1959-07-18,Piper,Team Lotus,21,22,19,Overheating,,0
+1959,5,British Grand Prix,1959-07-18,Naylor,JBW,22,14,18,Transmission,,0
+1959,5,British Grand Prix,1959-07-18,Taylor,Cooper-Climax,23,24,17,Transmission,,0
+1959,5,British Grand Prix,1959-07-18,Brooks,Vanwall,24,17,13,Ignition,,0
+1959,5,British Grand Prix,1959-07-18,Greene,Cooper-Climax,25,0,0,Did not qualify,,0
+1959,5,British Grand Prix,1959-07-18,Moss,Cooper-Climax,26,0,0,Did not qualify,,0
+1959,5,British Grand Prix,1959-07-18,Parkes,Fry,27,0,0,Did not qualify,,0
+1959,5,British Grand Prix,1959-07-18,Taylor,Team Lotus,28,0,0,Did not qualify,,0
+1959,5,British Grand Prix,1959-07-18,Taylor,Cooper-Climax,29,0,0,Did not qualify,,0
+1959,5,British Grand Prix,1959-07-18,Parnell,Cooper-Climax,30,0,0,Did not qualify,,0
+1959,6,German Grand Prix,1959-08-02,Brooks,Ferrari,1,1,60,Finished,2:09:31.6,9
+1959,6,German Grand Prix,1959-08-02,Gurney,Ferrari,2,3,60,Finished,+2.9,6
+1959,6,German Grand Prix,1959-08-02,Hill,Ferrari,3,6,60,Finished,+1:04.8,4
+1959,6,German Grand Prix,1959-08-02,Trintignant,Cooper-Climax,4,12,59,+1 Lap,,3
+1959,6,German Grand Prix,1959-08-02,Bonnier,BRM,5,7,58,+2 Laps,,2
+1959,6,German Grand Prix,1959-08-02,Burgess,Cooper-Maserati,6,15,56,+4 Laps,,0
+1959,6,German Grand Prix,1959-08-02,Schell,BRM,7,8,49,+11 Laps,,0
+1959,6,German Grand Prix,1959-08-02,McLaren,Cooper-Climax,8,9,36,Transmission,,0
+1959,6,German Grand Prix,1959-08-02,Herrmann,BRM,9,11,36,Accident,,0
+1959,6,German Grand Prix,1959-08-02,Gregory,Cooper-Climax,10,5,23,Engine,,0
+1959,6,German Grand Prix,1959-08-02,Brabham,Cooper-Climax,11,4,15,Transmission,,0
+1959,6,German Grand Prix,1959-08-02,Hill,Team Lotus,12,10,10,Gearbox,,0
+1959,6,German Grand Prix,1959-08-02,Ireland,Team Lotus,13,13,7,Differential,,0
+1959,6,German Grand Prix,1959-08-02,Allison,Ferrari,14,14,2,Clutch,,0
+1959,6,German Grand Prix,1959-08-02,Moss,Cooper-Climax,15,2,1,Transmission,,0
+1959,7,Portuguese Grand Prix,1959-08-23,Moss,Cooper-Climax,1,1,62,Finished,2:11:55.41,9
+1959,7,Portuguese Grand Prix,1959-08-23,Gregory,Cooper-Climax,2,3,61,+1 Lap,,6
+1959,7,Portuguese Grand Prix,1959-08-23,Gurney,Ferrari,3,6,61,+1 Lap,,4
+1959,7,Portuguese Grand Prix,1959-08-23,Trintignant,Cooper-Climax,4,4,60,+2 Laps,,3
+1959,7,Portuguese Grand Prix,1959-08-23,Schell,BRM,5,9,59,+3 Laps,,2
+1959,7,Portuguese Grand Prix,1959-08-23,Salvadori,Aston Martin,6,12,59,+3 Laps,,0
+1959,7,Portuguese Grand Prix,1959-08-23,Flockhart,BRM,7,11,59,+3 Laps,,0
+1959,7,Portuguese Grand Prix,1959-08-23,Shelby,Aston Martin,8,13,58,+4 Laps,,0
+1959,7,Portuguese Grand Prix,1959-08-23,Brooks,Ferrari,9,10,57,+5 Laps,,0
+1959,7,Portuguese Grand Prix,1959-08-23,Cabral,Cooper-Maserati,10,14,56,+6 Laps,,0
+1959,7,Portuguese Grand Prix,1959-08-23,McLaren,Cooper-Climax,11,8,38,Transmission,,0
+1959,7,Portuguese Grand Prix,1959-08-23,Brabham,Cooper-Climax,12,2,23,Transmission,,0
+1959,7,Portuguese Grand Prix,1959-08-23,Bonnier,BRM,13,5,10,Engine,,0
+1959,7,Portuguese Grand Prix,1959-08-23,Hill,Ferrari,14,7,5,Accident,,0
+1959,7,Portuguese Grand Prix,1959-08-23,Hill,Team Lotus,15,15,5,Accident,,0
+1959,7,Portuguese Grand Prix,1959-08-23,Ireland,Team Lotus,16,16,3,Gearbox,,0
+1959,8,Italian Grand Prix,1959-09-13,Moss,Cooper-Climax,1,1,72,Finished,2:04:05.4,8
+1959,8,Italian Grand Prix,1959-09-13,Hill,Ferrari,2,5,72,Finished,+46.7,7
+1959,8,Italian Grand Prix,1959-09-13,Brabham,Cooper-Climax,3,3,72,Finished,+1:12.5,4
+1959,8,Italian Grand Prix,1959-09-13,Gurney,Ferrari,4,4,72,Finished,+1:19.6,3
+1959,8,Italian Grand Prix,1959-09-13,Allison,Ferrari,5,8,71,+1 Lap,,2
+1959,8,Italian Grand Prix,1959-09-13,Gendebien,Ferrari,6,6,71,+1 Lap,,0
+1959,8,Italian Grand Prix,1959-09-13,Schell,BRM,7,7,70,+2 Laps,,0
+1959,8,Italian Grand Prix,1959-09-13,Bonnier,BRM,8,11,70,+2 Laps,,0
+1959,8,Italian Grand Prix,1959-09-13,Trintignant,Cooper-Climax,9,13,70,+2 Laps,,0
+1959,8,Italian Grand Prix,1959-09-13,Shelby,Aston Martin,10,19,70,+2 Laps,,0
+1959,8,Italian Grand Prix,1959-09-13,Davis,Cooper-Maserati,11,18,68,+4 Laps,,0
+1959,8,Italian Grand Prix,1959-09-13,Scarlatti,Cooper-Climax,12,12,68,+4 Laps,,0
+1959,8,Italian Grand Prix,1959-09-13,Flockhart,BRM,13,15,67,+5 Laps,,0
+1959,8,Italian Grand Prix,1959-09-13,Burgess,Cooper-Maserati,14,16,67,+5 Laps,,0
+1959,8,Italian Grand Prix,1959-09-13,Cabianca,Maserati,15,21,64,+8 Laps,,0
+1959,8,Italian Grand Prix,1959-09-13,Salvadori,Aston Martin,16,17,44,Engine,,0
+1959,8,Italian Grand Prix,1959-09-13,McLaren,Cooper-Climax,17,9,22,Engine,,0
+1959,8,Italian Grand Prix,1959-09-13,Fairman,Cooper-Maserati,18,12,18,Engine,,0
+1959,8,Italian Grand Prix,1959-09-13,Ireland,Team Lotus,19,14,14,Brakes,,0
+1959,8,Italian Grand Prix,1959-09-13,Hill,Team Lotus,20,10,1,Clutch,,0
+1959,8,Italian Grand Prix,1959-09-13,Brooks,Ferrari,21,2,0,Clutch,,0
+1959,9,United States Grand Prix,1959-12-12,McLaren,Cooper-Climax,1,10,42,Finished,2:12:35.7,8
+1959,9,United States Grand Prix,1959-12-12,Trintignant,Cooper-Climax,2,5,42,Finished,+0.6,7
+1959,9,United States Grand Prix,1959-12-12,Brooks,Ferrari,3,4,42,Finished,+3:00.9,4
+1959,9,United States Grand Prix,1959-12-12,Brabham,Cooper-Climax,4,2,42,Finished,+4:57.3,3
+1959,9,United States Grand Prix,1959-12-12,Ireland,Team Lotus,5,9,39,+3 Laps,,2
+1959,9,United States Grand Prix,1959-12-12,von Trips,Ferrari,6,6,38,Engine,,0
+1959,9,United States Grand Prix,1959-12-12,Blanchard,Porsche,7,16,38,+4 Laps,,0
+1959,9,United States Grand Prix,1959-12-12,Allison,Ferrari,8,11,23,Transmission,,0
+1959,9,United States Grand Prix,1959-12-12,Salvadori,Cooper-Maserati,9,11,23,Transmission,,0
+1959,9,United States Grand Prix,1959-12-12,Ward,Kurtis Kraft,10,19,20,Clutch,,0
+1959,9,United States Grand Prix,1959-12-12,de Tomaso,Cooper-OSCA,11,14,13,Brakes,,0
+1959,9,United States Grand Prix,1959-12-12,Hill,Ferrari,12,8,8,Clutch,,0
+1959,9,United States Grand Prix,1959-12-12,d'Orey,Tec-Mec,13,17,6,Oil leak,,0
+1959,9,United States Grand Prix,1959-12-12,Moss,Cooper-Climax,14,1,5,Transmission,,0
+1959,9,United States Grand Prix,1959-12-12,Schell,Cooper-Climax,15,3,5,Clutch,,0
+1959,9,United States Grand Prix,1959-12-12,Constantine,Cooper-Borgward,16,15,5,Overheating,,0
+1959,9,United States Grand Prix,1959-12-12,Stacey,Team Lotus,17,12,2,Clutch,,0
+1959,9,United States Grand Prix,1959-12-12,Said,Connaught,18,13,0,Accident,,0
+1959,9,United States Grand Prix,1959-12-12,Cade,Maserati,19,0,0,Withdrew,,0

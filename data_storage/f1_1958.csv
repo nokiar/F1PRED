@@ -1,0 +1,242 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1958,1,Argentine Grand Prix,1958-01-19,Moss,Cooper,1,7,80,Finished,2:19:33.7,8
+1958,1,Argentine Grand Prix,1958-01-19,Musso,Ferrari,2,5,80,Finished,+2.7,6
+1958,1,Argentine Grand Prix,1958-01-19,Hawthorn,Ferrari,3,2,80,Finished,+12.6,4
+1958,1,Argentine Grand Prix,1958-01-19,Fangio,Maserati,4,1,80,Finished,+53.0,4
+1958,1,Argentine Grand Prix,1958-01-19,Behra,Maserati,5,4,78,+2 Laps,,2
+1958,1,Argentine Grand Prix,1958-01-19,Schell,Maserati,6,8,77,+3 Laps,,0
+1958,1,Argentine Grand Prix,1958-01-19,Menditeguy,Maserati,7,6,76,+4 Laps,,0
+1958,1,Argentine Grand Prix,1958-01-19,Godia,Maserati,8,9,75,+5 Laps,,0
+1958,1,Argentine Grand Prix,1958-01-19,Gould,Maserati,9,10,71,+9 Laps,,0
+1958,1,Argentine Grand Prix,1958-01-19,Collins,Ferrari,10,3,0,Halfshaft,,0
+1958,2,Monaco Grand Prix,1958-05-18,Trintignant,Cooper,1,5,100,Finished,2:52:27.9,8
+1958,2,Monaco Grand Prix,1958-05-18,Musso,Ferrari,2,10,100,Finished,+20.2,6
+1958,2,Monaco Grand Prix,1958-05-18,Collins,Ferrari,3,9,100,Finished,+38.8,4
+1958,2,Monaco Grand Prix,1958-05-18,Brabham,Cooper,4,3,97,+3 Laps,,3
+1958,2,Monaco Grand Prix,1958-05-18,Schell,BRM,5,12,91,+9 Laps,,2
+1958,2,Monaco Grand Prix,1958-05-18,Allison,Team Lotus,6,13,87,+13 Laps,,0
+1958,2,Monaco Grand Prix,1958-05-18,von Trips,Ferrari,7,11,91,Engine,,0
+1958,2,Monaco Grand Prix,1958-05-18,Bonnier,Maserati,8,16,71,Accident,,0
+1958,2,Monaco Grand Prix,1958-05-18,Hill,Team Lotus,9,15,69,Halfshaft,,0
+1958,2,Monaco Grand Prix,1958-05-18,Salvadori,Cooper,10,4,56,Gearbox,,0
+1958,2,Monaco Grand Prix,1958-05-18,Hawthorn,Ferrari,11,6,47,Fuel pump,,1
+1958,2,Monaco Grand Prix,1958-05-18,Moss,Vanwall,12,8,38,Engine,,0
+1958,2,Monaco Grand Prix,1958-05-18,Behra,BRM,13,2,29,Brakes,,0
+1958,2,Monaco Grand Prix,1958-05-18,Scarlatti,Maserati,14,14,28,Engine,,0
+1958,2,Monaco Grand Prix,1958-05-18,Brooks,Vanwall,15,1,22,Engine,,0
+1958,2,Monaco Grand Prix,1958-05-18,Lewis-Evans,Vanwall,16,7,11,Overheating,,0
+1958,2,Monaco Grand Prix,1958-05-18,Flockhart,Cooper,17,0,0,Did not qualify,,0
+1958,2,Monaco Grand Prix,1958-05-18,Kavanagh,Maserati,18,0,0,Did not qualify,,0
+1958,2,Monaco Grand Prix,1958-05-18,Gerini,Maserati,19,0,0,Did not qualify,,0
+1958,2,Monaco Grand Prix,1958-05-18,Kessler,Connaught,20,0,0,Did not qualify,,0
+1958,2,Monaco Grand Prix,1958-05-18,Emery,Connaught,21,0,0,Did not qualify,,0
+1958,2,Monaco Grand Prix,1958-05-18,de Filippis,Maserati,22,0,0,Did not qualify,,0
+1958,2,Monaco Grand Prix,1958-05-18,Testut,Maserati,23,0,0,Did not qualify,,0
+1958,2,Monaco Grand Prix,1958-05-18,Cabianca,OSCA,24,0,0,Did not qualify,,0
+1958,2,Monaco Grand Prix,1958-05-18,Piotti,OSCA,25,0,0,Did not qualify,,0
+1958,2,Monaco Grand Prix,1958-05-18,Gould,Maserati,26,0,0,Did not qualify,,0
+1958,2,Monaco Grand Prix,1958-05-18,Flockhart,BRM,27,0,0,Did not qualify,,0
+1958,2,Monaco Grand Prix,1958-05-18,Ecclestone,Connaught,28,0,0,Did not qualify,,0
+1958,2,Monaco Grand Prix,1958-05-18,Taramazzo,Maserati,29,0,0,Did not qualify,,0
+1958,2,Monaco Grand Prix,1958-05-18,Chiron,Maserati,30,0,0,Did not qualify,,0
+1958,2,Monaco Grand Prix,1958-05-18,Godia,Maserati,31,0,0,Did not qualify,,0
+1958,3,Dutch Grand Prix,1958-05-26,Moss,Vanwall,1,2,75,Finished,2:04:49.2,9
+1958,3,Dutch Grand Prix,1958-05-26,Schell,BRM,2,7,75,Finished,+47.9,6
+1958,3,Dutch Grand Prix,1958-05-26,Behra,BRM,3,4,75,Finished,+1:42.3,4
+1958,3,Dutch Grand Prix,1958-05-26,Salvadori,Cooper,4,9,74,+1 Lap,,3
+1958,3,Dutch Grand Prix,1958-05-26,Hawthorn,Ferrari,5,6,74,+1 Lap,,2
+1958,3,Dutch Grand Prix,1958-05-26,Allison,Team Lotus,6,11,73,+2 Laps,,0
+1958,3,Dutch Grand Prix,1958-05-26,Musso,Ferrari,7,12,73,+2 Laps,,0
+1958,3,Dutch Grand Prix,1958-05-26,Brabham,Cooper,8,5,73,+2 Laps,,0
+1958,3,Dutch Grand Prix,1958-05-26,Trintignant,Cooper,9,8,72,+3 Laps,,0
+1958,3,Dutch Grand Prix,1958-05-26,Bonnier,Maserati,10,15,71,+4 Laps,,0
+1958,3,Dutch Grand Prix,1958-05-26,de Beaufort,Porsche,11,17,69,+6 Laps,,0
+1958,3,Dutch Grand Prix,1958-05-26,Scarlatti,Maserati,12,16,52,Halfshaft,,0
+1958,3,Dutch Grand Prix,1958-05-26,Lewis-Evans,Vanwall,13,1,46,Engine,,0
+1958,3,Dutch Grand Prix,1958-05-26,Hill,Team Lotus,14,13,40,Overheating,,0
+1958,3,Dutch Grand Prix,1958-05-26,Collins,Ferrari,15,10,32,Gearbox,,0
+1958,3,Dutch Grand Prix,1958-05-26,Gregory,Maserati,16,14,16,Fuel pump,,0
+1958,3,Dutch Grand Prix,1958-05-26,Brooks,Vanwall,17,3,13,Halfshaft,,0
+1958,3,Dutch Grand Prix,1958-05-26,Gould,Maserati,18,0,0,Withdrew,,0
+1958,4,Indianapolis 500,1958-05-30,Bryan,Epperly,1,7,200,Finished,3:44:13.80,8
+1958,4,Indianapolis 500,1958-05-30,Amick,Epperly,2,25,200,Finished,+27.63,6
+1958,4,Indianapolis 500,1958-05-30,Boyd,Kurtis Kraft,3,8,200,Finished,+1:09.67,4
+1958,4,Indianapolis 500,1958-05-30,Bettenhausen,Epperly,4,9,200,Finished,+1:34.81,4
+1958,4,Indianapolis 500,1958-05-30,Rathmann,Epperly,5,20,200,Finished,+1:35.62,2
+1958,4,Indianapolis 500,1958-05-30,Reece,Watson,6,3,200,Finished,+2:16.95,0
+1958,4,Indianapolis 500,1958-05-30,Freeland,Phillips,7,13,200,Finished,+2:21.06,0
+1958,4,Indianapolis 500,1958-05-30,Larson,Watson,8,19,200,Finished,+5:34.02,0
+1958,4,Indianapolis 500,1958-05-30,Johnson,Kurtis Kraft,9,26,200,Finished,+6:15.76,0
+1958,4,Indianapolis 500,1958-05-30,Cheesbourg,Kurtis Kraft,10,33,200,Finished,+8:03.59,0
+1958,4,Indianapolis 500,1958-05-30,Keller,Kurtis Kraft,11,21,200,Finished,+9:14.20,0
+1958,4,Indianapolis 500,1958-05-30,Parsons,Kurtis Kraft,12,6,200,Finished,+9:40.85,0
+1958,4,Indianapolis 500,1958-05-30,Tolan,Kuzma,13,30,200,Finished,+9:52.24,0
+1958,4,Indianapolis 500,1958-05-30,Christie,Kurtis Kraft,14,17,189,Spun off,,0
+1958,4,Indianapolis 500,1958-05-30,Wilson,Kuzma,15,32,151,Heat shield fire,,0
+1958,4,Indianapolis 500,1958-05-30,Foyt,Kuzma,16,12,148,Spun off,,0
+1958,4,Indianapolis 500,1958-05-30,Magill,Kurtis Kraft,17,31,136,Disqualified,,0
+1958,4,Indianapolis 500,1958-05-30,Russo,Kurtis Kraft,18,14,122,Throttle,,0
+1958,4,Indianapolis 500,1958-05-30,Templeman,Kurtis Kraft,19,23,116,Brakes,,0
+1958,4,Indianapolis 500,1958-05-30,Ward,Lesovsky,20,11,93,Magneto,,0
+1958,4,Indianapolis 500,1958-05-30,Garrett,Kurtis Kraft,21,15,80,Magneto,,0
+1958,4,Indianapolis 500,1958-05-30,Sachs,Kuzma,22,18,68,Transmission,,0
+1958,4,Indianapolis 500,1958-05-30,Thomson,Kurtis Kraft,23,22,52,Steering,,0
+1958,4,Indianapolis 500,1958-05-30,Weyant,Dunn,24,29,38,Accident,,0
+1958,4,Indianapolis 500,1958-05-30,Turner,Lesovsky,25,10,21,Fuel pump,,0
+1958,4,Indianapolis 500,1958-05-30,Veith,Kurtis Kraft,26,4,1,Accident,,0
+1958,4,Indianapolis 500,1958-05-30,Rathmann,Watson,27,1,0,Accident,,0
+1958,4,Indianapolis 500,1958-05-30,Elisian,Watson,28,2,0,Accident,,0
+1958,4,Indianapolis 500,1958-05-30,O'Connor,Kurtis Kraft,29,5,0,Accident,,0
+1958,4,Indianapolis 500,1958-05-30,Goldsmith,Kurtis Kraft,30,16,0,Accident,,0
+1958,4,Indianapolis 500,1958-05-30,Unser,Kurtis Kraft,31,24,0,Accident,,0
+1958,4,Indianapolis 500,1958-05-30,Sutton,Kurtis Kraft,32,27,0,Accident,,0
+1958,4,Indianapolis 500,1958-05-30,Bisch,Kuzma,33,28,0,Accident,,0
+1958,5,Belgian Grand Prix,1958-06-15,Brooks,Vanwall,1,5,24,Finished,1:37:06.3,8
+1958,5,Belgian Grand Prix,1958-06-15,Hawthorn,Ferrari,2,1,24,Finished,+20.7,7
+1958,5,Belgian Grand Prix,1958-06-15,Lewis-Evans,Vanwall,3,11,24,Finished,+3:00.9,4
+1958,5,Belgian Grand Prix,1958-06-15,Allison,Team Lotus,4,12,24,Finished,+4:15.5,3
+1958,5,Belgian Grand Prix,1958-06-15,Schell,BRM,5,7,23,+1 Lap,,2
+1958,5,Belgian Grand Prix,1958-06-15,Gendebien,Ferrari,6,6,23,+1 Lap,,0
+1958,5,Belgian Grand Prix,1958-06-15,Trintignant,Maserati,7,16,23,+1 Lap,,0
+1958,5,Belgian Grand Prix,1958-06-15,Salvadori,Cooper,8,13,23,+1 Lap,,0
+1958,5,Belgian Grand Prix,1958-06-15,Bonnier,Maserati,9,14,22,+2 Laps,,0
+1958,5,Belgian Grand Prix,1958-06-15,de Filippis,Maserati,10,19,22,+2 Laps,,0
+1958,5,Belgian Grand Prix,1958-06-15,Godia,Maserati,11,18,22,Engine,,0
+1958,5,Belgian Grand Prix,1958-06-15,Brabham,Cooper,12,8,16,Overheating,,0
+1958,5,Belgian Grand Prix,1958-06-15,Hill,Team Lotus,13,15,12,Engine,,0
+1958,5,Belgian Grand Prix,1958-06-15,Musso,Ferrari,14,2,5,Accident,,0
+1958,5,Belgian Grand Prix,1958-06-15,Collins,Ferrari,15,4,5,Overheating,,0
+1958,5,Belgian Grand Prix,1958-06-15,Behra,BRM,16,10,5,Oil pressure,,0
+1958,5,Belgian Grand Prix,1958-06-15,Seidel,Maserati,17,17,4,Halfshaft,,0
+1958,5,Belgian Grand Prix,1958-06-15,Moss,Vanwall,18,9,0,Engine,,0
+1958,5,Belgian Grand Prix,1958-06-15,Gregory,Maserati,19,3,0,Engine,,0
+1958,6,French Grand Prix,1958-07-06,Hawthorn,Ferrari,1,1,50,Finished,2:03:21.3,9
+1958,6,French Grand Prix,1958-07-06,Moss,Vanwall,2,6,50,Finished,+24.6,6
+1958,6,French Grand Prix,1958-07-06,von Trips,Ferrari,3,21,50,Finished,+59.7,4
+1958,6,French Grand Prix,1958-07-06,Fangio,Maserati,4,8,50,Finished,+2:30.6,3
+1958,6,French Grand Prix,1958-07-06,Collins,Ferrari,5,4,50,Finished,+5:24.9,2
+1958,6,French Grand Prix,1958-07-06,Brabham,Cooper,6,12,49,+1 Lap,,0
+1958,6,French Grand Prix,1958-07-06,Hill,Maserati,7,13,49,+1 Lap,,0
+1958,6,French Grand Prix,1958-07-06,Bonnier,Maserati,8,16,48,+2 Laps,,0
+1958,6,French Grand Prix,1958-07-06,Gerini,Maserati,9,15,47,+3 Laps,,0
+1958,6,French Grand Prix,1958-07-06,Ruttman,Maserati,10,18,45,+5 Laps,,0
+1958,6,French Grand Prix,1958-07-06,Salvadori,Cooper,11,14,37,+13 Laps,,0
+1958,6,French Grand Prix,1958-07-06,Schell,BRM,12,3,41,Overheating,,0
+1958,6,French Grand Prix,1958-07-06,Behra,BRM,13,9,41,Fuel pump,,0
+1958,6,French Grand Prix,1958-07-06,Lewis-Evans,Vanwall,14,10,35,Engine,,0
+1958,6,French Grand Prix,1958-07-06,Brooks,Vanwall,14,10,35,Engine,,0
+1958,6,French Grand Prix,1958-07-06,Hill,Team Lotus,15,19,33,Overheating,,0
+1958,6,French Grand Prix,1958-07-06,Godia,Maserati,16,11,28,Accident,,0
+1958,6,French Grand Prix,1958-07-06,Trintignant,BRM,17,7,23,Fuel pump,,0
+1958,6,French Grand Prix,1958-07-06,Brooks,Vanwall,18,5,16,Engine,,0
+1958,6,French Grand Prix,1958-07-06,Musso,Ferrari,19,2,9,Accident,,0
+1958,6,French Grand Prix,1958-07-06,Shelby,Maserati,20,17,9,Engine,,0
+1958,6,French Grand Prix,1958-07-06,Allison,Team Lotus,21,20,6,Engine,,0
+1958,7,British Grand Prix,1958-07-19,Collins,Ferrari,1,6,75,Finished,2:09:04.2,8
+1958,7,British Grand Prix,1958-07-19,Hawthorn,Ferrari,2,4,75,Finished,+24.2,7
+1958,7,British Grand Prix,1958-07-19,Salvadori,Cooper,3,3,75,Finished,+50.6,4
+1958,7,British Grand Prix,1958-07-19,Lewis-Evans,Vanwall,4,7,75,Finished,+50.8,3
+1958,7,British Grand Prix,1958-07-19,Schell,BRM,5,2,75,Finished,+1:14.8,2
+1958,7,British Grand Prix,1958-07-19,Brabham,Cooper,6,10,75,Finished,+1:23.2,0
+1958,7,British Grand Prix,1958-07-19,Brooks,Vanwall,7,9,74,+1 Lap,,0
+1958,7,British Grand Prix,1958-07-19,Trintignant,Cooper,8,12,73,+2 Laps,,0
+1958,7,British Grand Prix,1958-07-19,Shelby,Maserati,9,15,72,+3 Laps,,0
+1958,7,British Grand Prix,1958-07-19,von Trips,Ferrari,10,11,59,Engine,,0
+1958,7,British Grand Prix,1958-07-19,Bonnier,Maserati,11,13,49,Gearbox,,0
+1958,7,British Grand Prix,1958-07-19,Gerini,Maserati,12,18,44,Gearbox,,0
+1958,7,British Grand Prix,1958-07-19,Burgess,Cooper,13,16,40,Clutch,,0
+1958,7,British Grand Prix,1958-07-19,Moss,Vanwall,14,1,25,Engine,,0
+1958,7,British Grand Prix,1958-07-19,Allison,Team Lotus,15,5,21,Engine,,0
+1958,7,British Grand Prix,1958-07-19,Behra,BRM,16,8,19,Suspension,,0
+1958,7,British Grand Prix,1958-07-19,Bueb,Connaught,17,17,19,Gearbox,,0
+1958,7,British Grand Prix,1958-07-19,Stacey,Team Lotus,18,20,19,Overheating,,0
+1958,7,British Grand Prix,1958-07-19,Hill,Team Lotus,19,14,17,Overheating,,0
+1958,7,British Grand Prix,1958-07-19,Fairman,Connaught,20,19,7,Ignition,,0
+1958,8,German Grand Prix,1958-08-03,Brooks,Vanwall,1,2,15,Finished,2:21:15.0,8
+1958,8,German Grand Prix,1958-08-03,Salvadori,Cooper,2,6,15,Finished,+3:29.7,6
+1958,8,German Grand Prix,1958-08-03,Trintignant,Cooper,3,7,15,Finished,+5:11.2,4
+1958,8,German Grand Prix,1958-08-03,von Trips,Ferrari,4,5,15,Finished,+6:16.3,3
+1958,8,German Grand Prix,1958-08-03,McLaren,Cooper,5,12,15,Finished,+6:26.3,0
+1958,8,German Grand Prix,1958-08-03,Barth,Porsche,6,13,15,Finished,+6:32.4,0
+1958,8,German Grand Prix,1958-08-03,Burgess,Cooper,7,11,15,Finished,+6:59.3,0
+1958,8,German Grand Prix,1958-08-03,Marsh,Cooper,8,14,15,Finished,+7:09.9,0
+1958,8,German Grand Prix,1958-08-03,Hill,Ferrari,9,10,15,Finished,+7:45.5,0
+1958,8,German Grand Prix,1958-08-03,Allison,Team Lotus,10,24,13,+2 Laps,,0
+1958,8,German Grand Prix,1958-08-03,Bueb,Team Lotus,11,16,13,+2 Laps,,0
+1958,8,German Grand Prix,1958-08-03,Hawthorn,Ferrari,12,1,11,Clutch,,0
+1958,8,German Grand Prix,1958-08-03,Collins,Ferrari,13,4,10,Accident,,0
+1958,8,German Grand Prix,1958-08-03,Seidel,Cooper,14,17,9,Suspension,,0
+1958,8,German Grand Prix,1958-08-03,Schell,BRM,15,8,9,Brakes,,0
+1958,8,German Grand Prix,1958-08-03,Goethals,Cooper,16,23,4,Fuel pump,,0
+1958,8,German Grand Prix,1958-08-03,Hill,Team Lotus,17,22,4,Oil pipe,,0
+1958,8,German Grand Prix,1958-08-03,Behra,BRM,18,9,4,Suspension,,0
+1958,8,German Grand Prix,1958-08-03,de Beaufort,Porsche,19,15,3,Engine,,0
+1958,8,German Grand Prix,1958-08-03,Herrmann,Maserati,20,20,3,Engine,,0
+1958,8,German Grand Prix,1958-08-03,Moss,Vanwall,21,3,3,Magneto,,1
+1958,8,German Grand Prix,1958-08-03,Gibson,Cooper,22,18,2,Engine,,0
+1958,8,German Grand Prix,1958-08-03,Naylor,Cooper,23,25,1,Fuel pump,,0
+1958,8,German Grand Prix,1958-08-03,Brabham,Cooper,24,19,1,Collision,,0
+1958,8,German Grand Prix,1958-08-03,Bonnier,Maserati,25,21,1,Accident,,0
+1958,8,German Grand Prix,1958-08-03,Ruttman,Maserati,26,0,0,Engine,,0
+1958,9,Portuguese Grand Prix,1958-08-24,Moss,Vanwall,1,1,50,Finished,2:11:27.80,8
+1958,9,Portuguese Grand Prix,1958-08-24,Hawthorn,Ferrari,2,2,50,Finished,+5:12.75,7
+1958,9,Portuguese Grand Prix,1958-08-24,Lewis-Evans,Vanwall,3,3,49,+1 Lap,,4
+1958,9,Portuguese Grand Prix,1958-08-24,Behra,BRM,4,4,49,+1 Lap,,3
+1958,9,Portuguese Grand Prix,1958-08-24,von Trips,Ferrari,5,6,49,+1 Lap,,2
+1958,9,Portuguese Grand Prix,1958-08-24,Schell,BRM,6,7,49,+1 Lap,,0
+1958,9,Portuguese Grand Prix,1958-08-24,Brabham,Cooper,7,8,48,+2 Laps,,0
+1958,9,Portuguese Grand Prix,1958-08-24,Trintignant,Cooper,8,9,48,+2 Laps,,0
+1958,9,Portuguese Grand Prix,1958-08-24,Salvadori,Cooper,9,11,46,+4 Laps,,0
+1958,9,Portuguese Grand Prix,1958-08-24,Shelby,Maserati,10,10,47,Brakes,,0
+1958,9,Portuguese Grand Prix,1958-08-24,Brooks,Vanwall,11,5,37,Spun off,,0
+1958,9,Portuguese Grand Prix,1958-08-24,Hill,Team Lotus,12,12,25,Spun off,,0
+1958,9,Portuguese Grand Prix,1958-08-24,Allison,Maserati,13,13,15,Engine,,0
+1958,9,Portuguese Grand Prix,1958-08-24,Bonnier,Maserati,14,14,9,Physical,,0
+1958,9,Portuguese Grand Prix,1958-08-24,de Filippis,Maserati,15,15,6,Engine,,0
+1958,10,Italian Grand Prix,1958-09-07,Brooks,Vanwall,1,2,70,Finished,2:03:47.8,8
+1958,10,Italian Grand Prix,1958-09-07,Hawthorn,Ferrari,2,3,70,Finished,+24.2,6
+1958,10,Italian Grand Prix,1958-09-07,Hill,Ferrari,3,7,70,Finished,+28.3,5
+1958,10,Italian Grand Prix,1958-09-07,Gregory,Maserati,4,11,69,+1 Lap,,0
+1958,10,Italian Grand Prix,1958-09-07,Shelby,Maserati,4,11,69,+1 Lap,,0
+1958,10,Italian Grand Prix,1958-09-07,Salvadori,Cooper,5,14,62,+8 Laps,,2
+1958,10,Italian Grand Prix,1958-09-07,Hill,Team Lotus,6,12,62,+8 Laps,,0
+1958,10,Italian Grand Prix,1958-09-07,Allison,Team Lotus,7,16,61,+9 Laps,,0
+1958,10,Italian Grand Prix,1958-09-07,de Filippis,Maserati,8,21,57,Engine,,0
+1958,10,Italian Grand Prix,1958-09-07,Cabianca,Maserati,9,20,51,Engine,,0
+1958,10,Italian Grand Prix,1958-09-07,Behra,BRM,10,8,42,Clutch,,0
+1958,10,Italian Grand Prix,1958-09-07,Herrmann,Maserati,11,18,32,Engine,,0
+1958,10,Italian Grand Prix,1958-09-07,Lewis-Evans,Vanwall,12,4,30,Overheating,,0
+1958,10,Italian Grand Prix,1958-09-07,Trintignant,Cooper,13,13,24,Gearbox,,0
+1958,10,Italian Grand Prix,1958-09-07,Moss,Vanwall,14,1,17,Gearbox,,0
+1958,10,Italian Grand Prix,1958-09-07,Bonnier,BRM,15,10,14,Transmission,,0
+1958,10,Italian Grand Prix,1958-09-07,Gendebien,Ferrari,16,5,4,Suspension,,0
+1958,10,Italian Grand Prix,1958-09-07,Gerini,Maserati,17,19,2,Accident,,0
+1958,10,Italian Grand Prix,1958-09-07,Shelby,Maserati,18,17,1,Handling,,0
+1958,10,Italian Grand Prix,1958-09-07,von Trips,Ferrari,19,6,0,Accident,,0
+1958,10,Italian Grand Prix,1958-09-07,Schell,BRM,20,9,0,Accident,,0
+1958,10,Italian Grand Prix,1958-09-07,Brabham,Cooper,21,15,0,Suspension,,0
+1958,11,Moroccan Grand Prix,1958-10-19,Moss,Vanwall,1,2,53,Finished,2:09:15.1,9
+1958,11,Moroccan Grand Prix,1958-10-19,Hawthorn,Ferrari,2,1,53,Finished,+1:24.7,6
+1958,11,Moroccan Grand Prix,1958-10-19,Hill,Ferrari,3,5,53,Finished,+1:25.5,4
+1958,11,Moroccan Grand Prix,1958-10-19,Bonnier,BRM,4,8,53,Finished,+1:46.7,3
+1958,11,Moroccan Grand Prix,1958-10-19,Schell,BRM,5,10,53,Finished,+2:33.7,2
+1958,11,Moroccan Grand Prix,1958-10-19,Gregory,Maserati,6,13,52,+1 Lap,,0
+1958,11,Moroccan Grand Prix,1958-10-19,Salvadori,Cooper,7,14,51,+2 Laps,,0
+1958,11,Moroccan Grand Prix,1958-10-19,Fairman,Cooper,8,11,50,+3 Laps,,0
+1958,11,Moroccan Grand Prix,1958-10-19,Herrmann,Maserati,9,18,50,+3 Laps,,0
+1958,11,Moroccan Grand Prix,1958-10-19,Allison,Team Lotus,10,16,49,+4 Laps,,0
+1958,11,Moroccan Grand Prix,1958-10-19,Brabham,Cooper,11,19,49,+4 Laps,,0
+1958,11,Moroccan Grand Prix,1958-10-19,Gerini,Maserati,12,17,48,+5 Laps,,0
+1958,11,Moroccan Grand Prix,1958-10-19,McLaren,Cooper,13,21,48,+5 Laps,,0
+1958,11,Moroccan Grand Prix,1958-10-19,La Caze,Cooper,14,23,48,+5 Laps,,0
+1958,11,Moroccan Grand Prix,1958-10-19,Guelfi,Cooper,15,25,48,+5 Laps,,0
+1958,11,Moroccan Grand Prix,1958-10-19,Hill,Team Lotus,16,12,45,+7 Laps,,0
+1958,11,Moroccan Grand Prix,1958-10-19,Lewis-Evans,Vanwall,17,3,41,Accident,,0
+1958,11,Moroccan Grand Prix,1958-10-19,Picard,Cooper,18,24,31,Accident,,0
+1958,11,Moroccan Grand Prix,1958-10-19,Bridger,Cooper,19,22,30,Accident,,0
+1958,11,Moroccan Grand Prix,1958-10-19,Brooks,Vanwall,20,7,29,Engine,,0
+1958,11,Moroccan Grand Prix,1958-10-19,Gendebien,Ferrari,21,6,29,Accident,,0
+1958,11,Moroccan Grand Prix,1958-10-19,Behra,BRM,22,4,26,Engine,,0
+1958,11,Moroccan Grand Prix,1958-10-19,Seidel,Cooper,23,20,15,Accident,,0
+1958,11,Moroccan Grand Prix,1958-10-19,Flockhart,BRM,24,15,15,Engine,,0
+1958,11,Moroccan Grand Prix,1958-10-19,Trintignant,Cooper,25,9,9,Engine,,0

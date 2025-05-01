@@ -1,0 +1,457 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+2011,1,Australian Grand Prix,2011-03-27,Vettel,Red Bull,1,1,58,Finished,1:29:30.259,25
+2011,1,Australian Grand Prix,2011-03-27,Hamilton,McLaren,2,2,58,Finished,+22.297,18
+2011,1,Australian Grand Prix,2011-03-27,Petrov,Renault,3,6,58,Finished,+30.560,15
+2011,1,Australian Grand Prix,2011-03-27,Alonso,Ferrari,4,5,58,Finished,+31.772,12
+2011,1,Australian Grand Prix,2011-03-27,Webber,Red Bull,5,3,58,Finished,+38.171,10
+2011,1,Australian Grand Prix,2011-03-27,Button,McLaren,6,4,58,Finished,+54.304,8
+2011,1,Australian Grand Prix,2011-03-27,Massa,Ferrari,7,8,58,Finished,+1:25.186,6
+2011,1,Australian Grand Prix,2011-03-27,Buemi,Toro Rosso,8,10,57,+1 Lap,,4
+2011,1,Australian Grand Prix,2011-03-27,Sutil,Force India,9,16,57,+1 Lap,,2
+2011,1,Australian Grand Prix,2011-03-27,di Resta,Force India,10,14,57,+1 Lap,,1
+2011,1,Australian Grand Prix,2011-03-27,Alguersuari,Toro Rosso,11,12,57,+1 Lap,,0
+2011,1,Australian Grand Prix,2011-03-27,Heidfeld,Renault,12,18,57,+1 Lap,,0
+2011,1,Australian Grand Prix,2011-03-27,Trulli,Lotus,13,20,56,+2 Laps,,0
+2011,1,Australian Grand Prix,2011-03-27,d'Ambrosio,Virgin,14,22,54,+4 Laps,,0
+2011,1,Australian Grand Prix,2011-03-27,Glock,Virgin,15,21,49,+9 Laps,,0
+2011,1,Australian Grand Prix,2011-03-27,Barrichello,Williams,16,17,48,Transmission,,0
+2011,1,Australian Grand Prix,2011-03-27,Rosberg,Mercedes,17,7,22,Collision,,0
+2011,1,Australian Grand Prix,2011-03-27,Kovalainen,Lotus,18,19,19,Water leak,,0
+2011,1,Australian Grand Prix,2011-03-27,Schumacher,Mercedes,19,11,19,Collision,,0
+2011,1,Australian Grand Prix,2011-03-27,Maldonado,Williams,20,15,9,Transmission,,0
+2011,1,Australian Grand Prix,2011-03-27,Kobayashi,Sauber,21,9,58,Disqualified,,0
+2011,1,Australian Grand Prix,2011-03-27,Pérez,Sauber,22,13,58,Disqualified,,0
+2011,1,Australian Grand Prix,2011-03-27,Liuzzi,HRT,23,0,0,Did not qualify,,0
+2011,1,Australian Grand Prix,2011-03-27,Karthikeyan,HRT,24,0,0,Did not qualify,,0
+2011,2,Malaysian Grand Prix,2011-04-10,Vettel,Red Bull,1,1,56,Finished,1:37:39.832,25
+2011,2,Malaysian Grand Prix,2011-04-10,Button,McLaren,2,4,56,Finished,+3.261,18
+2011,2,Malaysian Grand Prix,2011-04-10,Heidfeld,Renault,3,6,56,Finished,+25.075,15
+2011,2,Malaysian Grand Prix,2011-04-10,Webber,Red Bull,4,3,56,Finished,+26.384,12
+2011,2,Malaysian Grand Prix,2011-04-10,Massa,Ferrari,5,7,56,Finished,+36.958,10
+2011,2,Malaysian Grand Prix,2011-04-10,Alonso,Ferrari,6,5,56,Finished,+37.248,8
+2011,2,Malaysian Grand Prix,2011-04-10,Kobayashi,Sauber,7,10,56,Finished,+1:06.439,6
+2011,2,Malaysian Grand Prix,2011-04-10,Hamilton,McLaren,8,2,56,Finished,+1:09.957,4
+2011,2,Malaysian Grand Prix,2011-04-10,Schumacher,Mercedes,9,11,56,Finished,+1:24.896,2
+2011,2,Malaysian Grand Prix,2011-04-10,di Resta,Force India,10,14,56,Finished,+1:31.563,1
+2011,2,Malaysian Grand Prix,2011-04-10,Sutil,Force India,11,17,55,+1 Lap,+1:41.379,0
+2011,2,Malaysian Grand Prix,2011-04-10,Rosberg,Mercedes,12,9,55,+1 Lap,,0
+2011,2,Malaysian Grand Prix,2011-04-10,Buemi,Toro Rosso,13,12,55,+1 Lap,,0
+2011,2,Malaysian Grand Prix,2011-04-10,Alguersuari,Toro Rosso,14,13,55,+1 Lap,,0
+2011,2,Malaysian Grand Prix,2011-04-10,Kovalainen,Lotus,15,19,55,+1 Lap,,0
+2011,2,Malaysian Grand Prix,2011-04-10,Glock,Virgin,16,21,54,+2 Laps,,0
+2011,2,Malaysian Grand Prix,2011-04-10,Petrov,Renault,17,8,52,Accident,,0
+2011,2,Malaysian Grand Prix,2011-04-10,Liuzzi,HRT,18,23,46,+10 Laps,,0
+2011,2,Malaysian Grand Prix,2011-04-10,d'Ambrosio,Virgin,19,22,42,Accident,,0
+2011,2,Malaysian Grand Prix,2011-04-10,Trulli,Lotus,20,20,31,Clutch,,0
+2011,2,Malaysian Grand Prix,2011-04-10,Pérez,Sauber,21,16,23,Accident,,0
+2011,2,Malaysian Grand Prix,2011-04-10,Barrichello,Williams,22,15,22,Gearbox,,0
+2011,2,Malaysian Grand Prix,2011-04-10,Karthikeyan,HRT,23,24,14,+42 Laps,,0
+2011,2,Malaysian Grand Prix,2011-04-10,Maldonado,Williams,24,18,8,Engine misfire,,0
+2011,3,Chinese Grand Prix,2011-04-17,Hamilton,McLaren,1,3,56,Finished,1:36:58.226,25
+2011,3,Chinese Grand Prix,2011-04-17,Vettel,Red Bull,2,1,56,Finished,+5.198,18
+2011,3,Chinese Grand Prix,2011-04-17,Webber,Red Bull,3,18,56,Finished,+7.555,15
+2011,3,Chinese Grand Prix,2011-04-17,Button,McLaren,4,2,56,Finished,+10.000,12
+2011,3,Chinese Grand Prix,2011-04-17,Rosberg,Mercedes,5,4,56,Finished,+13.448,10
+2011,3,Chinese Grand Prix,2011-04-17,Massa,Ferrari,6,6,56,Finished,+15.840,8
+2011,3,Chinese Grand Prix,2011-04-17,Alonso,Ferrari,7,5,56,Finished,+30.622,6
+2011,3,Chinese Grand Prix,2011-04-17,Schumacher,Mercedes,8,14,56,Finished,+31.026,4
+2011,3,Chinese Grand Prix,2011-04-17,Petrov,Renault,9,10,56,Finished,+57.404,2
+2011,3,Chinese Grand Prix,2011-04-17,Kobayashi,Sauber,10,13,56,Finished,+1:03.273,1
+2011,3,Chinese Grand Prix,2011-04-17,di Resta,Force India,11,8,56,Finished,+1:08.757,0
+2011,3,Chinese Grand Prix,2011-04-17,Heidfeld,Renault,12,16,56,Finished,+1:12.739,0
+2011,3,Chinese Grand Prix,2011-04-17,Barrichello,Williams,13,15,56,Finished,+1:30.189,0
+2011,3,Chinese Grand Prix,2011-04-17,Buemi,Toro Rosso,14,9,56,Finished,+1:30.671,0
+2011,3,Chinese Grand Prix,2011-04-17,Sutil,Force India,15,11,55,+1 Lap,,0
+2011,3,Chinese Grand Prix,2011-04-17,Kovalainen,Lotus,16,19,55,+1 Lap,,0
+2011,3,Chinese Grand Prix,2011-04-17,Pérez,Sauber,17,12,55,+1 Lap,,0
+2011,3,Chinese Grand Prix,2011-04-17,Maldonado,Williams,18,17,55,+1 Lap,,0
+2011,3,Chinese Grand Prix,2011-04-17,Trulli,Lotus,19,20,55,+1 Lap,,0
+2011,3,Chinese Grand Prix,2011-04-17,d'Ambrosio,Virgin,20,21,54,+2 Laps,,0
+2011,3,Chinese Grand Prix,2011-04-17,Glock,Virgin,21,22,54,+2 Laps,,0
+2011,3,Chinese Grand Prix,2011-04-17,Liuzzi,HRT,22,23,54,+2 Laps,,0
+2011,3,Chinese Grand Prix,2011-04-17,Karthikeyan,HRT,23,24,54,+2 Laps,,0
+2011,3,Chinese Grand Prix,2011-04-17,Alguersuari,Toro Rosso,24,7,9,Wheel,,0
+2011,4,Turkish Grand Prix,2011-05-08,Vettel,Red Bull,1,1,58,Finished,1:30:17.558,25
+2011,4,Turkish Grand Prix,2011-05-08,Webber,Red Bull,2,2,58,Finished,+8.807,18
+2011,4,Turkish Grand Prix,2011-05-08,Alonso,Ferrari,3,5,58,Finished,+10.075,15
+2011,4,Turkish Grand Prix,2011-05-08,Hamilton,McLaren,4,4,58,Finished,+40.232,12
+2011,4,Turkish Grand Prix,2011-05-08,Rosberg,Mercedes,5,3,58,Finished,+47.539,10
+2011,4,Turkish Grand Prix,2011-05-08,Button,McLaren,6,6,58,Finished,+59.431,8
+2011,4,Turkish Grand Prix,2011-05-08,Heidfeld,Renault,7,9,58,Finished,+1:00.857,6
+2011,4,Turkish Grand Prix,2011-05-08,Petrov,Renault,8,7,58,Finished,+1:08.168,4
+2011,4,Turkish Grand Prix,2011-05-08,Buemi,Toro Rosso,9,16,58,Finished,+1:09.394,2
+2011,4,Turkish Grand Prix,2011-05-08,Kobayashi,Sauber,10,24,58,Finished,+1:18.021,1
+2011,4,Turkish Grand Prix,2011-05-08,Massa,Ferrari,11,10,58,Finished,+1:19.823,0
+2011,4,Turkish Grand Prix,2011-05-08,Schumacher,Mercedes,12,8,58,Finished,+1:25.444,0
+2011,4,Turkish Grand Prix,2011-05-08,Sutil,Force India,13,12,57,+1 Lap,,0
+2011,4,Turkish Grand Prix,2011-05-08,Pérez,Sauber,14,15,57,+1 Lap,,0
+2011,4,Turkish Grand Prix,2011-05-08,Barrichello,Williams,15,11,57,+1 Lap,,0
+2011,4,Turkish Grand Prix,2011-05-08,Alguersuari,Toro Rosso,16,17,57,+1 Lap,,0
+2011,4,Turkish Grand Prix,2011-05-08,Maldonado,Williams,17,14,57,+1 Lap,,0
+2011,4,Turkish Grand Prix,2011-05-08,Trulli,Lotus,18,19,57,+1 Lap,,0
+2011,4,Turkish Grand Prix,2011-05-08,Kovalainen,Lotus,19,18,56,+2 Laps,,0
+2011,4,Turkish Grand Prix,2011-05-08,d'Ambrosio,Virgin,20,23,56,+2 Laps,,0
+2011,4,Turkish Grand Prix,2011-05-08,Karthikeyan,HRT,21,22,55,+3 Laps,,0
+2011,4,Turkish Grand Prix,2011-05-08,Liuzzi,HRT,22,20,53,+5 Laps,,0
+2011,4,Turkish Grand Prix,2011-05-08,di Resta,Force India,23,13,44,Retired,,0
+2011,4,Turkish Grand Prix,2011-05-08,Glock,Virgin,24,21,0,Gearbox,,0
+2011,5,Spanish Grand Prix,2011-05-22,Vettel,Red Bull,1,2,66,Finished,1:39:03.301,25
+2011,5,Spanish Grand Prix,2011-05-22,Hamilton,McLaren,2,3,66,Finished,+0.630,18
+2011,5,Spanish Grand Prix,2011-05-22,Button,McLaren,3,5,66,Finished,+35.697,15
+2011,5,Spanish Grand Prix,2011-05-22,Webber,Red Bull,4,1,66,Finished,+47.966,12
+2011,5,Spanish Grand Prix,2011-05-22,Alonso,Ferrari,5,4,65,+1 Lap,,10
+2011,5,Spanish Grand Prix,2011-05-22,Schumacher,Mercedes,6,10,65,+1 Lap,,8
+2011,5,Spanish Grand Prix,2011-05-22,Rosberg,Mercedes,7,7,65,+1 Lap,,6
+2011,5,Spanish Grand Prix,2011-05-22,Heidfeld,Renault,8,24,65,+1 Lap,,4
+2011,5,Spanish Grand Prix,2011-05-22,Pérez,Sauber,9,12,65,+1 Lap,,2
+2011,5,Spanish Grand Prix,2011-05-22,Kobayashi,Sauber,10,14,65,+1 Lap,,1
+2011,5,Spanish Grand Prix,2011-05-22,Petrov,Renault,11,6,65,+1 Lap,,0
+2011,5,Spanish Grand Prix,2011-05-22,di Resta,Force India,12,16,65,+1 Lap,,0
+2011,5,Spanish Grand Prix,2011-05-22,Sutil,Force India,13,17,65,+1 Lap,,0
+2011,5,Spanish Grand Prix,2011-05-22,Buemi,Toro Rosso,14,11,65,+1 Lap,,0
+2011,5,Spanish Grand Prix,2011-05-22,Maldonado,Williams,15,9,65,+1 Lap,,0
+2011,5,Spanish Grand Prix,2011-05-22,Alguersuari,Toro Rosso,16,13,64,+2 Laps,,0
+2011,5,Spanish Grand Prix,2011-05-22,Barrichello,Williams,17,19,64,+2 Laps,,0
+2011,5,Spanish Grand Prix,2011-05-22,Trulli,Lotus,18,18,64,+2 Laps,,0
+2011,5,Spanish Grand Prix,2011-05-22,Glock,Virgin,19,20,63,+3 Laps,,0
+2011,5,Spanish Grand Prix,2011-05-22,d'Ambrosio,Virgin,20,23,62,+4 Laps,,0
+2011,5,Spanish Grand Prix,2011-05-22,Karthikeyan,HRT,21,22,61,+5 Laps,,0
+2011,5,Spanish Grand Prix,2011-05-22,Massa,Ferrari,22,8,58,Gearbox,,0
+2011,5,Spanish Grand Prix,2011-05-22,Kovalainen,Lotus,23,15,48,Accident,,0
+2011,5,Spanish Grand Prix,2011-05-22,Liuzzi,HRT,24,21,28,Gearbox,,0
+2011,6,Monaco Grand Prix,2011-05-29,Vettel,Red Bull,1,1,78,Finished,2:09:38.373,25
+2011,6,Monaco Grand Prix,2011-05-29,Alonso,Ferrari,2,4,78,Finished,+1.138,18
+2011,6,Monaco Grand Prix,2011-05-29,Button,McLaren,3,2,78,Finished,+2.378,15
+2011,6,Monaco Grand Prix,2011-05-29,Webber,Red Bull,4,3,78,Finished,+23.101,12
+2011,6,Monaco Grand Prix,2011-05-29,Kobayashi,Sauber,5,12,78,Finished,+26.916,10
+2011,6,Monaco Grand Prix,2011-05-29,Hamilton,McLaren,6,9,78,Finished,+27.210,8
+2011,6,Monaco Grand Prix,2011-05-29,Sutil,Force India,7,14,77,+1 Lap,,6
+2011,6,Monaco Grand Prix,2011-05-29,Heidfeld,Renault,8,15,77,+1 Lap,,4
+2011,6,Monaco Grand Prix,2011-05-29,Barrichello,Williams,9,11,77,+1 Lap,,2
+2011,6,Monaco Grand Prix,2011-05-29,Buemi,Toro Rosso,10,16,77,+1 Lap,,1
+2011,6,Monaco Grand Prix,2011-05-29,Rosberg,Mercedes,11,7,76,+2 Laps,,0
+2011,6,Monaco Grand Prix,2011-05-29,di Resta,Force India,12,13,76,+2 Laps,,0
+2011,6,Monaco Grand Prix,2011-05-29,Trulli,Lotus,13,18,76,+2 Laps,,0
+2011,6,Monaco Grand Prix,2011-05-29,Kovalainen,Lotus,14,17,76,+2 Laps,,0
+2011,6,Monaco Grand Prix,2011-05-29,d'Ambrosio,Virgin,15,21,75,+3 Laps,,0
+2011,6,Monaco Grand Prix,2011-05-29,Liuzzi,HRT,16,23,75,+3 Laps,,0
+2011,6,Monaco Grand Prix,2011-05-29,Karthikeyan,HRT,17,22,74,+4 Laps,,0
+2011,6,Monaco Grand Prix,2011-05-29,Maldonado,Williams,18,8,73,Accident,,0
+2011,6,Monaco Grand Prix,2011-05-29,Petrov,Renault,19,10,67,Collision,,0
+2011,6,Monaco Grand Prix,2011-05-29,Alguersuari,Toro Rosso,20,19,66,Collision,,0
+2011,6,Monaco Grand Prix,2011-05-29,Massa,Ferrari,21,6,32,Accident,,0
+2011,6,Monaco Grand Prix,2011-05-29,Schumacher,Mercedes,22,5,32,Engine,,0
+2011,6,Monaco Grand Prix,2011-05-29,Glock,Virgin,23,20,30,Suspension,,0
+2011,6,Monaco Grand Prix,2011-05-29,Pérez,Sauber,24,0,0,Injury,,0
+2011,7,Canadian Grand Prix,2011-06-12,Button,McLaren,1,7,70,Finished,4:04:39.537,25
+2011,7,Canadian Grand Prix,2011-06-12,Vettel,Red Bull,2,1,70,Finished,+2.709,18
+2011,7,Canadian Grand Prix,2011-06-12,Webber,Red Bull,3,4,70,Finished,+13.828,15
+2011,7,Canadian Grand Prix,2011-06-12,Schumacher,Mercedes,4,8,70,Finished,+14.219,12
+2011,7,Canadian Grand Prix,2011-06-12,Petrov,Renault,5,10,70,Finished,+20.395,10
+2011,7,Canadian Grand Prix,2011-06-12,Massa,Ferrari,6,3,70,Finished,+33.225,8
+2011,7,Canadian Grand Prix,2011-06-12,Kobayashi,Sauber,7,13,70,Finished,+33.270,6
+2011,7,Canadian Grand Prix,2011-06-12,Alguersuari,Toro Rosso,8,24,70,Finished,+35.964,4
+2011,7,Canadian Grand Prix,2011-06-12,Barrichello,Williams,9,16,70,Finished,+45.117,2
+2011,7,Canadian Grand Prix,2011-06-12,Buemi,Toro Rosso,10,15,70,Finished,+47.056,1
+2011,7,Canadian Grand Prix,2011-06-12,Rosberg,Mercedes,11,6,70,Finished,+50.454,0
+2011,7,Canadian Grand Prix,2011-06-12,de la Rosa,Sauber,12,17,70,Finished,+1:03.607,0
+2011,7,Canadian Grand Prix,2011-06-12,Liuzzi,HRT,13,20,69,+1 Lap,,0
+2011,7,Canadian Grand Prix,2011-06-12,Karthikeyan,HRT,14,22,69,+1 Lap,,0
+2011,7,Canadian Grand Prix,2011-06-12,d'Ambrosio,Virgin,15,23,69,+1 Lap,,0
+2011,7,Canadian Grand Prix,2011-06-12,Glock,Virgin,16,21,69,+1 Lap,,0
+2011,7,Canadian Grand Prix,2011-06-12,Trulli,Lotus,17,18,69,+1 Lap,,0
+2011,7,Canadian Grand Prix,2011-06-12,di Resta,Force India,18,11,67,Accident,,0
+2011,7,Canadian Grand Prix,2011-06-12,Maldonado,Williams,19,12,61,Retired,,0
+2011,7,Canadian Grand Prix,2011-06-12,Heidfeld,Renault,20,9,55,Accident,,0
+2011,7,Canadian Grand Prix,2011-06-12,Sutil,Force India,21,14,49,Accident,,0
+2011,7,Canadian Grand Prix,2011-06-12,Alonso,Ferrari,22,2,36,Collision,,0
+2011,7,Canadian Grand Prix,2011-06-12,Kovalainen,Lotus,23,19,28,Transmission,,0
+2011,7,Canadian Grand Prix,2011-06-12,Hamilton,McLaren,24,5,7,Collision,,0
+2011,8,European Grand Prix,2011-06-26,Vettel,Red Bull,1,1,57,Finished,1:39:36.169,25
+2011,8,European Grand Prix,2011-06-26,Alonso,Ferrari,2,4,57,Finished,+10.891,18
+2011,8,European Grand Prix,2011-06-26,Webber,Red Bull,3,2,57,Finished,+27.255,15
+2011,8,European Grand Prix,2011-06-26,Hamilton,McLaren,4,3,57,Finished,+46.190,12
+2011,8,European Grand Prix,2011-06-26,Massa,Ferrari,5,5,57,Finished,+51.705,10
+2011,8,European Grand Prix,2011-06-26,Button,McLaren,6,6,57,Finished,+1:00.065,8
+2011,8,European Grand Prix,2011-06-26,Rosberg,Mercedes,7,7,57,Finished,+1:38.090,6
+2011,8,European Grand Prix,2011-06-26,Alguersuari,Toro Rosso,8,18,56,+1 Lap,,4
+2011,8,European Grand Prix,2011-06-26,Sutil,Force India,9,10,56,+1 Lap,,2
+2011,8,European Grand Prix,2011-06-26,Heidfeld,Renault,10,9,56,+1 Lap,,1
+2011,8,European Grand Prix,2011-06-26,Pérez,Sauber,11,16,56,+1 Lap,,0
+2011,8,European Grand Prix,2011-06-26,Barrichello,Williams,12,13,56,+1 Lap,,0
+2011,8,European Grand Prix,2011-06-26,Buemi,Toro Rosso,13,17,56,+1 Lap,,0
+2011,8,European Grand Prix,2011-06-26,di Resta,Force India,14,12,56,+1 Lap,,0
+2011,8,European Grand Prix,2011-06-26,Petrov,Renault,15,11,56,+1 Lap,,0
+2011,8,European Grand Prix,2011-06-26,Kobayashi,Sauber,16,14,56,+1 Lap,,0
+2011,8,European Grand Prix,2011-06-26,Schumacher,Mercedes,17,8,56,+1 Lap,,0
+2011,8,European Grand Prix,2011-06-26,Maldonado,Williams,18,15,56,+1 Lap,,0
+2011,8,European Grand Prix,2011-06-26,Kovalainen,Lotus,19,19,55,+2 Laps,,0
+2011,8,European Grand Prix,2011-06-26,Trulli,Lotus,20,20,55,+2 Laps,,0
+2011,8,European Grand Prix,2011-06-26,Glock,Virgin,21,21,55,+2 Laps,,0
+2011,8,European Grand Prix,2011-06-26,d'Ambrosio,Virgin,22,23,55,+2 Laps,,0
+2011,8,European Grand Prix,2011-06-26,Liuzzi,HRT,23,22,54,+3 Laps,,0
+2011,8,European Grand Prix,2011-06-26,Karthikeyan,HRT,24,24,54,+3 Laps,,0
+2011,9,British Grand Prix,2011-07-10,Alonso,Ferrari,1,3,52,Finished,1:28:41.196,25
+2011,9,British Grand Prix,2011-07-10,Vettel,Red Bull,2,2,52,Finished,+16.511,18
+2011,9,British Grand Prix,2011-07-10,Webber,Red Bull,3,1,52,Finished,+16.947,15
+2011,9,British Grand Prix,2011-07-10,Hamilton,McLaren,4,10,52,Finished,+28.986,12
+2011,9,British Grand Prix,2011-07-10,Massa,Ferrari,5,4,52,Finished,+29.010,10
+2011,9,British Grand Prix,2011-07-10,Rosberg,Mercedes,6,9,52,Finished,+1:00.665,8
+2011,9,British Grand Prix,2011-07-10,Pérez,Sauber,7,12,52,Finished,+1:05.590,6
+2011,9,British Grand Prix,2011-07-10,Heidfeld,Renault,8,16,52,Finished,+1:15.542,4
+2011,9,British Grand Prix,2011-07-10,Schumacher,Mercedes,9,13,52,Finished,+1:17.912,2
+2011,9,British Grand Prix,2011-07-10,Alguersuari,Toro Rosso,10,18,52,Finished,+1:19.108,1
+2011,9,British Grand Prix,2011-07-10,Sutil,Force India,11,11,52,Finished,+1:19.712,0
+2011,9,British Grand Prix,2011-07-10,Petrov,Renault,12,14,52,Finished,+1:20.681,0
+2011,9,British Grand Prix,2011-07-10,Barrichello,Williams,13,15,51,+1 Lap,,0
+2011,9,British Grand Prix,2011-07-10,Maldonado,Williams,14,7,51,+1 Lap,,0
+2011,9,British Grand Prix,2011-07-10,di Resta,Force India,15,6,51,+1 Lap,,0
+2011,9,British Grand Prix,2011-07-10,Glock,Virgin,16,20,50,+2 Laps,,0
+2011,9,British Grand Prix,2011-07-10,d'Ambrosio,Virgin,17,22,50,+2 Laps,,0
+2011,9,British Grand Prix,2011-07-10,Liuzzi,HRT,18,23,50,+2 Laps,,0
+2011,9,British Grand Prix,2011-07-10,Ricciardo,HRT,19,24,49,+3 Laps,,0
+2011,9,British Grand Prix,2011-07-10,Button,McLaren,20,5,39,Wheel nut,,0
+2011,9,British Grand Prix,2011-07-10,Buemi,Toro Rosso,21,19,25,Accident,,0
+2011,9,British Grand Prix,2011-07-10,Kobayashi,Sauber,22,8,23,Engine,,0
+2011,9,British Grand Prix,2011-07-10,Trulli,Lotus,23,21,10,Oil leak,,0
+2011,9,British Grand Prix,2011-07-10,Kovalainen,Lotus,24,17,2,Gearbox,,0
+2011,10,German Grand Prix,2011-07-24,Hamilton,McLaren,1,2,60,Finished,1:37:30.334,25
+2011,10,German Grand Prix,2011-07-24,Alonso,Ferrari,2,4,60,Finished,+3.980,18
+2011,10,German Grand Prix,2011-07-24,Webber,Red Bull,3,1,60,Finished,+9.788,15
+2011,10,German Grand Prix,2011-07-24,Vettel,Red Bull,4,3,60,Finished,+47.921,12
+2011,10,German Grand Prix,2011-07-24,Massa,Ferrari,5,5,60,Finished,+52.252,10
+2011,10,German Grand Prix,2011-07-24,Sutil,Force India,6,8,60,Finished,+1:26.208,8
+2011,10,German Grand Prix,2011-07-24,Rosberg,Mercedes,7,6,59,+1 Lap,,6
+2011,10,German Grand Prix,2011-07-24,Schumacher,Mercedes,8,10,59,+1 Lap,,4
+2011,10,German Grand Prix,2011-07-24,Kobayashi,Sauber,9,17,59,+1 Lap,,2
+2011,10,German Grand Prix,2011-07-24,Petrov,Renault,10,9,59,+1 Lap,,1
+2011,10,German Grand Prix,2011-07-24,Pérez,Sauber,11,15,59,+1 Lap,,0
+2011,10,German Grand Prix,2011-07-24,Alguersuari,Toro Rosso,12,16,59,+1 Lap,,0
+2011,10,German Grand Prix,2011-07-24,di Resta,Force India,13,12,59,+1 Lap,,0
+2011,10,German Grand Prix,2011-07-24,Maldonado,Williams,14,13,59,+1 Lap,,0
+2011,10,German Grand Prix,2011-07-24,Buemi,Toro Rosso,15,24,59,+1 Lap,,0
+2011,10,German Grand Prix,2011-07-24,Kovalainen,Lotus,16,18,58,+2 Laps,,0
+2011,10,German Grand Prix,2011-07-24,Glock,Virgin,17,19,57,+3 Laps,,0
+2011,10,German Grand Prix,2011-07-24,d'Ambrosio,Virgin,18,21,57,+3 Laps,,0
+2011,10,German Grand Prix,2011-07-24,Ricciardo,HRT,19,22,57,+3 Laps,,0
+2011,10,German Grand Prix,2011-07-24,Chandhok,Lotus,20,20,56,+4 Laps,,0
+2011,10,German Grand Prix,2011-07-24,Liuzzi,HRT,21,23,37,Electrical,,0
+2011,10,German Grand Prix,2011-07-24,Button,McLaren,22,7,35,Hydraulics,,0
+2011,10,German Grand Prix,2011-07-24,Barrichello,Williams,23,14,16,Oil leak,,0
+2011,10,German Grand Prix,2011-07-24,Heidfeld,Renault,24,11,9,Collision,,0
+2011,11,Hungarian Grand Prix,2011-07-31,Button,McLaren,1,3,70,Finished,1:46:42.337,25
+2011,11,Hungarian Grand Prix,2011-07-31,Vettel,Red Bull,2,1,70,Finished,+3.588,18
+2011,11,Hungarian Grand Prix,2011-07-31,Alonso,Ferrari,3,5,70,Finished,+19.819,15
+2011,11,Hungarian Grand Prix,2011-07-31,Hamilton,McLaren,4,2,70,Finished,+48.338,12
+2011,11,Hungarian Grand Prix,2011-07-31,Webber,Red Bull,5,6,70,Finished,+49.742,10
+2011,11,Hungarian Grand Prix,2011-07-31,Massa,Ferrari,6,4,70,Finished,+1:23.176,8
+2011,11,Hungarian Grand Prix,2011-07-31,di Resta,Force India,7,11,69,+1 Lap,,6
+2011,11,Hungarian Grand Prix,2011-07-31,Buemi,Toro Rosso,8,23,69,+1 Lap,,4
+2011,11,Hungarian Grand Prix,2011-07-31,Rosberg,Mercedes,9,7,69,+1 Lap,,2
+2011,11,Hungarian Grand Prix,2011-07-31,Alguersuari,Toro Rosso,10,16,69,+1 Lap,,1
+2011,11,Hungarian Grand Prix,2011-07-31,Kobayashi,Sauber,11,13,69,+1 Lap,,0
+2011,11,Hungarian Grand Prix,2011-07-31,Petrov,Renault,12,12,69,+1 Lap,,0
+2011,11,Hungarian Grand Prix,2011-07-31,Barrichello,Williams,13,15,68,+2 Laps,,0
+2011,11,Hungarian Grand Prix,2011-07-31,Sutil,Force India,14,8,68,+2 Laps,,0
+2011,11,Hungarian Grand Prix,2011-07-31,Pérez,Sauber,15,10,68,+2 Laps,,0
+2011,11,Hungarian Grand Prix,2011-07-31,Maldonado,Williams,16,17,68,+2 Laps,,0
+2011,11,Hungarian Grand Prix,2011-07-31,Glock,Virgin,17,20,66,+4 Laps,,0
+2011,11,Hungarian Grand Prix,2011-07-31,Ricciardo,HRT,18,22,66,+4 Laps,,0
+2011,11,Hungarian Grand Prix,2011-07-31,d'Ambrosio,Virgin,19,24,65,+5 Laps,,0
+2011,11,Hungarian Grand Prix,2011-07-31,Liuzzi,HRT,20,21,65,+5 Laps,,0
+2011,11,Hungarian Grand Prix,2011-07-31,Kovalainen,Lotus,21,18,55,Water leak,,0
+2011,11,Hungarian Grand Prix,2011-07-31,Schumacher,Mercedes,22,9,26,Gearbox,,0
+2011,11,Hungarian Grand Prix,2011-07-31,Heidfeld,Renault,23,14,23,Heat shield fire,,0
+2011,11,Hungarian Grand Prix,2011-07-31,Trulli,Lotus,24,19,17,Oil leak,,0
+2011,12,Belgian Grand Prix,2011-08-28,Vettel,Red Bull,1,1,44,Finished,1:26:44.893,25
+2011,12,Belgian Grand Prix,2011-08-28,Webber,Red Bull,2,3,44,Finished,+3.741,18
+2011,12,Belgian Grand Prix,2011-08-28,Button,McLaren,3,13,44,Finished,+9.669,15
+2011,12,Belgian Grand Prix,2011-08-28,Alonso,Ferrari,4,8,44,Finished,+13.022,12
+2011,12,Belgian Grand Prix,2011-08-28,Schumacher,Mercedes,5,24,44,Finished,+47.464,10
+2011,12,Belgian Grand Prix,2011-08-28,Rosberg,Mercedes,6,5,44,Finished,+48.674,8
+2011,12,Belgian Grand Prix,2011-08-28,Sutil,Force India,7,15,44,Finished,+59.713,6
+2011,12,Belgian Grand Prix,2011-08-28,Massa,Ferrari,8,4,44,Finished,+1:06.076,4
+2011,12,Belgian Grand Prix,2011-08-28,Petrov,Renault,9,10,44,Finished,+1:11.917,2
+2011,12,Belgian Grand Prix,2011-08-28,Maldonado,Williams,10,21,44,Finished,+1:17.615,1
+2011,12,Belgian Grand Prix,2011-08-28,di Resta,Force India,11,17,44,Finished,+1:23.994,0
+2011,12,Belgian Grand Prix,2011-08-28,Kobayashi,Sauber,12,12,44,Finished,+1:31.976,0
+2011,12,Belgian Grand Prix,2011-08-28,Senna,Renault,13,7,44,Finished,+1:32.985,0
+2011,12,Belgian Grand Prix,2011-08-28,Trulli,Lotus,14,18,43,+1 Lap,,0
+2011,12,Belgian Grand Prix,2011-08-28,Kovalainen,Lotus,15,16,43,+1 Lap,,0
+2011,12,Belgian Grand Prix,2011-08-28,Barrichello,Williams,16,14,43,+1 Lap,,0
+2011,12,Belgian Grand Prix,2011-08-28,d'Ambrosio,Virgin,17,20,43,+1 Lap,,0
+2011,12,Belgian Grand Prix,2011-08-28,Glock,Virgin,18,19,43,+1 Lap,,0
+2011,12,Belgian Grand Prix,2011-08-28,Liuzzi,HRT,19,22,43,+1 Lap,,0
+2011,12,Belgian Grand Prix,2011-08-28,Pérez,Sauber,20,9,27,Suspension,,0
+2011,12,Belgian Grand Prix,2011-08-28,Ricciardo,HRT,21,23,13,Engine,,0
+2011,12,Belgian Grand Prix,2011-08-28,Hamilton,McLaren,22,2,12,Collision,,0
+2011,12,Belgian Grand Prix,2011-08-28,Buemi,Toro Rosso,23,11,6,Rear wing,,0
+2011,12,Belgian Grand Prix,2011-08-28,Alguersuari,Toro Rosso,24,6,0,Collision,,0
+2011,13,Italian Grand Prix,2011-09-11,Vettel,Red Bull,1,1,53,Finished,1:20:46.172,25
+2011,13,Italian Grand Prix,2011-09-11,Button,McLaren,2,3,53,Finished,+9.590,18
+2011,13,Italian Grand Prix,2011-09-11,Alonso,Ferrari,3,4,53,Finished,+16.909,15
+2011,13,Italian Grand Prix,2011-09-11,Hamilton,McLaren,4,2,53,Finished,+17.417,12
+2011,13,Italian Grand Prix,2011-09-11,Schumacher,Mercedes,5,8,53,Finished,+32.677,10
+2011,13,Italian Grand Prix,2011-09-11,Massa,Ferrari,6,6,53,Finished,+42.993,8
+2011,13,Italian Grand Prix,2011-09-11,Alguersuari,Toro Rosso,7,18,52,+1 Lap,,6
+2011,13,Italian Grand Prix,2011-09-11,di Resta,Force India,8,11,52,+1 Lap,,4
+2011,13,Italian Grand Prix,2011-09-11,Senna,Renault,9,10,52,+1 Lap,,2
+2011,13,Italian Grand Prix,2011-09-11,Buemi,Toro Rosso,10,16,52,+1 Lap,,1
+2011,13,Italian Grand Prix,2011-09-11,Maldonado,Williams,11,14,52,+1 Lap,,0
+2011,13,Italian Grand Prix,2011-09-11,Barrichello,Williams,12,13,52,+1 Lap,,0
+2011,13,Italian Grand Prix,2011-09-11,Kovalainen,Lotus,13,20,51,+2 Laps,,0
+2011,13,Italian Grand Prix,2011-09-11,Trulli,Lotus,14,19,51,+2 Laps,,0
+2011,13,Italian Grand Prix,2011-09-11,Glock,Virgin,15,21,51,+2 Laps,,0
+2011,13,Italian Grand Prix,2011-09-11,Ricciardo,HRT,16,23,39,+14 Laps,,0
+2011,13,Italian Grand Prix,2011-09-11,Pérez,Sauber,17,15,32,Gearbox,,0
+2011,13,Italian Grand Prix,2011-09-11,Kobayashi,Sauber,18,17,21,Gearbox,,0
+2011,13,Italian Grand Prix,2011-09-11,Sutil,Force India,19,12,9,Hydraulics,,0
+2011,13,Italian Grand Prix,2011-09-11,Webber,Red Bull,20,5,4,Accident,,0
+2011,13,Italian Grand Prix,2011-09-11,d'Ambrosio,Virgin,21,22,1,Gearbox,,0
+2011,13,Italian Grand Prix,2011-09-11,Petrov,Renault,22,7,0,Collision,,0
+2011,13,Italian Grand Prix,2011-09-11,Rosberg,Mercedes,23,9,0,Collision,,0
+2011,13,Italian Grand Prix,2011-09-11,Liuzzi,HRT,24,24,0,Collision,,0
+2011,14,Singapore Grand Prix,2011-09-25,Vettel,Red Bull,1,1,61,Finished,1:59:06.757,25
+2011,14,Singapore Grand Prix,2011-09-25,Button,McLaren,2,3,61,Finished,+1.737,18
+2011,14,Singapore Grand Prix,2011-09-25,Webber,Red Bull,3,2,61,Finished,+29.279,15
+2011,14,Singapore Grand Prix,2011-09-25,Alonso,Ferrari,4,5,61,Finished,+55.449,12
+2011,14,Singapore Grand Prix,2011-09-25,Hamilton,McLaren,5,4,61,Finished,+1:07.766,10
+2011,14,Singapore Grand Prix,2011-09-25,di Resta,Force India,6,10,61,Finished,+1:51.067,8
+2011,14,Singapore Grand Prix,2011-09-25,Rosberg,Mercedes,7,7,60,+1 Lap,,6
+2011,14,Singapore Grand Prix,2011-09-25,Sutil,Force India,8,9,60,+1 Lap,,4
+2011,14,Singapore Grand Prix,2011-09-25,Massa,Ferrari,9,6,60,+1 Lap,,2
+2011,14,Singapore Grand Prix,2011-09-25,Pérez,Sauber,10,11,60,+1 Lap,,1
+2011,14,Singapore Grand Prix,2011-09-25,Maldonado,Williams,11,13,60,+1 Lap,,0
+2011,14,Singapore Grand Prix,2011-09-25,Buemi,Toro Rosso,12,14,60,+1 Lap,,0
+2011,14,Singapore Grand Prix,2011-09-25,Barrichello,Williams,13,12,60,+1 Lap,,0
+2011,14,Singapore Grand Prix,2011-09-25,Kobayashi,Sauber,14,17,59,+2 Laps,,0
+2011,14,Singapore Grand Prix,2011-09-25,Senna,Renault,15,15,59,+2 Laps,,0
+2011,14,Singapore Grand Prix,2011-09-25,Kovalainen,Lotus,16,19,59,+2 Laps,,0
+2011,14,Singapore Grand Prix,2011-09-25,Petrov,Renault,17,18,59,+2 Laps,,0
+2011,14,Singapore Grand Prix,2011-09-25,d'Ambrosio,Virgin,18,22,59,+2 Laps,,0
+2011,14,Singapore Grand Prix,2011-09-25,Ricciardo,HRT,19,23,57,+4 Laps,,0
+2011,14,Singapore Grand Prix,2011-09-25,Liuzzi,HRT,20,24,57,+4 Laps,,0
+2011,14,Singapore Grand Prix,2011-09-25,Alguersuari,Toro Rosso,21,16,56,Accident,,0
+2011,14,Singapore Grand Prix,2011-09-25,Trulli,Lotus,22,20,47,Gearbox,,0
+2011,14,Singapore Grand Prix,2011-09-25,Schumacher,Mercedes,23,8,28,Accident,,0
+2011,14,Singapore Grand Prix,2011-09-25,Glock,Virgin,24,21,9,Accident,,0
+2011,15,Japanese Grand Prix,2011-10-09,Button,McLaren,1,2,53,Finished,1:30:53.427,25
+2011,15,Japanese Grand Prix,2011-10-09,Alonso,Ferrari,2,5,53,Finished,+1.160,18
+2011,15,Japanese Grand Prix,2011-10-09,Vettel,Red Bull,3,1,53,Finished,+2.006,15
+2011,15,Japanese Grand Prix,2011-10-09,Webber,Red Bull,4,6,53,Finished,+8.071,12
+2011,15,Japanese Grand Prix,2011-10-09,Hamilton,McLaren,5,3,53,Finished,+24.268,10
+2011,15,Japanese Grand Prix,2011-10-09,Schumacher,Mercedes,6,8,53,Finished,+27.120,8
+2011,15,Japanese Grand Prix,2011-10-09,Massa,Ferrari,7,4,53,Finished,+28.240,6
+2011,15,Japanese Grand Prix,2011-10-09,Pérez,Sauber,8,17,53,Finished,+39.377,4
+2011,15,Japanese Grand Prix,2011-10-09,Petrov,Renault,9,10,53,Finished,+42.607,2
+2011,15,Japanese Grand Prix,2011-10-09,Rosberg,Mercedes,10,23,53,Finished,+44.322,1
+2011,15,Japanese Grand Prix,2011-10-09,Sutil,Force India,11,11,53,Finished,+54.447,0
+2011,15,Japanese Grand Prix,2011-10-09,di Resta,Force India,12,12,53,Finished,+1:02.326,0
+2011,15,Japanese Grand Prix,2011-10-09,Kobayashi,Sauber,13,7,53,Finished,+1:03.705,0
+2011,15,Japanese Grand Prix,2011-10-09,Maldonado,Williams,14,14,53,Finished,+1:04.194,0
+2011,15,Japanese Grand Prix,2011-10-09,Alguersuari,Toro Rosso,15,16,53,Finished,+1:06.623,0
+2011,15,Japanese Grand Prix,2011-10-09,Senna,Renault,16,9,53,Finished,+1:12.628,0
+2011,15,Japanese Grand Prix,2011-10-09,Barrichello,Williams,17,13,53,Finished,+1:14.191,0
+2011,15,Japanese Grand Prix,2011-10-09,Kovalainen,Lotus,18,18,53,Finished,+1:27.824,0
+2011,15,Japanese Grand Prix,2011-10-09,Trulli,Lotus,19,19,53,Finished,+1:36.140,0
+2011,15,Japanese Grand Prix,2011-10-09,Glock,Virgin,20,21,51,+2 Laps,,0
+2011,15,Japanese Grand Prix,2011-10-09,d'Ambrosio,Virgin,21,20,51,+2 Laps,,0
+2011,15,Japanese Grand Prix,2011-10-09,Ricciardo,HRT,22,22,51,+2 Laps,,0
+2011,15,Japanese Grand Prix,2011-10-09,Liuzzi,HRT,23,24,50,+3 Laps,,0
+2011,15,Japanese Grand Prix,2011-10-09,Buemi,Toro Rosso,24,15,11,Wheel,,0
+2011,16,Korean Grand Prix,2011-10-16,Vettel,Red Bull,1,2,55,Finished,1:38:01.994,25
+2011,16,Korean Grand Prix,2011-10-16,Hamilton,McLaren,2,1,55,Finished,+12.019,18
+2011,16,Korean Grand Prix,2011-10-16,Webber,Red Bull,3,4,55,Finished,+12.477,15
+2011,16,Korean Grand Prix,2011-10-16,Button,McLaren,4,3,55,Finished,+14.694,12
+2011,16,Korean Grand Prix,2011-10-16,Alonso,Ferrari,5,6,55,Finished,+15.689,10
+2011,16,Korean Grand Prix,2011-10-16,Massa,Ferrari,6,5,55,Finished,+25.133,8
+2011,16,Korean Grand Prix,2011-10-16,Alguersuari,Toro Rosso,7,11,55,Finished,+49.538,6
+2011,16,Korean Grand Prix,2011-10-16,Rosberg,Mercedes,8,7,55,Finished,+54.053,4
+2011,16,Korean Grand Prix,2011-10-16,Buemi,Toro Rosso,9,13,55,Finished,+1:02.762,2
+2011,16,Korean Grand Prix,2011-10-16,di Resta,Force India,10,9,55,Finished,+1:08.602,1
+2011,16,Korean Grand Prix,2011-10-16,Sutil,Force India,11,10,55,Finished,+1:11.229,0
+2011,16,Korean Grand Prix,2011-10-16,Barrichello,Williams,12,18,55,Finished,+1:33.068,0
+2011,16,Korean Grand Prix,2011-10-16,Senna,Renault,13,15,54,+1 Lap,,0
+2011,16,Korean Grand Prix,2011-10-16,Kovalainen,Lotus,14,19,54,+1 Lap,,0
+2011,16,Korean Grand Prix,2011-10-16,Kobayashi,Sauber,15,14,54,+1 Lap,,0
+2011,16,Korean Grand Prix,2011-10-16,Pérez,Sauber,16,17,54,+1 Lap,,0
+2011,16,Korean Grand Prix,2011-10-16,Trulli,Lotus,17,20,54,+1 Lap,,0
+2011,16,Korean Grand Prix,2011-10-16,Glock,Virgin,18,21,54,+1 Lap,,0
+2011,16,Korean Grand Prix,2011-10-16,Ricciardo,HRT,19,24,54,+1 Lap,,0
+2011,16,Korean Grand Prix,2011-10-16,d'Ambrosio,Virgin,20,22,54,+1 Lap,,0
+2011,16,Korean Grand Prix,2011-10-16,Liuzzi,HRT,21,23,52,+3 Laps,,0
+2011,16,Korean Grand Prix,2011-10-16,Maldonado,Williams,22,16,30,Clutch,,0
+2011,16,Korean Grand Prix,2011-10-16,Petrov,Renault,23,8,16,Collision,,0
+2011,16,Korean Grand Prix,2011-10-16,Schumacher,Mercedes,24,12,15,Collision,,0
+2011,17,Indian Grand Prix,2011-10-30,Vettel,Red Bull,1,1,60,Finished,1:30:35.002,25
+2011,17,Indian Grand Prix,2011-10-30,Button,McLaren,2,4,60,Finished,+8.433,18
+2011,17,Indian Grand Prix,2011-10-30,Alonso,Ferrari,3,3,60,Finished,+24.301,15
+2011,17,Indian Grand Prix,2011-10-30,Webber,Red Bull,4,2,60,Finished,+25.529,12
+2011,17,Indian Grand Prix,2011-10-30,Schumacher,Mercedes,5,11,60,Finished,+1:05.421,10
+2011,17,Indian Grand Prix,2011-10-30,Rosberg,Mercedes,6,7,60,Finished,+1:06.851,8
+2011,17,Indian Grand Prix,2011-10-30,Hamilton,McLaren,7,5,60,Finished,+1:24.183,6
+2011,17,Indian Grand Prix,2011-10-30,Alguersuari,Toro Rosso,8,10,59,+1 Lap,,4
+2011,17,Indian Grand Prix,2011-10-30,Sutil,Force India,9,8,59,+1 Lap,,2
+2011,17,Indian Grand Prix,2011-10-30,Pérez,Sauber,10,20,59,+1 Lap,,1
+2011,17,Indian Grand Prix,2011-10-30,Petrov,Renault,11,16,59,+1 Lap,,0
+2011,17,Indian Grand Prix,2011-10-30,Senna,Renault,12,14,59,+1 Lap,,0
+2011,17,Indian Grand Prix,2011-10-30,di Resta,Force India,13,12,59,+1 Lap,,0
+2011,17,Indian Grand Prix,2011-10-30,Kovalainen,Lotus,14,18,58,+2 Laps,,0
+2011,17,Indian Grand Prix,2011-10-30,Barrichello,Williams,15,15,58,+2 Laps,,0
+2011,17,Indian Grand Prix,2011-10-30,d'Ambrosio,Virgin,16,21,57,+3 Laps,,0
+2011,17,Indian Grand Prix,2011-10-30,Karthikeyan,HRT,17,24,57,+3 Laps,,0
+2011,17,Indian Grand Prix,2011-10-30,Ricciardo,HRT,18,23,57,+3 Laps,,0
+2011,17,Indian Grand Prix,2011-10-30,Trulli,Lotus,19,19,55,+5 Laps,,0
+2011,17,Indian Grand Prix,2011-10-30,Massa,Ferrari,20,6,32,Suspension,,0
+2011,17,Indian Grand Prix,2011-10-30,Buemi,Toro Rosso,21,9,24,Engine,,0
+2011,17,Indian Grand Prix,2011-10-30,Maldonado,Williams,22,13,12,Gearbox,,0
+2011,17,Indian Grand Prix,2011-10-30,Glock,Virgin,23,22,2,Collision,,0
+2011,17,Indian Grand Prix,2011-10-30,Kobayashi,Sauber,24,17,0,Collision,,0
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Hamilton,McLaren,1,2,55,Finished,1:37:11.886,25
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Alonso,Ferrari,2,5,55,Finished,+8.457,18
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Button,McLaren,3,3,55,Finished,+25.881,15
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Webber,Red Bull,4,4,55,Finished,+35.784,12
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Massa,Ferrari,5,6,55,Finished,+50.578,10
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Rosberg,Mercedes,6,7,55,Finished,+52.317,8
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Schumacher,Mercedes,7,8,55,Finished,+1:15.964,6
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Sutil,Force India,8,9,55,Finished,+1:17.122,4
+2011,18,Abu Dhabi Grand Prix,2011-11-13,di Resta,Force India,9,10,55,Finished,+1:41.087,2
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Kobayashi,Sauber,10,16,54,+1 Lap,,1
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Pérez,Sauber,11,11,54,+1 Lap,,0
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Barrichello,Williams,12,24,54,+1 Lap,,0
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Petrov,Renault,13,12,54,+1 Lap,,0
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Maldonado,Williams,14,23,54,+1 Lap,,0
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Alguersuari,Toro Rosso,15,15,54,+1 Lap,,0
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Senna,Renault,16,14,54,+1 Lap,,0
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Kovalainen,Lotus,17,17,54,+1 Lap,,0
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Trulli,Lotus,18,18,53,+2 Laps,,0
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Glock,Virgin,19,19,53,+2 Laps,,0
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Liuzzi,HRT,20,22,53,+2 Laps,,0
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Ricciardo,HRT,21,20,48,Mechanical,,0
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Buemi,Toro Rosso,22,13,19,Hydraulics,,0
+2011,18,Abu Dhabi Grand Prix,2011-11-13,d'Ambrosio,Virgin,23,21,18,Brakes,,0
+2011,18,Abu Dhabi Grand Prix,2011-11-13,Vettel,Red Bull,24,1,1,Puncture,,0
+2011,19,Brazilian Grand Prix,2011-11-27,Webber,Red Bull,1,2,71,Finished,1:32:17.464,25
+2011,19,Brazilian Grand Prix,2011-11-27,Vettel,Red Bull,2,1,71,Finished,+16.983,18
+2011,19,Brazilian Grand Prix,2011-11-27,Button,McLaren,3,3,71,Finished,+27.638,15
+2011,19,Brazilian Grand Prix,2011-11-27,Alonso,Ferrari,4,5,71,Finished,+35.048,12
+2011,19,Brazilian Grand Prix,2011-11-27,Massa,Ferrari,5,7,71,Finished,+1:06.733,10
+2011,19,Brazilian Grand Prix,2011-11-27,Sutil,Force India,6,8,70,+1 Lap,,8
+2011,19,Brazilian Grand Prix,2011-11-27,Rosberg,Mercedes,7,6,70,+1 Lap,,6
+2011,19,Brazilian Grand Prix,2011-11-27,di Resta,Force India,8,11,70,+1 Lap,,4
+2011,19,Brazilian Grand Prix,2011-11-27,Kobayashi,Sauber,9,16,70,+1 Lap,,2
+2011,19,Brazilian Grand Prix,2011-11-27,Petrov,Renault,10,15,70,+1 Lap,,1
+2011,19,Brazilian Grand Prix,2011-11-27,Alguersuari,Toro Rosso,11,13,70,+1 Lap,,0
+2011,19,Brazilian Grand Prix,2011-11-27,Buemi,Toro Rosso,12,14,70,+1 Lap,,0
+2011,19,Brazilian Grand Prix,2011-11-27,Pérez,Sauber,13,17,70,+1 Lap,,0
+2011,19,Brazilian Grand Prix,2011-11-27,Barrichello,Williams,14,12,70,+1 Lap,,0
+2011,19,Brazilian Grand Prix,2011-11-27,Schumacher,Mercedes,15,10,70,+1 Lap,,0
+2011,19,Brazilian Grand Prix,2011-11-27,Kovalainen,Lotus,16,19,69,+2 Laps,,0
+2011,19,Brazilian Grand Prix,2011-11-27,Senna,Renault,17,9,69,+2 Laps,,0
+2011,19,Brazilian Grand Prix,2011-11-27,Trulli,Lotus,18,20,69,+2 Laps,,0
+2011,19,Brazilian Grand Prix,2011-11-27,d'Ambrosio,Virgin,19,23,68,+3 Laps,,0
+2011,19,Brazilian Grand Prix,2011-11-27,Ricciardo,HRT,20,22,68,+3 Laps,,0
+2011,19,Brazilian Grand Prix,2011-11-27,Liuzzi,HRT,21,21,61,Retired,,0
+2011,19,Brazilian Grand Prix,2011-11-27,Hamilton,McLaren,22,4,46,Gearbox,,0
+2011,19,Brazilian Grand Prix,2011-11-27,Maldonado,Williams,23,18,26,Retired,,0
+2011,19,Brazilian Grand Prix,2011-11-27,Glock,Virgin,24,24,21,Retired,,0

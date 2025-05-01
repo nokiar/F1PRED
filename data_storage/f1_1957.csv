@@ -1,0 +1,172 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1957,1,Argentine Grand Prix,1957-01-13,Fangio,Maserati,1,2,100,Finished,3:00:55.9,8
+1957,1,Argentine Grand Prix,1957-01-13,Behra,Maserati,2,3,100,Finished,+18.3,6
+1957,1,Argentine Grand Prix,1957-01-13,Menditeguy,Maserati,3,8,99,+1 Lap,,4
+1957,1,Argentine Grand Prix,1957-01-13,Schell,Maserati,4,9,98,+2 Laps,,3
+1957,1,Argentine Grand Prix,1957-01-13,de Portago,Ferrari,5,10,98,+2 Laps,,1
+1957,1,Argentine Grand Prix,1957-01-13,González,Ferrari,5,10,98,+2 Laps,,1
+1957,1,Argentine Grand Prix,1957-01-13,Perdisa,Ferrari,6,11,98,+2 Laps,,0
+1957,1,Argentine Grand Prix,1957-01-13,Collins,Ferrari,6,11,98,+2 Laps,,0
+1957,1,Argentine Grand Prix,1957-01-13,von Trips,Ferrari,6,11,98,+2 Laps,,0
+1957,1,Argentine Grand Prix,1957-01-13,Bonnier,Maserati,7,13,95,+5 Laps,,0
+1957,1,Argentine Grand Prix,1957-01-13,Moss,Maserati,8,1,93,+7 Laps,,1
+1957,1,Argentine Grand Prix,1957-01-13,de Tomaso,Ferrari,9,12,91,+9 Laps,,0
+1957,1,Argentine Grand Prix,1957-01-13,Piotti,Maserati,10,14,90,+10 Laps,,0
+1957,1,Argentine Grand Prix,1957-01-13,Castellotti,Ferrari,11,4,75,Wheel,,0
+1957,1,Argentine Grand Prix,1957-01-13,Hawthorn,Ferrari,12,7,35,Clutch,,0
+1957,1,Argentine Grand Prix,1957-01-13,Musso,Ferrari,13,6,31,Clutch,,0
+1957,1,Argentine Grand Prix,1957-01-13,Collins,Ferrari,14,5,26,Clutch,,0
+1957,2,Monaco Grand Prix,1957-05-19,Fangio,Maserati,1,1,105,Finished,3:10:12.8,9
+1957,2,Monaco Grand Prix,1957-05-19,Brooks,Vanwall,2,4,105,Finished,+25.2,6
+1957,2,Monaco Grand Prix,1957-05-19,Gregory,Maserati,3,10,103,+2 Laps,,4
+1957,2,Monaco Grand Prix,1957-05-19,Lewis-Evans,Connaught,4,13,102,+3 Laps,,3
+1957,2,Monaco Grand Prix,1957-05-19,Trintignant,Ferrari,5,6,100,+5 Laps,,2
+1957,2,Monaco Grand Prix,1957-05-19,Brabham,Cooper,6,15,100,+5 Laps,,0
+1957,2,Monaco Grand Prix,1957-05-19,von Trips,Ferrari,7,9,95,Engine,,0
+1957,2,Monaco Grand Prix,1957-05-19,Hawthorn,Ferrari,7,9,95,Engine,,0
+1957,2,Monaco Grand Prix,1957-05-19,Scarlatti,Maserati,8,14,64,Oil leak,,0
+1957,2,Monaco Grand Prix,1957-05-19,Schell,Maserati,8,14,64,Oil leak,,0
+1957,2,Monaco Grand Prix,1957-05-19,Flockhart,BRM,9,11,60,Engine,,0
+1957,2,Monaco Grand Prix,1957-05-19,Menditeguy,Maserati,10,7,51,Spun off,,0
+1957,2,Monaco Grand Prix,1957-05-19,Bueb,Connaught,11,16,47,Fuel leak,,0
+1957,2,Monaco Grand Prix,1957-05-19,Schell,Maserati,12,8,23,Suspension,,0
+1957,2,Monaco Grand Prix,1957-05-19,Gould,Maserati,13,12,10,Accident,,0
+1957,2,Monaco Grand Prix,1957-05-19,Collins,Ferrari,14,2,4,Accident,,0
+1957,2,Monaco Grand Prix,1957-05-19,Moss,Vanwall,15,3,4,Accident,,0
+1957,2,Monaco Grand Prix,1957-05-19,Hawthorn,Ferrari,16,5,4,Accident,,0
+1957,2,Monaco Grand Prix,1957-05-19,Salvadori,BRM,17,0,0,Did not qualify,,0
+1957,2,Monaco Grand Prix,1957-05-19,Herrmann,Maserati,18,0,0,Did not qualify,,0
+1957,2,Monaco Grand Prix,1957-05-19,Simon,Maserati,19,0,0,Did not qualify,,0
+1957,2,Monaco Grand Prix,1957-05-19,Piotti,Maserati,20,0,0,Did not qualify,,0
+1957,2,Monaco Grand Prix,1957-05-19,Leston,Cooper,21,0,0,Did not qualify,,0
+1957,3,Indianapolis 500,1957-05-30,Hanks,Epperly,1,13,200,Finished,3:41:14.25,8
+1957,3,Indianapolis 500,1957-05-30,Rathmann,Epperly,2,32,200,Finished,+21.46,7
+1957,3,Indianapolis 500,1957-05-30,Bryan,Kuzma,3,15,200,Finished,+2:13.97,4
+1957,3,Indianapolis 500,1957-05-30,Russo,Kurtis Kraft,4,10,200,Finished,+2:56.86,3
+1957,3,Indianapolis 500,1957-05-30,Linden,Kurtis Kraft,5,12,200,Finished,+3:14.27,2
+1957,3,Indianapolis 500,1957-05-30,Boyd,Kurtis Kraft,6,5,200,Finished,+4:35.27,0
+1957,3,Indianapolis 500,1957-05-30,Teague,Kurtis Kraft,7,28,200,Finished,+4:45.58,0
+1957,3,Indianapolis 500,1957-05-30,O'Connor,Kurtis Kraft,8,1,200,Finished,+5:33.15,0
+1957,3,Indianapolis 500,1957-05-30,Veith,Phillips,9,16,200,Finished,+6:17.11,0
+1957,3,Indianapolis 500,1957-05-30,Hartley,Lesovsky,10,14,200,Finished,+7:10.12,0
+1957,3,Indianapolis 500,1957-05-30,Turner,Kurtis Kraft,11,19,200,Finished,+7:56.07,0
+1957,3,Indianapolis 500,1957-05-30,Thomson,Kuzma,12,11,199,+1 Lap,,0
+1957,3,Indianapolis 500,1957-05-30,Christie,Kurtis Kraft,13,33,197,+3 Laps,,0
+1957,3,Indianapolis 500,1957-05-30,Weyant,Kuzma,14,25,196,+4 Laps,,0
+1957,3,Indianapolis 500,1957-05-30,Bettenhausen,Kurtis Kraft,15,22,195,+5 Laps,,0
+1957,3,Indianapolis 500,1957-05-30,Parsons,Kurtis Kraft,16,17,195,+5 Laps,,0
+1957,3,Indianapolis 500,1957-05-30,Freeland,Kurtis Kraft,17,21,192,+8 Laps,,0
+1957,3,Indianapolis 500,1957-05-30,Reece,Kurtis Kraft,18,6,182,Throttle,,0
+1957,3,Indianapolis 500,1957-05-30,Edmunds,Kurtis Kraft,19,27,170,Spun off,,0
+1957,3,Indianapolis 500,1957-05-30,Tolan,Kurtis Kraft,20,31,138,Clutch,,0
+1957,3,Indianapolis 500,1957-05-30,Herman,Dunn,21,30,111,Accident,,0
+1957,3,Indianapolis 500,1957-05-30,Agabashian,Kurtis Kraft,22,4,107,Fuel leak,,0
+1957,3,Indianapolis 500,1957-05-30,Sachs,Kuzma,23,2,105,Fuel leak,,0
+1957,3,Indianapolis 500,1957-05-30,Magill,Kurtis Kraft,24,18,101,Accident,,0
+1957,3,Indianapolis 500,1957-05-30,Johnson,Kurtis Kraft,25,20,93,Wheel bearing,,0
+1957,3,Indianapolis 500,1957-05-30,Cheesbourg,Kurtis Kraft,26,23,81,Fuel leak,,0
+1957,3,Indianapolis 500,1957-05-30,Keller,Kurtis Kraft,27,8,75,Accident,,0
+1957,3,Indianapolis 500,1957-05-30,Daywalt,Kurtis Kraft,28,29,53,Accident,,0
+1957,3,Indianapolis 500,1957-05-30,Elisian,Kurtis Kraft,29,7,51,Retired,,0
+1957,3,Indianapolis 500,1957-05-30,Ward,Lesovsky,30,24,27,Turbo,,0
+1957,3,Indianapolis 500,1957-05-30,Ruttman,Watson,31,3,13,Engine,,0
+1957,3,Indianapolis 500,1957-05-30,Russo,Kurtis Kraft,32,26,0,Accident,,0
+1957,3,Indianapolis 500,1957-05-30,George,Kurtis Kraft,33,9,0,Accident,,0
+1957,4,French Grand Prix,1957-07-07,Fangio,Maserati,1,1,77,Finished,3:07:46.4,8
+1957,4,French Grand Prix,1957-07-07,Musso,Ferrari,2,3,77,Finished,+50.8,7
+1957,4,French Grand Prix,1957-07-07,Collins,Ferrari,3,5,77,Finished,+2:06.0,4
+1957,4,French Grand Prix,1957-07-07,Hawthorn,Ferrari,4,7,76,+1 Lap,,3
+1957,4,French Grand Prix,1957-07-07,Schell,Maserati,5,4,70,+7 Laps,,2
+1957,4,French Grand Prix,1957-07-07,Behra,Maserati,6,2,69,+8 Laps,,0
+1957,4,French Grand Prix,1957-07-07,MacDowel,Cooper,7,15,68,+9 Laps,,0
+1957,4,French Grand Prix,1957-07-07,Brabham,Cooper,7,15,68,+9 Laps,,0
+1957,4,French Grand Prix,1957-07-07,Menditeguy,Maserati,8,9,30,Engine,,0
+1957,4,French Grand Prix,1957-07-07,Lewis-Evans,Vanwall,9,10,30,Steering,,0
+1957,4,French Grand Prix,1957-07-07,Salvadori,Vanwall,10,6,25,Engine,,0
+1957,4,French Grand Prix,1957-07-07,MacKay-Fraser,BRM,11,12,24,Transmission,,0
+1957,4,French Grand Prix,1957-07-07,Trintignant,Ferrari,12,8,23,Electrical,,0
+1957,4,French Grand Prix,1957-07-07,Brabham,Cooper,13,13,4,Accident,,0
+1957,4,French Grand Prix,1957-07-07,Gould,Maserati,14,14,4,Halfshaft,,0
+1957,4,French Grand Prix,1957-07-07,Flockhart,BRM,15,11,2,Accident,,0
+1957,5,British Grand Prix,1957-07-20,Brooks,Vanwall,1,3,90,Finished,3:06:37.8,4
+1957,5,British Grand Prix,1957-07-20,Moss,Vanwall,1,3,90,Finished,3:06:37.8,5
+1957,5,British Grand Prix,1957-07-20,Musso,Ferrari,2,10,90,Finished,+25.6,6
+1957,5,British Grand Prix,1957-07-20,Hawthorn,Ferrari,3,5,90,Finished,+42.8,4
+1957,5,British Grand Prix,1957-07-20,Trintignant,Ferrari,4,9,88,+2 Laps,,3
+1957,5,British Grand Prix,1957-07-20,Collins,Ferrari,4,9,88,+2 Laps,,0
+1957,5,British Grand Prix,1957-07-20,Salvadori,Cooper,5,15,85,+5 Laps,,2
+1957,5,British Grand Prix,1957-07-20,Gerard,Cooper,6,18,82,+8 Laps,,0
+1957,5,British Grand Prix,1957-07-20,Lewis-Evans,Vanwall,7,6,82,+8 Laps,,0
+1957,5,British Grand Prix,1957-07-20,Bueb,Maserati,8,19,71,+19 Laps,,0
+1957,5,British Grand Prix,1957-07-20,Brabham,Cooper,9,13,74,Clutch,,0
+1957,5,British Grand Prix,1957-07-20,Behra,Maserati,10,2,69,Clutch,,0
+1957,5,British Grand Prix,1957-07-20,Collins,Ferrari,11,8,53,Water leak,,0
+1957,5,British Grand Prix,1957-07-20,Moss,Vanwall,12,1,51,Engine,,0
+1957,5,British Grand Prix,1957-07-20,Brooks,Vanwall,12,1,51,Engine,,0
+1957,5,British Grand Prix,1957-07-20,Fangio,Maserati,13,4,49,Engine,,0
+1957,5,British Grand Prix,1957-07-20,Fairman,BRM,14,16,46,Engine,,0
+1957,5,British Grand Prix,1957-07-20,Leston,BRM,15,12,44,Engine,,0
+1957,5,British Grand Prix,1957-07-20,Schell,Maserati,16,7,39,Water pump,,0
+1957,5,British Grand Prix,1957-07-20,Menditeguy,Maserati,17,11,35,Transmission,,0
+1957,5,British Grand Prix,1957-07-20,Bonnier,Maserati,18,17,18,Gearbox,,0
+1957,5,British Grand Prix,1957-07-20,Gould,Maserati,19,14,0,Accident,,0
+1957,6,German Grand Prix,1957-08-04,Fangio,Maserati,1,1,22,Finished,3:30:38.3,9
+1957,6,German Grand Prix,1957-08-04,Hawthorn,Ferrari,2,2,22,Finished,+3.6,6
+1957,6,German Grand Prix,1957-08-04,Collins,Ferrari,3,4,22,Finished,+35.6,4
+1957,6,German Grand Prix,1957-08-04,Musso,Ferrari,4,8,22,Finished,+3:37.6,3
+1957,6,German Grand Prix,1957-08-04,Moss,Vanwall,5,7,22,Finished,+4:37.2,2
+1957,6,German Grand Prix,1957-08-04,Behra,Maserati,6,3,22,Finished,+4:38.5,0
+1957,6,German Grand Prix,1957-08-04,Schell,Maserati,7,6,22,Finished,+6:47.5,0
+1957,6,German Grand Prix,1957-08-04,Gregory,Maserati,8,10,21,+1 Lap,,0
+1957,6,German Grand Prix,1957-08-04,Brooks,Vanwall,9,5,21,+1 Lap,,0
+1957,6,German Grand Prix,1957-08-04,Scarlatti,Maserati,10,13,21,+1 Lap,,0
+1957,6,German Grand Prix,1957-08-04,Halford,Maserati,11,16,21,+1 Lap,,0
+1957,6,German Grand Prix,1957-08-04,Barth,Porsche,12,12,21,+1 Lap,,0
+1957,6,German Grand Prix,1957-08-04,Naylor,Cooper,13,17,20,+2 Laps,,0
+1957,6,German Grand Prix,1957-08-04,de Beaufort,Porsche,14,20,20,+2 Laps,,0
+1957,6,German Grand Prix,1957-08-04,Marsh,Cooper,15,22,17,+5 Laps,,0
+1957,6,German Grand Prix,1957-08-04,Herrmann,Maserati,16,11,14,Chassis,,0
+1957,6,German Grand Prix,1957-08-04,Maglioli,Porsche,17,15,13,Engine,,0
+1957,6,German Grand Prix,1957-08-04,Salvadori,Cooper,18,14,11,Suspension,,0
+1957,6,German Grand Prix,1957-08-04,Godia,Maserati,19,21,11,Steering,,0
+1957,6,German Grand Prix,1957-08-04,Lewis-Evans,Vanwall,20,9,10,Gearbox,,0
+1957,6,German Grand Prix,1957-08-04,Brabham,Cooper,21,18,6,Transmission,,0
+1957,6,German Grand Prix,1957-08-04,England,Cooper,22,23,4,Distributor,,0
+1957,6,German Grand Prix,1957-08-04,Gibson,Cooper,23,24,3,Steering,,0
+1957,6,German Grand Prix,1957-08-04,Gould,Maserati,24,19,2,Axle,,0
+1957,7,Pescara Grand Prix,1957-08-18,Moss,Vanwall,1,2,18,Finished,2:59:22.7,9
+1957,7,Pescara Grand Prix,1957-08-18,Fangio,Maserati,2,1,18,Finished,+3:13.9,6
+1957,7,Pescara Grand Prix,1957-08-18,Schell,Maserati,3,5,18,Finished,+6:46.8,4
+1957,7,Pescara Grand Prix,1957-08-18,Gregory,Maserati,4,7,18,Finished,+8:16.5,3
+1957,7,Pescara Grand Prix,1957-08-18,Lewis-Evans,Vanwall,5,8,17,+1 Lap,,2
+1957,7,Pescara Grand Prix,1957-08-18,Scarlatti,Maserati,6,10,17,+1 Lap,,0
+1957,7,Pescara Grand Prix,1957-08-18,Brabham,Cooper,7,16,15,+3 Laps,,0
+1957,7,Pescara Grand Prix,1957-08-18,Musso,Ferrari,8,3,9,Oil leak,,0
+1957,7,Pescara Grand Prix,1957-08-18,Godia,Maserati,9,12,9,Engine,,0
+1957,7,Pescara Grand Prix,1957-08-18,Halford,Maserati,10,14,9,Transmission,,0
+1957,7,Pescara Grand Prix,1957-08-18,Bonnier,Maserati,11,9,7,Overheating,,0
+1957,7,Pescara Grand Prix,1957-08-18,Behra,Maserati,12,4,3,Oil leak,,0
+1957,7,Pescara Grand Prix,1957-08-18,Salvadori,Cooper,13,15,3,Accident,,0
+1957,7,Pescara Grand Prix,1957-08-18,Brooks,Vanwall,14,6,1,Engine,,0
+1957,7,Pescara Grand Prix,1957-08-18,Gould,Maserati,15,11,0,Accident,,0
+1957,7,Pescara Grand Prix,1957-08-18,Piotti,Maserati,16,13,0,Engine,,0
+1957,8,Italian Grand Prix,1957-09-08,Moss,Vanwall,1,2,87,Finished,2:35:03.9,8
+1957,8,Italian Grand Prix,1957-09-08,Fangio,Maserati,2,4,87,Finished,+41.2,6
+1957,8,Italian Grand Prix,1957-09-08,von Trips,Ferrari,3,8,85,+2 Laps,,4
+1957,8,Italian Grand Prix,1957-09-08,Gregory,Maserati,4,11,84,+3 Laps,,3
+1957,8,Italian Grand Prix,1957-09-08,Scarlatti,Maserati,5,12,84,+3 Laps,,1
+1957,8,Italian Grand Prix,1957-09-08,Schell,Maserati,5,12,84,+3 Laps,,1
+1957,8,Italian Grand Prix,1957-09-08,Hawthorn,Ferrari,6,10,83,+4 Laps,,0
+1957,8,Italian Grand Prix,1957-09-08,Brooks,Vanwall,7,3,82,+5 Laps,,1
+1957,8,Italian Grand Prix,1957-09-08,Musso,Ferrari,8,9,82,+5 Laps,,0
+1957,8,Italian Grand Prix,1957-09-08,Godia,Maserati,9,15,81,+6 Laps,,0
+1957,8,Italian Grand Prix,1957-09-08,Gould,Maserati,10,18,78,+9 Laps,,0
+1957,8,Italian Grand Prix,1957-09-08,Simon,Maserati,11,16,72,+15 Laps,,0
+1957,8,Italian Grand Prix,1957-09-08,Volonterio,Maserati,11,16,72,+15 Laps,,0
+1957,8,Italian Grand Prix,1957-09-08,Collins,Ferrari,12,7,62,Engine,,0
+1957,8,Italian Grand Prix,1957-09-08,Lewis-Evans,Vanwall,13,1,49,Engine,,0
+1957,8,Italian Grand Prix,1957-09-08,Behra,Maserati,14,5,49,Overheating,,0
+1957,8,Italian Grand Prix,1957-09-08,Halford,Maserati,15,14,47,Engine,,0
+1957,8,Italian Grand Prix,1957-09-08,Schell,Maserati,16,6,34,Oil leak,,0
+1957,8,Italian Grand Prix,1957-09-08,Bonnier,Maserati,17,13,31,Overheating,,0
+1957,8,Italian Grand Prix,1957-09-08,Piotti,Maserati,18,17,3,Engine,,0

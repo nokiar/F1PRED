@@ -32,28 +32,82 @@ const API_BASE_URL2 = "https://api.openf1.org/v1/";
     }
 
     $("#logoIni").on("click", function() {
-
         $("#races, #drivers, #constructors, #predictions").css("color", "white");
         $("#content").children().remove();
 
         $("#content").append(`
-            <main>
-                <section id="content">
-                    <h2 style="text-align: center; color: white; font-size: 2em;">Welcome</h2>
-                    <div style="display: flex; justify-content: center; align-items: center;">
-                        <p style="max-width: 600px; text-align: center; font-size: 1.5em; color: white;">
-                            F1PRED is a cutting-edge artificial intelligence system designed to transform Formula 1 race predictions. Leveraging advanced machine learning algorithms and comprehensive historical data, F1PRED offers unparalleled insights into race outcomes, driver performance, and championship standings.
-                        </p>
+            <div id="welcome-section">
+                <h2 class="welcome-title">Welcome</h2>
+                <p class="welcome-intro">
+                    Welcome to F1Pred, your essential Formula 1 companion! Dive into race details, explore driver stats and team info, track the latest championship standings, and check out our data-driven predictions. Everything you need to stay informed and engaged with the F1 season is right here.
+                </p>
+                <div class="card card-left">
+                    <div class="card-half">
+                        <img src="assets/f11.jpg" alt="Races" class="card-image">
                     </div>
-                    <div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-top: 40px;">
-                        <img src="assets/f11.jpg" alt="Photo 1" style="width: 600px; height: auto;">
-                        <img src="assets/f12.jpg" alt="Photo 2" style="width: 600px; height: auto;">
-                        <img src="assets/f13.jpg" alt="Photo 3" style="width: 600px; height: auto;">
+                    <div class="card-half">
+                        <div class="card-content">
+                            <p class="card-text">
+                                Explore detailed information on past and upcoming Formula 1 races. Find everything from circuit guides and weekend schedules to historical results and key race data for every event on the calendar.
+                            </p>
+                            <button id="goToRaces" class="section-button">Go to Races</button>
+                        </div>
                     </div>
-                </section>
-            </main>
+                </div>
+                <div class="card">
+                    <div class="card-half">
+                        <div class="card-content">
+                            <p class="card-text">
+                                Get to know the stars of the F1 grid. Access detailed driver profiles featuring career highlights, key statistics like wins and podiums, and their team history throughout Formula 1.
+                            </p>
+                            <button id="goToDrivers" class="section-button">Go to Drivers</button>
+                        </div>
+                    </div>
+                    <div class="card-half">
+                        <img src="assets/f12.jpg" alt="Drivers" class="card-image">
+                    </div>
+                </div>
+                <div class="card card-left">
+                    <div class="card-half">
+                        <img src="assets/f13.jpg" alt="Standings" class="card-image">
+                    </div>
+                    <div class="card-half">
+                        <div class="card-content">
+                            <p class="card-text">
+                                Follow the championship battle as it unfolds throughout the season. View the latest, up-to-date points totals and rankings for both the World Drivers' and Constructors' Championships.
+                            </p>
+                            <button id="goToStandings" class="section-button">Go to Standings</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-half">
+                        <div class="card-content">
+                            <p class="card-text">
+                                Discover the teams competing at the pinnacle of motorsport. Learn about each constructor's history, driver line-ups, and recent car performance.
+                            </p>
+                            <button id="goToConstructors" class="section-button">Go to Constructors</button>
+                        </div>
+                    </div>
+                    <div class="card-half">
+                        <img src="assets/f14.jpg" alt="Constructors" class="card-image">
+                    </div>
+                </div>
+                <div class="card card-left">
+                    <div class="card-half">
+                        <img src="assets/f15.jpg" alt="Predictions" class="card-image">
+                    </div>
+                    <div class="card-half">
+                        <div class="card-content">
+                            <p class="card-text">
+                                Curious about the next race outcome? Check out F1Pred's data-driven predictions for upcoming Grands Prix, including likely podium finishers and race winners.
+                            </p>
+                            <button id="goToPredictions" class="section-button">Go to Predictions</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
         `);
-
     });
 
 //Event listeners for buttons in the welcome section
@@ -508,115 +562,128 @@ $("#predictions").on("click", function () {
 
     $("#content").children().remove();
 
-    $("#content").append("<div id='predictionsContainer'></div>");
+    // Check if Flask server is running
+    fetch("http://127.0.0.1:5000/api/seasons")
+        .then(response => {
+            if (!response.ok) throw new Error("Flask server not running");
+            return response.json();
+        })
+        .then(() => {
+            // Flask server is running, allow interaction
+            $("#content").append("<div id='predictionsContainer'></div>");
+            $("#predictionsContainer").append("<div id='predictionsTitle'><h1>Predictions</h1></div>");
 
-    $("#predictionsContainer").append("<div id='predictionsTitle'><h1>Predictions</h1></div>");
+            let seasonSelect = '<select id="seasonInput">';
+            for (let year = 2025; year >= 1950; year--) {
+                seasonSelect += `<option value="${year}">${year}</option>`;
+            }
+            seasonSelect += '</select>';
 
-    let seasonSelect = '<select id="seasonInput">';
-    for (let year = 2025; year >= 1950; year--) {
-        seasonSelect += `<option value="${year}">${year}</option>`;
-    }
-    seasonSelect += '</select>';
+            $("#predictionsContainer").append("<div id='predictionsControls'></div>");
+            $("#predictionsControls").append(seasonSelect);
+            $("#predictionsControls").append('<select id="roundInput"><option value="">Select a season first</option></select>');
+            $("#predictionsControls").append('<button id="predictButton">Predict</button>');
 
-    $("#predictionsContainer").append("<div id='predictionsControls'></div>");
-    $("#predictionsControls").append(seasonSelect);
-    $("#predictionsControls").append('<select id="roundInput"><option value="">Select a season first</option></select>');
-    $("#predictionsControls").append('<button id="predictButton">Predict</button>');
+            //Update rounds when a season is selected
+            $("#seasonInput").on("change", function () {
+                const selectedSeason = $(this).val();
+                if (selectedSeason) {
+                    fetch(`http://127.0.0.1:5000/api/rounds?season=${selectedSeason}`) //Updated URL
+                        .then(response => {
+                            if (!response.ok) throw new Error("Failed to fetch rounds");
+                            return response.json();
+                        })
+                        .then(data => {
+                            const rounds = data.rounds || [];
+                            let roundOptions = rounds.map(round => `<option value="${round}">${round}</option>`).join('');
+                            $("#roundInput").html(roundOptions);
+                        })
+                        .catch(error => {
+                            console.error("Error fetching rounds:", error);
+                            $("#roundInput").html('<option value="">Error loading rounds</option>');
+                        });
+                } else {
+                    $("#roundInput").html('<option value="">Select a season first</option>');
+                }
+            });
 
-    //Update rounds when a season is selected
-    $("#seasonInput").on("change", function () {
-        const selectedSeason = $(this).val();
-        if (selectedSeason) {
-            fetch(`http://127.0.0.1:5000/api/rounds?season=${selectedSeason}`) //Updated URL
-                .then(response => {
-                    if (!response.ok) throw new Error("Failed to fetch rounds");
-                    return response.json();
-                })
-                .then(data => {
-                    const rounds = data.rounds || [];
-                    let roundOptions = rounds.map(round => `<option value="${round}">${round}</option>`).join('');
-                    $("#roundInput").html(roundOptions);
-                })
-                .catch(error => {
-                    console.error("Error fetching rounds:", error);
-                    $("#roundInput").html('<option value="">Error loading rounds</option>');
-                });
-        } else {
-            $("#roundInput").html('<option value="">Select a season first</option>');
-        }
-    });
+            //Handle prediction button click
+            $("#predictButton").on("click", function () {
+                const selectedSeason = $("#seasonInput").val();
+                const selectedRound = $("#roundInput").val();
 
-    //Handle prediction button click
-    $("#predictButton").on("click", function () {
-        const selectedSeason = $("#seasonInput").val();
-        const selectedRound = $("#roundInput").val();
+                if (!selectedSeason || !selectedRound) {
+                    alert("Please select both a season and a round.");
+                    return;
+                }
 
-        if (!selectedSeason || !selectedRound) {
-            alert("Please select both a season and a round.");
-            return;
-        }
+                showLoading();
 
-        showLoading();
-
-        //Fetch country name for the Grand Prix
-        fetch(`${API_BASE_URL}${selectedSeason}/${selectedRound}.json`)
-            .then(response => {
-                if (!response.ok) throw new Error("Failed to fetch race data");
-                return response.json();
-            })
-            .then(raceData => {
-                const country = raceData?.MRData?.RaceTable?.Races[0]?.Circuit?.Location?.country || "Unknown Country";
-                const circuitName = raceData?.MRData?.RaceTable?.Races[0]?.Circuit?.circuitName || "Unknown Circuit";
-                const grandPrixName = `${country} GP - ${circuitName}`;
-
-                //Fetch predictions
-                fetch(`http://127.0.0.1:5000/api/predict?season=${selectedSeason}&round=${selectedRound}`)
+                //Fetch country name for the Grand Prix
+                fetch(`${API_BASE_URL}${selectedSeason}/${selectedRound}.json`)
                     .then(response => {
-                        if (!response.ok) throw new Error("Failed to fetch predictions");
+                        if (!response.ok) throw new Error("Failed to fetch race data");
                         return response.json();
                     })
-                    .then(data => {
-                        $("#detailsContainer").remove();
-                        $("#content").append('<div id="detailsContainer"></div>');
+                    .then(raceData => {
+                        const country = raceData?.MRData?.RaceTable?.Races[0]?.Circuit?.Location?.country || "Unknown Country";
+                        const circuitName = raceData?.MRData?.RaceTable?.Races[0]?.Circuit?.circuitName || "Unknown Circuit";
+                        const grandPrixName = `${country} GP - ${circuitName}`;
 
-                        const predictions = data.predictions || [];
-                        if (predictions.length === 0) {
-                            $("#detailsContainer").append("<p style='color: white;'>No predictions available for the selected season and round.</p>");
-                        } else {
-                            const raceName = `Race: ${selectedSeason} - Round ${selectedRound}`;
-                            const predictionList = predictions.map((prediction, index) => `
-                                <p style="font-size: 16px; color: ${index === 0 ? 'gold' : index === 1 ? 'silver' : index === 2 ? '#cd7f32' : 'white'};">
-                                    ${index + 1}. ${(prediction.driver).toUpperCase()} - ${prediction.probability}%
-                                </p>
-                            `).join('');
+                        //Fetch predictions
+                        fetch(`http://127.0.0.1:5000/api/predict?season=${selectedSeason}&round=${selectedRound}`)
+                            .then(response => {
+                                if (!response.ok) throw new Error("Failed to fetch predictions");
+                                return response.json();
+                            })
+                            .then(data => {
+                                $("#detailsContainer").remove();
+                                $("#content").append('<div id="detailsContainer"></div>');
 
-                            const combinedCard = `
-                                <div class="prediction-card">
-                                    <h3>${raceName}</h3>
-                                    <h4>${grandPrixName}</h4>
-                                    ${predictionList}
-                                </div>
-                            `;
+                                const predictions = data.predictions || [];
+                                if (predictions.length === 0) {
+                                    $("#detailsContainer").append("<p style='color: white;'>No predictions available for the selected season and round.</p>");
+                                } else {
+                                    const raceName = `Race: ${selectedSeason} - Round ${selectedRound}`;
+                                    const predictionList = predictions.map((prediction, index) => `
+                                        <p style="font-size: 16px; color: ${index === 0 ? 'gold' : index === 1 ? 'silver' : index === 2 ? '#cd7f32' : 'white'};">
+                                            ${index + 1}. ${(prediction.driver)} - ${prediction.probability}%
+                                        </p>
+                                    `).join('');
 
-                            $("#detailsContainer").append(combinedCard);
-                        }
+                                    const combinedCard = `
+                                        <div class="prediction-card">
+                                            <h3>${raceName}</h3>
+                                            <h4>${grandPrixName}</h4>
+                                            ${predictionList}
+                                        </div>
+                                    `;
+
+                                    $("#detailsContainer").append(combinedCard);
+                                }
+                            })
+                            .catch(error => {
+                                console.error("Error fetching predictions:", error);
+                                $("#detailsContainer").remove();
+                                $("#content").append('<div id="detailsContainer"></div>');
+                                $("#detailsContainer").append("<p style='color: white;'>Error fetching predictions. Please try again later.</p>");
+                            })
+                            .finally(() => hideLoading());
                     })
                     .catch(error => {
-                        console.error("Error fetching predictions:", error);
+                        console.error("Error fetching race data:", error);
                         $("#detailsContainer").remove();
                         $("#content").append('<div id="detailsContainer"></div>');
-                        $("#detailsContainer").append("<p style='color: white;'>Error fetching predictions. Please try again later.</p>");
-                    })
-                    .finally(() => hideLoading());
-            })
-            .catch(error => {
-                console.error("Error fetching race data:", error);
-                $("#detailsContainer").remove();
-                $("#content").append('<div id="detailsContainer"></div>');
-                $("#detailsContainer").append("<p style='color: white;'>Error fetching race data. Please try again later.</p>");
-                hideLoading();
+                        $("#detailsContainer").append("<p style='color: white;'>Error fetching race data. Please try again later.</p>");
+                        hideLoading();
+                    });
             });
-    });
+        })
+        .catch(() => {
+            // Flask server is not running, show alert and disable interaction
+            alert("The predictions server is not running. Please start the server to use the Predictions feature.");
+            $("#content").append("<p style='color: white; text-align: center;'>Predictions are unavailable because the predictions server is not running.</p>");
+        });
 });
 
 //Function to check if an element is partially in the viewport

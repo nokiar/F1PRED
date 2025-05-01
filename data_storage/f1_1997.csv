@@ -1,0 +1,377 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1997,1,Australian Grand Prix,1997-03-09,Coulthard,McLaren,1,4,58,Finished,1:30:28.718,10
+1997,1,Australian Grand Prix,1997-03-09,Schumacher,Ferrari,2,3,58,Finished,+20.046,6
+1997,1,Australian Grand Prix,1997-03-09,Häkkinen,McLaren,3,6,58,Finished,+22.177,4
+1997,1,Australian Grand Prix,1997-03-09,Berger,Benetton,4,10,58,Finished,+22.841,3
+1997,1,Australian Grand Prix,1997-03-09,Panis,Prost,5,9,58,Finished,+1:00.308,2
+1997,1,Australian Grand Prix,1997-03-09,Larini,Sauber,6,13,58,Finished,+1:36.040,1
+1997,1,Australian Grand Prix,1997-03-09,Nakano,Prost,7,16,56,+2 Laps,,0
+1997,1,Australian Grand Prix,1997-03-09,Frentzen,Williams,8,2,55,Brakes,,0
+1997,1,Australian Grand Prix,1997-03-09,Trulli,Minardi,9,17,55,+3 Laps,,0
+1997,1,Australian Grand Prix,1997-03-09,Diniz,Arrows,10,22,54,+4 Laps,,0
+1997,1,Australian Grand Prix,1997-03-09,Barrichello,Stewart,11,11,49,Engine,,0
+1997,1,Australian Grand Prix,1997-03-09,Salo,Tyrrell,12,18,42,Engine,,0
+1997,1,Australian Grand Prix,1997-03-09,Magnussen,Stewart,13,19,36,Suspension,,0
+1997,1,Australian Grand Prix,1997-03-09,Alesi,Benetton,14,8,34,Fuel,,0
+1997,1,Australian Grand Prix,1997-03-09,Katayama,Minardi,15,15,32,Electrical,,0
+1997,1,Australian Grand Prix,1997-03-09,Fisichella,Jordan,16,14,14,Spun off,,0
+1997,1,Australian Grand Prix,1997-03-09,Verstappen,Tyrrell,17,21,2,Spun off,,0
+1997,1,Australian Grand Prix,1997-03-09,Schumacher,Jordan,18,12,1,Gearbox,,0
+1997,1,Australian Grand Prix,1997-03-09,Villeneuve,Williams,19,1,0,Collision,,0
+1997,1,Australian Grand Prix,1997-03-09,Irvine,Ferrari,20,5,0,Collision,,0
+1997,1,Australian Grand Prix,1997-03-09,Herbert,Sauber,21,7,0,Collision,,0
+1997,1,Australian Grand Prix,1997-03-09,Hill,Arrows,22,20,0,Throttle,,0
+1997,1,Australian Grand Prix,1997-03-09,Sospiri,Lola,23,23,0,Did not qualify,,0
+1997,1,Australian Grand Prix,1997-03-09,Rosset,Lola,24,24,0,Did not qualify,,0
+1997,2,Brazilian Grand Prix,1997-03-30,Villeneuve,Williams,1,1,72,Finished,1:36:06.990,10
+1997,2,Brazilian Grand Prix,1997-03-30,Berger,Benetton,2,3,72,Finished,+4.190,6
+1997,2,Brazilian Grand Prix,1997-03-30,Panis,Prost,3,5,72,Finished,+15.870,4
+1997,2,Brazilian Grand Prix,1997-03-30,Häkkinen,McLaren,4,4,72,Finished,+33.033,3
+1997,2,Brazilian Grand Prix,1997-03-30,Schumacher,Ferrari,5,2,72,Finished,+33.731,2
+1997,2,Brazilian Grand Prix,1997-03-30,Alesi,Benetton,6,6,72,Finished,+34.020,1
+1997,2,Brazilian Grand Prix,1997-03-30,Herbert,Sauber,7,13,72,Finished,+50.912,0
+1997,2,Brazilian Grand Prix,1997-03-30,Fisichella,Jordan,8,7,72,Finished,+1:00.639,0
+1997,2,Brazilian Grand Prix,1997-03-30,Frentzen,Williams,9,8,72,Finished,+1:15.402,0
+1997,2,Brazilian Grand Prix,1997-03-30,Coulthard,McLaren,10,12,71,+1 Lap,,0
+1997,2,Brazilian Grand Prix,1997-03-30,Larini,Sauber,11,19,71,+1 Lap,,0
+1997,2,Brazilian Grand Prix,1997-03-30,Trulli,Minardi,12,17,71,+1 Lap,,0
+1997,2,Brazilian Grand Prix,1997-03-30,Salo,Tyrrell,13,22,71,+1 Lap,,0
+1997,2,Brazilian Grand Prix,1997-03-30,Nakano,Prost,14,15,71,+1 Lap,,0
+1997,2,Brazilian Grand Prix,1997-03-30,Verstappen,Tyrrell,15,21,70,+2 Laps,,0
+1997,2,Brazilian Grand Prix,1997-03-30,Irvine,Ferrari,16,14,70,+2 Laps,,0
+1997,2,Brazilian Grand Prix,1997-03-30,Hill,Arrows,17,9,68,Engine,,0
+1997,2,Brazilian Grand Prix,1997-03-30,Katayama,Minardi,18,18,67,+5 Laps,,0
+1997,2,Brazilian Grand Prix,1997-03-30,Schumacher,Jordan,19,10,52,Electrical,,0
+1997,2,Brazilian Grand Prix,1997-03-30,Barrichello,Stewart,20,11,16,Suspension,,0
+1997,2,Brazilian Grand Prix,1997-03-30,Diniz,Arrows,21,16,15,Suspension,,0
+1997,2,Brazilian Grand Prix,1997-03-30,Magnussen,Stewart,22,20,0,Accident,,0
+1997,3,Argentine Grand Prix,1997-04-13,Villeneuve,Williams,1,1,72,Finished,1:52:01.715,10
+1997,3,Argentine Grand Prix,1997-04-13,Irvine,Ferrari,2,7,72,Finished,+0.979,6
+1997,3,Argentine Grand Prix,1997-04-13,Schumacher,Jordan,3,6,72,Finished,+12.089,4
+1997,3,Argentine Grand Prix,1997-04-13,Herbert,Sauber,4,8,72,Finished,+29.919,3
+1997,3,Argentine Grand Prix,1997-04-13,Häkkinen,McLaren,5,17,72,Finished,+30.351,2
+1997,3,Argentine Grand Prix,1997-04-13,Berger,Benetton,6,12,72,Finished,+31.393,1
+1997,3,Argentine Grand Prix,1997-04-13,Alesi,Benetton,7,11,72,Finished,+46.359,0
+1997,3,Argentine Grand Prix,1997-04-13,Salo,Tyrrell,8,19,71,+1 Lap,,0
+1997,3,Argentine Grand Prix,1997-04-13,Trulli,Minardi,9,18,71,+1 Lap,,0
+1997,3,Argentine Grand Prix,1997-04-13,Magnussen,Stewart,10,15,66,Engine,,0
+1997,3,Argentine Grand Prix,1997-04-13,Larini,Sauber,11,14,63,Spun off,,0
+1997,3,Argentine Grand Prix,1997-04-13,Diniz,Arrows,12,22,50,Engine,,0
+1997,3,Argentine Grand Prix,1997-04-13,Nakano,Prost,13,20,49,Engine,,0
+1997,3,Argentine Grand Prix,1997-04-13,Verstappen,Tyrrell,14,16,43,Engine,,0
+1997,3,Argentine Grand Prix,1997-04-13,Katayama,Minardi,15,21,37,Spun off,,0
+1997,3,Argentine Grand Prix,1997-04-13,Hill,Arrows,16,13,33,Engine,,0
+1997,3,Argentine Grand Prix,1997-04-13,Fisichella,Jordan,17,9,24,Collision,,0
+1997,3,Argentine Grand Prix,1997-04-13,Barrichello,Stewart,18,5,24,Hydraulics,,0
+1997,3,Argentine Grand Prix,1997-04-13,Panis,Prost,19,3,18,Electrical,,0
+1997,3,Argentine Grand Prix,1997-04-13,Frentzen,Williams,20,2,5,Clutch,,0
+1997,3,Argentine Grand Prix,1997-04-13,Schumacher,Ferrari,21,4,0,Collision,,0
+1997,3,Argentine Grand Prix,1997-04-13,Coulthard,McLaren,22,10,0,Collision,,0
+1997,4,San Marino Grand Prix,1997-04-27,Frentzen,Williams,1,2,62,Finished,1:31:00.673,10
+1997,4,San Marino Grand Prix,1997-04-27,Schumacher,Ferrari,2,3,62,Finished,+1.237,6
+1997,4,San Marino Grand Prix,1997-04-27,Irvine,Ferrari,3,9,62,Finished,+1:18.343,4
+1997,4,San Marino Grand Prix,1997-04-27,Fisichella,Jordan,4,6,62,Finished,+1:23.388,3
+1997,4,San Marino Grand Prix,1997-04-27,Alesi,Benetton,5,14,61,+1 Lap,,2
+1997,4,San Marino Grand Prix,1997-04-27,Häkkinen,McLaren,6,8,61,+1 Lap,,1
+1997,4,San Marino Grand Prix,1997-04-27,Larini,Sauber,7,12,61,+1 Lap,,0
+1997,4,San Marino Grand Prix,1997-04-27,Panis,Prost,8,4,61,+1 Lap,,0
+1997,4,San Marino Grand Prix,1997-04-27,Salo,Tyrrell,9,19,60,+2 Laps,,0
+1997,4,San Marino Grand Prix,1997-04-27,Verstappen,Tyrrell,10,21,60,+2 Laps,,0
+1997,4,San Marino Grand Prix,1997-04-27,Katayama,Minardi,11,22,59,+3 Laps,,0
+1997,4,San Marino Grand Prix,1997-04-27,Diniz,Arrows,12,17,53,Gearbox,,0
+1997,4,San Marino Grand Prix,1997-04-27,Villeneuve,Williams,13,1,40,Gearbox,,0
+1997,4,San Marino Grand Prix,1997-04-27,Coulthard,McLaren,14,10,38,Engine,,0
+1997,4,San Marino Grand Prix,1997-04-27,Barrichello,Stewart,15,13,32,Engine,,0
+1997,4,San Marino Grand Prix,1997-04-27,Herbert,Sauber,16,7,18,Electrical,,0
+1997,4,San Marino Grand Prix,1997-04-27,Schumacher,Jordan,17,5,17,Transmission,,0
+1997,4,San Marino Grand Prix,1997-04-27,Nakano,Prost,18,18,11,Collision,,0
+1997,4,San Marino Grand Prix,1997-04-27,Hill,Arrows,19,15,11,Collision,,0
+1997,4,San Marino Grand Prix,1997-04-27,Berger,Benetton,20,11,4,Spun off,,0
+1997,4,San Marino Grand Prix,1997-04-27,Magnussen,Stewart,21,16,2,Spun off,,0
+1997,4,San Marino Grand Prix,1997-04-27,Trulli,Minardi,22,20,0,Gearbox,,0
+1997,5,Monaco Grand Prix,1997-05-11,Schumacher,Ferrari,1,2,62,Finished,2:00:05.654,10
+1997,5,Monaco Grand Prix,1997-05-11,Barrichello,Stewart,2,10,62,Finished,+53.306,6
+1997,5,Monaco Grand Prix,1997-05-11,Irvine,Ferrari,3,15,62,Finished,+1:22.108,4
+1997,5,Monaco Grand Prix,1997-05-11,Panis,Prost,4,12,62,Finished,+1:44.402,3
+1997,5,Monaco Grand Prix,1997-05-11,Salo,Tyrrell,5,14,61,+1 Lap,,2
+1997,5,Monaco Grand Prix,1997-05-11,Fisichella,Jordan,6,4,61,+1 Lap,,1
+1997,5,Monaco Grand Prix,1997-05-11,Magnussen,Stewart,7,19,61,+1 Lap,,0
+1997,5,Monaco Grand Prix,1997-05-11,Verstappen,Tyrrell,8,22,60,+2 Laps,,0
+1997,5,Monaco Grand Prix,1997-05-11,Berger,Benetton,9,17,60,+2 Laps,,0
+1997,5,Monaco Grand Prix,1997-05-11,Katayama,Minardi,10,20,60,+2 Laps,,0
+1997,5,Monaco Grand Prix,1997-05-11,Frentzen,Williams,11,1,39,Spun off,,0
+1997,5,Monaco Grand Prix,1997-05-11,Nakano,Prost,12,21,36,Spun off,,0
+1997,5,Monaco Grand Prix,1997-05-11,Larini,Sauber,13,11,24,Spun off,,0
+1997,5,Monaco Grand Prix,1997-05-11,Alesi,Benetton,14,9,16,Spun off,,0
+1997,5,Monaco Grand Prix,1997-05-11,Villeneuve,Williams,15,3,16,Spun off,,0
+1997,5,Monaco Grand Prix,1997-05-11,Schumacher,Jordan,16,6,10,Spun off,,0
+1997,5,Monaco Grand Prix,1997-05-11,Herbert,Sauber,17,7,9,Spun off,,0
+1997,5,Monaco Grand Prix,1997-05-11,Trulli,Minardi,18,18,7,Spun off,,0
+1997,5,Monaco Grand Prix,1997-05-11,Coulthard,McLaren,19,5,1,Spun off,,0
+1997,5,Monaco Grand Prix,1997-05-11,Häkkinen,McLaren,20,8,1,Collision,,0
+1997,5,Monaco Grand Prix,1997-05-11,Hill,Arrows,21,13,1,Collision,,0
+1997,5,Monaco Grand Prix,1997-05-11,Diniz,Arrows,22,16,0,Spun off,,0
+1997,6,Spanish Grand Prix,1997-05-25,Villeneuve,Williams,1,1,64,Finished,1:30:35.896,10
+1997,6,Spanish Grand Prix,1997-05-25,Panis,Prost,2,12,64,Finished,+5.804,6
+1997,6,Spanish Grand Prix,1997-05-25,Alesi,Benetton,3,4,64,Finished,+12.534,4
+1997,6,Spanish Grand Prix,1997-05-25,Schumacher,Ferrari,4,7,64,Finished,+17.979,3
+1997,6,Spanish Grand Prix,1997-05-25,Herbert,Sauber,5,10,64,Finished,+27.986,2
+1997,6,Spanish Grand Prix,1997-05-25,Coulthard,McLaren,6,3,64,Finished,+29.744,1
+1997,6,Spanish Grand Prix,1997-05-25,Häkkinen,McLaren,7,5,64,Finished,+48.785,0
+1997,6,Spanish Grand Prix,1997-05-25,Frentzen,Williams,8,2,64,Finished,+1:04.139,0
+1997,6,Spanish Grand Prix,1997-05-25,Fisichella,Jordan,9,8,64,Finished,+1:04.767,0
+1997,6,Spanish Grand Prix,1997-05-25,Berger,Benetton,10,6,64,Finished,+1:05.670,0
+1997,6,Spanish Grand Prix,1997-05-25,Verstappen,Tyrrell,11,19,63,+1 Lap,,0
+1997,6,Spanish Grand Prix,1997-05-25,Irvine,Ferrari,12,11,63,+1 Lap,,0
+1997,6,Spanish Grand Prix,1997-05-25,Magnussen,Stewart,13,22,63,+1 Lap,,0
+1997,6,Spanish Grand Prix,1997-05-25,Morbidelli,Sauber,14,13,62,+2 Laps,,0
+1997,6,Spanish Grand Prix,1997-05-25,Trulli,Minardi,15,18,62,+2 Laps,,0
+1997,6,Spanish Grand Prix,1997-05-25,Diniz,Arrows,16,21,53,Engine,,0
+1997,6,Spanish Grand Prix,1997-05-25,Schumacher,Jordan,17,9,50,Engine,,0
+1997,6,Spanish Grand Prix,1997-05-25,Barrichello,Stewart,18,17,37,Engine,,0
+1997,6,Spanish Grand Prix,1997-05-25,Salo,Tyrrell,19,14,35,Puncture,,0
+1997,6,Spanish Grand Prix,1997-05-25,Nakano,Prost,20,16,34,Gearbox,,0
+1997,6,Spanish Grand Prix,1997-05-25,Hill,Arrows,21,15,17,Engine,,0
+1997,6,Spanish Grand Prix,1997-05-25,Katayama,Minardi,22,20,11,Gearbox,,0
+1997,7,Canadian Grand Prix,1997-06-15,Schumacher,Ferrari,1,1,54,Finished,1:17:40.646,10
+1997,7,Canadian Grand Prix,1997-06-15,Alesi,Benetton,2,8,54,Finished,+2.565,6
+1997,7,Canadian Grand Prix,1997-06-15,Fisichella,Jordan,3,6,54,Finished,+3.219,4
+1997,7,Canadian Grand Prix,1997-06-15,Frentzen,Williams,4,4,54,Finished,+3.768,3
+1997,7,Canadian Grand Prix,1997-06-15,Herbert,Sauber,5,13,54,Finished,+4.716,2
+1997,7,Canadian Grand Prix,1997-06-15,Nakano,Prost,6,19,54,Finished,+36.701,1
+1997,7,Canadian Grand Prix,1997-06-15,Coulthard,McLaren,7,5,54,Finished,+37.753,0
+1997,7,Canadian Grand Prix,1997-06-15,Diniz,Arrows,8,16,53,+1 Lap,,0
+1997,7,Canadian Grand Prix,1997-06-15,Hill,Arrows,9,15,53,+1 Lap,,0
+1997,7,Canadian Grand Prix,1997-06-15,Morbidelli,Sauber,10,18,53,+1 Lap,,0
+1997,7,Canadian Grand Prix,1997-06-15,Panis,Prost,11,10,51,Spun off,,0
+1997,7,Canadian Grand Prix,1997-06-15,Salo,Tyrrell,12,17,46,Engine,,0
+1997,7,Canadian Grand Prix,1997-06-15,Verstappen,Tyrrell,13,14,42,Gearbox,,0
+1997,7,Canadian Grand Prix,1997-06-15,Wurz,Benetton,14,11,35,Transmission,,0
+1997,7,Canadian Grand Prix,1997-06-15,Barrichello,Stewart,15,3,33,Gearbox,,0
+1997,7,Canadian Grand Prix,1997-06-15,Trulli,Minardi,16,20,32,Engine,,0
+1997,7,Canadian Grand Prix,1997-06-15,Schumacher,Jordan,17,7,14,Accident,,0
+1997,7,Canadian Grand Prix,1997-06-15,Katayama,Minardi,18,22,5,Spun off,,0
+1997,7,Canadian Grand Prix,1997-06-15,Villeneuve,Williams,19,2,1,Accident,,0
+1997,7,Canadian Grand Prix,1997-06-15,Häkkinen,McLaren,20,9,0,Engine,,0
+1997,7,Canadian Grand Prix,1997-06-15,Irvine,Ferrari,21,12,0,Accident,,0
+1997,7,Canadian Grand Prix,1997-06-15,Magnussen,Stewart,22,21,0,Spun off,,0
+1997,8,French Grand Prix,1997-06-29,Schumacher,Ferrari,1,1,72,Finished,1:38:50.492,10
+1997,8,French Grand Prix,1997-06-29,Frentzen,Williams,2,2,72,Finished,+23.537,6
+1997,8,French Grand Prix,1997-06-29,Irvine,Ferrari,3,5,72,Finished,+1:14.801,4
+1997,8,French Grand Prix,1997-06-29,Villeneuve,Williams,4,4,72,Finished,+1:21.784,3
+1997,8,French Grand Prix,1997-06-29,Alesi,Benetton,5,8,72,Finished,+1:22.735,2
+1997,8,French Grand Prix,1997-06-29,Schumacher,Jordan,6,3,72,Finished,+1:29.871,1
+1997,8,French Grand Prix,1997-06-29,Coulthard,McLaren,7,9,71,Collision,,0
+1997,8,French Grand Prix,1997-06-29,Herbert,Sauber,8,14,71,+1 Lap,,0
+1997,8,French Grand Prix,1997-06-29,Fisichella,Jordan,9,11,71,+1 Lap,,0
+1997,8,French Grand Prix,1997-06-29,Trulli,Prost,10,6,70,+2 Laps,,0
+1997,8,French Grand Prix,1997-06-29,Katayama,Minardi,11,21,70,+2 Laps,,0
+1997,8,French Grand Prix,1997-06-29,Hill,Arrows,12,17,69,+3 Laps,,0
+1997,8,French Grand Prix,1997-06-29,Salo,Tyrrell,13,19,61,Electrical,,0
+1997,8,French Grand Prix,1997-06-29,Wurz,Benetton,14,7,60,Spun off,,0
+1997,8,French Grand Prix,1997-06-29,Diniz,Arrows,15,16,58,Spun off,,0
+1997,8,French Grand Prix,1997-06-29,Fontana,Sauber,16,20,40,Spun off,,0
+1997,8,French Grand Prix,1997-06-29,Barrichello,Stewart,17,13,36,Engine,,0
+1997,8,French Grand Prix,1997-06-29,Magnussen,Stewart,18,15,33,Brakes,,0
+1997,8,French Grand Prix,1997-06-29,Häkkinen,McLaren,19,10,18,Engine,,0
+1997,8,French Grand Prix,1997-06-29,Verstappen,Tyrrell,20,18,15,Spun off,,0
+1997,8,French Grand Prix,1997-06-29,Nakano,Prost,21,12,7,Spun off,,0
+1997,8,French Grand Prix,1997-06-29,Marques,Minardi,22,22,5,Engine,,0
+1997,9,British Grand Prix,1997-07-13,Villeneuve,Williams,1,1,59,Finished,1:28:01.665,10
+1997,9,British Grand Prix,1997-07-13,Alesi,Benetton,2,11,59,Finished,+10.205,6
+1997,9,British Grand Prix,1997-07-13,Wurz,Benetton,3,8,59,Finished,+11.296,4
+1997,9,British Grand Prix,1997-07-13,Coulthard,McLaren,4,6,59,Finished,+31.229,3
+1997,9,British Grand Prix,1997-07-13,Schumacher,Jordan,5,5,59,Finished,+31.880,2
+1997,9,British Grand Prix,1997-07-13,Hill,Arrows,6,12,59,Finished,+1:13.552,1
+1997,9,British Grand Prix,1997-07-13,Fisichella,Jordan,7,10,58,+1 Lap,,0
+1997,9,British Grand Prix,1997-07-13,Trulli,Prost,8,13,58,+1 Lap,,0
+1997,9,British Grand Prix,1997-07-13,Fontana,Sauber,9,14,58,+1 Lap,,0
+1997,9,British Grand Prix,1997-07-13,Marques,Minardi,10,21,58,+1 Lap,,0
+1997,9,British Grand Prix,1997-07-13,Nakano,Prost,11,15,57,Engine,,0
+1997,9,British Grand Prix,1997-07-13,Häkkinen,McLaren,12,3,52,Engine,,0
+1997,9,British Grand Prix,1997-07-13,Magnussen,Stewart,13,16,50,Engine,,0
+1997,9,British Grand Prix,1997-07-13,Verstappen,Tyrrell,14,20,45,Engine,,0
+1997,9,British Grand Prix,1997-07-13,Irvine,Ferrari,15,7,44,Halfshaft,,0
+1997,9,British Grand Prix,1997-07-13,Salo,Tyrrell,16,18,44,Engine,,0
+1997,9,British Grand Prix,1997-07-13,Herbert,Sauber,17,9,42,Electrical,,0
+1997,9,British Grand Prix,1997-07-13,Schumacher,Ferrari,18,4,38,Wheel,,0
+1997,9,British Grand Prix,1997-07-13,Barrichello,Stewart,19,22,37,Engine,,0
+1997,9,British Grand Prix,1997-07-13,Diniz,Arrows,20,17,29,Engine,,0
+1997,9,British Grand Prix,1997-07-13,Frentzen,Williams,21,2,0,Collision,,0
+1997,9,British Grand Prix,1997-07-13,Katayama,Minardi,22,19,0,Spun off,,0
+1997,10,German Grand Prix,1997-07-27,Berger,Benetton,1,1,45,Finished,1:20:59.046,10
+1997,10,German Grand Prix,1997-07-27,Schumacher,Ferrari,2,4,45,Finished,+17.527,6
+1997,10,German Grand Prix,1997-07-27,Häkkinen,McLaren,3,3,45,Finished,+24.770,4
+1997,10,German Grand Prix,1997-07-27,Trulli,Prost,4,11,45,Finished,+27.165,3
+1997,10,German Grand Prix,1997-07-27,Schumacher,Jordan,5,7,45,Finished,+29.995,2
+1997,10,German Grand Prix,1997-07-27,Alesi,Benetton,6,6,45,Finished,+34.717,1
+1997,10,German Grand Prix,1997-07-27,Nakano,Prost,7,17,45,Finished,+1:19.722,0
+1997,10,German Grand Prix,1997-07-27,Hill,Arrows,8,13,44,+1 Lap,,0
+1997,10,German Grand Prix,1997-07-27,Fontana,Sauber,9,18,44,+1 Lap,,0
+1997,10,German Grand Prix,1997-07-27,Verstappen,Tyrrell,10,20,44,+1 Lap,,0
+1997,10,German Grand Prix,1997-07-27,Fisichella,Jordan,11,2,40,+5 Laps,,0
+1997,10,German Grand Prix,1997-07-27,Barrichello,Stewart,12,12,33,Engine,,0
+1997,10,German Grand Prix,1997-07-27,Salo,Tyrrell,13,19,33,Clutch,,0
+1997,10,German Grand Prix,1997-07-27,Villeneuve,Williams,14,9,33,Spun off,,0
+1997,10,German Grand Prix,1997-07-27,Magnussen,Stewart,15,15,27,Engine,,0
+1997,10,German Grand Prix,1997-07-27,Katayama,Minardi,16,22,23,Out of fuel,,0
+1997,10,German Grand Prix,1997-07-27,Herbert,Sauber,17,14,8,Accident,,0
+1997,10,German Grand Prix,1997-07-27,Diniz,Arrows,18,16,8,Accident,,0
+1997,10,German Grand Prix,1997-07-27,Coulthard,McLaren,19,8,1,Transmission,,0
+1997,10,German Grand Prix,1997-07-27,Frentzen,Williams,20,5,1,Collision,,0
+1997,10,German Grand Prix,1997-07-27,Irvine,Ferrari,21,10,1,Collision,,0
+1997,10,German Grand Prix,1997-07-27,Marques,Minardi,22,21,0,Gearbox,,0
+1997,11,Hungarian Grand Prix,1997-08-10,Villeneuve,Williams,1,2,77,Finished,1:45:47.149,10
+1997,11,Hungarian Grand Prix,1997-08-10,Hill,Arrows,2,3,77,Finished,+9.079,6
+1997,11,Hungarian Grand Prix,1997-08-10,Herbert,Sauber,3,10,77,Finished,+20.445,4
+1997,11,Hungarian Grand Prix,1997-08-10,Schumacher,Ferrari,4,1,77,Finished,+30.501,3
+1997,11,Hungarian Grand Prix,1997-08-10,Schumacher,Jordan,5,14,77,Finished,+30.715,2
+1997,11,Hungarian Grand Prix,1997-08-10,Nakano,Prost,6,16,77,Finished,+41.512,1
+1997,11,Hungarian Grand Prix,1997-08-10,Trulli,Prost,7,12,77,Finished,+1:15.552,0
+1997,11,Hungarian Grand Prix,1997-08-10,Berger,Benetton,8,7,77,Finished,+1:16.409,0
+1997,11,Hungarian Grand Prix,1997-08-10,Irvine,Ferrari,9,5,76,Spun off,,0
+1997,11,Hungarian Grand Prix,1997-08-10,Katayama,Minardi,10,20,76,+1 Lap,,0
+1997,11,Hungarian Grand Prix,1997-08-10,Alesi,Benetton,11,9,76,+1 Lap,,0
+1997,11,Hungarian Grand Prix,1997-08-10,Marques,Minardi,12,22,75,+2 Laps,,0
+1997,11,Hungarian Grand Prix,1997-08-10,Salo,Tyrrell,13,21,75,+2 Laps,,0
+1997,11,Hungarian Grand Prix,1997-08-10,Coulthard,McLaren,14,8,65,Electrical,,0
+1997,11,Hungarian Grand Prix,1997-08-10,Verstappen,Tyrrell,15,18,61,Gearbox,,0
+1997,11,Hungarian Grand Prix,1997-08-10,Diniz,Arrows,16,19,53,Electrical,,0
+1997,11,Hungarian Grand Prix,1997-08-10,Fisichella,Jordan,17,13,42,Spun off,,0
+1997,11,Hungarian Grand Prix,1997-08-10,Frentzen,Williams,18,6,29,Fuel,,0
+1997,11,Hungarian Grand Prix,1997-08-10,Barrichello,Stewart,19,11,29,Engine,,0
+1997,11,Hungarian Grand Prix,1997-08-10,Häkkinen,McLaren,20,4,12,Hydraulics,,0
+1997,11,Hungarian Grand Prix,1997-08-10,Morbidelli,Sauber,21,15,7,Engine,,0
+1997,11,Hungarian Grand Prix,1997-08-10,Magnussen,Stewart,22,17,5,Accident,,0
+1997,12,Belgian Grand Prix,1997-08-24,Schumacher,Ferrari,1,3,44,Finished,1:33:46.717,10
+1997,12,Belgian Grand Prix,1997-08-24,Fisichella,Jordan,2,4,44,Finished,+26.753,6
+1997,12,Belgian Grand Prix,1997-08-24,Frentzen,Williams,3,7,44,Finished,+32.147,4
+1997,12,Belgian Grand Prix,1997-08-24,Herbert,Sauber,4,11,44,Finished,+39.025,3
+1997,12,Belgian Grand Prix,1997-08-24,Villeneuve,Williams,5,1,44,Finished,+42.103,2
+1997,12,Belgian Grand Prix,1997-08-24,Berger,Benetton,6,15,44,Finished,+1:03.741,1
+1997,12,Belgian Grand Prix,1997-08-24,Diniz,Arrows,7,8,44,Finished,+1:25.931,0
+1997,12,Belgian Grand Prix,1997-08-24,Alesi,Benetton,8,2,44,Finished,+1:42.008,0
+1997,12,Belgian Grand Prix,1997-08-24,Morbidelli,Sauber,9,13,44,Finished,+1:42.582,0
+1997,12,Belgian Grand Prix,1997-08-24,Irvine,Ferrari,10,17,43,+1 Lap,,0
+1997,12,Belgian Grand Prix,1997-08-24,Salo,Tyrrell,11,19,43,+1 Lap,,0
+1997,12,Belgian Grand Prix,1997-08-24,Magnussen,Stewart,12,18,43,+1 Lap,,0
+1997,12,Belgian Grand Prix,1997-08-24,Hill,Arrows,13,9,42,+2 Laps,,0
+1997,12,Belgian Grand Prix,1997-08-24,Katayama,Minardi,14,20,42,+2 Laps,,0
+1997,12,Belgian Grand Prix,1997-08-24,Trulli,Prost,15,14,42,+2 Laps,,0
+1997,12,Belgian Grand Prix,1997-08-24,Häkkinen,McLaren,16,5,44,Disqualified,,0
+1997,12,Belgian Grand Prix,1997-08-24,Verstappen,Tyrrell,17,21,25,Spun off,,0
+1997,12,Belgian Grand Prix,1997-08-24,Schumacher,Jordan,18,6,21,Spun off,,0
+1997,12,Belgian Grand Prix,1997-08-24,Coulthard,McLaren,19,10,19,Spun off,,0
+1997,12,Belgian Grand Prix,1997-08-24,Marques,Minardi,20,22,18,Spun off,,0
+1997,12,Belgian Grand Prix,1997-08-24,Barrichello,Stewart,21,12,8,Steering,,0
+1997,12,Belgian Grand Prix,1997-08-24,Nakano,Prost,22,16,5,Electrical,,0
+1997,13,Italian Grand Prix,1997-09-07,Coulthard,McLaren,1,6,53,Finished,1:17:04.609,10
+1997,13,Italian Grand Prix,1997-09-07,Alesi,Benetton,2,1,53,Finished,+1.937,6
+1997,13,Italian Grand Prix,1997-09-07,Frentzen,Williams,3,2,53,Finished,+4.343,4
+1997,13,Italian Grand Prix,1997-09-07,Fisichella,Jordan,4,3,53,Finished,+5.871,3
+1997,13,Italian Grand Prix,1997-09-07,Villeneuve,Williams,5,4,53,Finished,+6.416,2
+1997,13,Italian Grand Prix,1997-09-07,Schumacher,Ferrari,6,9,53,Finished,+11.481,1
+1997,13,Italian Grand Prix,1997-09-07,Berger,Benetton,7,7,53,Finished,+12.471,0
+1997,13,Italian Grand Prix,1997-09-07,Irvine,Ferrari,8,10,53,Finished,+17.639,0
+1997,13,Italian Grand Prix,1997-09-07,Häkkinen,McLaren,9,5,53,Finished,+49.373,0
+1997,13,Italian Grand Prix,1997-09-07,Trulli,Prost,10,16,53,Finished,+1:02.706,0
+1997,13,Italian Grand Prix,1997-09-07,Nakano,Prost,11,15,53,Finished,+1:03.327,0
+1997,13,Italian Grand Prix,1997-09-07,Morbidelli,Sauber,12,18,52,+1 Lap,,0
+1997,13,Italian Grand Prix,1997-09-07,Barrichello,Stewart,13,11,52,+1 Lap,,0
+1997,13,Italian Grand Prix,1997-09-07,Marques,Minardi,14,22,50,+3 Laps,,0
+1997,13,Italian Grand Prix,1997-09-07,Hill,Arrows,15,14,46,Engine,,0
+1997,13,Italian Grand Prix,1997-09-07,Schumacher,Jordan,16,8,39,Collision,,0
+1997,13,Italian Grand Prix,1997-09-07,Herbert,Sauber,17,12,38,Collision,,0
+1997,13,Italian Grand Prix,1997-09-07,Salo,Tyrrell,18,19,33,Engine,,0
+1997,13,Italian Grand Prix,1997-09-07,Magnussen,Stewart,19,13,31,Transmission,,0
+1997,13,Italian Grand Prix,1997-09-07,Verstappen,Tyrrell,20,20,12,Gearbox,,0
+1997,13,Italian Grand Prix,1997-09-07,Katayama,Minardi,21,21,8,Spun off,,0
+1997,13,Italian Grand Prix,1997-09-07,Diniz,Arrows,22,17,4,Suspension,,0
+1997,14,Austrian Grand Prix,1997-09-21,Villeneuve,Williams,1,1,71,Finished,1:27:35.999,10
+1997,14,Austrian Grand Prix,1997-09-21,Coulthard,McLaren,2,10,71,Finished,+2.909,6
+1997,14,Austrian Grand Prix,1997-09-21,Frentzen,Williams,3,4,71,Finished,+3.962,4
+1997,14,Austrian Grand Prix,1997-09-21,Fisichella,Jordan,4,14,71,Finished,+12.127,3
+1997,14,Austrian Grand Prix,1997-09-21,Schumacher,Jordan,5,11,71,Finished,+31.859,2
+1997,14,Austrian Grand Prix,1997-09-21,Schumacher,Ferrari,6,9,71,Finished,+33.410,1
+1997,14,Austrian Grand Prix,1997-09-21,Hill,Arrows,7,7,71,Finished,+37.207,0
+1997,14,Austrian Grand Prix,1997-09-21,Herbert,Sauber,8,12,71,Finished,+49.057,0
+1997,14,Austrian Grand Prix,1997-09-21,Morbidelli,Sauber,9,13,71,Finished,+1:06.455,0
+1997,14,Austrian Grand Prix,1997-09-21,Berger,Benetton,10,18,70,+1 Lap,,0
+1997,14,Austrian Grand Prix,1997-09-21,Katayama,Minardi,11,19,69,+2 Laps,,0
+1997,14,Austrian Grand Prix,1997-09-21,Verstappen,Tyrrell,12,20,69,+2 Laps,,0
+1997,14,Austrian Grand Prix,1997-09-21,Diniz,Arrows,13,17,67,+4 Laps,,0
+1997,14,Austrian Grand Prix,1997-09-21,Barrichello,Stewart,14,5,64,Spun off,,0
+1997,14,Austrian Grand Prix,1997-09-21,Trulli,Prost,15,3,58,Engine,,0
+1997,14,Austrian Grand Prix,1997-09-21,Magnussen,Stewart,16,6,58,Engine,,0
+1997,14,Austrian Grand Prix,1997-09-21,Nakano,Prost,17,16,57,Engine,,0
+1997,14,Austrian Grand Prix,1997-09-21,Salo,Tyrrell,18,21,48,Gearbox,,0
+1997,14,Austrian Grand Prix,1997-09-21,Irvine,Ferrari,19,8,38,Collision,,0
+1997,14,Austrian Grand Prix,1997-09-21,Alesi,Benetton,20,15,37,Collision,,0
+1997,14,Austrian Grand Prix,1997-09-21,Häkkinen,McLaren,21,2,1,Engine,,0
+1997,14,Austrian Grand Prix,1997-09-21,Marques,Minardi,22,0,0,Underweight,,0
+1997,15,Luxembourg Grand Prix,1997-09-28,Villeneuve,Williams,1,2,67,Finished,1:31:27.843,10
+1997,15,Luxembourg Grand Prix,1997-09-28,Alesi,Benetton,2,10,67,Finished,+11.770,6
+1997,15,Luxembourg Grand Prix,1997-09-28,Frentzen,Williams,3,3,67,Finished,+13.480,4
+1997,15,Luxembourg Grand Prix,1997-09-28,Berger,Benetton,4,7,67,Finished,+16.416,3
+1997,15,Luxembourg Grand Prix,1997-09-28,Diniz,Arrows,5,15,67,Finished,+43.147,2
+1997,15,Luxembourg Grand Prix,1997-09-28,Panis,Prost,6,11,67,Finished,+43.750,1
+1997,15,Luxembourg Grand Prix,1997-09-28,Herbert,Sauber,7,16,67,Finished,+44.354,0
+1997,15,Luxembourg Grand Prix,1997-09-28,Hill,Arrows,8,13,67,Finished,+44.777,0
+1997,15,Luxembourg Grand Prix,1997-09-28,Morbidelli,Sauber,9,19,66,+1 Lap,,0
+1997,15,Luxembourg Grand Prix,1997-09-28,Salo,Tyrrell,10,20,66,+1 Lap,,0
+1997,15,Luxembourg Grand Prix,1997-09-28,Verstappen,Tyrrell,11,21,50,Spun off,,0
+1997,15,Luxembourg Grand Prix,1997-09-28,Häkkinen,McLaren,12,1,43,Engine,,0
+1997,15,Luxembourg Grand Prix,1997-09-28,Barrichello,Stewart,13,9,43,Gearbox,,0
+1997,15,Luxembourg Grand Prix,1997-09-28,Coulthard,McLaren,14,6,42,Engine,,0
+1997,15,Luxembourg Grand Prix,1997-09-28,Magnussen,Stewart,15,12,40,Halfshaft,,0
+1997,15,Luxembourg Grand Prix,1997-09-28,Irvine,Ferrari,16,14,22,Engine,,0
+1997,15,Luxembourg Grand Prix,1997-09-28,Nakano,Prost,17,17,16,Engine,,0
+1997,15,Luxembourg Grand Prix,1997-09-28,Schumacher,Ferrari,18,5,2,Suspension,,0
+1997,15,Luxembourg Grand Prix,1997-09-28,Marques,Minardi,19,18,1,Engine,,0
+1997,15,Luxembourg Grand Prix,1997-09-28,Katayama,Minardi,20,22,1,Collision,,0
+1997,15,Luxembourg Grand Prix,1997-09-28,Fisichella,Jordan,21,4,0,Collision,,0
+1997,15,Luxembourg Grand Prix,1997-09-28,Schumacher,Jordan,22,8,0,Collision,,0
+1997,16,Japanese Grand Prix,1997-10-12,Schumacher,Ferrari,1,2,53,Finished,1:29:48.446,10
+1997,16,Japanese Grand Prix,1997-10-12,Frentzen,Williams,2,6,53,Finished,+1.378,6
+1997,16,Japanese Grand Prix,1997-10-12,Irvine,Ferrari,3,3,53,Finished,+26.384,4
+1997,16,Japanese Grand Prix,1997-10-12,Häkkinen,McLaren,4,4,53,Finished,+27.129,3
+1997,16,Japanese Grand Prix,1997-10-12,Alesi,Benetton,5,7,53,Finished,+40.403,2
+1997,16,Japanese Grand Prix,1997-10-12,Herbert,Sauber,6,8,53,Finished,+41.630,1
+1997,16,Japanese Grand Prix,1997-10-12,Fisichella,Jordan,7,9,53,Finished,+56.825,0
+1997,16,Japanese Grand Prix,1997-10-12,Berger,Benetton,8,5,53,Finished,+1:00.429,0
+1997,16,Japanese Grand Prix,1997-10-12,Schumacher,Jordan,9,13,53,Finished,+1:22.036,0
+1997,16,Japanese Grand Prix,1997-10-12,Coulthard,McLaren,10,11,52,Engine,,0
+1997,16,Japanese Grand Prix,1997-10-12,Hill,Arrows,11,17,52,+1 Lap,,0
+1997,16,Japanese Grand Prix,1997-10-12,Diniz,Arrows,12,16,52,+1 Lap,,0
+1997,16,Japanese Grand Prix,1997-10-12,Verstappen,Tyrrell,13,21,52,+1 Lap,,0
+1997,16,Japanese Grand Prix,1997-10-12,Villeneuve,Williams,14,1,53,Disqualified,,0
+1997,16,Japanese Grand Prix,1997-10-12,Marques,Minardi,15,20,46,Gearbox,,0
+1997,16,Japanese Grand Prix,1997-10-12,Salo,Tyrrell,16,22,46,Engine,,0
+1997,16,Japanese Grand Prix,1997-10-12,Panis,Prost,17,10,36,Engine,,0
+1997,16,Japanese Grand Prix,1997-10-12,Nakano,Prost,18,15,22,Wheel bearing,,0
+1997,16,Japanese Grand Prix,1997-10-12,Katayama,Minardi,19,19,8,Engine,,0
+1997,16,Japanese Grand Prix,1997-10-12,Barrichello,Stewart,20,12,6,Spun off,,0
+1997,16,Japanese Grand Prix,1997-10-12,Magnussen,Stewart,21,14,3,Spun off,,0
+1997,16,Japanese Grand Prix,1997-10-12,Morbidelli,Sauber,22,0,0,Injury,,0
+1997,17,European Grand Prix,1997-10-26,Häkkinen,McLaren,1,5,69,Finished,1:38:57.771,10
+1997,17,European Grand Prix,1997-10-26,Coulthard,McLaren,2,6,69,Finished,+1.654,6
+1997,17,European Grand Prix,1997-10-26,Villeneuve,Williams,3,1,69,Finished,+1.803,4
+1997,17,European Grand Prix,1997-10-26,Berger,Benetton,4,8,69,Finished,+1.919,3
+1997,17,European Grand Prix,1997-10-26,Irvine,Ferrari,5,7,69,Finished,+3.789,2
+1997,17,European Grand Prix,1997-10-26,Frentzen,Williams,6,3,69,Finished,+4.537,1
+1997,17,European Grand Prix,1997-10-26,Panis,Prost,7,9,69,Finished,+1:07.145,0
+1997,17,European Grand Prix,1997-10-26,Herbert,Sauber,8,14,69,Finished,+1:12.961,0
+1997,17,European Grand Prix,1997-10-26,Magnussen,Stewart,9,11,69,Finished,+1:17.487,0
+1997,17,European Grand Prix,1997-10-26,Nakano,Prost,10,15,69,Finished,+1:18.215,0
+1997,17,European Grand Prix,1997-10-26,Fisichella,Jordan,11,17,68,+1 Lap,,0
+1997,17,European Grand Prix,1997-10-26,Salo,Tyrrell,12,21,68,+1 Lap,,0
+1997,17,European Grand Prix,1997-10-26,Alesi,Benetton,13,10,68,+1 Lap,,0
+1997,17,European Grand Prix,1997-10-26,Fontana,Sauber,14,18,68,+1 Lap,,0
+1997,17,European Grand Prix,1997-10-26,Marques,Minardi,15,20,68,+1 Lap,,0
+1997,17,European Grand Prix,1997-10-26,Verstappen,Tyrrell,16,22,68,+1 Lap,,0
+1997,17,European Grand Prix,1997-10-26,Katayama,Minardi,17,19,68,+1 Lap,,0
+1997,17,European Grand Prix,1997-10-26,Schumacher,Ferrari,18,2,47,Collision,,0
+1997,17,European Grand Prix,1997-10-26,Hill,Arrows,19,4,47,Gearbox,,0
+1997,17,European Grand Prix,1997-10-26,Schumacher,Jordan,20,16,44,Water leak,,0
+1997,17,European Grand Prix,1997-10-26,Barrichello,Stewart,21,12,30,Gearbox,,0
+1997,17,European Grand Prix,1997-10-26,Diniz,Arrows,22,13,11,Spun off,,0

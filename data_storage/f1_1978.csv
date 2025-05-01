@@ -1,0 +1,472 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1978,1,Argentine Grand Prix,1978-01-15,Andretti,Team Lotus,1,1,52,Finished,1:37:04.47,9
+1978,1,Argentine Grand Prix,1978-01-15,Lauda,Brabham,2,5,52,Finished,+13.21,6
+1978,1,Argentine Grand Prix,1978-01-15,Depailler,Tyrrell,3,10,52,Finished,+13.64,4
+1978,1,Argentine Grand Prix,1978-01-15,Hunt,McLaren,4,6,52,Finished,+16.05,3
+1978,1,Argentine Grand Prix,1978-01-15,Peterson,Team Lotus,5,3,52,Finished,+1:14.85,2
+1978,1,Argentine Grand Prix,1978-01-15,Tambay,McLaren,6,9,52,Finished,+1:19.90,1
+1978,1,Argentine Grand Prix,1978-01-15,Reutemann,Ferrari,7,2,52,Finished,+1:22.60,0
+1978,1,Argentine Grand Prix,1978-01-15,Villeneuve,Ferrari,8,7,52,Finished,+1:38.88,0
+1978,1,Argentine Grand Prix,1978-01-15,Fittipaldi,Fittipaldi,9,17,52,Finished,+1:40.60,0
+1978,1,Argentine Grand Prix,1978-01-15,Scheckter,Wolf,10,15,52,Finished,+1:43.50,0
+1978,1,Argentine Grand Prix,1978-01-15,Mass,ATS,11,13,52,Finished,+1:49.07,0
+1978,1,Argentine Grand Prix,1978-01-15,Jarier,ATS,12,11,51,+1 Lap,,0
+1978,1,Argentine Grand Prix,1978-01-15,Lunger,McLaren,13,24,51,+1 Lap,,0
+1978,1,Argentine Grand Prix,1978-01-15,Pironi,Tyrrell,14,23,51,+1 Lap,,0
+1978,1,Argentine Grand Prix,1978-01-15,Regazzoni,Shadow,15,16,51,+1 Lap,,0
+1978,1,Argentine Grand Prix,1978-01-15,Laffite,Ligier,16,8,50,Engine,,0
+1978,1,Argentine Grand Prix,1978-01-15,Stuck,Shadow,17,18,50,+2 Laps,,0
+1978,1,Argentine Grand Prix,1978-01-15,Brambilla,Surtees,18,12,50,+2 Laps,,0
+1978,1,Argentine Grand Prix,1978-01-15,Watson,Brabham,19,4,41,Engine,,0
+1978,1,Argentine Grand Prix,1978-01-15,Jones,Williams,20,14,36,Fuel system,,0
+1978,1,Argentine Grand Prix,1978-01-15,Ongais,Ensign,21,21,35,Distributor,,0
+1978,1,Argentine Grand Prix,1978-01-15,Leoni,Ensign,22,22,28,Engine,,0
+1978,1,Argentine Grand Prix,1978-01-15,Merzario,Merzario,23,20,9,Differential,,0
+1978,1,Argentine Grand Prix,1978-01-15,Keegan,Surtees,24,19,4,Overheating,,0
+1978,1,Argentine Grand Prix,1978-01-15,Rebaque,Team Lotus,25,0,0,Did not qualify,,0
+1978,1,Argentine Grand Prix,1978-01-15,Cheever,Theodore,26,0,0,Did not qualify,,0
+1978,1,Argentine Grand Prix,1978-01-15,Galica,Hesketh,27,0,0,Did not qualify,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Reutemann,Ferrari,1,4,63,Finished,1:49:59.86,9
+1978,2,Brazilian Grand Prix,1978-01-29,Fittipaldi,Fittipaldi,2,7,63,Finished,+49.13,6
+1978,2,Brazilian Grand Prix,1978-01-29,Lauda,Brabham,3,10,63,Finished,+57.02,4
+1978,2,Brazilian Grand Prix,1978-01-29,Andretti,Team Lotus,4,3,63,Finished,+1:33.12,3
+1978,2,Brazilian Grand Prix,1978-01-29,Regazzoni,Shadow,5,15,62,+1 Lap,,2
+1978,2,Brazilian Grand Prix,1978-01-29,Pironi,Tyrrell,6,19,62,+1 Lap,,1
+1978,2,Brazilian Grand Prix,1978-01-29,Mass,ATS,7,20,62,+1 Lap,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Watson,Brabham,8,21,61,+2 Laps,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Laffite,Ligier,9,14,61,+2 Laps,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Patrese,Arrows,10,18,59,+4 Laps,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Jones,Williams,11,8,58,+5 Laps,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Rebaque,Team Lotus,12,22,40,Physical,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Villeneuve,Ferrari,13,6,35,Spun off,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Tambay,McLaren,14,5,34,Spun off,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Hunt,McLaren,15,2,25,Spun off,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Stuck,Shadow,16,9,25,Fuel system,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Scheckter,Wolf,17,12,16,Accident,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Peterson,Team Lotus,18,1,15,Collision,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Ongais,Ensign,19,23,13,Brakes,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Lunger,McLaren,20,13,11,Overheating,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Depailler,Tyrrell,21,11,8,Accident,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Keegan,Surtees,22,24,5,Accident,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Leoni,Ensign,23,17,0,Transmission,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Jarier,ATS,24,16,0,Withdrew,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Merzario,Merzario,25,0,0,Did not qualify,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Cheever,Theodore,26,0,0,Did not qualify,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Brambilla,Surtees,27,0,0,Did not qualify,,0
+1978,2,Brazilian Grand Prix,1978-01-29,Galica,Hesketh,28,0,0,Did not qualify,,0
+1978,3,South African Grand Prix,1978-03-04,Peterson,Team Lotus,1,12,78,Finished,1:42:15.767,9
+1978,3,South African Grand Prix,1978-03-04,Depailler,Tyrrell,2,11,78,Finished,+0.466,6
+1978,3,South African Grand Prix,1978-03-04,Watson,Brabham,3,10,78,Finished,+4.442,4
+1978,3,South African Grand Prix,1978-03-04,Jones,Williams,4,18,78,Finished,+30.986,3
+1978,3,South African Grand Prix,1978-03-04,Laffite,Ligier,5,13,78,Finished,+1:09.218,2
+1978,3,South African Grand Prix,1978-03-04,Pironi,Tyrrell,6,14,77,+1 Lap,,1
+1978,3,South African Grand Prix,1978-03-04,Andretti,Team Lotus,7,2,77,+1 Lap,,0
+1978,3,South African Grand Prix,1978-03-04,Jarier,ATS,8,17,77,+1 Lap,,0
+1978,3,South African Grand Prix,1978-03-04,Stommelen,Arrows,9,22,77,+1 Lap,,0
+1978,3,South African Grand Prix,1978-03-04,Rebaque,Team Lotus,10,21,77,+1 Lap,,0
+1978,3,South African Grand Prix,1978-03-04,Lunger,McLaren,11,20,76,+2 Laps,,0
+1978,3,South African Grand Prix,1978-03-04,Brambilla,Surtees,12,19,76,+2 Laps,,0
+1978,3,South African Grand Prix,1978-03-04,Patrese,Arrows,13,7,63,Engine,,0
+1978,3,South African Grand Prix,1978-03-04,Scheckter,Wolf,14,5,59,Spun off,,0
+1978,3,South African Grand Prix,1978-03-04,Tambay,McLaren,15,4,56,Accident,,0
+1978,3,South African Grand Prix,1978-03-04,Villeneuve,Ferrari,16,8,55,Oil leak,,0
+1978,3,South African Grand Prix,1978-03-04,Reutemann,Ferrari,17,9,55,Spun off,,0
+1978,3,South African Grand Prix,1978-03-04,Lauda,Brabham,18,1,52,Engine,,0
+1978,3,South African Grand Prix,1978-03-04,Keegan,Surtees,19,23,52,Engine,,0
+1978,3,South African Grand Prix,1978-03-04,Mass,ATS,20,15,43,Engine,,0
+1978,3,South African Grand Prix,1978-03-04,Merzario,Merzario,21,26,39,Suspension,,0
+1978,3,South African Grand Prix,1978-03-04,Jabouille,Renault,22,6,38,Engine,,0
+1978,3,South African Grand Prix,1978-03-04,Rosberg,Theodore,23,24,15,Clutch,,0
+1978,3,South African Grand Prix,1978-03-04,Fittipaldi,Fittipaldi,24,16,9,Transmission,,0
+1978,3,South African Grand Prix,1978-03-04,Cheever,Hesketh,25,25,8,Oil leak,,0
+1978,3,South African Grand Prix,1978-03-04,Hunt,McLaren,26,3,5,Engine,,0
+1978,3,South African Grand Prix,1978-03-04,Arnoux,Martini,27,0,0,Did not qualify,,0
+1978,3,South African Grand Prix,1978-03-04,Regazzoni,Shadow,28,0,0,Did not qualify,,0
+1978,3,South African Grand Prix,1978-03-04,Leoni,Ensign,29,0,0,Did not qualify,,0
+1978,3,South African Grand Prix,1978-03-04,Stuck,Shadow,30,0,0,Did not qualify,,0
+1978,4,United States Grand Prix West,1978-04-02,Reutemann,Ferrari,1,1,80,Finished,1:52:01.301,9
+1978,4,United States Grand Prix West,1978-04-02,Andretti,Team Lotus,2,4,80,Finished,+11.061,6
+1978,4,United States Grand Prix West,1978-04-02,Depailler,Tyrrell,3,12,80,Finished,+28.951,4
+1978,4,United States Grand Prix West,1978-04-02,Peterson,Team Lotus,4,6,80,Finished,+45.603,3
+1978,4,United States Grand Prix West,1978-04-02,Laffite,Ligier,5,14,80,Finished,+1:22.884,2
+1978,4,United States Grand Prix West,1978-04-02,Patrese,Arrows,6,9,79,+1 Lap,,1
+1978,4,United States Grand Prix West,1978-04-02,Jones,Williams,7,8,79,+1 Lap,,0
+1978,4,United States Grand Prix West,1978-04-02,Fittipaldi,Fittipaldi,8,15,79,+1 Lap,,0
+1978,4,United States Grand Prix West,1978-04-02,Stommelen,Arrows,9,18,79,+1 Lap,,0
+1978,4,United States Grand Prix West,1978-04-02,Regazzoni,Shadow,10,20,79,+1 Lap,,0
+1978,4,United States Grand Prix West,1978-04-02,Jarier,ATS,11,19,75,+5 Laps,,0
+1978,4,United States Grand Prix West,1978-04-02,Tambay,McLaren,12,11,74,Accident,,0
+1978,4,United States Grand Prix West,1978-04-02,Scheckter,Wolf,13,10,59,Accident,,0
+1978,4,United States Grand Prix West,1978-04-02,Brambilla,Surtees,14,17,50,Transmission,,0
+1978,4,United States Grand Prix West,1978-04-02,Jabouille,Renault,15,13,43,Turbo,,0
+1978,4,United States Grand Prix West,1978-04-02,Villeneuve,Ferrari,16,2,38,Accident,,0
+1978,4,United States Grand Prix West,1978-04-02,Lauda,Brabham,17,3,27,Ignition,,0
+1978,4,United States Grand Prix West,1978-04-02,Pironi,Tyrrell,18,22,25,Gearbox,,0
+1978,4,United States Grand Prix West,1978-04-02,Merzario,Merzario,19,21,17,Gearbox,,0
+1978,4,United States Grand Prix West,1978-04-02,Mass,ATS,20,16,11,Brakes,,0
+1978,4,United States Grand Prix West,1978-04-02,Watson,Brabham,21,5,9,Gearbox,,0
+1978,4,United States Grand Prix West,1978-04-02,Hunt,McLaren,22,7,5,Accident,,0
+1978,4,United States Grand Prix West,1978-04-02,Keegan,Surtees,23,0,0,Accident,,0
+1978,4,United States Grand Prix West,1978-04-02,Stuck,Shadow,24,0,0,Accident,,0
+1978,4,United States Grand Prix West,1978-04-02,Lunger,McLaren,25,0,0,Did not qualify,,0
+1978,4,United States Grand Prix West,1978-04-02,Leoni,Ensign,26,0,0,Did not qualify,,0
+1978,4,United States Grand Prix West,1978-04-02,Rosberg,Theodore,27,0,0,Did not prequalify,,0
+1978,4,United States Grand Prix West,1978-04-02,Rebaque,Team Lotus,28,0,0,Did not prequalify,,0
+1978,4,United States Grand Prix West,1978-04-02,Ongais,Shadow,29,0,0,Did not prequalify,,0
+1978,4,United States Grand Prix West,1978-04-02,Daly,Hesketh,30,0,0,Did not prequalify,,0
+1978,5,Monaco Grand Prix,1978-05-07,Depailler,Tyrrell,1,5,75,Finished,1:55:14.66,9
+1978,5,Monaco Grand Prix,1978-05-07,Lauda,Brabham,2,3,75,Finished,+22.45,6
+1978,5,Monaco Grand Prix,1978-05-07,Scheckter,Wolf,3,9,75,Finished,+32.29,4
+1978,5,Monaco Grand Prix,1978-05-07,Watson,Brabham,4,2,75,Finished,+33.53,3
+1978,5,Monaco Grand Prix,1978-05-07,Pironi,Tyrrell,5,13,75,Finished,+1:08.06,2
+1978,5,Monaco Grand Prix,1978-05-07,Patrese,Arrows,6,14,75,Finished,+1:08.77,1
+1978,5,Monaco Grand Prix,1978-05-07,Tambay,McLaren,7,11,74,+1 Lap,,0
+1978,5,Monaco Grand Prix,1978-05-07,Reutemann,Ferrari,8,1,74,+1 Lap,,0
+1978,5,Monaco Grand Prix,1978-05-07,Fittipaldi,Fittipaldi,9,20,74,+1 Lap,,0
+1978,5,Monaco Grand Prix,1978-05-07,Jabouille,Renault,10,12,71,+4 Laps,,0
+1978,5,Monaco Grand Prix,1978-05-07,Andretti,Team Lotus,11,4,69,+6 Laps,,0
+1978,5,Monaco Grand Prix,1978-05-07,Villeneuve,Ferrari,12,8,62,Accident,,0
+1978,5,Monaco Grand Prix,1978-05-07,Peterson,Team Lotus,13,7,56,Gearbox,,0
+1978,5,Monaco Grand Prix,1978-05-07,Hunt,McLaren,14,6,43,Handling,,0
+1978,5,Monaco Grand Prix,1978-05-07,Stommelen,Arrows,15,19,38,Driver unwell,,0
+1978,5,Monaco Grand Prix,1978-05-07,Jones,Williams,16,10,29,Oil leak,,0
+1978,5,Monaco Grand Prix,1978-05-07,Ickx,Ensign,17,16,27,Brakes,,0
+1978,5,Monaco Grand Prix,1978-05-07,Stuck,Shadow,18,17,24,Accident,,0
+1978,5,Monaco Grand Prix,1978-05-07,Laffite,Ligier,19,15,13,Gearbox,,0
+1978,5,Monaco Grand Prix,1978-05-07,Keegan,Surtees,20,18,8,Transmission,,0
+1978,5,Monaco Grand Prix,1978-05-07,Mass,ATS,21,0,0,Did not qualify,,0
+1978,5,Monaco Grand Prix,1978-05-07,Regazzoni,Shadow,22,0,0,Did not qualify,,0
+1978,5,Monaco Grand Prix,1978-05-07,Jarier,ATS,23,0,0,Did not qualify,,0
+1978,5,Monaco Grand Prix,1978-05-07,Brambilla,Surtees,24,0,0,Did not qualify,,0
+1978,5,Monaco Grand Prix,1978-05-07,Rosberg,Theodore,25,0,0,Did not prequalify,,0
+1978,5,Monaco Grand Prix,1978-05-07,Daly,Hesketh,26,0,0,Did not prequalify,,0
+1978,5,Monaco Grand Prix,1978-05-07,Arnoux,Martini,27,0,0,Did not prequalify,,0
+1978,5,Monaco Grand Prix,1978-05-07,Rebaque,Team Lotus,28,0,0,Did not prequalify,,0
+1978,5,Monaco Grand Prix,1978-05-07,Lunger,McLaren,29,0,0,Did not prequalify,,0
+1978,5,Monaco Grand Prix,1978-05-07,Merzario,Merzario,30,0,0,Did not prequalify,,0
+1978,6,Belgian Grand Prix,1978-05-21,Andretti,Team Lotus,1,1,70,Finished,1:39:52.02,9
+1978,6,Belgian Grand Prix,1978-05-21,Peterson,Team Lotus,2,7,70,Finished,+9.90,6
+1978,6,Belgian Grand Prix,1978-05-21,Reutemann,Ferrari,3,2,70,Finished,+24.34,4
+1978,6,Belgian Grand Prix,1978-05-21,Villeneuve,Ferrari,4,4,70,Finished,+47.04,3
+1978,6,Belgian Grand Prix,1978-05-21,Laffite,Ligier,5,14,69,Accident,,2
+1978,6,Belgian Grand Prix,1978-05-21,Pironi,Tyrrell,6,23,69,+1 Lap,,1
+1978,6,Belgian Grand Prix,1978-05-21,Lunger,McLaren,7,24,69,+1 Lap,,0
+1978,6,Belgian Grand Prix,1978-05-21,Giacomelli,McLaren,8,21,69,+1 Lap,,0
+1978,6,Belgian Grand Prix,1978-05-21,Arnoux,Martini,9,19,68,+2 Laps,,0
+1978,6,Belgian Grand Prix,1978-05-21,Jones,Williams,10,11,68,+2 Laps,,0
+1978,6,Belgian Grand Prix,1978-05-21,Mass,ATS,11,16,68,+2 Laps,,0
+1978,6,Belgian Grand Prix,1978-05-21,Ickx,Ensign,12,22,64,+6 Laps,,0
+1978,6,Belgian Grand Prix,1978-05-21,Brambilla,Surtees,13,12,63,Engine,,0
+1978,6,Belgian Grand Prix,1978-05-21,Stuck,Shadow,14,10,56,Spun off,,0
+1978,6,Belgian Grand Prix,1978-05-21,Jabouille,Renault,15,20,56,Not classified,,0
+1978,6,Belgian Grand Prix,1978-05-21,Scheckter,Wolf,16,5,53,Spun off,,0
+1978,6,Belgian Grand Prix,1978-05-21,Depailler,Tyrrell,17,13,51,Gearbox,,0
+1978,6,Belgian Grand Prix,1978-05-21,Regazzoni,Shadow,18,18,40,Transmission,,0
+1978,6,Belgian Grand Prix,1978-05-21,Patrese,Arrows,19,8,31,Suspension,,0
+1978,6,Belgian Grand Prix,1978-05-21,Stommelen,Arrows,20,17,26,Spun off,,0
+1978,6,Belgian Grand Prix,1978-05-21,Watson,Brabham,21,9,18,Accident,,0
+1978,6,Belgian Grand Prix,1978-05-21,Lauda,Brabham,22,3,0,Accident,,0
+1978,6,Belgian Grand Prix,1978-05-21,Hunt,McLaren,23,6,0,Accident,,0
+1978,6,Belgian Grand Prix,1978-05-21,Fittipaldi,Fittipaldi,24,15,0,Accident,,0
+1978,6,Belgian Grand Prix,1978-05-21,Keegan,Surtees,25,0,0,Did not qualify,,0
+1978,6,Belgian Grand Prix,1978-05-21,Daly,Hesketh,26,0,0,Did not qualify,,0
+1978,6,Belgian Grand Prix,1978-05-21,Rosberg,Theodore,27,0,0,Did not qualify,,0
+1978,6,Belgian Grand Prix,1978-05-21,Colombo,ATS,28,0,0,Did not qualify,,0
+1978,6,Belgian Grand Prix,1978-05-21,Rebaque,Team Lotus,29,0,0,Did not prequalify,,0
+1978,6,Belgian Grand Prix,1978-05-21,Merzario,Merzario,30,0,0,Did not prequalify,,0
+1978,7,Spanish Grand Prix,1978-06-04,Andretti,Team Lotus,1,1,75,Finished,1:41:47.06,9
+1978,7,Spanish Grand Prix,1978-06-04,Peterson,Team Lotus,2,2,75,Finished,+19.56,6
+1978,7,Spanish Grand Prix,1978-06-04,Laffite,Ligier,3,10,75,Finished,+37.24,4
+1978,7,Spanish Grand Prix,1978-06-04,Scheckter,Wolf,4,9,75,Finished,+1:00.06,3
+1978,7,Spanish Grand Prix,1978-06-04,Watson,Brabham,5,7,75,Finished,+1:05.93,2
+1978,7,Spanish Grand Prix,1978-06-04,Hunt,McLaren,6,4,74,+1 Lap,,1
+1978,7,Spanish Grand Prix,1978-06-04,Brambilla,Surtees,7,16,74,+1 Lap,,0
+1978,7,Spanish Grand Prix,1978-06-04,Jones,Williams,8,18,74,+1 Lap,,0
+1978,7,Spanish Grand Prix,1978-06-04,Mass,ATS,9,17,74,+1 Lap,,0
+1978,7,Spanish Grand Prix,1978-06-04,Villeneuve,Ferrari,10,5,74,+1 Lap,,0
+1978,7,Spanish Grand Prix,1978-06-04,Keegan,Surtees,11,23,73,+2 Laps,,0
+1978,7,Spanish Grand Prix,1978-06-04,Pironi,Tyrrell,12,13,71,+4 Laps,,0
+1978,7,Spanish Grand Prix,1978-06-04,Jabouille,Renault,13,11,71,+4 Laps,,0
+1978,7,Spanish Grand Prix,1978-06-04,Stommelen,Arrows,14,19,71,+4 Laps,,0
+1978,7,Spanish Grand Prix,1978-06-04,Regazzoni,Shadow,15,22,67,Fuel pipe,,0
+1978,7,Spanish Grand Prix,1978-06-04,Ickx,Ensign,16,21,64,Engine,,0
+1978,7,Spanish Grand Prix,1978-06-04,Fittipaldi,Fittipaldi,17,15,62,Throttle,,0
+1978,7,Spanish Grand Prix,1978-06-04,Reutemann,Ferrari,18,3,57,Accident,,0
+1978,7,Spanish Grand Prix,1978-06-04,Lauda,Brabham,19,6,56,Engine,,0
+1978,7,Spanish Grand Prix,1978-06-04,Depailler,Tyrrell,20,12,51,Engine,,0
+1978,7,Spanish Grand Prix,1978-06-04,Stuck,Shadow,21,24,45,Suspension,,0
+1978,7,Spanish Grand Prix,1978-06-04,Patrese,Arrows,22,8,21,Engine,,0
+1978,7,Spanish Grand Prix,1978-06-04,Rebaque,Team Lotus,23,20,21,Exhaust,,0
+1978,7,Spanish Grand Prix,1978-06-04,Tambay,McLaren,24,14,16,Spun off,,0
+1978,7,Spanish Grand Prix,1978-06-04,Merzario,Merzario,25,0,0,Did not qualify,,0
+1978,7,Spanish Grand Prix,1978-06-04,Lunger,McLaren,26,0,0,Did not qualify,,0
+1978,7,Spanish Grand Prix,1978-06-04,de Villota,McLaren,27,0,0,Did not qualify,,0
+1978,7,Spanish Grand Prix,1978-06-04,Colombo,ATS,28,0,0,Did not qualify,,0
+1978,7,Spanish Grand Prix,1978-06-04,Rosberg,Theodore,29,0,0,Did not prequalify,,0
+1978,8,Swedish Grand Prix,1978-06-17,Lauda,Brabham,1,3,70,Finished,1:41:00.606,9
+1978,8,Swedish Grand Prix,1978-06-17,Patrese,Arrows,2,5,70,Finished,+34.019,6
+1978,8,Swedish Grand Prix,1978-06-17,Peterson,Team Lotus,3,4,70,Finished,+34.105,4
+1978,8,Swedish Grand Prix,1978-06-17,Tambay,McLaren,4,15,69,+1 Lap,,3
+1978,8,Swedish Grand Prix,1978-06-17,Regazzoni,Shadow,5,16,69,+1 Lap,,2
+1978,8,Swedish Grand Prix,1978-06-17,Fittipaldi,Fittipaldi,6,13,69,+1 Lap,,1
+1978,8,Swedish Grand Prix,1978-06-17,Laffite,Ligier,7,11,69,+1 Lap,,0
+1978,8,Swedish Grand Prix,1978-06-17,Hunt,McLaren,8,14,69,+1 Lap,,0
+1978,8,Swedish Grand Prix,1978-06-17,Villeneuve,Ferrari,9,7,69,+1 Lap,,0
+1978,8,Swedish Grand Prix,1978-06-17,Reutemann,Ferrari,10,8,69,+1 Lap,,0
+1978,8,Swedish Grand Prix,1978-06-17,Stuck,Shadow,11,20,68,+2 Laps,,0
+1978,8,Swedish Grand Prix,1978-06-17,Rebaque,Team Lotus,12,21,68,+2 Laps,,0
+1978,8,Swedish Grand Prix,1978-06-17,Mass,ATS,13,19,68,+2 Laps,,0
+1978,8,Swedish Grand Prix,1978-06-17,Stommelen,Arrows,14,24,67,+3 Laps,,0
+1978,8,Swedish Grand Prix,1978-06-17,Rosberg,ATS,15,23,63,+7 Laps,,0
+1978,8,Swedish Grand Prix,1978-06-17,Merzario,Merzario,16,22,62,+8 Laps,,0
+1978,8,Swedish Grand Prix,1978-06-17,Andretti,Team Lotus,17,1,46,Engine,,0
+1978,8,Swedish Grand Prix,1978-06-17,Jones,Williams,18,9,46,Wheel,,0
+1978,8,Swedish Grand Prix,1978-06-17,Depailler,Tyrrell,19,12,42,Suspension,,0
+1978,8,Swedish Grand Prix,1978-06-17,Jabouille,Renault,20,10,28,Engine,,0
+1978,8,Swedish Grand Prix,1978-06-17,Watson,Brabham,21,2,19,Spun off,,0
+1978,8,Swedish Grand Prix,1978-06-17,Scheckter,Wolf,22,6,16,Overheating,,0
+1978,8,Swedish Grand Prix,1978-06-17,Pironi,Tyrrell,23,17,8,Accident,,0
+1978,8,Swedish Grand Prix,1978-06-17,Brambilla,Surtees,24,18,7,Accident,,0
+1978,8,Swedish Grand Prix,1978-06-17,Keegan,Surtees,25,0,0,Did not qualify,,0
+1978,8,Swedish Grand Prix,1978-06-17,Lunger,McLaren,26,0,0,Did not qualify,,0
+1978,8,Swedish Grand Prix,1978-06-17,Ickx,Ensign,27,0,0,Did not qualify,,0
+1978,9,French Grand Prix,1978-07-02,Andretti,Team Lotus,1,2,54,Finished,1:38:51.92,9
+1978,9,French Grand Prix,1978-07-02,Peterson,Team Lotus,2,5,54,Finished,+2.93,6
+1978,9,French Grand Prix,1978-07-02,Hunt,McLaren,3,4,54,Finished,+19.8,4
+1978,9,French Grand Prix,1978-07-02,Watson,Brabham,4,1,54,Finished,+36.88,3
+1978,9,French Grand Prix,1978-07-02,Jones,Williams,5,14,54,Finished,+41.81,2
+1978,9,French Grand Prix,1978-07-02,Scheckter,Wolf,6,7,54,Finished,+54.53,1
+1978,9,French Grand Prix,1978-07-02,Laffite,Ligier,7,10,54,Finished,+54.74,0
+1978,9,French Grand Prix,1978-07-02,Patrese,Arrows,8,12,54,Finished,+1:24.88,0
+1978,9,French Grand Prix,1978-07-02,Tambay,McLaren,9,6,54,Finished,+1:27.06,0
+1978,9,French Grand Prix,1978-07-02,Pironi,Tyrrell,10,16,54,Finished,+1:29.98,0
+1978,9,French Grand Prix,1978-07-02,Stuck,Shadow,11,20,53,+1 Lap,,0
+1978,9,French Grand Prix,1978-07-02,Villeneuve,Ferrari,12,9,53,+1 Lap,,0
+1978,9,French Grand Prix,1978-07-02,Mass,ATS,13,25,53,+1 Lap,,0
+1978,9,French Grand Prix,1978-07-02,Arnoux,Martini,14,18,53,+1 Lap,,0
+1978,9,French Grand Prix,1978-07-02,Stommelen,Arrows,15,21,53,+1 Lap,,0
+1978,9,French Grand Prix,1978-07-02,Rosberg,ATS,16,26,52,+2 Laps,,0
+1978,9,French Grand Prix,1978-07-02,Brambilla,Surtees,17,19,52,+2 Laps,,0
+1978,9,French Grand Prix,1978-07-02,Reutemann,Ferrari,18,8,49,+5 Laps,,0
+1978,9,French Grand Prix,1978-07-02,Lunger,McLaren,19,24,45,Engine,,0
+1978,9,French Grand Prix,1978-07-02,Fittipaldi,Fittipaldi,20,15,43,Suspension,,0
+1978,9,French Grand Prix,1978-07-02,Keegan,Surtees,21,23,40,Engine,,0
+1978,9,French Grand Prix,1978-07-02,Giacomelli,McLaren,22,22,28,Engine,,0
+1978,9,French Grand Prix,1978-07-02,Lauda,Brabham,23,3,10,Engine,,0
+1978,9,French Grand Prix,1978-07-02,Depailler,Tyrrell,24,13,10,Engine,,0
+1978,9,French Grand Prix,1978-07-02,Regazzoni,Shadow,25,17,4,Electrical,,0
+1978,9,French Grand Prix,1978-07-02,Jabouille,Renault,26,11,1,Engine,,0
+1978,9,French Grand Prix,1978-07-02,Merzario,Merzario,27,0,0,Did not qualify,,0
+1978,9,French Grand Prix,1978-07-02,Daly,Ensign,28,0,0,Did not qualify,,0
+1978,9,French Grand Prix,1978-07-02,Rebaque,Team Lotus,29,0,0,Did not qualify,,0
+1978,10,British Grand Prix,1978-07-16,Reutemann,Ferrari,1,8,76,Finished,1:42:12.39,9
+1978,10,British Grand Prix,1978-07-16,Lauda,Brabham,2,4,76,Finished,+1.23,6
+1978,10,British Grand Prix,1978-07-16,Watson,Brabham,3,9,76,Finished,+37.25,4
+1978,10,British Grand Prix,1978-07-16,Depailler,Tyrrell,4,10,76,Finished,+1:13.27,3
+1978,10,British Grand Prix,1978-07-16,Stuck,Shadow,5,18,75,+1 Lap,,2
+1978,10,British Grand Prix,1978-07-16,Tambay,McLaren,6,20,75,+1 Lap,,1
+1978,10,British Grand Prix,1978-07-16,Giacomelli,McLaren,7,16,75,+1 Lap,,0
+1978,10,British Grand Prix,1978-07-16,Lunger,McLaren,8,24,75,+1 Lap,,0
+1978,10,British Grand Prix,1978-07-16,Brambilla,Surtees,9,25,75,+1 Lap,,0
+1978,10,British Grand Prix,1978-07-16,Laffite,Ligier,10,7,73,+3 Laps,,0
+1978,10,British Grand Prix,1978-07-16,Mass,ATS,11,26,65,+11 Laps,,0
+1978,10,British Grand Prix,1978-07-16,Rosberg,ATS,12,22,59,Suspension,,0
+1978,10,British Grand Prix,1978-07-16,Regazzoni,Shadow,13,17,49,Gearbox,,0
+1978,10,British Grand Prix,1978-07-16,Jabouille,Renault,14,12,46,Turbo,,0
+1978,10,British Grand Prix,1978-07-16,Patrese,Arrows,15,5,40,Suspension,,0
+1978,10,British Grand Prix,1978-07-16,Pironi,Tyrrell,16,19,40,Gearbox,,0
+1978,10,British Grand Prix,1978-07-16,Scheckter,Wolf,17,3,36,Gearbox,,0
+1978,10,British Grand Prix,1978-07-16,Fittipaldi,Fittipaldi,18,11,32,Engine,,0
+1978,10,British Grand Prix,1978-07-16,Merzario,Merzario,19,23,32,Fuel system,,0
+1978,10,British Grand Prix,1978-07-16,Daly,Ensign,20,15,30,Wheel,,0
+1978,10,British Grand Prix,1978-07-16,Andretti,Team Lotus,21,2,28,Engine,,0
+1978,10,British Grand Prix,1978-07-16,Jones,Williams,22,6,26,Transmission,,0
+1978,10,British Grand Prix,1978-07-16,Villeneuve,Ferrari,23,13,19,Transmission,,0
+1978,10,British Grand Prix,1978-07-16,Rebaque,Team Lotus,24,21,15,Gearbox,,0
+1978,10,British Grand Prix,1978-07-16,Hunt,McLaren,25,14,7,Accident,,0
+1978,10,British Grand Prix,1978-07-16,Peterson,Team Lotus,26,1,6,Fuel system,,0
+1978,10,British Grand Prix,1978-07-16,Keegan,Surtees,27,0,0,Did not qualify,,0
+1978,10,British Grand Prix,1978-07-16,Stommelen,Arrows,28,0,0,Did not qualify,,0
+1978,10,British Grand Prix,1978-07-16,Lees,Ensign,29,0,0,Did not qualify,,0
+1978,10,British Grand Prix,1978-07-16,Trimmer,McLaren,30,0,0,Did not qualify,,0
+1978,11,German Grand Prix,1978-07-30,Andretti,Team Lotus,1,1,45,Finished,1:28:00.90,9
+1978,11,German Grand Prix,1978-07-30,Scheckter,Wolf,2,4,45,Finished,+15.35,6
+1978,11,German Grand Prix,1978-07-30,Laffite,Ligier,3,7,45,Finished,+28.01,4
+1978,11,German Grand Prix,1978-07-30,Fittipaldi,Fittipaldi,4,10,45,Finished,+36.88,3
+1978,11,German Grand Prix,1978-07-30,Pironi,Tyrrell,5,16,45,Finished,+57.26,2
+1978,11,German Grand Prix,1978-07-30,Rebaque,Team Lotus,6,18,45,Finished,+1:37.86,1
+1978,11,German Grand Prix,1978-07-30,Watson,Brabham,7,5,45,Finished,+1:39.53,0
+1978,11,German Grand Prix,1978-07-30,Villeneuve,Ferrari,8,15,45,Finished,+1:56.87,0
+1978,11,German Grand Prix,1978-07-30,Patrese,Arrows,9,14,44,+1 Lap,,0
+1978,11,German Grand Prix,1978-07-30,Rosberg,Wolf,10,19,42,+3 Laps,,0
+1978,11,German Grand Prix,1978-07-30,Ertl,Ensign,11,17,41,Engine,,0
+1978,11,German Grand Prix,1978-07-30,Stommelen,Arrows,12,23,42,Disqualified,,0
+1978,11,German Grand Prix,1978-07-30,Peterson,Team Lotus,13,2,36,Gearbox,,0
+1978,11,German Grand Prix,1978-07-30,Hunt,McLaren,14,8,34,Disqualified,,0
+1978,11,German Grand Prix,1978-07-30,Jones,Williams,15,6,31,Fuel system,,0
+1978,11,German Grand Prix,1978-07-30,Piquet,Ensign,16,21,31,Engine,,0
+1978,11,German Grand Prix,1978-07-30,Brambilla,Surtees,17,20,24,Fuel system,,0
+1978,11,German Grand Prix,1978-07-30,Tambay,McLaren,18,11,16,Accident,,0
+1978,11,German Grand Prix,1978-07-30,Reutemann,Ferrari,19,12,14,Fuel system,,0
+1978,11,German Grand Prix,1978-07-30,Lauda,Brabham,20,3,11,Engine,,0
+1978,11,German Grand Prix,1978-07-30,Jabouille,Renault,21,9,5,Engine,,0
+1978,11,German Grand Prix,1978-07-30,Mass,ATS,22,22,1,Accident,,0
+1978,11,German Grand Prix,1978-07-30,Stuck,Shadow,23,24,1,Accident,,0
+1978,11,German Grand Prix,1978-07-30,Depailler,Tyrrell,24,13,0,Accident,,0
+1978,11,German Grand Prix,1978-07-30,Regazzoni,Shadow,25,0,0,Did not qualify,,0
+1978,11,German Grand Prix,1978-07-30,Jarier,ATS,26,0,0,Did not qualify,,0
+1978,11,German Grand Prix,1978-07-30,Keegan,Surtees,27,0,0,Did not qualify,,0
+1978,11,German Grand Prix,1978-07-30,Merzario,Merzario,28,0,0,Did not qualify,,0
+1978,11,German Grand Prix,1978-07-30,Arnoux,Martini,29,0,0,Did not prequalify,,0
+1978,11,German Grand Prix,1978-07-30,Lunger,McLaren,30,0,0,Did not prequalify,,0
+1978,12,Austrian Grand Prix,1978-08-13,Peterson,Team Lotus,1,1,54,Finished,1:41:21.57,9
+1978,12,Austrian Grand Prix,1978-08-13,Depailler,Tyrrell,2,14,54,Finished,+47.44,6
+1978,12,Austrian Grand Prix,1978-08-13,Villeneuve,Ferrari,3,11,54,Finished,+1:39.76,4
+1978,12,Austrian Grand Prix,1978-08-13,Fittipaldi,Fittipaldi,4,6,53,+1 Lap,,3
+1978,12,Austrian Grand Prix,1978-08-13,Laffite,Ligier,5,5,53,+1 Lap,,2
+1978,12,Austrian Grand Prix,1978-08-13,Brambilla,Surtees,6,21,53,+1 Lap,,1
+1978,12,Austrian Grand Prix,1978-08-13,Watson,Brabham,7,10,53,+1 Lap,,0
+1978,12,Austrian Grand Prix,1978-08-13,Lunger,McLaren,8,17,52,+2 Laps,,0
+1978,12,Austrian Grand Prix,1978-08-13,Arnoux,Martini,9,26,52,+2 Laps,,0
+1978,12,Austrian Grand Prix,1978-08-13,Regazzoni,Shadow,10,22,50,+7 Laps,,0
+1978,12,Austrian Grand Prix,1978-08-13,Rosberg,Wolf,11,25,49,+7 Laps,,0
+1978,12,Austrian Grand Prix,1978-08-13,Daly,Ensign,12,19,41,Disqualified,,0
+1978,12,Austrian Grand Prix,1978-08-13,Tambay,McLaren,13,14,40,Accident,,0
+1978,12,Austrian Grand Prix,1978-08-13,Stuck,Shadow,14,23,33,Accident,,0
+1978,12,Austrian Grand Prix,1978-08-13,Jabouille,Renault,15,3,31,Gearbox,,0
+1978,12,Austrian Grand Prix,1978-08-13,Reutemann,Ferrari,16,12,28,Disqualified,,0
+1978,12,Austrian Grand Prix,1978-08-13,Lauda,Brabham,17,4,27,Accident,,0
+1978,12,Austrian Grand Prix,1978-08-13,Pironi,Tyrrell,18,9,20,Accident,,0
+1978,12,Austrian Grand Prix,1978-08-13,Hunt,McLaren,19,8,7,Accident,,0
+1978,12,Austrian Grand Prix,1978-08-13,Jones,Williams,20,15,7,Accident,,0
+1978,12,Austrian Grand Prix,1978-08-13,Patrese,Arrows,21,16,7,Accident,,0
+1978,12,Austrian Grand Prix,1978-08-13,Ertl,Ensign,22,24,7,Accident,,0
+1978,12,Austrian Grand Prix,1978-08-13,Rebaque,Team Lotus,23,18,4,Accident,,0
+1978,12,Austrian Grand Prix,1978-08-13,Piquet,McLaren,24,20,4,Accident,,0
+1978,12,Austrian Grand Prix,1978-08-13,Scheckter,Wolf,25,7,3,Accident,,0
+1978,12,Austrian Grand Prix,1978-08-13,Andretti,Team Lotus,26,2,0,Accident,,0
+1978,12,Austrian Grand Prix,1978-08-13,Merzario,Merzario,27,0,0,Did not qualify,,0
+1978,12,Austrian Grand Prix,1978-08-13,Mass,ATS,28,0,0,Did not qualify,,0
+1978,12,Austrian Grand Prix,1978-08-13,Keegan,Surtees,29,0,0,Did not qualify,,0
+1978,12,Austrian Grand Prix,1978-08-13,Binder,ATS,30,0,0,Did not qualify,,0
+1978,12,Austrian Grand Prix,1978-08-13,Stommelen,Arrows,31,0,0,Did not prequalify,,0
+1978,13,Dutch Grand Prix,1978-08-27,Andretti,Team Lotus,1,1,75,Finished,1:41:04.23,9
+1978,13,Dutch Grand Prix,1978-08-27,Peterson,Team Lotus,2,2,75,Finished,+0.32,6
+1978,13,Dutch Grand Prix,1978-08-27,Lauda,Brabham,3,3,75,Finished,+12.21,4
+1978,13,Dutch Grand Prix,1978-08-27,Watson,Brabham,4,8,75,Finished,+20.92,3
+1978,13,Dutch Grand Prix,1978-08-27,Fittipaldi,Fittipaldi,5,10,75,Finished,+21.5,2
+1978,13,Dutch Grand Prix,1978-08-27,Villeneuve,Ferrari,6,5,75,Finished,+45.95,1
+1978,13,Dutch Grand Prix,1978-08-27,Reutemann,Ferrari,7,4,75,Finished,+1:00.52,0
+1978,13,Dutch Grand Prix,1978-08-27,Laffite,Ligier,8,6,74,+1 Lap,,0
+1978,13,Dutch Grand Prix,1978-08-27,Tambay,McLaren,9,14,74,+1 Lap,,0
+1978,13,Dutch Grand Prix,1978-08-27,Hunt,McLaren,10,7,74,+1 Lap,,0
+1978,13,Dutch Grand Prix,1978-08-27,Rebaque,Team Lotus,11,20,74,+1 Lap,,0
+1978,13,Dutch Grand Prix,1978-08-27,Scheckter,Wolf,12,15,73,+2 Laps,,0
+1978,13,Dutch Grand Prix,1978-08-27,Giacomelli,McLaren,13,19,60,Spun off,,0
+1978,13,Dutch Grand Prix,1978-08-27,Stuck,Shadow,14,18,56,Transmission,,0
+1978,13,Dutch Grand Prix,1978-08-27,Arnoux,Martini,15,23,40,Chassis,,0
+1978,13,Dutch Grand Prix,1978-08-27,Merzario,Merzario,16,26,40,Engine,,0
+1978,13,Dutch Grand Prix,1978-08-27,Brambilla,Surtees,17,22,37,Disqualified,,0
+1978,13,Dutch Grand Prix,1978-08-27,Jabouille,Renault,18,9,35,Engine,,0
+1978,13,Dutch Grand Prix,1978-08-27,Lunger,McLaren,19,21,35,Engine,,0
+1978,13,Dutch Grand Prix,1978-08-27,Rosberg,Wolf,20,24,21,Accident,,0
+1978,13,Dutch Grand Prix,1978-08-27,Jones,Williams,21,11,17,Throttle,,0
+1978,13,Dutch Grand Prix,1978-08-27,Piquet,McLaren,22,25,16,Transmission,,0
+1978,13,Dutch Grand Prix,1978-08-27,Depailler,Tyrrell,23,12,13,Engine,,0
+1978,13,Dutch Grand Prix,1978-08-27,Daly,Ensign,24,16,10,Transmission,,0
+1978,13,Dutch Grand Prix,1978-08-27,Patrese,Arrows,25,13,0,Accident,,0
+1978,13,Dutch Grand Prix,1978-08-27,Pironi,Tyrrell,26,17,0,Accident,,0
+1978,13,Dutch Grand Prix,1978-08-27,Keegan,Surtees,27,0,0,Withdrew,,0
+1978,13,Dutch Grand Prix,1978-08-27,Regazzoni,Shadow,28,0,0,Did not qualify,,0
+1978,13,Dutch Grand Prix,1978-08-27,Bleekemolen,ATS,29,0,0,Did not qualify,,0
+1978,13,Dutch Grand Prix,1978-08-27,Mass,ATS,30,0,0,Did not qualify,,0
+1978,13,Dutch Grand Prix,1978-08-27,Ertl,Ensign,31,0,0,Did not prequalify,,0
+1978,13,Dutch Grand Prix,1978-08-27,Ongais,Shadow,32,0,0,Did not prequalify,,0
+1978,13,Dutch Grand Prix,1978-08-27,Stommelen,Arrows,33,0,0,Did not prequalify,,0
+1978,14,Italian Grand Prix,1978-09-10,Lauda,Brabham,1,4,40,Finished,1:07:04.54,9
+1978,14,Italian Grand Prix,1978-09-10,Watson,Brabham,2,7,40,Finished,+1.48,6
+1978,14,Italian Grand Prix,1978-09-10,Reutemann,Ferrari,3,11,40,Finished,+20.47,4
+1978,14,Italian Grand Prix,1978-09-10,Laffite,Ligier,4,8,40,Finished,+37.53,3
+1978,14,Italian Grand Prix,1978-09-10,Tambay,McLaren,5,19,40,Finished,+40.39,2
+1978,14,Italian Grand Prix,1978-09-10,Andretti,Team Lotus,6,1,40,Finished,+46.33,1
+1978,14,Italian Grand Prix,1978-09-10,Villeneuve,Ferrari,7,2,40,Finished,+48.48,0
+1978,14,Italian Grand Prix,1978-09-10,Fittipaldi,Fittipaldi,8,13,40,Finished,+55.24,0
+1978,14,Italian Grand Prix,1978-09-10,Piquet,McLaren,9,24,40,Finished,+1:06.83,0
+1978,14,Italian Grand Prix,1978-09-10,Daly,Ensign,10,18,40,Finished,+1:09.11,0
+1978,14,Italian Grand Prix,1978-09-10,Depailler,Tyrrell,11,16,40,Finished,+1:16.57,0
+1978,14,Italian Grand Prix,1978-09-10,Scheckter,Wolf,12,9,39,+1 Lap,,0
+1978,14,Italian Grand Prix,1978-09-10,Jones,Williams,13,6,39,+1 Lap,,0
+1978,14,Italian Grand Prix,1978-09-10,Giacomelli,McLaren,14,20,39,+1 Lap,,0
+1978,14,Italian Grand Prix,1978-09-10,Regazzoni,Shadow,15,15,33,+7 Laps,,0
+1978,14,Italian Grand Prix,1978-09-10,Patrese,Arrows,16,12,28,Engine,,0
+1978,14,Italian Grand Prix,1978-09-10,Hunt,McLaren,17,10,19,Distributor,,0
+1978,14,Italian Grand Prix,1978-09-10,Merzario,Merzario,18,22,14,Engine,,0
+1978,14,Italian Grand Prix,1978-09-10,Jabouille,Renault,19,3,6,Engine,,0
+1978,14,Italian Grand Prix,1978-09-10,Peterson,Team Lotus,20,5,0,Accident,,0
+1978,14,Italian Grand Prix,1978-09-10,Pironi,Tyrrell,21,14,0,Accident,,0
+1978,14,Italian Grand Prix,1978-09-10,Stuck,Shadow,22,17,0,Accident,,0
+1978,14,Italian Grand Prix,1978-09-10,Lunger,McLaren,23,21,0,Accident,,0
+1978,14,Italian Grand Prix,1978-09-10,Brambilla,Surtees,24,23,0,Accident,,0
+1978,14,Italian Grand Prix,1978-09-10,Rebaque,Team Lotus,25,0,0,Did not qualify,,0
+1978,14,Italian Grand Prix,1978-09-10,Ertl,ATS,26,0,0,Did not qualify,,0
+1978,14,Italian Grand Prix,1978-09-10,Bleekemolen,ATS,27,0,0,Did not qualify,,0
+1978,14,Italian Grand Prix,1978-09-10,Franchi,Surtees,28,0,0,Did not qualify,,0
+1978,14,Italian Grand Prix,1978-09-10,Ertl,Ensign,29,0,0,Did not prequalify,,0
+1978,14,Italian Grand Prix,1978-09-10,Rosberg,Wolf,30,0,0,Did not prequalify,,0
+1978,14,Italian Grand Prix,1978-09-10,Stommelen,Arrows,31,0,0,Did not prequalify,,0
+1978,14,Italian Grand Prix,1978-09-10,Colombo,Merzario,32,0,0,Did not prequalify,,0
+1978,15,United States Grand Prix,1978-10-01,Reutemann,Ferrari,1,2,59,Finished,1:40:48.800,9
+1978,15,United States Grand Prix,1978-10-01,Jones,Williams,2,3,59,Finished,+19.739,6
+1978,15,United States Grand Prix,1978-10-01,Scheckter,Wolf,3,11,59,Finished,+45.701,4
+1978,15,United States Grand Prix,1978-10-01,Jabouille,Renault,4,9,59,Finished,+1:25.007,3
+1978,15,United States Grand Prix,1978-10-01,Fittipaldi,Fittipaldi,5,13,59,Finished,+1:28.089,2
+1978,15,United States Grand Prix,1978-10-01,Tambay,McLaren,6,18,59,Finished,+1:50.210,1
+1978,15,United States Grand Prix,1978-10-01,Hunt,McLaren,7,6,58,+1 Lap,,0
+1978,15,United States Grand Prix,1978-10-01,Daly,Ensign,8,19,58,+1 Lap,,0
+1978,15,United States Grand Prix,1978-10-01,Arnoux,Martini,9,21,58,+1 Lap,,0
+1978,15,United States Grand Prix,1978-10-01,Pironi,Tyrrell,10,16,58,+1 Lap,,0
+1978,15,United States Grand Prix,1978-10-01,Laffite,Ligier,11,10,58,+1 Lap,,0
+1978,15,United States Grand Prix,1978-10-01,Rahal,Wolf,12,20,58,+1 Lap,,0
+1978,15,United States Grand Prix,1978-10-01,Lunger,Ensign,13,24,58,+1 Lap,,0
+1978,15,United States Grand Prix,1978-10-01,Regazzoni,Shadow,14,17,56,+3 Laps,,0
+1978,15,United States Grand Prix,1978-10-01,Jarier,Team Lotus,15,8,55,Out of fuel,,0
+1978,15,United States Grand Prix,1978-10-01,Stommelen,Arrows,16,22,54,+5 Laps,,0
+1978,15,United States Grand Prix,1978-10-01,Merzario,Merzario,17,26,46,Gearbox,,0
+1978,15,United States Grand Prix,1978-10-01,Bleekemolen,ATS,18,25,43,Oil leak,,0
+1978,15,United States Grand Prix,1978-10-01,Lauda,Brabham,19,5,28,Engine,,0
+1978,15,United States Grand Prix,1978-10-01,Andretti,Team Lotus,20,1,27,Engine,,0
+1978,15,United States Grand Prix,1978-10-01,Watson,Brabham,21,7,25,Engine,,0
+1978,15,United States Grand Prix,1978-10-01,Depailler,Tyrrell,22,12,23,Wheel,,0
+1978,15,United States Grand Prix,1978-10-01,Villeneuve,Ferrari,23,4,22,Engine,,0
+1978,15,United States Grand Prix,1978-10-01,Rosberg,ATS,24,15,21,Transmission,,0
+1978,15,United States Grand Prix,1978-10-01,Stuck,Shadow,25,14,1,Fuel system,,0
+1978,15,United States Grand Prix,1978-10-01,Rebaque,Team Lotus,26,23,0,Clutch,,0
+1978,15,United States Grand Prix,1978-10-01,Gabbiani,Surtees,27,0,0,Did not qualify,,0
+1978,16,Canadian Grand Prix,1978-10-08,Villeneuve,Ferrari,1,3,70,Finished,1:57:49.196,9
+1978,16,Canadian Grand Prix,1978-10-08,Scheckter,Wolf,2,2,70,Finished,+13.372,6
+1978,16,Canadian Grand Prix,1978-10-08,Reutemann,Ferrari,3,11,70,Finished,+19.408,4
+1978,16,Canadian Grand Prix,1978-10-08,Patrese,Arrows,4,12,70,Finished,+24.667,3
+1978,16,Canadian Grand Prix,1978-10-08,Depailler,Tyrrell,5,13,70,Finished,+28.558,2
+1978,16,Canadian Grand Prix,1978-10-08,Daly,Ensign,6,15,70,Finished,+54.476,1
+1978,16,Canadian Grand Prix,1978-10-08,Pironi,Tyrrell,7,18,70,Finished,+1:21.250,0
+1978,16,Canadian Grand Prix,1978-10-08,Tambay,McLaren,8,17,70,Finished,+1:26.560,0
+1978,16,Canadian Grand Prix,1978-10-08,Jones,Williams,9,5,70,Finished,+1:28.942,0
+1978,16,Canadian Grand Prix,1978-10-08,Andretti,Team Lotus,10,9,69,+1 Lap,,0
+1978,16,Canadian Grand Prix,1978-10-08,Piquet,Brabham,11,14,69,+1 Lap,,0
+1978,16,Canadian Grand Prix,1978-10-08,Jabouille,Renault,12,22,65,+5 Laps,,0
+1978,16,Canadian Grand Prix,1978-10-08,Rosberg,ATS,13,21,58,+12 Laps,,0
+1978,16,Canadian Grand Prix,1978-10-08,Laffite,Ligier,14,10,52,Transmission,,0
+1978,16,Canadian Grand Prix,1978-10-08,Hunt,McLaren,15,19,51,Spun off,,0
+1978,16,Canadian Grand Prix,1978-10-08,Jarier,Team Lotus,16,1,49,Oil leak,,0
+1978,16,Canadian Grand Prix,1978-10-08,Arnoux,Surtees,17,16,37,Engine,,0
+1978,16,Canadian Grand Prix,1978-10-08,Rahal,Wolf,18,20,16,Fuel system,,0
+1978,16,Canadian Grand Prix,1978-10-08,Watson,Brabham,19,4,8,Accident,,0
+1978,16,Canadian Grand Prix,1978-10-08,Lauda,Brabham,20,7,5,Brakes,,0
+1978,16,Canadian Grand Prix,1978-10-08,Stuck,Shadow,21,8,1,Accident,,0
+1978,16,Canadian Grand Prix,1978-10-08,Fittipaldi,Fittipaldi,22,6,0,Accident,,0
+1978,16,Canadian Grand Prix,1978-10-08,Regazzoni,Shadow,23,0,0,Did not qualify,,0
+1978,16,Canadian Grand Prix,1978-10-08,Gabbiani,Surtees,24,0,0,Did not qualify,,0
+1978,16,Canadian Grand Prix,1978-10-08,Merzario,Merzario,25,0,0,Did not qualify,,0
+1978,16,Canadian Grand Prix,1978-10-08,Rebaque,Team Lotus,26,0,0,Did not qualify,,0
+1978,16,Canadian Grand Prix,1978-10-08,Stommelen,Arrows,27,0,0,Did not prequalify,,0
+1978,16,Canadian Grand Prix,1978-10-08,Bleekemolen,ATS,28,0,0,Did not prequalify,,0

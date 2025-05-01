@@ -1,0 +1,369 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+2008,1,Australian Grand Prix,2008-03-16,Hamilton,McLaren,1,1,58,Finished,1:34:50.616,10
+2008,1,Australian Grand Prix,2008-03-16,Heidfeld,BMW Sauber,2,5,58,Finished,+5.478,8
+2008,1,Australian Grand Prix,2008-03-16,Rosberg,Williams,3,7,58,Finished,+8.163,6
+2008,1,Australian Grand Prix,2008-03-16,Alonso,Renault,4,11,58,Finished,+17.181,5
+2008,1,Australian Grand Prix,2008-03-16,Kovalainen,McLaren,5,3,58,Finished,+18.014,4
+2008,1,Australian Grand Prix,2008-03-16,Nakajima,Williams,6,13,57,+1 Lap,,3
+2008,1,Australian Grand Prix,2008-03-16,Bourdais,Toro Rosso,7,17,55,Engine,,2
+2008,1,Australian Grand Prix,2008-03-16,Räikkönen,Ferrari,8,15,53,Engine,,1
+2008,1,Australian Grand Prix,2008-03-16,Kubica,BMW Sauber,9,2,47,Collision,,0
+2008,1,Australian Grand Prix,2008-03-16,Glock,Toyota,10,18,43,Accident,,0
+2008,1,Australian Grand Prix,2008-03-16,Sato,Super Aguri,11,19,32,Transmission,,0
+2008,1,Australian Grand Prix,2008-03-16,Piquet Jr.,Renault,12,20,30,Clutch,,0
+2008,1,Australian Grand Prix,2008-03-16,Massa,Ferrari,13,4,29,Engine,,0
+2008,1,Australian Grand Prix,2008-03-16,Coulthard,Red Bull,14,8,25,Collision,,0
+2008,1,Australian Grand Prix,2008-03-16,Trulli,Toyota,15,6,19,Electrical,,0
+2008,1,Australian Grand Prix,2008-03-16,Sutil,Force India,16,22,8,Hydraulics,,0
+2008,1,Australian Grand Prix,2008-03-16,Webber,Red Bull,17,14,0,Collision,,0
+2008,1,Australian Grand Prix,2008-03-16,Button,Honda,18,12,0,Collision,,0
+2008,1,Australian Grand Prix,2008-03-16,Davidson,Super Aguri,19,21,0,Collision,,0
+2008,1,Australian Grand Prix,2008-03-16,Vettel,Toro Rosso,20,9,0,Collision,,0
+2008,1,Australian Grand Prix,2008-03-16,Fisichella,Force India,21,16,0,Collision,,0
+2008,1,Australian Grand Prix,2008-03-16,Barrichello,Honda,22,10,58,Disqualified,,0
+2008,2,Malaysian Grand Prix,2008-03-23,Räikkönen,Ferrari,1,2,56,Finished,1:31:18.555,10
+2008,2,Malaysian Grand Prix,2008-03-23,Kubica,BMW Sauber,2,4,56,Finished,+19.570,8
+2008,2,Malaysian Grand Prix,2008-03-23,Kovalainen,McLaren,3,8,56,Finished,+38.450,6
+2008,2,Malaysian Grand Prix,2008-03-23,Trulli,Toyota,4,3,56,Finished,+45.832,5
+2008,2,Malaysian Grand Prix,2008-03-23,Hamilton,McLaren,5,9,56,Finished,+46.548,4
+2008,2,Malaysian Grand Prix,2008-03-23,Heidfeld,BMW Sauber,6,5,56,Finished,+49.833,3
+2008,2,Malaysian Grand Prix,2008-03-23,Webber,Red Bull,7,6,56,Finished,+1:08.130,2
+2008,2,Malaysian Grand Prix,2008-03-23,Alonso,Renault,8,7,56,Finished,+1:10.041,1
+2008,2,Malaysian Grand Prix,2008-03-23,Coulthard,Red Bull,9,12,56,Finished,+1:16.220,0
+2008,2,Malaysian Grand Prix,2008-03-23,Button,Honda,10,11,56,Finished,+1:26.214,0
+2008,2,Malaysian Grand Prix,2008-03-23,Piquet Jr.,Renault,11,13,56,Finished,+1:32.202,0
+2008,2,Malaysian Grand Prix,2008-03-23,Fisichella,Force India,12,17,55,+1 Lap,,0
+2008,2,Malaysian Grand Prix,2008-03-23,Barrichello,Honda,13,14,55,+1 Lap,,0
+2008,2,Malaysian Grand Prix,2008-03-23,Rosberg,Williams,14,16,55,+1 Lap,,0
+2008,2,Malaysian Grand Prix,2008-03-23,Davidson,Super Aguri,15,21,55,+1 Lap,,0
+2008,2,Malaysian Grand Prix,2008-03-23,Sato,Super Aguri,16,19,54,+2 Laps,,0
+2008,2,Malaysian Grand Prix,2008-03-23,Nakajima,Williams,17,22,54,+2 Laps,,0
+2008,2,Malaysian Grand Prix,2008-03-23,Vettel,Toro Rosso,18,15,39,Engine,,0
+2008,2,Malaysian Grand Prix,2008-03-23,Massa,Ferrari,19,1,30,Spun off,,0
+2008,2,Malaysian Grand Prix,2008-03-23,Sutil,Force India,20,20,5,Hydraulics,,0
+2008,2,Malaysian Grand Prix,2008-03-23,Glock,Toyota,21,10,1,Collision,,0
+2008,2,Malaysian Grand Prix,2008-03-23,Bourdais,Toro Rosso,22,18,0,Spun off,,0
+2008,3,Bahrain Grand Prix,2008-04-06,Massa,Ferrari,1,2,57,Finished,1:31:06.970,10
+2008,3,Bahrain Grand Prix,2008-04-06,Räikkönen,Ferrari,2,4,57,Finished,+3.339,8
+2008,3,Bahrain Grand Prix,2008-04-06,Kubica,BMW Sauber,3,1,57,Finished,+4.998,6
+2008,3,Bahrain Grand Prix,2008-04-06,Heidfeld,BMW Sauber,4,6,57,Finished,+8.409,5
+2008,3,Bahrain Grand Prix,2008-04-06,Kovalainen,McLaren,5,5,57,Finished,+26.789,4
+2008,3,Bahrain Grand Prix,2008-04-06,Trulli,Toyota,6,7,57,Finished,+41.314,3
+2008,3,Bahrain Grand Prix,2008-04-06,Webber,Red Bull,7,11,57,Finished,+45.473,2
+2008,3,Bahrain Grand Prix,2008-04-06,Rosberg,Williams,8,8,57,Finished,+55.889,1
+2008,3,Bahrain Grand Prix,2008-04-06,Glock,Toyota,9,13,57,Finished,+1:09.500,0
+2008,3,Bahrain Grand Prix,2008-04-06,Alonso,Renault,10,10,57,Finished,+1:17.181,0
+2008,3,Bahrain Grand Prix,2008-04-06,Barrichello,Honda,11,12,57,Finished,+1:17.862,0
+2008,3,Bahrain Grand Prix,2008-04-06,Fisichella,Force India,12,18,56,+1 Lap,,0
+2008,3,Bahrain Grand Prix,2008-04-06,Hamilton,McLaren,13,3,56,+1 Lap,,0
+2008,3,Bahrain Grand Prix,2008-04-06,Nakajima,Williams,14,16,56,+1 Lap,,0
+2008,3,Bahrain Grand Prix,2008-04-06,Bourdais,Toro Rosso,15,15,56,+1 Lap,,0
+2008,3,Bahrain Grand Prix,2008-04-06,Davidson,Super Aguri,16,21,56,+1 Lap,,0
+2008,3,Bahrain Grand Prix,2008-04-06,Sato,Super Aguri,17,22,56,+1 Lap,,0
+2008,3,Bahrain Grand Prix,2008-04-06,Coulthard,Red Bull,18,17,56,+1 Lap,,0
+2008,3,Bahrain Grand Prix,2008-04-06,Sutil,Force India,19,20,56,+2 Laps,,0
+2008,3,Bahrain Grand Prix,2008-04-06,Piquet Jr.,Renault,20,14,40,Gearbox,,0
+2008,3,Bahrain Grand Prix,2008-04-06,Button,Honda,21,9,19,Collision,,0
+2008,3,Bahrain Grand Prix,2008-04-06,Vettel,Toro Rosso,22,19,0,Engine,,0
+2008,4,Spanish Grand Prix,2008-04-27,Räikkönen,Ferrari,1,1,66,Finished,1:38:19.051,10
+2008,4,Spanish Grand Prix,2008-04-27,Massa,Ferrari,2,3,66,Finished,+3.228,8
+2008,4,Spanish Grand Prix,2008-04-27,Hamilton,McLaren,3,5,66,Finished,+4.187,6
+2008,4,Spanish Grand Prix,2008-04-27,Kubica,BMW Sauber,4,4,66,Finished,+5.694,5
+2008,4,Spanish Grand Prix,2008-04-27,Webber,Red Bull,5,7,66,Finished,+35.938,4
+2008,4,Spanish Grand Prix,2008-04-27,Button,Honda,6,13,66,Finished,+53.010,3
+2008,4,Spanish Grand Prix,2008-04-27,Nakajima,Williams,7,12,66,Finished,+58.244,2
+2008,4,Spanish Grand Prix,2008-04-27,Trulli,Toyota,8,8,66,Finished,+59.435,1
+2008,4,Spanish Grand Prix,2008-04-27,Heidfeld,BMW Sauber,9,9,66,Finished,+1:03.073,0
+2008,4,Spanish Grand Prix,2008-04-27,Fisichella,Force India,10,19,65,+1 Lap,,0
+2008,4,Spanish Grand Prix,2008-04-27,Glock,Toyota,11,14,65,+1 Lap,,0
+2008,4,Spanish Grand Prix,2008-04-27,Coulthard,Red Bull,12,17,65,+1 Lap,,0
+2008,4,Spanish Grand Prix,2008-04-27,Sato,Super Aguri,13,22,65,+1 Lap,,0
+2008,4,Spanish Grand Prix,2008-04-27,Rosberg,Williams,14,15,41,Engine,,0
+2008,4,Spanish Grand Prix,2008-04-27,Alonso,Renault,15,2,34,Engine,,0
+2008,4,Spanish Grand Prix,2008-04-27,Barrichello,Honda,16,11,34,Collision,,0
+2008,4,Spanish Grand Prix,2008-04-27,Kovalainen,McLaren,17,6,21,Accident,,0
+2008,4,Spanish Grand Prix,2008-04-27,Davidson,Super Aguri,18,21,8,Radiator,,0
+2008,4,Spanish Grand Prix,2008-04-27,Bourdais,Toro Rosso,19,16,7,Collision,,0
+2008,4,Spanish Grand Prix,2008-04-27,Piquet Jr.,Renault,20,10,6,Collision,,0
+2008,4,Spanish Grand Prix,2008-04-27,Sutil,Force India,21,20,0,Collision,,0
+2008,4,Spanish Grand Prix,2008-04-27,Vettel,Toro Rosso,22,18,0,Collision,,0
+2008,5,Turkish Grand Prix,2008-05-11,Massa,Ferrari,1,1,58,Finished,1:26:49.451,10
+2008,5,Turkish Grand Prix,2008-05-11,Hamilton,McLaren,2,3,58,Finished,+3.779,8
+2008,5,Turkish Grand Prix,2008-05-11,Räikkönen,Ferrari,3,4,58,Finished,+4.271,6
+2008,5,Turkish Grand Prix,2008-05-11,Kubica,BMW Sauber,4,5,58,Finished,+21.945,5
+2008,5,Turkish Grand Prix,2008-05-11,Heidfeld,BMW Sauber,5,9,58,Finished,+38.741,4
+2008,5,Turkish Grand Prix,2008-05-11,Alonso,Renault,6,7,58,Finished,+53.724,3
+2008,5,Turkish Grand Prix,2008-05-11,Webber,Red Bull,7,6,58,Finished,+1:04.229,2
+2008,5,Turkish Grand Prix,2008-05-11,Rosberg,Williams,8,11,58,Finished,+1:11.406,1
+2008,5,Turkish Grand Prix,2008-05-11,Coulthard,Red Bull,9,10,58,Finished,+1:15.270,0
+2008,5,Turkish Grand Prix,2008-05-11,Trulli,Toyota,10,8,58,Finished,+1:16.344,0
+2008,5,Turkish Grand Prix,2008-05-11,Button,Honda,11,13,57,+1 Lap,,0
+2008,5,Turkish Grand Prix,2008-05-11,Kovalainen,McLaren,12,2,57,+1 Lap,,0
+2008,5,Turkish Grand Prix,2008-05-11,Glock,Toyota,13,15,57,+1 Lap,,0
+2008,5,Turkish Grand Prix,2008-05-11,Barrichello,Honda,14,12,57,+1 Lap,,0
+2008,5,Turkish Grand Prix,2008-05-11,Piquet Jr.,Renault,15,17,57,+1 Lap,,0
+2008,5,Turkish Grand Prix,2008-05-11,Sutil,Force India,16,19,57,+1 Lap,,0
+2008,5,Turkish Grand Prix,2008-05-11,Vettel,Toro Rosso,17,14,57,+1 Lap,,0
+2008,5,Turkish Grand Prix,2008-05-11,Bourdais,Toro Rosso,18,18,24,Suspension,,0
+2008,5,Turkish Grand Prix,2008-05-11,Nakajima,Williams,19,16,1,Collision,,0
+2008,5,Turkish Grand Prix,2008-05-11,Fisichella,Force India,20,20,0,Collision,,0
+2008,6,Monaco Grand Prix,2008-05-25,Hamilton,McLaren,1,3,76,Finished,2:00:42.742,10
+2008,6,Monaco Grand Prix,2008-05-25,Kubica,BMW Sauber,2,5,76,Finished,+3.064,8
+2008,6,Monaco Grand Prix,2008-05-25,Massa,Ferrari,3,1,76,Finished,+4.811,6
+2008,6,Monaco Grand Prix,2008-05-25,Webber,Red Bull,4,9,76,Finished,+19.295,5
+2008,6,Monaco Grand Prix,2008-05-25,Vettel,Toro Rosso,5,19,76,Finished,+24.657,4
+2008,6,Monaco Grand Prix,2008-05-25,Barrichello,Honda,6,14,76,Finished,+28.408,3
+2008,6,Monaco Grand Prix,2008-05-25,Nakajima,Williams,7,13,76,Finished,+30.180,2
+2008,6,Monaco Grand Prix,2008-05-25,Kovalainen,McLaren,8,4,76,Finished,+33.191,1
+2008,6,Monaco Grand Prix,2008-05-25,Räikkönen,Ferrari,9,2,76,Finished,+33.792,0
+2008,6,Monaco Grand Prix,2008-05-25,Alonso,Renault,10,7,75,+1 Lap,,0
+2008,6,Monaco Grand Prix,2008-05-25,Button,Honda,11,11,75,+1 Lap,,0
+2008,6,Monaco Grand Prix,2008-05-25,Glock,Toyota,12,10,75,+1 Lap,,0
+2008,6,Monaco Grand Prix,2008-05-25,Trulli,Toyota,13,8,75,+1 Lap,,0
+2008,6,Monaco Grand Prix,2008-05-25,Heidfeld,BMW Sauber,14,12,72,+4 Laps,,0
+2008,6,Monaco Grand Prix,2008-05-25,Sutil,Force India,15,18,67,Collision,,0
+2008,6,Monaco Grand Prix,2008-05-25,Rosberg,Williams,16,6,59,Accident,,0
+2008,6,Monaco Grand Prix,2008-05-25,Piquet Jr.,Renault,17,17,47,Accident,,0
+2008,6,Monaco Grand Prix,2008-05-25,Fisichella,Force India,18,20,36,Gearbox,,0
+2008,6,Monaco Grand Prix,2008-05-25,Coulthard,Red Bull,19,15,7,Accident,,0
+2008,6,Monaco Grand Prix,2008-05-25,Bourdais,Toro Rosso,20,16,7,Collision,,0
+2008,7,Canadian Grand Prix,2008-06-08,Kubica,BMW Sauber,1,2,70,Finished,1:36:24.227,10
+2008,7,Canadian Grand Prix,2008-06-08,Heidfeld,BMW Sauber,2,8,70,Finished,+16.495,8
+2008,7,Canadian Grand Prix,2008-06-08,Coulthard,Red Bull,3,13,70,Finished,+23.352,6
+2008,7,Canadian Grand Prix,2008-06-08,Glock,Toyota,4,11,70,Finished,+42.627,5
+2008,7,Canadian Grand Prix,2008-06-08,Massa,Ferrari,5,6,70,Finished,+43.934,4
+2008,7,Canadian Grand Prix,2008-06-08,Trulli,Toyota,6,14,70,Finished,+47.775,3
+2008,7,Canadian Grand Prix,2008-06-08,Barrichello,Honda,7,9,70,Finished,+53.597,2
+2008,7,Canadian Grand Prix,2008-06-08,Vettel,Toro Rosso,8,19,70,Finished,+54.120,1
+2008,7,Canadian Grand Prix,2008-06-08,Kovalainen,McLaren,9,7,70,Finished,+54.433,0
+2008,7,Canadian Grand Prix,2008-06-08,Rosberg,Williams,10,5,70,Finished,+54.749,0
+2008,7,Canadian Grand Prix,2008-06-08,Button,Honda,11,20,70,Finished,+1:07.540,0
+2008,7,Canadian Grand Prix,2008-06-08,Webber,Red Bull,12,10,70,Finished,+1:11.299,0
+2008,7,Canadian Grand Prix,2008-06-08,Bourdais,Toro Rosso,13,18,69,+1 Lap,,0
+2008,7,Canadian Grand Prix,2008-06-08,Fisichella,Force India,14,17,51,Spun off,,0
+2008,7,Canadian Grand Prix,2008-06-08,Nakajima,Williams,15,12,46,Accident,,0
+2008,7,Canadian Grand Prix,2008-06-08,Alonso,Renault,16,4,44,Spun off,,0
+2008,7,Canadian Grand Prix,2008-06-08,Piquet Jr.,Renault,17,15,43,Brakes,,0
+2008,7,Canadian Grand Prix,2008-06-08,Räikkönen,Ferrari,18,3,19,Collision,,0
+2008,7,Canadian Grand Prix,2008-06-08,Hamilton,McLaren,19,1,19,Collision,,0
+2008,7,Canadian Grand Prix,2008-06-08,Sutil,Force India,20,16,13,Gearbox,,0
+2008,8,French Grand Prix,2008-06-22,Massa,Ferrari,1,2,70,Finished,1:31:50.245,10
+2008,8,French Grand Prix,2008-06-22,Räikkönen,Ferrari,2,1,70,Finished,+17.984,8
+2008,8,French Grand Prix,2008-06-22,Trulli,Toyota,3,4,70,Finished,+28.250,6
+2008,8,French Grand Prix,2008-06-22,Kovalainen,McLaren,4,10,70,Finished,+28.929,5
+2008,8,French Grand Prix,2008-06-22,Kubica,BMW Sauber,5,5,70,Finished,+30.512,4
+2008,8,French Grand Prix,2008-06-22,Webber,Red Bull,6,6,70,Finished,+40.304,3
+2008,8,French Grand Prix,2008-06-22,Piquet Jr.,Renault,7,9,70,Finished,+41.033,2
+2008,8,French Grand Prix,2008-06-22,Alonso,Renault,8,3,70,Finished,+43.372,1
+2008,8,French Grand Prix,2008-06-22,Coulthard,Red Bull,9,7,70,Finished,+51.021,0
+2008,8,French Grand Prix,2008-06-22,Hamilton,McLaren,10,13,70,Finished,+54.538,0
+2008,8,French Grand Prix,2008-06-22,Glock,Toyota,11,8,70,Finished,+57.700,0
+2008,8,French Grand Prix,2008-06-22,Vettel,Toro Rosso,12,12,70,Finished,+58.065,0
+2008,8,French Grand Prix,2008-06-22,Heidfeld,BMW Sauber,13,11,70,Finished,+1:02.079,0
+2008,8,French Grand Prix,2008-06-22,Barrichello,Honda,14,20,69,+1 Lap,,0
+2008,8,French Grand Prix,2008-06-22,Nakajima,Williams,15,15,69,+1 Lap,,0
+2008,8,French Grand Prix,2008-06-22,Rosberg,Williams,16,19,69,+1 Lap,,0
+2008,8,French Grand Prix,2008-06-22,Bourdais,Toro Rosso,17,14,69,+1 Lap,,0
+2008,8,French Grand Prix,2008-06-22,Fisichella,Force India,18,17,69,+1 Lap,,0
+2008,8,French Grand Prix,2008-06-22,Sutil,Force India,19,18,69,+1 Lap,,0
+2008,8,French Grand Prix,2008-06-22,Button,Honda,20,16,16,Collision,,0
+2008,9,British Grand Prix,2008-07-06,Hamilton,McLaren,1,4,60,Finished,1:39:09.440,10
+2008,9,British Grand Prix,2008-07-06,Heidfeld,BMW Sauber,2,5,60,Finished,+1:08.577,8
+2008,9,British Grand Prix,2008-07-06,Barrichello,Honda,3,16,60,Finished,+1:22.273,6
+2008,9,British Grand Prix,2008-07-06,Räikkönen,Ferrari,4,3,59,+1 Lap,,5
+2008,9,British Grand Prix,2008-07-06,Kovalainen,McLaren,5,1,59,+1 Lap,,4
+2008,9,British Grand Prix,2008-07-06,Alonso,Renault,6,6,59,+1 Lap,,3
+2008,9,British Grand Prix,2008-07-06,Trulli,Toyota,7,14,59,+1 Lap,,2
+2008,9,British Grand Prix,2008-07-06,Nakajima,Williams,8,15,59,+1 Lap,,1
+2008,9,British Grand Prix,2008-07-06,Rosberg,Williams,9,20,59,+1 Lap,,0
+2008,9,British Grand Prix,2008-07-06,Webber,Red Bull,10,2,59,+1 Lap,,0
+2008,9,British Grand Prix,2008-07-06,Bourdais,Toro Rosso,11,13,59,+1 Lap,,0
+2008,9,British Grand Prix,2008-07-06,Glock,Toyota,12,12,59,+1 Lap,,0
+2008,9,British Grand Prix,2008-07-06,Massa,Ferrari,13,9,58,+2 Laps,,0
+2008,9,British Grand Prix,2008-07-06,Kubica,BMW Sauber,14,10,39,Spun off,,0
+2008,9,British Grand Prix,2008-07-06,Button,Honda,15,17,38,Spun off,,0
+2008,9,British Grand Prix,2008-07-06,Piquet Jr.,Renault,16,7,35,Spun off,,0
+2008,9,British Grand Prix,2008-07-06,Fisichella,Force India,17,19,16,Spun off,,0
+2008,9,British Grand Prix,2008-07-06,Sutil,Force India,18,18,10,Spun off,,0
+2008,9,British Grand Prix,2008-07-06,Vettel,Toro Rosso,19,8,0,Collision,,0
+2008,9,British Grand Prix,2008-07-06,Coulthard,Red Bull,20,11,0,Collision,,0
+2008,10,German Grand Prix,2008-07-20,Hamilton,McLaren,1,1,67,Finished,1:31:20.874,10
+2008,10,German Grand Prix,2008-07-20,Piquet Jr.,Renault,2,17,67,Finished,+5.586,8
+2008,10,German Grand Prix,2008-07-20,Massa,Ferrari,3,2,67,Finished,+9.339,6
+2008,10,German Grand Prix,2008-07-20,Heidfeld,BMW Sauber,4,12,67,Finished,+9.825,5
+2008,10,German Grand Prix,2008-07-20,Kovalainen,McLaren,5,3,67,Finished,+12.411,4
+2008,10,German Grand Prix,2008-07-20,Räikkönen,Ferrari,6,6,67,Finished,+14.403,3
+2008,10,German Grand Prix,2008-07-20,Kubica,BMW Sauber,7,7,67,Finished,+22.682,2
+2008,10,German Grand Prix,2008-07-20,Vettel,Toro Rosso,8,9,67,Finished,+33.299,1
+2008,10,German Grand Prix,2008-07-20,Trulli,Toyota,9,4,67,Finished,+37.158,0
+2008,10,German Grand Prix,2008-07-20,Rosberg,Williams,10,13,67,Finished,+37.625,0
+2008,10,German Grand Prix,2008-07-20,Alonso,Renault,11,5,67,Finished,+38.600,0
+2008,10,German Grand Prix,2008-07-20,Bourdais,Toro Rosso,12,15,67,Finished,+39.111,0
+2008,10,German Grand Prix,2008-07-20,Coulthard,Red Bull,13,10,67,Finished,+54.971,0
+2008,10,German Grand Prix,2008-07-20,Nakajima,Williams,14,16,67,Finished,+1:00.003,0
+2008,10,German Grand Prix,2008-07-20,Sutil,Force India,15,19,67,Finished,+1:09.488,0
+2008,10,German Grand Prix,2008-07-20,Fisichella,Force India,16,20,67,Finished,+1:24.093,0
+2008,10,German Grand Prix,2008-07-20,Button,Honda,17,14,66,+1 Lap,,0
+2008,10,German Grand Prix,2008-07-20,Barrichello,Honda,18,18,50,Collision,,0
+2008,10,German Grand Prix,2008-07-20,Webber,Red Bull,19,8,40,Engine,,0
+2008,10,German Grand Prix,2008-07-20,Glock,Toyota,20,11,35,Suspension,,0
+2008,11,Hungarian Grand Prix,2008-08-03,Kovalainen,McLaren,1,2,70,Finished,1:37:27.067,10
+2008,11,Hungarian Grand Prix,2008-08-03,Glock,Toyota,2,5,70,Finished,+11.061,8
+2008,11,Hungarian Grand Prix,2008-08-03,Räikkönen,Ferrari,3,6,70,Finished,+16.856,6
+2008,11,Hungarian Grand Prix,2008-08-03,Alonso,Renault,4,7,70,Finished,+21.614,5
+2008,11,Hungarian Grand Prix,2008-08-03,Hamilton,McLaren,5,1,70,Finished,+23.048,4
+2008,11,Hungarian Grand Prix,2008-08-03,Piquet Jr.,Renault,6,10,70,Finished,+32.298,3
+2008,11,Hungarian Grand Prix,2008-08-03,Trulli,Toyota,7,9,70,Finished,+36.449,2
+2008,11,Hungarian Grand Prix,2008-08-03,Kubica,BMW Sauber,8,4,70,Finished,+48.321,1
+2008,11,Hungarian Grand Prix,2008-08-03,Webber,Red Bull,9,8,70,Finished,+58.834,0
+2008,11,Hungarian Grand Prix,2008-08-03,Heidfeld,BMW Sauber,10,15,70,Finished,+1:07.709,0
+2008,11,Hungarian Grand Prix,2008-08-03,Coulthard,Red Bull,11,13,70,Finished,+1:10.407,0
+2008,11,Hungarian Grand Prix,2008-08-03,Button,Honda,12,12,69,+1 Lap,,0
+2008,11,Hungarian Grand Prix,2008-08-03,Nakajima,Williams,13,16,69,+1 Lap,,0
+2008,11,Hungarian Grand Prix,2008-08-03,Rosberg,Williams,14,14,69,+1 Lap,,0
+2008,11,Hungarian Grand Prix,2008-08-03,Fisichella,Force India,15,18,69,+1 Lap,,0
+2008,11,Hungarian Grand Prix,2008-08-03,Barrichello,Honda,16,17,68,+2 Laps,,0
+2008,11,Hungarian Grand Prix,2008-08-03,Massa,Ferrari,17,3,67,Engine,,0
+2008,11,Hungarian Grand Prix,2008-08-03,Bourdais,Toro Rosso,18,19,67,+3 Laps,,0
+2008,11,Hungarian Grand Prix,2008-08-03,Sutil,Force India,19,20,62,Brakes,,0
+2008,11,Hungarian Grand Prix,2008-08-03,Vettel,Toro Rosso,20,11,22,Overheating,,0
+2008,12,European Grand Prix,2008-08-24,Massa,Ferrari,1,1,57,Finished,1:35:32.339,10
+2008,12,European Grand Prix,2008-08-24,Hamilton,McLaren,2,2,57,Finished,+5.611,8
+2008,12,European Grand Prix,2008-08-24,Kubica,BMW Sauber,3,3,57,Finished,+37.353,6
+2008,12,European Grand Prix,2008-08-24,Kovalainen,McLaren,4,5,57,Finished,+39.703,5
+2008,12,European Grand Prix,2008-08-24,Trulli,Toyota,5,7,57,Finished,+50.684,4
+2008,12,European Grand Prix,2008-08-24,Vettel,Toro Rosso,6,6,57,Finished,+52.625,3
+2008,12,European Grand Prix,2008-08-24,Glock,Toyota,7,13,57,Finished,+1:07.990,2
+2008,12,European Grand Prix,2008-08-24,Rosberg,Williams,8,9,57,Finished,+1:11.457,1
+2008,12,European Grand Prix,2008-08-24,Heidfeld,BMW Sauber,9,8,57,Finished,+1:22.177,0
+2008,12,European Grand Prix,2008-08-24,Bourdais,Toro Rosso,10,10,57,Finished,+1:29.794,0
+2008,12,European Grand Prix,2008-08-24,Piquet Jr.,Renault,11,15,57,Finished,+1:32.717,0
+2008,12,European Grand Prix,2008-08-24,Webber,Red Bull,12,14,56,+1 Lap,,0
+2008,12,European Grand Prix,2008-08-24,Button,Honda,13,16,56,+1 Lap,,0
+2008,12,European Grand Prix,2008-08-24,Fisichella,Force India,14,18,56,+1 Lap,,0
+2008,12,European Grand Prix,2008-08-24,Nakajima,Williams,15,11,56,+1 Lap,,0
+2008,12,European Grand Prix,2008-08-24,Barrichello,Honda,16,19,56,+1 Lap,,0
+2008,12,European Grand Prix,2008-08-24,Coulthard,Red Bull,17,17,56,+1 Lap,,0
+2008,12,European Grand Prix,2008-08-24,Räikkönen,Ferrari,18,4,45,Engine,,0
+2008,12,European Grand Prix,2008-08-24,Sutil,Force India,19,20,41,Accident,,0
+2008,12,European Grand Prix,2008-08-24,Alonso,Renault,20,12,0,Collision,,0
+2008,13,Belgian Grand Prix,2008-09-07,Massa,Ferrari,1,2,44,Finished,1:22:59.394,10
+2008,13,Belgian Grand Prix,2008-09-07,Heidfeld,BMW Sauber,2,5,44,Finished,+9.383,8
+2008,13,Belgian Grand Prix,2008-09-07,Hamilton,McLaren,3,1,44,Finished,+10.539,6
+2008,13,Belgian Grand Prix,2008-09-07,Alonso,Renault,4,6,44,Finished,+14.478,5
+2008,13,Belgian Grand Prix,2008-09-07,Vettel,Toro Rosso,5,10,44,Finished,+14.576,4
+2008,13,Belgian Grand Prix,2008-09-07,Kubica,BMW Sauber,6,8,44,Finished,+15.037,3
+2008,13,Belgian Grand Prix,2008-09-07,Bourdais,Toro Rosso,7,9,44,Finished,+16.735,2
+2008,13,Belgian Grand Prix,2008-09-07,Webber,Red Bull,8,7,44,Finished,+42.776,1
+2008,13,Belgian Grand Prix,2008-09-07,Glock,Toyota,9,13,44,Finished,+1:07.045,0
+2008,13,Belgian Grand Prix,2008-09-07,Kovalainen,McLaren,10,3,43,Gearbox,,0
+2008,13,Belgian Grand Prix,2008-09-07,Coulthard,Red Bull,11,14,43,+1 Lap,,0
+2008,13,Belgian Grand Prix,2008-09-07,Rosberg,Williams,12,15,43,+1 Lap,,0
+2008,13,Belgian Grand Prix,2008-09-07,Sutil,Force India,13,18,43,+1 Lap,,0
+2008,13,Belgian Grand Prix,2008-09-07,Nakajima,Williams,14,19,43,+1 Lap,,0
+2008,13,Belgian Grand Prix,2008-09-07,Button,Honda,15,17,43,+1 Lap,,0
+2008,13,Belgian Grand Prix,2008-09-07,Trulli,Toyota,16,11,43,+1 Lap,,0
+2008,13,Belgian Grand Prix,2008-09-07,Fisichella,Force India,17,20,43,+1 Lap,,0
+2008,13,Belgian Grand Prix,2008-09-07,Räikkönen,Ferrari,18,4,42,Spun off,,0
+2008,13,Belgian Grand Prix,2008-09-07,Barrichello,Honda,19,16,19,Gearbox,,0
+2008,13,Belgian Grand Prix,2008-09-07,Piquet Jr.,Renault,20,12,13,Spun off,,0
+2008,14,Italian Grand Prix,2008-09-14,Vettel,Toro Rosso,1,1,53,Finished,1:26:47.494,10
+2008,14,Italian Grand Prix,2008-09-14,Kovalainen,McLaren,2,2,53,Finished,+12.512,8
+2008,14,Italian Grand Prix,2008-09-14,Kubica,BMW Sauber,3,11,53,Finished,+20.471,6
+2008,14,Italian Grand Prix,2008-09-14,Alonso,Renault,4,8,53,Finished,+23.903,5
+2008,14,Italian Grand Prix,2008-09-14,Heidfeld,BMW Sauber,5,10,53,Finished,+27.748,4
+2008,14,Italian Grand Prix,2008-09-14,Massa,Ferrari,6,6,53,Finished,+28.816,3
+2008,14,Italian Grand Prix,2008-09-14,Hamilton,McLaren,7,15,53,Finished,+29.912,2
+2008,14,Italian Grand Prix,2008-09-14,Webber,Red Bull,8,3,53,Finished,+32.048,1
+2008,14,Italian Grand Prix,2008-09-14,Räikkönen,Ferrari,9,14,53,Finished,+39.468,0
+2008,14,Italian Grand Prix,2008-09-14,Piquet Jr.,Renault,10,17,53,Finished,+54.445,0
+2008,14,Italian Grand Prix,2008-09-14,Glock,Toyota,11,9,53,Finished,+58.888,0
+2008,14,Italian Grand Prix,2008-09-14,Nakajima,Williams,12,18,53,Finished,+1:02.015,0
+2008,14,Italian Grand Prix,2008-09-14,Trulli,Toyota,13,7,53,Finished,+1:05.954,0
+2008,14,Italian Grand Prix,2008-09-14,Rosberg,Williams,14,5,53,Finished,+1:08.635,0
+2008,14,Italian Grand Prix,2008-09-14,Button,Honda,15,19,53,Finished,+1:13.370,0
+2008,14,Italian Grand Prix,2008-09-14,Coulthard,Red Bull,16,13,52,+1 Lap,,0
+2008,14,Italian Grand Prix,2008-09-14,Barrichello,Honda,17,16,52,+1 Lap,,0
+2008,14,Italian Grand Prix,2008-09-14,Bourdais,Toro Rosso,18,4,52,+1 Lap,,0
+2008,14,Italian Grand Prix,2008-09-14,Sutil,Force India,19,20,51,+2 Laps,,0
+2008,14,Italian Grand Prix,2008-09-14,Fisichella,Force India,20,12,11,Accident,,0
+2008,15,Singapore Grand Prix,2008-09-28,Alonso,Renault,1,15,61,Finished,1:57:16.304,10
+2008,15,Singapore Grand Prix,2008-09-28,Rosberg,Williams,2,8,61,Finished,+2.957,8
+2008,15,Singapore Grand Prix,2008-09-28,Hamilton,McLaren,3,2,61,Finished,+5.917,6
+2008,15,Singapore Grand Prix,2008-09-28,Glock,Toyota,4,7,61,Finished,+8.155,5
+2008,15,Singapore Grand Prix,2008-09-28,Vettel,Toro Rosso,5,6,61,Finished,+10.268,4
+2008,15,Singapore Grand Prix,2008-09-28,Heidfeld,BMW Sauber,6,9,61,Finished,+11.101,3
+2008,15,Singapore Grand Prix,2008-09-28,Coulthard,Red Bull,7,14,61,Finished,+16.387,2
+2008,15,Singapore Grand Prix,2008-09-28,Nakajima,Williams,8,10,61,Finished,+18.489,1
+2008,15,Singapore Grand Prix,2008-09-28,Button,Honda,9,12,61,Finished,+19.885,0
+2008,15,Singapore Grand Prix,2008-09-28,Kovalainen,McLaren,10,5,61,Finished,+26.902,0
+2008,15,Singapore Grand Prix,2008-09-28,Kubica,BMW Sauber,11,4,61,Finished,+27.975,0
+2008,15,Singapore Grand Prix,2008-09-28,Bourdais,Toro Rosso,12,17,61,Finished,+29.432,0
+2008,15,Singapore Grand Prix,2008-09-28,Massa,Ferrari,13,1,61,Finished,+35.170,0
+2008,15,Singapore Grand Prix,2008-09-28,Fisichella,Force India,14,20,61,Finished,+43.571,0
+2008,15,Singapore Grand Prix,2008-09-28,Räikkönen,Ferrari,15,3,57,Accident,,0
+2008,15,Singapore Grand Prix,2008-09-28,Trulli,Toyota,16,11,50,Hydraulics,,0
+2008,15,Singapore Grand Prix,2008-09-28,Sutil,Force India,17,19,49,Accident,,0
+2008,15,Singapore Grand Prix,2008-09-28,Webber,Red Bull,18,13,29,Transmission,,0
+2008,15,Singapore Grand Prix,2008-09-28,Barrichello,Honda,19,18,14,Mechanical,,0
+2008,15,Singapore Grand Prix,2008-09-28,Piquet Jr.,Renault,20,16,13,Accident,,0
+2008,16,Japanese Grand Prix,2008-10-12,Alonso,Renault,1,4,67,Finished,1:30:21.892,10
+2008,16,Japanese Grand Prix,2008-10-12,Kubica,BMW Sauber,2,6,67,Finished,+5.283,8
+2008,16,Japanese Grand Prix,2008-10-12,Räikkönen,Ferrari,3,2,67,Finished,+6.400,6
+2008,16,Japanese Grand Prix,2008-10-12,Piquet Jr.,Renault,4,12,67,Finished,+20.570,5
+2008,16,Japanese Grand Prix,2008-10-12,Trulli,Toyota,5,7,67,Finished,+23.767,4
+2008,16,Japanese Grand Prix,2008-10-12,Vettel,Toro Rosso,6,9,67,Finished,+39.207,3
+2008,16,Japanese Grand Prix,2008-10-12,Massa,Ferrari,7,5,67,Finished,+46.158,2
+2008,16,Japanese Grand Prix,2008-10-12,Webber,Red Bull,8,13,67,Finished,+50.811,1
+2008,16,Japanese Grand Prix,2008-10-12,Heidfeld,BMW Sauber,9,16,67,Finished,+54.120,0
+2008,16,Japanese Grand Prix,2008-10-12,Bourdais,Toro Rosso,10,10,67,Finished,+59.085,0
+2008,16,Japanese Grand Prix,2008-10-12,Rosberg,Williams,11,15,67,Finished,+1:02.096,0
+2008,16,Japanese Grand Prix,2008-10-12,Hamilton,McLaren,12,1,67,Finished,+1:18.900,0
+2008,16,Japanese Grand Prix,2008-10-12,Barrichello,Honda,13,17,66,+1 Lap,,0
+2008,16,Japanese Grand Prix,2008-10-12,Button,Honda,14,18,66,+1 Lap,,0
+2008,16,Japanese Grand Prix,2008-10-12,Nakajima,Williams,15,14,66,+1 Lap,,0
+2008,16,Japanese Grand Prix,2008-10-12,Fisichella,Force India,16,20,21,Gearbox,,0
+2008,16,Japanese Grand Prix,2008-10-12,Kovalainen,McLaren,17,3,16,Engine,,0
+2008,16,Japanese Grand Prix,2008-10-12,Sutil,Force India,18,19,8,Tyre,,0
+2008,16,Japanese Grand Prix,2008-10-12,Glock,Toyota,19,8,6,Driver Seat,,0
+2008,16,Japanese Grand Prix,2008-10-12,Coulthard,Red Bull,20,11,0,Collision,,0
+2008,17,Chinese Grand Prix,2008-10-19,Hamilton,McLaren,1,1,56,Finished,1:31:57.403,10
+2008,17,Chinese Grand Prix,2008-10-19,Massa,Ferrari,2,3,56,Finished,+14.925,8
+2008,17,Chinese Grand Prix,2008-10-19,Räikkönen,Ferrari,3,2,56,Finished,+16.445,6
+2008,17,Chinese Grand Prix,2008-10-19,Alonso,Renault,4,4,56,Finished,+18.370,5
+2008,17,Chinese Grand Prix,2008-10-19,Heidfeld,BMW Sauber,5,9,56,Finished,+28.923,4
+2008,17,Chinese Grand Prix,2008-10-19,Kubica,BMW Sauber,6,11,56,Finished,+33.219,3
+2008,17,Chinese Grand Prix,2008-10-19,Glock,Toyota,7,12,56,Finished,+41.722,2
+2008,17,Chinese Grand Prix,2008-10-19,Piquet Jr.,Renault,8,10,56,Finished,+56.645,1
+2008,17,Chinese Grand Prix,2008-10-19,Vettel,Toro Rosso,9,6,56,Finished,+1:04.339,0
+2008,17,Chinese Grand Prix,2008-10-19,Coulthard,Red Bull,10,15,56,Finished,+1:14.842,0
+2008,17,Chinese Grand Prix,2008-10-19,Barrichello,Honda,11,13,56,Finished,+1:25.061,0
+2008,17,Chinese Grand Prix,2008-10-19,Nakajima,Williams,12,17,56,Finished,+1:30.847,0
+2008,17,Chinese Grand Prix,2008-10-19,Bourdais,Toro Rosso,13,8,56,Finished,+1:31.457,0
+2008,17,Chinese Grand Prix,2008-10-19,Webber,Red Bull,14,16,56,Finished,+1:32.422,0
+2008,17,Chinese Grand Prix,2008-10-19,Rosberg,Williams,15,14,55,+1 Lap,,0
+2008,17,Chinese Grand Prix,2008-10-19,Button,Honda,16,18,55,+1 Lap,,0
+2008,17,Chinese Grand Prix,2008-10-19,Fisichella,Force India,17,20,55,+1 Lap,,0
+2008,17,Chinese Grand Prix,2008-10-19,Kovalainen,McLaren,18,5,49,Hydraulics,,0
+2008,17,Chinese Grand Prix,2008-10-19,Sutil,Force India,19,19,13,Engine,,0
+2008,17,Chinese Grand Prix,2008-10-19,Trulli,Toyota,20,7,2,Collision,,0
+2008,18,Brazilian Grand Prix,2008-11-02,Massa,Ferrari,1,1,71,Finished,1:34:11.435,10
+2008,18,Brazilian Grand Prix,2008-11-02,Alonso,Renault,2,6,71,Finished,+13.298,8
+2008,18,Brazilian Grand Prix,2008-11-02,Räikkönen,Ferrari,3,3,71,Finished,+16.235,6
+2008,18,Brazilian Grand Prix,2008-11-02,Vettel,Toro Rosso,4,7,71,Finished,+38.011,5
+2008,18,Brazilian Grand Prix,2008-11-02,Hamilton,McLaren,5,4,71,Finished,+38.907,4
+2008,18,Brazilian Grand Prix,2008-11-02,Glock,Toyota,6,10,71,Finished,+44.368,3
+2008,18,Brazilian Grand Prix,2008-11-02,Kovalainen,McLaren,7,5,71,Finished,+55.074,2
+2008,18,Brazilian Grand Prix,2008-11-02,Trulli,Toyota,8,2,71,Finished,+1:08.433,1
+2008,18,Brazilian Grand Prix,2008-11-02,Webber,Red Bull,9,12,71,Finished,+1:19.666,0
+2008,18,Brazilian Grand Prix,2008-11-02,Heidfeld,BMW Sauber,10,8,70,+1 Lap,,0
+2008,18,Brazilian Grand Prix,2008-11-02,Kubica,BMW Sauber,11,13,70,+1 Lap,,0
+2008,18,Brazilian Grand Prix,2008-11-02,Rosberg,Williams,12,18,70,+1 Lap,,0
+2008,18,Brazilian Grand Prix,2008-11-02,Button,Honda,13,17,70,+1 Lap,,0
+2008,18,Brazilian Grand Prix,2008-11-02,Bourdais,Toro Rosso,14,9,70,+1 Lap,,0
+2008,18,Brazilian Grand Prix,2008-11-02,Barrichello,Honda,15,15,70,+1 Lap,,0
+2008,18,Brazilian Grand Prix,2008-11-02,Sutil,Force India,16,20,69,+2 Laps,,0
+2008,18,Brazilian Grand Prix,2008-11-02,Nakajima,Williams,17,16,69,+2 Laps,,0
+2008,18,Brazilian Grand Prix,2008-11-02,Fisichella,Force India,18,19,69,+2 Laps,,0
+2008,18,Brazilian Grand Prix,2008-11-02,Piquet Jr.,Renault,19,11,0,Accident,,0
+2008,18,Brazilian Grand Prix,2008-11-02,Coulthard,Red Bull,20,14,0,Collision,,0

@@ -1,0 +1,310 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1972,1,Argentine Grand Prix,1972-01-23,Stewart,Tyrrell,1,2,95,Finished,1:57:59.1,9
+1972,1,Argentine Grand Prix,1972-01-23,Hulme,McLaren,2,4,95,Finished,+25.96,6
+1972,1,Argentine Grand Prix,1972-01-23,Ickx,Ferrari,3,8,95,Finished,+59.39,4
+1972,1,Argentine Grand Prix,1972-01-23,Regazzoni,Ferrari,4,6,95,Finished,+1:06.72,3
+1972,1,Argentine Grand Prix,1972-01-23,Schenken,Surtees,5,11,95,Finished,+1:09.11,2
+1972,1,Argentine Grand Prix,1972-01-23,Peterson,March,6,10,94,+1 Lap,,1
+1972,1,Argentine Grand Prix,1972-01-23,Reutemann,Brabham,7,1,93,+2 Laps,,0
+1972,1,Argentine Grand Prix,1972-01-23,Pescarolo,March,8,15,93,+2 Laps,,0
+1972,1,Argentine Grand Prix,1972-01-23,Ganley,BRM,9,13,93,+2 Laps,,0
+1972,1,Argentine Grand Prix,1972-01-23,Marko,BRM,10,19,93,+2 Laps,,0
+1972,1,Argentine Grand Prix,1972-01-23,Lauda,March,11,22,93,+2 Laps,,0
+1972,1,Argentine Grand Prix,1972-01-23,Fittipaldi,Team Lotus,12,5,61,Suspension,,0
+1972,1,Argentine Grand Prix,1972-01-23,Cevert,Tyrrell,13,17,59,Gearbox,,0
+1972,1,Argentine Grand Prix,1972-01-23,Wisell,BRM,14,7,59,Water leak,,0
+1972,1,Argentine Grand Prix,1972-01-23,Revson,McLaren,15,3,49,Engine,,0
+1972,1,Argentine Grand Prix,1972-01-23,Andretti,Ferrari,16,9,20,Engine,,0
+1972,1,Argentine Grand Prix,1972-01-23,de Adamich,Surtees,17,14,11,Fuel system,,0
+1972,1,Argentine Grand Prix,1972-01-23,Hill,Brabham,18,16,11,Fuel pump,,0
+1972,1,Argentine Grand Prix,1972-01-23,Walker,Team Lotus,19,20,8,Disqualified,,0
+1972,1,Argentine Grand Prix,1972-01-23,Gethin,BRM,20,18,1,Oil leak,,0
+1972,1,Argentine Grand Prix,1972-01-23,Soler-Roig,BRM,21,21,1,Accident,,0
+1972,1,Argentine Grand Prix,1972-01-23,Amon,Matra,22,12,0,Withdrew,,0
+1972,2,South African Grand Prix,1972-03-04,Hulme,McLaren,1,5,79,Finished,1:45:49.1,9
+1972,2,South African Grand Prix,1972-03-04,Fittipaldi,Team Lotus,2,3,79,Finished,+14.1,6
+1972,2,South African Grand Prix,1972-03-04,Revson,McLaren,3,12,79,Finished,+25.8,4
+1972,2,South African Grand Prix,1972-03-04,Andretti,Ferrari,4,6,79,Finished,+38.5,3
+1972,2,South African Grand Prix,1972-03-04,Peterson,March,5,9,79,Finished,+49.0,2
+1972,2,South African Grand Prix,1972-03-04,Hill,Brabham,6,14,78,+1 Lap,,1
+1972,2,South African Grand Prix,1972-03-04,Lauda,March,7,21,78,+1 Lap,,0
+1972,2,South African Grand Prix,1972-03-04,Ickx,Ferrari,8,7,78,+1 Lap,,0
+1972,2,South African Grand Prix,1972-03-04,Cevert,Tyrrell,9,8,78,+1 Lap,,0
+1972,2,South African Grand Prix,1972-03-04,Walker,Team Lotus,10,19,78,+1 Lap,,0
+1972,2,South African Grand Prix,1972-03-04,Pescarolo,March,11,22,78,+1 Lap,,0
+1972,2,South African Grand Prix,1972-03-04,Regazzoni,Ferrari,12,2,77,+2 Laps,,0
+1972,2,South African Grand Prix,1972-03-04,Stommelen,March,13,25,77,+2 Laps,,0
+1972,2,South African Grand Prix,1972-03-04,Marko,BRM,14,23,76,+3 Laps,,0
+1972,2,South African Grand Prix,1972-03-04,Amon,Matra,15,13,76,+3 Laps,,0
+1972,2,South African Grand Prix,1972-03-04,Love,Surtees,16,26,73,Spun off,,0
+1972,2,South African Grand Prix,1972-03-04,Pace,March,17,24,73,+6 Laps,,0
+1972,2,South African Grand Prix,1972-03-04,Ganley,BRM,18,16,70,Not classified,,0
+1972,2,South African Grand Prix,1972-03-04,de Adamich,Surtees,19,20,69,Not classified,,0
+1972,2,South African Grand Prix,1972-03-04,Gethin,BRM,20,18,65,Not classified,,0
+1972,2,South African Grand Prix,1972-03-04,Beltoise,BRM,21,11,61,Engine,,0
+1972,2,South African Grand Prix,1972-03-04,Stewart,Tyrrell,22,1,45,Gearbox,,0
+1972,2,South African Grand Prix,1972-03-04,Hailwood,Surtees,23,4,28,Suspension,,0
+1972,2,South African Grand Prix,1972-03-04,Reutemann,Brabham,24,15,27,Fuel system,,0
+1972,2,South African Grand Prix,1972-03-04,Schenken,Surtees,25,10,9,Engine,,0
+1972,2,South African Grand Prix,1972-03-04,Charlton,Team Lotus,26,17,2,Fuel pump,,0
+1972,3,Spanish Grand Prix,1972-05-01,Fittipaldi,Team Lotus,1,3,90,Finished,2:03:41.2,9
+1972,3,Spanish Grand Prix,1972-05-01,Ickx,Ferrari,2,1,90,Finished,+18.92,6
+1972,3,Spanish Grand Prix,1972-05-01,Regazzoni,Ferrari,3,8,89,+1 Lap,,4
+1972,3,Spanish Grand Prix,1972-05-01,de Adamich,Surtees,4,13,89,+1 Lap,,3
+1972,3,Spanish Grand Prix,1972-05-01,Revson,McLaren,5,11,89,+1 Lap,,2
+1972,3,Spanish Grand Prix,1972-05-01,Pace,March,6,16,89,+1 Lap,,1
+1972,3,Spanish Grand Prix,1972-05-01,Fittipaldi,Brabham,7,14,88,+2 Laps,,0
+1972,3,Spanish Grand Prix,1972-05-01,Schenken,Surtees,8,18,88,+2 Laps,,0
+1972,3,Spanish Grand Prix,1972-05-01,Walker,Team Lotus,9,24,87,+3 Laps,,0
+1972,3,Spanish Grand Prix,1972-05-01,Hill,Brabham,10,23,86,+4 Laps,,0
+1972,3,Spanish Grand Prix,1972-05-01,Pescarolo,March,11,19,86,+4 Laps,,0
+1972,3,Spanish Grand Prix,1972-05-01,Stewart,Tyrrell,12,4,69,Accident,,0
+1972,3,Spanish Grand Prix,1972-05-01,Amon,Matra,13,6,66,Gearbox,,0
+1972,3,Spanish Grand Prix,1972-05-01,Cevert,Tyrrell,14,12,65,Ignition,,0
+1972,3,Spanish Grand Prix,1972-05-01,Gethin,BRM,15,21,65,Engine,,0
+1972,3,Spanish Grand Prix,1972-05-01,Hulme,McLaren,16,2,48,Gearbox,,0
+1972,3,Spanish Grand Prix,1972-05-01,Ganley,BRM,17,20,38,Engine,,0
+1972,3,Spanish Grand Prix,1972-05-01,Wisell,BRM,18,10,24,Accident,,0
+1972,3,Spanish Grand Prix,1972-05-01,Andretti,Ferrari,19,5,23,Oil pressure,,0
+1972,3,Spanish Grand Prix,1972-05-01,Hailwood,Surtees,20,15,20,Electrical,,0
+1972,3,Spanish Grand Prix,1972-05-01,Peterson,March,21,9,16,Fuel leak,,0
+1972,3,Spanish Grand Prix,1972-05-01,Stommelen,March,22,17,15,Accident,,0
+1972,3,Spanish Grand Prix,1972-05-01,Beltoise,BRM,23,7,9,Gearbox,,0
+1972,3,Spanish Grand Prix,1972-05-01,Lauda,March,24,25,7,Differential,,0
+1972,3,Spanish Grand Prix,1972-05-01,Soler-Roig,BRM,25,22,6,Accident,,0
+1972,3,Spanish Grand Prix,1972-05-01,Beuttler,March,26,0,0,Did not qualify,,0
+1972,4,Monaco Grand Prix,1972-05-14,Beltoise,BRM,1,4,80,Finished,2:26:55.3,9
+1972,4,Monaco Grand Prix,1972-05-14,Ickx,Ferrari,2,2,80,Finished,+38.2,6
+1972,4,Monaco Grand Prix,1972-05-14,Fittipaldi,Team Lotus,3,1,79,+1 Lap,,4
+1972,4,Monaco Grand Prix,1972-05-14,Stewart,Tyrrell,4,8,78,+2 Laps,,3
+1972,4,Monaco Grand Prix,1972-05-14,Redman,McLaren,5,10,77,+3 Laps,,2
+1972,4,Monaco Grand Prix,1972-05-14,Amon,Matra,6,6,77,+3 Laps,,1
+1972,4,Monaco Grand Prix,1972-05-14,de Adamich,Surtees,7,18,77,+3 Laps,,0
+1972,4,Monaco Grand Prix,1972-05-14,Marko,BRM,8,17,77,+3 Laps,,0
+1972,4,Monaco Grand Prix,1972-05-14,Fittipaldi,Brabham,9,21,77,+3 Laps,,0
+1972,4,Monaco Grand Prix,1972-05-14,Stommelen,March,10,25,77,+3 Laps,,0
+1972,4,Monaco Grand Prix,1972-05-14,Peterson,March,11,15,76,+4 Laps,,0
+1972,4,Monaco Grand Prix,1972-05-14,Hill,Brabham,12,20,76,+4 Laps,,0
+1972,4,Monaco Grand Prix,1972-05-14,Beuttler,March,13,23,76,+4 Laps,,0
+1972,4,Monaco Grand Prix,1972-05-14,Walker,Team Lotus,14,14,75,+5 Laps,,0
+1972,4,Monaco Grand Prix,1972-05-14,Hulme,McLaren,15,7,74,+6 Laps,,0
+1972,4,Monaco Grand Prix,1972-05-14,Lauda,March,16,22,74,+6 Laps,,0
+1972,4,Monaco Grand Prix,1972-05-14,Pace,March,17,24,72,+8 Laps,,0
+1972,4,Monaco Grand Prix,1972-05-14,Cevert,Tyrrell,18,12,70,Not classified,,0
+1972,4,Monaco Grand Prix,1972-05-14,Pescarolo,March,19,9,58,Accident,,0
+1972,4,Monaco Grand Prix,1972-05-14,Regazzoni,Ferrari,20,3,51,Accident,,0
+1972,4,Monaco Grand Prix,1972-05-14,Hailwood,Surtees,21,11,48,Accident,,0
+1972,4,Monaco Grand Prix,1972-05-14,Ganley,BRM,22,20,47,Accident,,0
+1972,4,Monaco Grand Prix,1972-05-14,Schenken,Surtees,23,13,31,Accident,,0
+1972,4,Monaco Grand Prix,1972-05-14,Gethin,BRM,24,5,27,Accident,,0
+1972,4,Monaco Grand Prix,1972-05-14,Wisell,BRM,25,16,16,Engine,,0
+1972,5,Belgian Grand Prix,1972-06-04,Fittipaldi,Team Lotus,1,1,85,Finished,1:44:07.3,9
+1972,5,Belgian Grand Prix,1972-06-04,Cevert,Tyrrell,2,5,85,Finished,+26.6,6
+1972,5,Belgian Grand Prix,1972-06-04,Hulme,McLaren,3,3,85,Finished,+58.1,4
+1972,5,Belgian Grand Prix,1972-06-04,Hailwood,Surtees,4,8,85,Finished,+1:12.0,3
+1972,5,Belgian Grand Prix,1972-06-04,Pace,March,5,11,84,+1 Lap,,2
+1972,5,Belgian Grand Prix,1972-06-04,Amon,Matra,6,13,84,+1 Lap,,1
+1972,5,Belgian Grand Prix,1972-06-04,Revson,McLaren,7,7,83,+2 Laps,,0
+1972,5,Belgian Grand Prix,1972-06-04,Ganley,BRM,8,15,83,+2 Laps,,0
+1972,5,Belgian Grand Prix,1972-06-04,Peterson,March,9,14,83,+2 Laps,,0
+1972,5,Belgian Grand Prix,1972-06-04,Marko,BRM,10,23,83,+2 Laps,,0
+1972,5,Belgian Grand Prix,1972-06-04,Stommelen,March,11,20,83,+2 Laps,,0
+1972,5,Belgian Grand Prix,1972-06-04,Lauda,March,12,25,82,+3 Laps,,0
+1972,5,Belgian Grand Prix,1972-06-04,Reutemann,Brabham,13,9,81,+4 Laps,,0
+1972,5,Belgian Grand Prix,1972-06-04,Walker,Team Lotus,14,12,79,+6 Laps,,0
+1972,5,Belgian Grand Prix,1972-06-04,Hill,Brabham,15,16,73,Suspension,,0
+1972,5,Belgian Grand Prix,1972-06-04,Pescarolo,March,16,19,59,Not classified,,0
+1972,5,Belgian Grand Prix,1972-06-04,Regazzoni,Ferrari,17,2,57,Accident,,0
+1972,5,Belgian Grand Prix,1972-06-04,de Adamich,Surtees,18,10,55,Engine,,0
+1972,5,Belgian Grand Prix,1972-06-04,Galli,Tecno,19,24,54,Accident,,0
+1972,5,Belgian Grand Prix,1972-06-04,Ickx,Ferrari,20,4,47,Injection,,0
+1972,5,Belgian Grand Prix,1972-06-04,Beuttler,March,21,22,31,Halfshaft,,0
+1972,5,Belgian Grand Prix,1972-06-04,Fittipaldi,Brabham,22,18,28,Gearbox,,0
+1972,5,Belgian Grand Prix,1972-06-04,Gethin,BRM,23,17,27,Fuel pump,,0
+1972,5,Belgian Grand Prix,1972-06-04,Beltoise,BRM,24,6,15,Overheating,,0
+1972,5,Belgian Grand Prix,1972-06-04,Schenken,Surtees,25,21,11,Overheating,,0
+1972,6,French Grand Prix,1972-07-02,Stewart,Tyrrell,1,3,38,Finished,1:52:22.5,9
+1972,6,French Grand Prix,1972-07-02,Fittipaldi,Team Lotus,2,8,38,Finished,+27.7,6
+1972,6,French Grand Prix,1972-07-02,Amon,Matra,3,1,38,Finished,+31.9,4
+1972,6,French Grand Prix,1972-07-02,Cevert,Tyrrell,4,7,38,Finished,+49.3,3
+1972,6,French Grand Prix,1972-07-02,Peterson,March,5,9,38,Finished,+56.8,2
+1972,6,French Grand Prix,1972-07-02,Hailwood,Surtees,6,10,38,Finished,+1:36.1,1
+1972,6,French Grand Prix,1972-07-02,Hulme,McLaren,7,2,38,Finished,+1:48.1,0
+1972,6,French Grand Prix,1972-07-02,Fittipaldi,Brabham,8,14,38,Finished,+2:25.1,0
+1972,6,French Grand Prix,1972-07-02,Redman,McLaren,9,13,38,Finished,+2:55.5,0
+1972,6,French Grand Prix,1972-07-02,Hill,Brabham,10,20,38,Finished,+2:59.5,0
+1972,6,French Grand Prix,1972-07-02,Ickx,Ferrari,11,4,37,+1 Lap,,0
+1972,6,French Grand Prix,1972-07-02,Reutemann,Brabham,12,17,37,+1 Lap,,0
+1972,6,French Grand Prix,1972-07-02,Galli,Ferrari,13,19,37,+1 Lap,,0
+1972,6,French Grand Prix,1972-07-02,de Adamich,Surtees,14,12,37,+1 Lap,,0
+1972,6,French Grand Prix,1972-07-02,Beltoise,BRM,15,24,37,+1 Lap,,0
+1972,6,French Grand Prix,1972-07-02,Stommelen,March,16,15,37,+1 Lap,,0
+1972,6,French Grand Prix,1972-07-02,Schenken,Surtees,17,5,36,+2 Laps,,0
+1972,6,French Grand Prix,1972-07-02,Walker,Team Lotus,18,22,34,Halfshaft,,0
+1972,6,French Grand Prix,1972-07-02,Beuttler,March,19,23,33,Out of fuel,,0
+1972,6,French Grand Prix,1972-07-02,Depailler,Tyrrell,20,16,33,Not classified,,0
+1972,6,French Grand Prix,1972-07-02,Wisell,BRM,21,18,25,Gearbox,,0
+1972,6,French Grand Prix,1972-07-02,Pace,March,22,11,18,Engine,,0
+1972,6,French Grand Prix,1972-07-02,Marko,BRM,23,6,8,Eye injury,,0
+1972,6,French Grand Prix,1972-07-02,Lauda,March,24,21,4,Halfshaft,,0
+1972,6,French Grand Prix,1972-07-02,Charlton,Team Lotus,25,0,0,Did not qualify,,0
+1972,7,British Grand Prix,1972-07-15,Fittipaldi,Team Lotus,1,2,76,Finished,1:47:50.2,9
+1972,7,British Grand Prix,1972-07-15,Stewart,Tyrrell,2,4,76,Finished,+4.1,6
+1972,7,British Grand Prix,1972-07-15,Revson,McLaren,3,3,76,Finished,+1:12.5,4
+1972,7,British Grand Prix,1972-07-15,Amon,Matra,4,17,75,+1 Lap,,3
+1972,7,British Grand Prix,1972-07-15,Hulme,McLaren,5,11,75,+1 Lap,,2
+1972,7,British Grand Prix,1972-07-15,Merzario,Ferrari,6,9,75,+1 Lap,,1
+1972,7,British Grand Prix,1972-07-15,Peterson,March,7,8,74,Spun off,,0
+1972,7,British Grand Prix,1972-07-15,Reutemann,Brabham,8,10,73,+3 Laps,,0
+1972,7,British Grand Prix,1972-07-15,Lauda,March,9,19,73,+3 Laps,,0
+1972,7,British Grand Prix,1972-07-15,Stommelen,March,10,25,71,+5 Laps,,0
+1972,7,British Grand Prix,1972-07-15,Beltoise,BRM,11,6,70,+6 Laps,,0
+1972,7,British Grand Prix,1972-07-15,Fittipaldi,Brabham,12,22,69,Suspension,,0
+1972,7,British Grand Prix,1972-07-15,Beuttler,March,13,23,69,+7 Laps,,0
+1972,7,British Grand Prix,1972-07-15,Schenken,Surtees,14,5,64,Suspension,,0
+1972,7,British Grand Prix,1972-07-15,Cevert,Tyrrell,15,12,60,Spun off,,0
+1972,7,British Grand Prix,1972-07-15,Walker,Team Lotus,16,15,59,Suspension,,0
+1972,7,British Grand Prix,1972-07-15,Ickx,Ferrari,17,1,49,Oil pressure,,0
+1972,7,British Grand Prix,1972-07-15,Hill,Brabham,18,21,47,Spun off,,0
+1972,7,British Grand Prix,1972-07-15,Pace,March,19,13,39,Differential,,0
+1972,7,British Grand Prix,1972-07-15,Oliver,BRM,20,14,36,Suspension,,0
+1972,7,British Grand Prix,1972-07-15,Hailwood,Surtees,21,7,31,Gearbox,,0
+1972,7,British Grand Prix,1972-07-15,Charlton,Team Lotus,22,24,21,Gearbox,,0
+1972,7,British Grand Prix,1972-07-15,Galli,Tecno,23,18,9,Spun off,,0
+1972,7,British Grand Prix,1972-07-15,Pescarolo,Politoys,24,26,7,Accident,,0
+1972,7,British Grand Prix,1972-07-15,Gethin,BRM,25,16,5,Engine,,0
+1972,7,British Grand Prix,1972-07-15,de Adamich,Surtees,26,20,3,Accident,,0
+1972,8,German Grand Prix,1972-07-30,Ickx,Ferrari,1,1,14,Finished,1:42:12.3,9
+1972,8,German Grand Prix,1972-07-30,Regazzoni,Ferrari,2,7,14,Finished,+48.3,6
+1972,8,German Grand Prix,1972-07-30,Peterson,March,3,4,14,Finished,+1:06.7,4
+1972,8,German Grand Prix,1972-07-30,Ganley,BRM,4,18,14,Finished,+2:20.2,3
+1972,8,German Grand Prix,1972-07-30,Redman,McLaren,5,19,14,Finished,+2:35.7,2
+1972,8,German Grand Prix,1972-07-30,Hill,Brabham,6,15,14,Finished,+2:59.6,1
+1972,8,German Grand Prix,1972-07-30,Fittipaldi,Brabham,7,21,14,Finished,+3:00.1,0
+1972,8,German Grand Prix,1972-07-30,Beuttler,March,8,27,14,Finished,+5:10.7,0
+1972,8,German Grand Prix,1972-07-30,Beltoise,BRM,9,13,14,Finished,+5:20.2,0
+1972,8,German Grand Prix,1972-07-30,Cevert,Tyrrell,10,5,14,Finished,+5:43.7,0
+1972,8,German Grand Prix,1972-07-30,Stewart,Tyrrell,11,2,13,Collision,,0
+1972,8,German Grand Prix,1972-07-30,Merzario,Ferrari,12,22,13,+1 Lap,,0
+1972,8,German Grand Prix,1972-07-30,de Adamich,Surtees,13,20,13,+1 Lap,,0
+1972,8,German Grand Prix,1972-07-30,Schenken,Surtees,14,12,13,+1 Lap,,0
+1972,8,German Grand Prix,1972-07-30,Amon,Matra,15,8,13,+1 Lap,,0
+1972,8,German Grand Prix,1972-07-30,Pace,March,16,11,11,Not classified,,0
+1972,8,German Grand Prix,1972-07-30,Fittipaldi,Team Lotus,17,3,10,Gearbox,,0
+1972,8,German Grand Prix,1972-07-30,Pescarolo,March,18,9,10,Accident,,0
+1972,8,German Grand Prix,1972-07-30,Hulme,McLaren,19,10,8,Engine,,0
+1972,8,German Grand Prix,1972-07-30,Hailwood,Surtees,20,16,8,Suspension,,0
+1972,8,German Grand Prix,1972-07-30,Reutemann,Brabham,21,6,6,Differential,,0
+1972,8,German Grand Prix,1972-07-30,Stommelen,March,22,14,6,Electrical,,0
+1972,8,German Grand Prix,1972-07-30,Walker,Team Lotus,23,23,6,Oil leak,,0
+1972,8,German Grand Prix,1972-07-30,Lauda,March,24,24,4,Oil leak,,0
+1972,8,German Grand Prix,1972-07-30,Bell,Tecno,25,25,4,Engine,,0
+1972,8,German Grand Prix,1972-07-30,Charlton,Team Lotus,26,26,4,Physical,,0
+1972,8,German Grand Prix,1972-07-30,Wisell,BRM,27,17,3,Engine,,0
+1972,9,Austrian Grand Prix,1972-08-13,Fittipaldi,Team Lotus,1,1,54,Finished,1:29:16.660,9
+1972,9,Austrian Grand Prix,1972-08-13,Hulme,McLaren,2,7,54,Finished,+1.18,6
+1972,9,Austrian Grand Prix,1972-08-13,Revson,McLaren,3,4,54,Finished,+36.53,4
+1972,9,Austrian Grand Prix,1972-08-13,Hailwood,Surtees,4,12,54,Finished,+44.76,3
+1972,9,Austrian Grand Prix,1972-08-13,Amon,Matra,5,6,54,Finished,+45.64,2
+1972,9,Austrian Grand Prix,1972-08-13,Ganley,BRM,6,10,54,Finished,+1:01.19,1
+1972,9,Austrian Grand Prix,1972-08-13,Stewart,Tyrrell,7,3,54,Finished,+1:09.09,0
+1972,9,Austrian Grand Prix,1972-08-13,Beltoise,BRM,8,21,54,Finished,+1:21.45,0
+1972,9,Austrian Grand Prix,1972-08-13,Cevert,Tyrrell,9,20,53,+1 Lap,,0
+1972,9,Austrian Grand Prix,1972-08-13,Lauda,March,10,22,53,+1 Lap,,0
+1972,9,Austrian Grand Prix,1972-08-13,Schenken,Surtees,11,8,52,+2 Laps,,0
+1972,9,Austrian Grand Prix,1972-08-13,Peterson,March,12,11,52,+2 Laps,,0
+1972,9,Austrian Grand Prix,1972-08-13,Gethin,BRM,13,16,51,+3 Laps,,0
+1972,9,Austrian Grand Prix,1972-08-13,de Adamich,Surtees,14,13,51,+3 Laps,,0
+1972,9,Austrian Grand Prix,1972-08-13,Stommelen,March,15,17,48,Engine,,0
+1972,9,Austrian Grand Prix,1972-08-13,Pace,March,16,18,46,Not classified,,0
+1972,9,Austrian Grand Prix,1972-08-13,Galli,Tecno,17,23,45,Oil leak,,0
+1972,9,Austrian Grand Prix,1972-08-13,Hill,Brabham,18,14,36,Injection,,0
+1972,9,Austrian Grand Prix,1972-08-13,Fittipaldi,Brabham,19,15,31,Brakes,,0
+1972,9,Austrian Grand Prix,1972-08-13,Beuttler,March,20,24,24,Fuel system,,0
+1972,9,Austrian Grand Prix,1972-08-13,Migault,Connew,21,25,22,Suspension,,0
+1972,9,Austrian Grand Prix,1972-08-13,Ickx,Ferrari,22,9,20,Fuel system,,0
+1972,9,Austrian Grand Prix,1972-08-13,Reutemann,Brabham,23,5,14,Injection,,0
+1972,9,Austrian Grand Prix,1972-08-13,Regazzoni,Ferrari,24,2,13,Fuel system,,0
+1972,9,Austrian Grand Prix,1972-08-13,Walker,Team Lotus,25,19,6,Engine,,0
+1972,10,Italian Grand Prix,1972-09-10,Fittipaldi,Team Lotus,1,4,55,Finished,1:29:58.4,9
+1972,10,Italian Grand Prix,1972-09-10,Hailwood,Surtees,2,9,55,Finished,+14.5,6
+1972,10,Italian Grand Prix,1972-09-10,Hulme,McLaren,3,5,55,Finished,+23.8,4
+1972,10,Italian Grand Prix,1972-09-10,Revson,McLaren,4,8,55,Finished,+35.7,3
+1972,10,Italian Grand Prix,1972-09-10,Hill,Brabham,5,13,55,Finished,+1:05.6,2
+1972,10,Italian Grand Prix,1972-09-10,Gethin,BRM,6,12,55,Finished,+1:21.9,1
+1972,10,Italian Grand Prix,1972-09-10,Andretti,Ferrari,7,7,54,+1 Lap,,0
+1972,10,Italian Grand Prix,1972-09-10,Beltoise,BRM,8,16,54,+1 Lap,,0
+1972,10,Italian Grand Prix,1972-09-10,Peterson,March,9,24,54,+1 Lap,,0
+1972,10,Italian Grand Prix,1972-09-10,Beuttler,March,10,25,54,+1 Lap,,0
+1972,10,Italian Grand Prix,1972-09-10,Ganley,BRM,11,17,52,+3 Laps,,0
+1972,10,Italian Grand Prix,1972-09-10,Wisell,BRM,12,10,51,+4 Laps,,0
+1972,10,Italian Grand Prix,1972-09-10,Lauda,March,13,20,50,+5 Laps,,0
+1972,10,Italian Grand Prix,1972-09-10,Ickx,Ferrari,14,1,46,Electrical,,0
+1972,10,Italian Grand Prix,1972-09-10,Amon,Matra,15,2,38,Brakes,,0
+1972,10,Italian Grand Prix,1972-09-10,de Adamich,Surtees,16,21,33,Brakes,,0
+1972,10,Italian Grand Prix,1972-09-10,Fittipaldi,Brabham,17,19,20,Suspension,,0
+1972,10,Italian Grand Prix,1972-09-10,Surtees,Surtees,18,22,20,Fuel system,,0
+1972,10,Italian Grand Prix,1972-09-10,Schenken,Surtees,19,15,20,Spun off,,0
+1972,10,Italian Grand Prix,1972-09-10,Regazzoni,Ferrari,20,4,16,Collision,,0
+1972,10,Italian Grand Prix,1972-09-10,Pace,March,21,18,15,Collision,,0
+1972,10,Italian Grand Prix,1972-09-10,Reutemann,Brabham,22,11,14,Suspension,,0
+1972,10,Italian Grand Prix,1972-09-10,Cevert,Tyrrell,23,14,14,Engine,,0
+1972,10,Italian Grand Prix,1972-09-10,Galli,Tecno,24,23,6,Engine,,0
+1972,10,Italian Grand Prix,1972-09-10,Stewart,Tyrrell,25,3,0,Clutch,,0
+1972,10,Italian Grand Prix,1972-09-10,Pescarolo,March,26,0,0,Did not qualify,,0
+1972,10,Italian Grand Prix,1972-09-10,Bell,Tecno,27,0,0,Did not qualify,,0
+1972,11,Canadian Grand Prix,1972-09-24,Stewart,Tyrrell,1,5,80,Finished,1:43:17.1,9
+1972,11,Canadian Grand Prix,1972-09-24,Revson,McLaren,2,1,80,Finished,+48.2,6
+1972,11,Canadian Grand Prix,1972-09-24,Hulme,McLaren,3,2,80,Finished,+54.6,4
+1972,11,Canadian Grand Prix,1972-09-24,Reutemann,Brabham,4,9,80,Finished,+1:00.7,3
+1972,11,Canadian Grand Prix,1972-09-24,Regazzoni,Ferrari,5,7,80,Finished,+1:07.0,2
+1972,11,Canadian Grand Prix,1972-09-24,Amon,Matra,6,10,79,+1 Lap,,1
+1972,11,Canadian Grand Prix,1972-09-24,Schenken,Surtees,7,13,79,+1 Lap,,0
+1972,11,Canadian Grand Prix,1972-09-24,Hill,Brabham,8,17,79,+1 Lap,,0
+1972,11,Canadian Grand Prix,1972-09-24,Pace,March,9,18,78,Out of fuel,,0
+1972,11,Canadian Grand Prix,1972-09-24,Ganley,BRM,10,14,78,+2 Laps,,0
+1972,11,Canadian Grand Prix,1972-09-24,Fittipaldi,Team Lotus,11,4,78,+2 Laps,,0
+1972,11,Canadian Grand Prix,1972-09-24,Ickx,Ferrari,12,8,76,+4 Laps,,0
+1972,11,Canadian Grand Prix,1972-09-24,Pescarolo,March,13,21,73,+7 Laps,,0
+1972,11,Canadian Grand Prix,1972-09-24,Wisell,Team Lotus,14,16,65,Engine,,0
+1972,11,Canadian Grand Prix,1972-09-24,Lauda,March,15,19,64,Disqualified,,0
+1972,11,Canadian Grand Prix,1972-09-24,Peterson,March,16,3,61,Collision,,0
+1972,11,Canadian Grand Prix,1972-09-24,Beuttler,March,17,24,59,Not classified,,0
+1972,11,Canadian Grand Prix,1972-09-24,Cevert,Tyrrell,18,6,51,Gearbox,,0
+1972,11,Canadian Grand Prix,1972-09-24,Gethin,BRM,19,12,25,Suspension,,0
+1972,11,Canadian Grand Prix,1972-09-24,Barber,March,20,22,24,Not classified,,0
+1972,11,Canadian Grand Prix,1972-09-24,Beltoise,BRM,21,20,21,Oil leak,,0
+1972,11,Canadian Grand Prix,1972-09-24,Brack,BRM,22,23,20,Spun off,,0
+1972,11,Canadian Grand Prix,1972-09-24,Fittipaldi,Brabham,23,11,5,Gearbox,,0
+1972,11,Canadian Grand Prix,1972-09-24,de Adamich,Surtees,24,15,2,Gearbox,,0
+1972,12,United States Grand Prix,1972-10-08,Stewart,Tyrrell,1,1,59,Finished,1:41:45.354,9
+1972,12,United States Grand Prix,1972-10-08,Cevert,Tyrrell,2,4,59,Finished,+32.268,6
+1972,12,United States Grand Prix,1972-10-08,Hulme,McLaren,3,3,59,Finished,+37.528,4
+1972,12,United States Grand Prix,1972-10-08,Peterson,March,4,26,59,Finished,+1:22.516,3
+1972,12,United States Grand Prix,1972-10-08,Ickx,Ferrari,5,12,59,Finished,+1:23.119,2
+1972,12,United States Grand Prix,1972-10-08,Andretti,Ferrari,6,10,58,+1 Lap,,1
+1972,12,United States Grand Prix,1972-10-08,Depailler,Tyrrell,7,11,58,+1 Lap,,0
+1972,12,United States Grand Prix,1972-10-08,Regazzoni,Ferrari,8,6,58,+1 Lap,,0
+1972,12,United States Grand Prix,1972-10-08,Scheckter,McLaren,9,8,58,+1 Lap,,0
+1972,12,United States Grand Prix,1972-10-08,Wisell,Team Lotus,10,16,57,+2 Laps,,0
+1972,12,United States Grand Prix,1972-10-08,Hill,Brabham,11,27,57,+2 Laps,,0
+1972,12,United States Grand Prix,1972-10-08,Posey,Surtees,12,22,57,+2 Laps,,0
+1972,12,United States Grand Prix,1972-10-08,Beuttler,March,13,20,57,+2 Laps,,0
+1972,12,United States Grand Prix,1972-10-08,Pescarolo,March,14,21,57,+2 Laps,,0
+1972,12,United States Grand Prix,1972-10-08,Amon,Matra,15,7,57,+2 Laps,,0
+1972,12,United States Grand Prix,1972-10-08,Barber,March,16,20,57,+2 Laps,,0
+1972,12,United States Grand Prix,1972-10-08,Hailwood,Surtees,17,14,56,Collision,,0
+1972,12,United States Grand Prix,1972-10-08,Revson,McLaren,18,2,54,Electrical,,0
+1972,12,United States Grand Prix,1972-10-08,Lauda,March,19,25,49,Not classified,,0
+1972,12,United States Grand Prix,1972-10-08,Pace,March,20,15,48,Fuel system,,0
+1972,12,United States Grand Prix,1972-10-08,Gethin,BRM,21,28,47,Engine,,0
+1972,12,United States Grand Prix,1972-10-08,Ganley,BRM,22,17,44,Engine,,0
+1972,12,United States Grand Prix,1972-10-08,Walker,Team Lotus,23,30,44,Engine,,0
+1972,12,United States Grand Prix,1972-10-08,Fittipaldi,Brabham,24,13,43,Engine,,0
+1972,12,United States Grand Prix,1972-10-08,Beltoise,BRM,25,18,40,Ignition,,0
+1972,12,United States Grand Prix,1972-10-08,Redman,BRM,26,24,34,Engine,,0
+1972,12,United States Grand Prix,1972-10-08,Reutemann,Brabham,27,5,31,Engine,,0
+1972,12,United States Grand Prix,1972-10-08,de Adamich,Surtees,28,19,25,Collision,,0
+1972,12,United States Grand Prix,1972-10-08,Schenken,Surtees,29,31,22,Suspension,,0
+1972,12,United States Grand Prix,1972-10-08,Fittipaldi,Team Lotus,30,9,17,Suspension,,0
+1972,12,United States Grand Prix,1972-10-08,Bell,Tecno,31,29,8,Engine,,0

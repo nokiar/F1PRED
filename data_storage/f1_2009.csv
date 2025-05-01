@@ -1,0 +1,341 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+2009,1,Australian Grand Prix,2009-03-29,Button,Brawn,1,1,58,Finished,1:34:15.784,10
+2009,1,Australian Grand Prix,2009-03-29,Barrichello,Brawn,2,2,58,Finished,+0.807,8
+2009,1,Australian Grand Prix,2009-03-29,Trulli,Toyota,3,20,58,Finished,+1.604,6
+2009,1,Australian Grand Prix,2009-03-29,Glock,Toyota,4,19,58,Finished,+4.435,5
+2009,1,Australian Grand Prix,2009-03-29,Alonso,Renault,5,10,58,Finished,+4.879,4
+2009,1,Australian Grand Prix,2009-03-29,Rosberg,Williams,6,5,58,Finished,+5.722,3
+2009,1,Australian Grand Prix,2009-03-29,Buemi,Toro Rosso,7,13,58,Finished,+6.004,2
+2009,1,Australian Grand Prix,2009-03-29,Bourdais,Toro Rosso,8,17,58,Finished,+6.298,1
+2009,1,Australian Grand Prix,2009-03-29,Sutil,Force India,9,16,58,Finished,+6.335,0
+2009,1,Australian Grand Prix,2009-03-29,Heidfeld,BMW Sauber,10,9,58,Finished,+7.085,0
+2009,1,Australian Grand Prix,2009-03-29,Fisichella,Force India,11,15,58,Finished,+7.374,0
+2009,1,Australian Grand Prix,2009-03-29,Webber,Red Bull,12,8,57,+1 Lap,,0
+2009,1,Australian Grand Prix,2009-03-29,Vettel,Red Bull,13,3,56,Collision,,0
+2009,1,Australian Grand Prix,2009-03-29,Kubica,BMW Sauber,14,4,55,Collision,,0
+2009,1,Australian Grand Prix,2009-03-29,Räikkönen,Ferrari,15,7,55,Differential,,0
+2009,1,Australian Grand Prix,2009-03-29,Massa,Ferrari,16,6,45,Suspension,,0
+2009,1,Australian Grand Prix,2009-03-29,Piquet Jr.,Renault,17,14,24,Spun off,,0
+2009,1,Australian Grand Prix,2009-03-29,Nakajima,Williams,18,11,17,Accident,,0
+2009,1,Australian Grand Prix,2009-03-29,Kovalainen,McLaren,19,12,0,Collision,,0
+2009,1,Australian Grand Prix,2009-03-29,Hamilton,McLaren,20,18,58,Disqualified,,0
+2009,2,Malaysian Grand Prix,2009-04-05,Button,Brawn,1,1,31,Finished,1:10:52.092,5
+2009,2,Malaysian Grand Prix,2009-04-05,Heidfeld,BMW Sauber,2,10,31,Finished,+22.722,4
+2009,2,Malaysian Grand Prix,2009-04-05,Glock,Toyota,3,3,31,Finished,+23.513,3
+2009,2,Malaysian Grand Prix,2009-04-05,Trulli,Toyota,4,2,31,Finished,+46.173,2.5
+2009,2,Malaysian Grand Prix,2009-04-05,Barrichello,Brawn,5,8,31,Finished,+47.360,2
+2009,2,Malaysian Grand Prix,2009-04-05,Webber,Red Bull,6,5,31,Finished,+52.333,1.5
+2009,2,Malaysian Grand Prix,2009-04-05,Hamilton,McLaren,7,12,31,Finished,+1:00.733,1
+2009,2,Malaysian Grand Prix,2009-04-05,Rosberg,Williams,8,4,31,Finished,+1:11.576,0.5
+2009,2,Malaysian Grand Prix,2009-04-05,Massa,Ferrari,9,16,31,Finished,+1:16.932,0
+2009,2,Malaysian Grand Prix,2009-04-05,Bourdais,Toro Rosso,10,15,31,Finished,+1:42.164,0
+2009,2,Malaysian Grand Prix,2009-04-05,Alonso,Renault,11,9,31,+1 Lap,,0
+2009,2,Malaysian Grand Prix,2009-04-05,Nakajima,Williams,12,11,31,+1 Lap,,0
+2009,2,Malaysian Grand Prix,2009-04-05,Piquet Jr.,Renault,13,17,31,+1 Lap,,0
+2009,2,Malaysian Grand Prix,2009-04-05,Räikkönen,Ferrari,14,7,31,+1 Lap,,0
+2009,2,Malaysian Grand Prix,2009-04-05,Vettel,Red Bull,15,13,30,Spun off,,0
+2009,2,Malaysian Grand Prix,2009-04-05,Buemi,Toro Rosso,16,20,30,Spun off,,0
+2009,2,Malaysian Grand Prix,2009-04-05,Sutil,Force India,17,19,30,+1 Lap,,0
+2009,2,Malaysian Grand Prix,2009-04-05,Fisichella,Force India,18,18,29,Spun off,,0
+2009,2,Malaysian Grand Prix,2009-04-05,Kubica,BMW Sauber,19,6,1,Engine,,0
+2009,2,Malaysian Grand Prix,2009-04-05,Kovalainen,McLaren,20,14,0,Spun off,,0
+2009,3,Chinese Grand Prix,2009-04-19,Vettel,Red Bull,1,1,56,Finished,1:57:43.485,10
+2009,3,Chinese Grand Prix,2009-04-19,Webber,Red Bull,2,3,56,Finished,+10.970,8
+2009,3,Chinese Grand Prix,2009-04-19,Button,Brawn,3,5,56,Finished,+44.975,6
+2009,3,Chinese Grand Prix,2009-04-19,Barrichello,Brawn,4,4,56,Finished,+1:03.704,5
+2009,3,Chinese Grand Prix,2009-04-19,Kovalainen,McLaren,5,12,56,Finished,+1:05.102,4
+2009,3,Chinese Grand Prix,2009-04-19,Hamilton,McLaren,6,9,56,Finished,+1:11.866,3
+2009,3,Chinese Grand Prix,2009-04-19,Glock,Toyota,7,19,56,Finished,+1:14.476,2
+2009,3,Chinese Grand Prix,2009-04-19,Buemi,Toro Rosso,8,10,56,Finished,+1:16.439,1
+2009,3,Chinese Grand Prix,2009-04-19,Alonso,Renault,9,2,56,Finished,+1:24.309,0
+2009,3,Chinese Grand Prix,2009-04-19,Räikkönen,Ferrari,10,8,56,Finished,+1:31.750,0
+2009,3,Chinese Grand Prix,2009-04-19,Bourdais,Toro Rosso,11,15,56,Finished,+1:34.156,0
+2009,3,Chinese Grand Prix,2009-04-19,Heidfeld,BMW Sauber,12,11,56,Finished,+1:35.834,0
+2009,3,Chinese Grand Prix,2009-04-19,Kubica,BMW Sauber,13,17,56,Finished,+1:46.853,0
+2009,3,Chinese Grand Prix,2009-04-19,Fisichella,Force India,14,20,55,+1 Lap,,0
+2009,3,Chinese Grand Prix,2009-04-19,Rosberg,Williams,15,7,55,+1 Lap,,0
+2009,3,Chinese Grand Prix,2009-04-19,Piquet Jr.,Renault,16,16,54,+2 Laps,,0
+2009,3,Chinese Grand Prix,2009-04-19,Sutil,Force India,17,18,50,Spun off,,0
+2009,3,Chinese Grand Prix,2009-04-19,Nakajima,Williams,18,14,43,Retired,,0
+2009,3,Chinese Grand Prix,2009-04-19,Massa,Ferrari,19,13,20,Electronics,,0
+2009,3,Chinese Grand Prix,2009-04-19,Trulli,Toyota,20,6,18,Collision,,0
+2009,4,Bahrain Grand Prix,2009-04-26,Button,Brawn,1,4,57,Finished,1:31:48.182,10
+2009,4,Bahrain Grand Prix,2009-04-26,Vettel,Red Bull,2,3,57,Finished,+7.187,8
+2009,4,Bahrain Grand Prix,2009-04-26,Trulli,Toyota,3,1,57,Finished,+9.170,6
+2009,4,Bahrain Grand Prix,2009-04-26,Hamilton,McLaren,4,5,57,Finished,+22.096,5
+2009,4,Bahrain Grand Prix,2009-04-26,Barrichello,Brawn,5,6,57,Finished,+37.779,4
+2009,4,Bahrain Grand Prix,2009-04-26,Räikkönen,Ferrari,6,10,57,Finished,+42.057,3
+2009,4,Bahrain Grand Prix,2009-04-26,Glock,Toyota,7,2,57,Finished,+42.880,2
+2009,4,Bahrain Grand Prix,2009-04-26,Alonso,Renault,8,7,57,Finished,+52.775,1
+2009,4,Bahrain Grand Prix,2009-04-26,Rosberg,Williams,9,9,57,Finished,+58.198,0
+2009,4,Bahrain Grand Prix,2009-04-26,Piquet Jr.,Renault,10,15,57,Finished,+1:05.149,0
+2009,4,Bahrain Grand Prix,2009-04-26,Webber,Red Bull,11,18,57,Finished,+1:07.641,0
+2009,4,Bahrain Grand Prix,2009-04-26,Kovalainen,McLaren,12,11,57,Finished,+1:17.824,0
+2009,4,Bahrain Grand Prix,2009-04-26,Bourdais,Toro Rosso,13,20,57,Finished,+1:18.805,0
+2009,4,Bahrain Grand Prix,2009-04-26,Massa,Ferrari,14,8,56,+1 Lap,,0
+2009,4,Bahrain Grand Prix,2009-04-26,Fisichella,Force India,15,17,56,+1 Lap,,0
+2009,4,Bahrain Grand Prix,2009-04-26,Sutil,Force India,16,19,56,+1 Lap,,0
+2009,4,Bahrain Grand Prix,2009-04-26,Buemi,Toro Rosso,17,16,56,+1 Lap,,0
+2009,4,Bahrain Grand Prix,2009-04-26,Kubica,BMW Sauber,18,13,56,+1 Lap,,0
+2009,4,Bahrain Grand Prix,2009-04-26,Heidfeld,BMW Sauber,19,14,56,+1 Lap,,0
+2009,4,Bahrain Grand Prix,2009-04-26,Nakajima,Williams,20,12,48,Oil pressure,,0
+2009,5,Spanish Grand Prix,2009-05-10,Button,Brawn,1,1,66,Finished,1:37:19.202,10
+2009,5,Spanish Grand Prix,2009-05-10,Barrichello,Brawn,2,3,66,Finished,+13.056,8
+2009,5,Spanish Grand Prix,2009-05-10,Webber,Red Bull,3,5,66,Finished,+13.924,6
+2009,5,Spanish Grand Prix,2009-05-10,Vettel,Red Bull,4,2,66,Finished,+18.941,5
+2009,5,Spanish Grand Prix,2009-05-10,Alonso,Renault,5,8,66,Finished,+43.166,4
+2009,5,Spanish Grand Prix,2009-05-10,Massa,Ferrari,6,4,66,Finished,+50.827,3
+2009,5,Spanish Grand Prix,2009-05-10,Heidfeld,BMW Sauber,7,13,66,Finished,+52.312,2
+2009,5,Spanish Grand Prix,2009-05-10,Rosberg,Williams,8,9,66,Finished,+1:05.211,1
+2009,5,Spanish Grand Prix,2009-05-10,Hamilton,McLaren,9,14,65,+1 Lap,,0
+2009,5,Spanish Grand Prix,2009-05-10,Glock,Toyota,10,6,65,+1 Lap,,0
+2009,5,Spanish Grand Prix,2009-05-10,Kubica,BMW Sauber,11,10,65,+1 Lap,,0
+2009,5,Spanish Grand Prix,2009-05-10,Piquet Jr.,Renault,12,12,65,+1 Lap,,0
+2009,5,Spanish Grand Prix,2009-05-10,Nakajima,Williams,13,11,65,+1 Lap,,0
+2009,5,Spanish Grand Prix,2009-05-10,Fisichella,Force India,14,20,65,+1 Lap,,0
+2009,5,Spanish Grand Prix,2009-05-10,Räikkönen,Ferrari,15,16,17,Hydraulics,,0
+2009,5,Spanish Grand Prix,2009-05-10,Kovalainen,McLaren,16,18,7,Gearbox,,0
+2009,5,Spanish Grand Prix,2009-05-10,Trulli,Toyota,17,7,0,Collision,,0
+2009,5,Spanish Grand Prix,2009-05-10,Buemi,Toro Rosso,18,15,0,Collision,,0
+2009,5,Spanish Grand Prix,2009-05-10,Bourdais,Toro Rosso,19,17,0,Collision,,0
+2009,5,Spanish Grand Prix,2009-05-10,Sutil,Force India,20,19,0,Collision,,0
+2009,6,Monaco Grand Prix,2009-05-24,Button,Brawn,1,1,78,Finished,1:40:44.282,10
+2009,6,Monaco Grand Prix,2009-05-24,Barrichello,Brawn,2,3,78,Finished,+7.666,8
+2009,6,Monaco Grand Prix,2009-05-24,Räikkönen,Ferrari,3,2,78,Finished,+13.442,6
+2009,6,Monaco Grand Prix,2009-05-24,Massa,Ferrari,4,5,78,Finished,+15.110,5
+2009,6,Monaco Grand Prix,2009-05-24,Webber,Red Bull,5,8,78,Finished,+15.730,4
+2009,6,Monaco Grand Prix,2009-05-24,Rosberg,Williams,6,6,78,Finished,+33.586,3
+2009,6,Monaco Grand Prix,2009-05-24,Alonso,Renault,7,9,78,Finished,+37.839,2
+2009,6,Monaco Grand Prix,2009-05-24,Bourdais,Toro Rosso,8,14,78,Finished,+1:03.142,1
+2009,6,Monaco Grand Prix,2009-05-24,Fisichella,Force India,9,13,78,Finished,+1:05.040,0
+2009,6,Monaco Grand Prix,2009-05-24,Glock,Toyota,10,20,77,+1 Lap,,0
+2009,6,Monaco Grand Prix,2009-05-24,Heidfeld,BMW Sauber,11,16,77,+1 Lap,,0
+2009,6,Monaco Grand Prix,2009-05-24,Hamilton,McLaren,12,19,77,+1 Lap,,0
+2009,6,Monaco Grand Prix,2009-05-24,Trulli,Toyota,13,18,77,+1 Lap,,0
+2009,6,Monaco Grand Prix,2009-05-24,Sutil,Force India,14,15,77,+1 Lap,,0
+2009,6,Monaco Grand Prix,2009-05-24,Nakajima,Williams,15,10,76,Accident,,0
+2009,6,Monaco Grand Prix,2009-05-24,Kovalainen,McLaren,16,7,51,Accident,,0
+2009,6,Monaco Grand Prix,2009-05-24,Kubica,BMW Sauber,17,17,28,Brakes,,0
+2009,6,Monaco Grand Prix,2009-05-24,Vettel,Red Bull,18,4,15,Accident,,0
+2009,6,Monaco Grand Prix,2009-05-24,Piquet Jr.,Renault,19,12,10,Collision,,0
+2009,6,Monaco Grand Prix,2009-05-24,Buemi,Toro Rosso,20,11,10,Collision,,0
+2009,7,Turkish Grand Prix,2009-06-07,Button,Brawn,1,2,58,Finished,1:26:24.848,10
+2009,7,Turkish Grand Prix,2009-06-07,Webber,Red Bull,2,4,58,Finished,+6.714,8
+2009,7,Turkish Grand Prix,2009-06-07,Vettel,Red Bull,3,1,58,Finished,+7.461,6
+2009,7,Turkish Grand Prix,2009-06-07,Trulli,Toyota,4,5,58,Finished,+27.843,5
+2009,7,Turkish Grand Prix,2009-06-07,Rosberg,Williams,5,9,58,Finished,+31.539,4
+2009,7,Turkish Grand Prix,2009-06-07,Massa,Ferrari,6,7,58,Finished,+39.996,3
+2009,7,Turkish Grand Prix,2009-06-07,Kubica,BMW Sauber,7,10,58,Finished,+46.247,2
+2009,7,Turkish Grand Prix,2009-06-07,Glock,Toyota,8,13,58,Finished,+46.959,1
+2009,7,Turkish Grand Prix,2009-06-07,Räikkönen,Ferrari,9,6,58,Finished,+50.246,0
+2009,7,Turkish Grand Prix,2009-06-07,Alonso,Renault,10,8,58,Finished,+1:02.420,0
+2009,7,Turkish Grand Prix,2009-06-07,Heidfeld,BMW Sauber,11,11,58,Finished,+1:04.327,0
+2009,7,Turkish Grand Prix,2009-06-07,Nakajima,Williams,12,12,58,Finished,+1:06.376,0
+2009,7,Turkish Grand Prix,2009-06-07,Hamilton,McLaren,13,16,58,Finished,+1:20.454,0
+2009,7,Turkish Grand Prix,2009-06-07,Kovalainen,McLaren,14,14,57,+1 Lap,,0
+2009,7,Turkish Grand Prix,2009-06-07,Buemi,Toro Rosso,15,18,57,+1 Lap,,0
+2009,7,Turkish Grand Prix,2009-06-07,Piquet Jr.,Renault,16,17,57,+1 Lap,,0
+2009,7,Turkish Grand Prix,2009-06-07,Sutil,Force India,17,15,57,+1 Lap,,0
+2009,7,Turkish Grand Prix,2009-06-07,Bourdais,Toro Rosso,18,20,57,+1 Lap,,0
+2009,7,Turkish Grand Prix,2009-06-07,Barrichello,Brawn,19,3,47,Gearbox,,0
+2009,7,Turkish Grand Prix,2009-06-07,Fisichella,Force India,20,19,4,Brakes,,0
+2009,8,British Grand Prix,2009-06-21,Vettel,Red Bull,1,1,60,Finished,1:22:49.328,10
+2009,8,British Grand Prix,2009-06-21,Webber,Red Bull,2,3,60,Finished,+15.188,8
+2009,8,British Grand Prix,2009-06-21,Barrichello,Brawn,3,2,60,Finished,+41.175,6
+2009,8,British Grand Prix,2009-06-21,Massa,Ferrari,4,11,60,Finished,+45.043,5
+2009,8,British Grand Prix,2009-06-21,Rosberg,Williams,5,7,60,Finished,+45.915,4
+2009,8,British Grand Prix,2009-06-21,Button,Brawn,6,6,60,Finished,+46.285,3
+2009,8,British Grand Prix,2009-06-21,Trulli,Toyota,7,4,60,Finished,+1:08.307,2
+2009,8,British Grand Prix,2009-06-21,Räikkönen,Ferrari,8,9,60,Finished,+1:09.622,1
+2009,8,British Grand Prix,2009-06-21,Glock,Toyota,9,8,60,Finished,+1:09.823,0
+2009,8,British Grand Prix,2009-06-21,Fisichella,Force India,10,16,60,Finished,+1:11.522,0
+2009,8,British Grand Prix,2009-06-21,Nakajima,Williams,11,5,60,Finished,+1:14.023,0
+2009,8,British Grand Prix,2009-06-21,Piquet Jr.,Renault,12,14,59,+1 Lap,,0
+2009,8,British Grand Prix,2009-06-21,Kubica,BMW Sauber,13,12,59,+1 Lap,,0
+2009,8,British Grand Prix,2009-06-21,Alonso,Renault,14,10,59,+1 Lap,,0
+2009,8,British Grand Prix,2009-06-21,Heidfeld,BMW Sauber,15,15,59,+1 Lap,,0
+2009,8,British Grand Prix,2009-06-21,Hamilton,McLaren,16,18,59,+1 Lap,,0
+2009,8,British Grand Prix,2009-06-21,Sutil,Force India,17,20,59,+1 Lap,,0
+2009,8,British Grand Prix,2009-06-21,Buemi,Toro Rosso,18,19,59,+1 Lap,,0
+2009,8,British Grand Prix,2009-06-21,Bourdais,Toro Rosso,19,17,37,Collision,,0
+2009,8,British Grand Prix,2009-06-21,Kovalainen,McLaren,20,13,36,Collision,,0
+2009,9,German Grand Prix,2009-07-12,Webber,Red Bull,1,1,60,Finished,1:36:43.310,10
+2009,9,German Grand Prix,2009-07-12,Vettel,Red Bull,2,4,60,Finished,+9.252,8
+2009,9,German Grand Prix,2009-07-12,Massa,Ferrari,3,8,60,Finished,+15.906,6
+2009,9,German Grand Prix,2009-07-12,Rosberg,Williams,4,15,60,Finished,+21.099,5
+2009,9,German Grand Prix,2009-07-12,Button,Brawn,5,3,60,Finished,+23.609,4
+2009,9,German Grand Prix,2009-07-12,Barrichello,Brawn,6,2,60,Finished,+24.468,3
+2009,9,German Grand Prix,2009-07-12,Alonso,Renault,7,12,60,Finished,+24.888,2
+2009,9,German Grand Prix,2009-07-12,Kovalainen,McLaren,8,6,60,Finished,+58.692,1
+2009,9,German Grand Prix,2009-07-12,Glock,Toyota,9,20,60,Finished,+1:01.457,0
+2009,9,German Grand Prix,2009-07-12,Heidfeld,BMW Sauber,10,11,60,Finished,+1:01.925,0
+2009,9,German Grand Prix,2009-07-12,Fisichella,Force India,11,18,60,Finished,+1:02.327,0
+2009,9,German Grand Prix,2009-07-12,Nakajima,Williams,12,13,60,Finished,+1:02.876,0
+2009,9,German Grand Prix,2009-07-12,Piquet Jr.,Renault,13,10,60,Finished,+1:08.328,0
+2009,9,German Grand Prix,2009-07-12,Kubica,BMW Sauber,14,16,60,Finished,+1:09.555,0
+2009,9,German Grand Prix,2009-07-12,Sutil,Force India,15,7,60,Finished,+1:11.941,0
+2009,9,German Grand Prix,2009-07-12,Buemi,Toro Rosso,16,17,60,Finished,+1:30.225,0
+2009,9,German Grand Prix,2009-07-12,Trulli,Toyota,17,14,60,Finished,+1:30.970,0
+2009,9,German Grand Prix,2009-07-12,Hamilton,McLaren,18,5,59,+1 Lap,,0
+2009,9,German Grand Prix,2009-07-12,Räikkönen,Ferrari,19,9,34,Engine,,0
+2009,9,German Grand Prix,2009-07-12,Bourdais,Toro Rosso,20,19,18,Hydraulics,,0
+2009,10,Hungarian Grand Prix,2009-07-26,Hamilton,McLaren,1,4,70,Finished,1:38:23.876,10
+2009,10,Hungarian Grand Prix,2009-07-26,Räikkönen,Ferrari,2,7,70,Finished,+11.529,8
+2009,10,Hungarian Grand Prix,2009-07-26,Webber,Red Bull,3,3,70,Finished,+16.886,6
+2009,10,Hungarian Grand Prix,2009-07-26,Rosberg,Williams,4,5,70,Finished,+26.967,5
+2009,10,Hungarian Grand Prix,2009-07-26,Kovalainen,McLaren,5,6,70,Finished,+34.392,4
+2009,10,Hungarian Grand Prix,2009-07-26,Glock,Toyota,6,13,70,Finished,+35.237,3
+2009,10,Hungarian Grand Prix,2009-07-26,Button,Brawn,7,8,70,Finished,+55.088,2
+2009,10,Hungarian Grand Prix,2009-07-26,Trulli,Toyota,8,11,70,Finished,+1:08.172,1
+2009,10,Hungarian Grand Prix,2009-07-26,Nakajima,Williams,9,9,70,Finished,+1:08.774,0
+2009,10,Hungarian Grand Prix,2009-07-26,Barrichello,Brawn,10,12,70,Finished,+1:09.256,0
+2009,10,Hungarian Grand Prix,2009-07-26,Heidfeld,BMW Sauber,11,15,70,Finished,+1:10.612,0
+2009,10,Hungarian Grand Prix,2009-07-26,Piquet Jr.,Renault,12,14,70,Finished,+1:11.512,0
+2009,10,Hungarian Grand Prix,2009-07-26,Kubica,BMW Sauber,13,18,70,Finished,+1:14.046,0
+2009,10,Hungarian Grand Prix,2009-07-26,Fisichella,Force India,14,16,69,+1 Lap,,0
+2009,10,Hungarian Grand Prix,2009-07-26,Alguersuari,Toro Rosso,15,19,69,+1 Lap,,0
+2009,10,Hungarian Grand Prix,2009-07-26,Buemi,Toro Rosso,16,10,69,+1 Lap,,0
+2009,10,Hungarian Grand Prix,2009-07-26,Vettel,Red Bull,17,2,29,Suspension,,0
+2009,10,Hungarian Grand Prix,2009-07-26,Alonso,Renault,18,1,15,Wheel,,0
+2009,10,Hungarian Grand Prix,2009-07-26,Sutil,Force India,19,17,1,Overheating,,0
+2009,10,Hungarian Grand Prix,2009-07-26,Massa,Ferrari,20,0,0,Withdrew,,0
+2009,11,European Grand Prix,2009-08-23,Barrichello,Brawn,1,3,57,Finished,1:35:51.289,10
+2009,11,European Grand Prix,2009-08-23,Hamilton,McLaren,2,1,57,Finished,+2.358,8
+2009,11,European Grand Prix,2009-08-23,Räikkönen,Ferrari,3,6,57,Finished,+15.994,6
+2009,11,European Grand Prix,2009-08-23,Kovalainen,McLaren,4,2,57,Finished,+20.032,5
+2009,11,European Grand Prix,2009-08-23,Rosberg,Williams,5,7,57,Finished,+20.870,4
+2009,11,European Grand Prix,2009-08-23,Alonso,Renault,6,8,57,Finished,+27.744,3
+2009,11,European Grand Prix,2009-08-23,Button,Brawn,7,5,57,Finished,+34.913,2
+2009,11,European Grand Prix,2009-08-23,Kubica,BMW Sauber,8,10,57,Finished,+36.667,1
+2009,11,European Grand Prix,2009-08-23,Webber,Red Bull,9,9,57,Finished,+44.910,0
+2009,11,European Grand Prix,2009-08-23,Sutil,Force India,10,12,57,Finished,+47.935,0
+2009,11,European Grand Prix,2009-08-23,Heidfeld,BMW Sauber,11,11,57,Finished,+48.822,0
+2009,11,European Grand Prix,2009-08-23,Fisichella,Force India,12,16,57,Finished,+1:03.614,0
+2009,11,European Grand Prix,2009-08-23,Trulli,Toyota,13,18,57,Finished,+1:04.527,0
+2009,11,European Grand Prix,2009-08-23,Glock,Toyota,14,13,57,Finished,+1:26.519,0
+2009,11,European Grand Prix,2009-08-23,Grosjean,Renault,15,14,57,Finished,+1:31.774,0
+2009,11,European Grand Prix,2009-08-23,Alguersuari,Toro Rosso,16,19,56,+1 Lap,,0
+2009,11,European Grand Prix,2009-08-23,Badoer,Ferrari,17,20,56,+1 Lap,,0
+2009,11,European Grand Prix,2009-08-23,Nakajima,Williams,18,17,54,+3 Laps,,0
+2009,11,European Grand Prix,2009-08-23,Buemi,Toro Rosso,19,15,41,Brakes,,0
+2009,11,European Grand Prix,2009-08-23,Vettel,Red Bull,20,4,23,Engine,,0
+2009,12,Belgian Grand Prix,2009-08-30,Räikkönen,Ferrari,1,6,44,Finished,1:23:50.995,10
+2009,12,Belgian Grand Prix,2009-08-30,Fisichella,Force India,2,1,44,Finished,+0.939,8
+2009,12,Belgian Grand Prix,2009-08-30,Vettel,Red Bull,3,8,44,Finished,+3.875,6
+2009,12,Belgian Grand Prix,2009-08-30,Kubica,BMW Sauber,4,5,44,Finished,+9.966,5
+2009,12,Belgian Grand Prix,2009-08-30,Heidfeld,BMW Sauber,5,3,44,Finished,+11.276,4
+2009,12,Belgian Grand Prix,2009-08-30,Kovalainen,McLaren,6,15,44,Finished,+32.763,3
+2009,12,Belgian Grand Prix,2009-08-30,Barrichello,Brawn,7,4,44,Finished,+35.461,2
+2009,12,Belgian Grand Prix,2009-08-30,Rosberg,Williams,8,10,44,Finished,+36.208,1
+2009,12,Belgian Grand Prix,2009-08-30,Webber,Red Bull,9,9,44,Finished,+36.959,0
+2009,12,Belgian Grand Prix,2009-08-30,Glock,Toyota,10,7,44,Finished,+41.490,0
+2009,12,Belgian Grand Prix,2009-08-30,Sutil,Force India,11,11,44,Finished,+42.636,0
+2009,12,Belgian Grand Prix,2009-08-30,Buemi,Toro Rosso,12,16,44,Finished,+46.106,0
+2009,12,Belgian Grand Prix,2009-08-30,Nakajima,Williams,13,18,44,Finished,+54.241,0
+2009,12,Belgian Grand Prix,2009-08-30,Badoer,Ferrari,14,20,44,Finished,+1:42.177,0
+2009,12,Belgian Grand Prix,2009-08-30,Alonso,Renault,15,13,26,Retired,,0
+2009,12,Belgian Grand Prix,2009-08-30,Trulli,Toyota,16,2,21,Brakes,,0
+2009,12,Belgian Grand Prix,2009-08-30,Button,Brawn,17,14,0,Collision,,0
+2009,12,Belgian Grand Prix,2009-08-30,Grosjean,Renault,18,19,0,Collision,,0
+2009,12,Belgian Grand Prix,2009-08-30,Hamilton,McLaren,19,12,0,Collision,,0
+2009,12,Belgian Grand Prix,2009-08-30,Alguersuari,Toro Rosso,20,17,0,Collision,,0
+2009,13,Italian Grand Prix,2009-09-13,Barrichello,Brawn,1,5,53,Finished,1:16:21.706,10
+2009,13,Italian Grand Prix,2009-09-13,Button,Brawn,2,6,53,Finished,+2.866,8
+2009,13,Italian Grand Prix,2009-09-13,Räikkönen,Ferrari,3,3,53,Finished,+30.664,6
+2009,13,Italian Grand Prix,2009-09-13,Sutil,Force India,4,2,53,Finished,+31.131,5
+2009,13,Italian Grand Prix,2009-09-13,Alonso,Renault,5,8,53,Finished,+59.182,4
+2009,13,Italian Grand Prix,2009-09-13,Kovalainen,McLaren,6,4,53,Finished,+1:00.693,3
+2009,13,Italian Grand Prix,2009-09-13,Heidfeld,BMW Sauber,7,15,53,Finished,+1:22.412,2
+2009,13,Italian Grand Prix,2009-09-13,Vettel,Red Bull,8,9,53,Finished,+1:25.407,1
+2009,13,Italian Grand Prix,2009-09-13,Fisichella,Ferrari,9,14,53,Finished,+1:26.856,0
+2009,13,Italian Grand Prix,2009-09-13,Nakajima,Williams,10,17,53,Finished,+2:42.163,0
+2009,13,Italian Grand Prix,2009-09-13,Glock,Toyota,11,16,53,Finished,+2:43.925,0
+2009,13,Italian Grand Prix,2009-09-13,Hamilton,McLaren,12,1,52,Accident,,0
+2009,13,Italian Grand Prix,2009-09-13,Buemi,Toro Rosso,13,19,52,+1 Lap,,0
+2009,13,Italian Grand Prix,2009-09-13,Trulli,Toyota,14,11,52,+1 Lap,,0
+2009,13,Italian Grand Prix,2009-09-13,Grosjean,Renault,15,12,52,+1 Lap,,0
+2009,13,Italian Grand Prix,2009-09-13,Rosberg,Williams,16,18,51,+2 Laps,,0
+2009,13,Italian Grand Prix,2009-09-13,Liuzzi,Force India,17,7,22,Transmission,,0
+2009,13,Italian Grand Prix,2009-09-13,Alguersuari,Toro Rosso,18,20,19,Retired,,0
+2009,13,Italian Grand Prix,2009-09-13,Kubica,BMW Sauber,19,13,15,Oil leak,,0
+2009,13,Italian Grand Prix,2009-09-13,Webber,Red Bull,20,10,0,Collision,,0
+2009,14,Singapore Grand Prix,2009-09-27,Hamilton,McLaren,1,1,61,Finished,1:56:06.337,10
+2009,14,Singapore Grand Prix,2009-09-27,Glock,Toyota,2,6,61,Finished,+9.634,8
+2009,14,Singapore Grand Prix,2009-09-27,Alonso,Renault,3,5,61,Finished,+16.624,6
+2009,14,Singapore Grand Prix,2009-09-27,Vettel,Red Bull,4,2,61,Finished,+20.621,5
+2009,14,Singapore Grand Prix,2009-09-27,Button,Brawn,5,11,61,Finished,+30.015,4
+2009,14,Singapore Grand Prix,2009-09-27,Barrichello,Brawn,6,9,61,Finished,+31.858,3
+2009,14,Singapore Grand Prix,2009-09-27,Kovalainen,McLaren,7,8,61,Finished,+36.157,2
+2009,14,Singapore Grand Prix,2009-09-27,Kubica,BMW Sauber,8,7,61,Finished,+55.054,1
+2009,14,Singapore Grand Prix,2009-09-27,Nakajima,Williams,9,10,61,Finished,+56.054,0
+2009,14,Singapore Grand Prix,2009-09-27,Räikkönen,Ferrari,10,12,61,Finished,+58.892,0
+2009,14,Singapore Grand Prix,2009-09-27,Rosberg,Williams,11,3,61,Finished,+59.777,0
+2009,14,Singapore Grand Prix,2009-09-27,Trulli,Toyota,12,14,61,Finished,+1:13.009,0
+2009,14,Singapore Grand Prix,2009-09-27,Fisichella,Ferrari,13,17,61,Finished,+1:19.890,0
+2009,14,Singapore Grand Prix,2009-09-27,Liuzzi,Force India,14,19,61,Finished,+1:33.502,0
+2009,14,Singapore Grand Prix,2009-09-27,Alguersuari,Toro Rosso,15,16,47,Brakes,,0
+2009,14,Singapore Grand Prix,2009-09-27,Buemi,Toro Rosso,16,13,47,Gearbox,,0
+2009,14,Singapore Grand Prix,2009-09-27,Webber,Red Bull,17,4,45,Brakes,,0
+2009,14,Singapore Grand Prix,2009-09-27,Sutil,Force India,18,15,23,Collision,,0
+2009,14,Singapore Grand Prix,2009-09-27,Heidfeld,BMW Sauber,19,20,19,Collision,,0
+2009,14,Singapore Grand Prix,2009-09-27,Grosjean,Renault,20,18,3,Brakes,,0
+2009,15,Japanese Grand Prix,2009-10-04,Vettel,Red Bull,1,1,53,Finished,1:28:20.443,10
+2009,15,Japanese Grand Prix,2009-10-04,Trulli,Toyota,2,2,53,Finished,+4.877,8
+2009,15,Japanese Grand Prix,2009-10-04,Hamilton,McLaren,3,3,53,Finished,+6.472,6
+2009,15,Japanese Grand Prix,2009-10-04,Räikkönen,Ferrari,4,5,53,Finished,+7.940,5
+2009,15,Japanese Grand Prix,2009-10-04,Rosberg,Williams,5,7,53,Finished,+8.793,4
+2009,15,Japanese Grand Prix,2009-10-04,Heidfeld,BMW Sauber,6,4,53,Finished,+9.509,3
+2009,15,Japanese Grand Prix,2009-10-04,Barrichello,Brawn,7,6,53,Finished,+10.641,2
+2009,15,Japanese Grand Prix,2009-10-04,Button,Brawn,8,10,53,Finished,+11.474,1
+2009,15,Japanese Grand Prix,2009-10-04,Kubica,BMW Sauber,9,9,53,Finished,+11.777,0
+2009,15,Japanese Grand Prix,2009-10-04,Alonso,Renault,10,16,53,Finished,+13.065,0
+2009,15,Japanese Grand Prix,2009-10-04,Kovalainen,McLaren,11,11,53,Finished,+13.735,0
+2009,15,Japanese Grand Prix,2009-10-04,Fisichella,Ferrari,12,14,53,Finished,+14.596,0
+2009,15,Japanese Grand Prix,2009-10-04,Sutil,Force India,13,8,53,Finished,+14.959,0
+2009,15,Japanese Grand Prix,2009-10-04,Liuzzi,Force India,14,18,53,Finished,+15.734,0
+2009,15,Japanese Grand Prix,2009-10-04,Nakajima,Williams,15,15,53,Finished,+17.973,0
+2009,15,Japanese Grand Prix,2009-10-04,Grosjean,Renault,16,17,52,+1 Lap,,0
+2009,15,Japanese Grand Prix,2009-10-04,Webber,Red Bull,17,19,51,+2 Laps,,0
+2009,15,Japanese Grand Prix,2009-10-04,Alguersuari,Toro Rosso,18,12,43,Accident,,0
+2009,15,Japanese Grand Prix,2009-10-04,Buemi,Toro Rosso,19,13,11,Clutch,,0
+2009,15,Japanese Grand Prix,2009-10-04,Glock,Toyota,20,20,0,Injured,,0
+2009,16,Brazilian Grand Prix,2009-10-18,Webber,Red Bull,1,2,71,Finished,1:32:23.081,10
+2009,16,Brazilian Grand Prix,2009-10-18,Kubica,BMW Sauber,2,8,71,Finished,+7.626,8
+2009,16,Brazilian Grand Prix,2009-10-18,Hamilton,McLaren,3,17,71,Finished,+18.944,6
+2009,16,Brazilian Grand Prix,2009-10-18,Vettel,Red Bull,4,15,71,Finished,+19.652,5
+2009,16,Brazilian Grand Prix,2009-10-18,Button,Brawn,5,14,71,Finished,+29.005,4
+2009,16,Brazilian Grand Prix,2009-10-18,Räikkönen,Ferrari,6,5,71,Finished,+33.340,3
+2009,16,Brazilian Grand Prix,2009-10-18,Buemi,Toro Rosso,7,6,71,Finished,+35.991,2
+2009,16,Brazilian Grand Prix,2009-10-18,Barrichello,Brawn,8,1,71,Finished,+45.454,1
+2009,16,Brazilian Grand Prix,2009-10-18,Kovalainen,McLaren,9,16,71,Finished,+48.499,0
+2009,16,Brazilian Grand Prix,2009-10-18,Kobayashi,Toyota,10,11,71,Finished,+1:03.324,0
+2009,16,Brazilian Grand Prix,2009-10-18,Fisichella,Ferrari,11,19,71,Finished,+1:10.665,0
+2009,16,Brazilian Grand Prix,2009-10-18,Liuzzi,Force India,12,20,71,Finished,+1:11.388,0
+2009,16,Brazilian Grand Prix,2009-10-18,Grosjean,Renault,13,13,70,+1 Lap,,0
+2009,16,Brazilian Grand Prix,2009-10-18,Alguersuari,Toro Rosso,14,12,70,+1 Lap,,0
+2009,16,Brazilian Grand Prix,2009-10-18,Nakajima,Williams,15,9,30,Accident,,0
+2009,16,Brazilian Grand Prix,2009-10-18,Rosberg,Williams,16,7,27,Gearbox,,0
+2009,16,Brazilian Grand Prix,2009-10-18,Heidfeld,BMW Sauber,17,18,21,Out of fuel,,0
+2009,16,Brazilian Grand Prix,2009-10-18,Sutil,Force India,18,3,0,Accident,,0
+2009,16,Brazilian Grand Prix,2009-10-18,Trulli,Toyota,19,4,0,Accident,,0
+2009,16,Brazilian Grand Prix,2009-10-18,Alonso,Renault,20,10,0,Accident,,0
+2009,17,Abu Dhabi Grand Prix,2009-11-01,Vettel,Red Bull,1,2,55,Finished,1:34:03.414,10
+2009,17,Abu Dhabi Grand Prix,2009-11-01,Webber,Red Bull,2,3,55,Finished,+17.857,8
+2009,17,Abu Dhabi Grand Prix,2009-11-01,Button,Brawn,3,5,55,Finished,+18.467,6
+2009,17,Abu Dhabi Grand Prix,2009-11-01,Barrichello,Brawn,4,4,55,Finished,+22.735,5
+2009,17,Abu Dhabi Grand Prix,2009-11-01,Heidfeld,BMW Sauber,5,8,55,Finished,+26.253,4
+2009,17,Abu Dhabi Grand Prix,2009-11-01,Kobayashi,Toyota,6,12,55,Finished,+28.343,3
+2009,17,Abu Dhabi Grand Prix,2009-11-01,Trulli,Toyota,7,6,55,Finished,+34.366,2
+2009,17,Abu Dhabi Grand Prix,2009-11-01,Buemi,Toro Rosso,8,10,55,Finished,+41.294,1
+2009,17,Abu Dhabi Grand Prix,2009-11-01,Rosberg,Williams,9,9,55,Finished,+45.941,0
+2009,17,Abu Dhabi Grand Prix,2009-11-01,Kubica,BMW Sauber,10,7,55,Finished,+48.180,0
+2009,17,Abu Dhabi Grand Prix,2009-11-01,Kovalainen,McLaren,11,18,55,Finished,+52.798,0
+2009,17,Abu Dhabi Grand Prix,2009-11-01,Räikkönen,Ferrari,12,11,55,Finished,+54.317,0
+2009,17,Abu Dhabi Grand Prix,2009-11-01,Nakajima,Williams,13,13,55,Finished,+59.839,0
+2009,17,Abu Dhabi Grand Prix,2009-11-01,Alonso,Renault,14,15,55,Finished,+1:09.687,0
+2009,17,Abu Dhabi Grand Prix,2009-11-01,Liuzzi,Force India,15,16,55,Finished,+1:34.450,0
+2009,17,Abu Dhabi Grand Prix,2009-11-01,Fisichella,Ferrari,16,20,54,+1 Lap,,0
+2009,17,Abu Dhabi Grand Prix,2009-11-01,Sutil,Force India,17,17,54,+1 Lap,,0
+2009,17,Abu Dhabi Grand Prix,2009-11-01,Grosjean,Renault,18,19,54,+1 Lap,,0
+2009,17,Abu Dhabi Grand Prix,2009-11-01,Hamilton,McLaren,19,1,20,Brakes,,0
+2009,17,Abu Dhabi Grand Prix,2009-11-01,Alguersuari,Toro Rosso,20,14,18,Gearbox,,0

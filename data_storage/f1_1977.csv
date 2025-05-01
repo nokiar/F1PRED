@@ -1,0 +1,478 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1977,1,Argentine Grand Prix,1977-01-09,Scheckter,Wolf,1,11,53,Finished,1:40:11.19,9
+1977,1,Argentine Grand Prix,1977-01-09,Pace,Brabham,2,6,53,Finished,+43.24,6
+1977,1,Argentine Grand Prix,1977-01-09,Reutemann,Ferrari,3,7,53,Finished,+46.02,4
+1977,1,Argentine Grand Prix,1977-01-09,Fittipaldi,Fittipaldi,4,16,53,Finished,+55.48,3
+1977,1,Argentine Grand Prix,1977-01-09,Andretti,Team Lotus,5,8,51,Wheel bearing,,2
+1977,1,Argentine Grand Prix,1977-01-09,Regazzoni,Ensign,6,12,51,+2 Laps,,1
+1977,1,Argentine Grand Prix,1977-01-09,Brambilla,Surtees,7,13,48,Out of fuel,,0
+1977,1,Argentine Grand Prix,1977-01-09,Scheckter,March,8,17,45,Electrical,,0
+1977,1,Argentine Grand Prix,1977-01-09,Pryce,Shadow,9,9,45,Not classified,,0
+1977,1,Argentine Grand Prix,1977-01-09,Watson,Brabham,10,2,41,Suspension,,0
+1977,1,Argentine Grand Prix,1977-01-09,Ribeiro,March,11,20,39,Transmission,,0
+1977,1,Argentine Grand Prix,1977-01-09,Laffite,Ligier,12,15,37,Not classified,,0
+1977,1,Argentine Grand Prix,1977-01-09,Depailler,Tyrrell,13,3,32,Overheating,,0
+1977,1,Argentine Grand Prix,1977-01-09,Hunt,McLaren,14,1,31,Suspension,,0
+1977,1,Argentine Grand Prix,1977-01-09,Mass,McLaren,15,5,28,Spun off,,0
+1977,1,Argentine Grand Prix,1977-01-09,Peterson,Tyrrell,16,14,28,Spun off,,0
+1977,1,Argentine Grand Prix,1977-01-09,Hoffmann,Fittipaldi,17,19,22,Engine,,0
+1977,1,Argentine Grand Prix,1977-01-09,Lauda,Ferrari,18,4,20,Fuel system,,0
+1977,1,Argentine Grand Prix,1977-01-09,Binder,Surtees,19,18,18,Accident,,0
+1977,1,Argentine Grand Prix,1977-01-09,Zorzi,Shadow,20,21,2,Gearbox,,0
+1977,1,Argentine Grand Prix,1977-01-09,Nilsson,Team Lotus,21,10,0,Withdrew,,0
+1977,2,Brazilian Grand Prix,1977-01-23,Reutemann,Ferrari,1,2,40,Finished,1:45:07.72,9
+1977,2,Brazilian Grand Prix,1977-01-23,Hunt,McLaren,2,1,40,Finished,+10.71,6
+1977,2,Brazilian Grand Prix,1977-01-23,Lauda,Ferrari,3,13,40,Finished,+1:47.51,4
+1977,2,Brazilian Grand Prix,1977-01-23,Fittipaldi,Fittipaldi,4,16,39,+1 Lap,,3
+1977,2,Brazilian Grand Prix,1977-01-23,Nilsson,Team Lotus,5,10,39,+1 Lap,,2
+1977,2,Brazilian Grand Prix,1977-01-23,Zorzi,Shadow,6,18,39,+1 Lap,,1
+1977,2,Brazilian Grand Prix,1977-01-23,Hoffmann,Fittipaldi,7,19,38,+2 Laps,,0
+1977,2,Brazilian Grand Prix,1977-01-23,Pace,Brabham,8,12,33,Accident,,0
+1977,2,Brazilian Grand Prix,1977-01-23,Pryce,Shadow,9,5,33,Engine,,0
+1977,2,Brazilian Grand Prix,1977-01-23,Binder,Surtees,10,20,32,Suspension,,0
+1977,2,Brazilian Grand Prix,1977-01-23,Watson,Brabham,11,7,30,Accident,,0
+1977,2,Brazilian Grand Prix,1977-01-23,Laffite,Ligier,12,14,26,Accident,,0
+1977,2,Brazilian Grand Prix,1977-01-23,Depailler,Tyrrell,13,6,23,Accident,,0
+1977,2,Brazilian Grand Prix,1977-01-23,Andretti,Team Lotus,14,3,19,Ignition,,0
+1977,2,Brazilian Grand Prix,1977-01-23,Ribeiro,March,15,21,16,Engine,,0
+1977,2,Brazilian Grand Prix,1977-01-23,Mass,McLaren,16,4,12,Accident,,0
+1977,2,Brazilian Grand Prix,1977-01-23,Peterson,Tyrrell,17,8,12,Accident,,0
+1977,2,Brazilian Grand Prix,1977-01-23,Regazzoni,Ensign,18,9,12,Accident,,0
+1977,2,Brazilian Grand Prix,1977-01-23,Brambilla,Surtees,19,11,11,Accident,,0
+1977,2,Brazilian Grand Prix,1977-01-23,Scheckter,Wolf,20,15,11,Engine,,0
+1977,2,Brazilian Grand Prix,1977-01-23,Scheckter,March,21,17,1,Transmission,,0
+1977,2,Brazilian Grand Prix,1977-01-23,Perkins,BRM,22,22,1,Overheating,,0
+1977,3,South African Grand Prix,1977-03-05,Lauda,Ferrari,1,3,78,Finished,1:42:21.6,9
+1977,3,South African Grand Prix,1977-03-05,Scheckter,Wolf,2,5,78,Finished,+5.2,6
+1977,3,South African Grand Prix,1977-03-05,Depailler,Tyrrell,3,4,78,Finished,+5.7,4
+1977,3,South African Grand Prix,1977-03-05,Hunt,McLaren,4,1,78,Finished,+9.5,3
+1977,3,South African Grand Prix,1977-03-05,Mass,McLaren,5,12,78,Finished,+19.9,2
+1977,3,South African Grand Prix,1977-03-05,Watson,Brabham,6,11,78,Finished,+20.2,1
+1977,3,South African Grand Prix,1977-03-05,Brambilla,Surtees,7,14,78,Finished,+23.6,0
+1977,3,South African Grand Prix,1977-03-05,Reutemann,Ferrari,8,8,78,Finished,+26.7,0
+1977,3,South African Grand Prix,1977-03-05,Regazzoni,Ensign,9,16,78,Finished,+46.2,0
+1977,3,South African Grand Prix,1977-03-05,Fittipaldi,Fittipaldi,10,9,78,Finished,+1:11.7,0
+1977,3,South African Grand Prix,1977-03-05,Binder,Surtees,11,19,77,+1 Lap,,0
+1977,3,South African Grand Prix,1977-03-05,Nilsson,Team Lotus,12,10,77,+1 Lap,,0
+1977,3,South African Grand Prix,1977-03-05,Pace,Brabham,13,2,76,+2 Laps,,0
+1977,3,South African Grand Prix,1977-03-05,Lunger,March,14,23,76,+2 Laps,,0
+1977,3,South African Grand Prix,1977-03-05,Perkins,BRM,15,22,73,+5 Laps,,0
+1977,3,South African Grand Prix,1977-03-05,Ribeiro,March,16,17,66,Engine,,0
+1977,3,South African Grand Prix,1977-03-05,Stuck,March,17,18,55,Engine,,0
+1977,3,South African Grand Prix,1977-03-05,Andretti,Team Lotus,18,6,43,Accident,,0
+1977,3,South African Grand Prix,1977-03-05,Lunger,March,19,21,33,Gearbox,,0
+1977,3,South African Grand Prix,1977-03-05,Laffite,Ligier,20,12,22,Accident,,0
+1977,3,South African Grand Prix,1977-03-05,Pryce,Shadow,21,15,22,Accident,,0
+1977,3,South African Grand Prix,1977-03-05,Zorzi,Shadow,22,20,21,Fuel leak,,0
+1977,3,South African Grand Prix,1977-03-05,Peterson,Tyrrell,23,7,5,Fuel system,,0
+1977,4,United States Grand Prix West,1977-04-03,Andretti,Team Lotus,1,2,80,Finished,1:51:35.470,9
+1977,4,United States Grand Prix West,1977-04-03,Lauda,Ferrari,2,1,80,Finished,+0.773,6
+1977,4,United States Grand Prix West,1977-04-03,Scheckter,Wolf,3,3,80,Finished,+4.857,4
+1977,4,United States Grand Prix West,1977-04-03,Depailler,Tyrrell,4,12,80,Finished,+1:14.487,3
+1977,4,United States Grand Prix West,1977-04-03,Fittipaldi,Fittipaldi,5,7,80,Finished,+1:20.908,2
+1977,4,United States Grand Prix West,1977-04-03,Jarier,Penske,6,9,79,+1 Lap,,1
+1977,4,United States Grand Prix West,1977-04-03,Hunt,McLaren,7,8,79,+1 Lap,,0
+1977,4,United States Grand Prix West,1977-04-03,Nilsson,Team Lotus,8,16,79,+1 Lap,,0
+1977,4,United States Grand Prix West,1977-04-03,Laffite,Ligier,9,5,78,Electrical,,0
+1977,4,United States Grand Prix West,1977-04-03,Henton,March,10,18,77,+3 Laps,,0
+1977,4,United States Grand Prix West,1977-04-03,Binder,Surtees,11,19,77,+3 Laps,,0
+1977,4,United States Grand Prix West,1977-04-03,Peterson,Tyrrell,12,10,62,Fuel system,,0
+1977,4,United States Grand Prix West,1977-04-03,Regazzoni,Ensign,13,13,57,Gearbox,,0
+1977,4,United States Grand Prix West,1977-04-03,Stuck,Brabham,14,17,53,Brakes,,0
+1977,4,United States Grand Prix West,1977-04-03,Jones,Shadow,15,14,40,Gearbox,,0
+1977,4,United States Grand Prix West,1977-04-03,Mass,McLaren,16,15,39,Handling,,0
+1977,4,United States Grand Prix West,1977-04-03,Watson,Brabham,17,6,33,Disqualified,,0
+1977,4,United States Grand Prix West,1977-04-03,Zorzi,Shadow,18,20,27,Gearbox,,0
+1977,4,United States Grand Prix West,1977-04-03,Ribeiro,March,19,22,15,Gearbox,,0
+1977,4,United States Grand Prix West,1977-04-03,Reutemann,Ferrari,20,4,5,Accident,,0
+1977,4,United States Grand Prix West,1977-04-03,Lunger,March,21,21,4,Accident,,0
+1977,4,United States Grand Prix West,1977-04-03,Brambilla,Surtees,22,11,0,Accident,,0
+1977,5,Spanish Grand Prix,1977-05-08,Andretti,Team Lotus,1,1,75,Finished,1:42:52.220,9
+1977,5,Spanish Grand Prix,1977-05-08,Reutemann,Ferrari,2,4,75,Finished,+15.85,6
+1977,5,Spanish Grand Prix,1977-05-08,Scheckter,Wolf,3,5,75,Finished,+24.51,4
+1977,5,Spanish Grand Prix,1977-05-08,Mass,McLaren,4,9,75,Finished,+24.87,3
+1977,5,Spanish Grand Prix,1977-05-08,Nilsson,Team Lotus,5,12,75,Finished,+1:05.83,2
+1977,5,Spanish Grand Prix,1977-05-08,Stuck,Brabham,6,13,74,+1 Lap,,1
+1977,5,Spanish Grand Prix,1977-05-08,Laffite,Ligier,7,2,74,+1 Lap,,0
+1977,5,Spanish Grand Prix,1977-05-08,Peterson,Tyrrell,8,15,74,+1 Lap,,0
+1977,5,Spanish Grand Prix,1977-05-08,Binder,Surtees,9,20,73,+2 Laps,,0
+1977,5,Spanish Grand Prix,1977-05-08,Lunger,March,10,28,72,+3 Laps,,0
+1977,5,Spanish Grand Prix,1977-05-08,Scheckter,March,11,17,72,+3 Laps,,0
+1977,5,Spanish Grand Prix,1977-05-08,Nève,March,12,22,71,+4 Laps,,0
+1977,5,Spanish Grand Prix,1977-05-08,de Villota,McLaren,13,23,70,+5 Laps,,0
+1977,5,Spanish Grand Prix,1977-05-08,Fittipaldi,Fittipaldi,14,19,70,+5 Laps,,0
+1977,5,Spanish Grand Prix,1977-05-08,Watson,Brabham,15,6,64,Fuel system,,0
+1977,5,Spanish Grand Prix,1977-05-08,Jones,Shadow,16,14,56,Accident,,0
+1977,5,Spanish Grand Prix,1977-05-08,Keegan,Hesketh,17,16,32,Accident,,0
+1977,5,Spanish Grand Prix,1977-05-08,Ertl,Hesketh,18,10,29,Radiator,,0
+1977,5,Spanish Grand Prix,1977-05-08,Zorzi,Shadow,19,24,25,Engine,,0
+1977,5,Spanish Grand Prix,1977-05-08,Merzario,March,20,21,16,Suspension,,0
+1977,5,Spanish Grand Prix,1977-05-08,Depailler,Tyrrell,21,10,12,Engine,,0
+1977,5,Spanish Grand Prix,1977-05-08,Hunt,McLaren,22,7,10,Engine,,0
+1977,5,Spanish Grand Prix,1977-05-08,Regazzoni,Ensign,23,8,9,Accident,,0
+1977,5,Spanish Grand Prix,1977-05-08,Brambilla,Surtees,24,11,9,Accident,,0
+1977,5,Spanish Grand Prix,1977-05-08,Lauda,Ferrari,25,3,0,Injured,,0
+1977,5,Spanish Grand Prix,1977-05-08,Jarier,Penske,26,0,0,Did not qualify,,0
+1977,5,Spanish Grand Prix,1977-05-08,Ribeiro,March,27,0,0,Did not qualify,,0
+1977,5,Spanish Grand Prix,1977-05-08,Lunger,March,28,0,0,Did not qualify,,0
+1977,5,Spanish Grand Prix,1977-05-08,Henton,March,29,0,0,Did not qualify,,0
+1977,5,Spanish Grand Prix,1977-05-08,Purley,LEC,30,0,0,Did not qualify,,0
+1977,5,Spanish Grand Prix,1977-05-08,Andersson,BRM,31,0,0,Did not qualify,,0
+1977,6,Monaco Grand Prix,1977-05-22,Scheckter,Wolf,1,2,76,Finished,1:57:52.77,9
+1977,6,Monaco Grand Prix,1977-05-22,Lauda,Ferrari,2,6,76,Finished,+0.889,6
+1977,6,Monaco Grand Prix,1977-05-22,Reutemann,Ferrari,3,3,76,Finished,+32.8,4
+1977,6,Monaco Grand Prix,1977-05-22,Mass,McLaren,4,9,76,Finished,+34.6,3
+1977,6,Monaco Grand Prix,1977-05-22,Andretti,Team Lotus,5,10,76,Finished,+35.55,2
+1977,6,Monaco Grand Prix,1977-05-22,Jones,Shadow,6,11,76,Finished,+36.61,1
+1977,6,Monaco Grand Prix,1977-05-22,Laffite,Ligier,7,16,76,Finished,+1:04.44,0
+1977,6,Monaco Grand Prix,1977-05-22,Brambilla,Surtees,8,14,76,Finished,+1:08.64,0
+1977,6,Monaco Grand Prix,1977-05-22,Patrese,Shadow,9,15,75,+1 Lap,,0
+1977,6,Monaco Grand Prix,1977-05-22,Ickx,Ensign,10,17,75,+1 Lap,,0
+1977,6,Monaco Grand Prix,1977-05-22,Jarier,Penske,11,12,74,+2 Laps,,0
+1977,6,Monaco Grand Prix,1977-05-22,Keegan,Hesketh,12,20,73,+3 Laps,,0
+1977,6,Monaco Grand Prix,1977-05-22,Nilsson,Team Lotus,13,13,51,Gearbox,,0
+1977,6,Monaco Grand Prix,1977-05-22,Watson,Brabham,14,1,48,Gearbox,,0
+1977,6,Monaco Grand Prix,1977-05-22,Depailler,Tyrrell,15,8,46,Gearbox,,0
+1977,6,Monaco Grand Prix,1977-05-22,Binder,Surtees,16,19,41,Fuel system,,0
+1977,6,Monaco Grand Prix,1977-05-22,Fittipaldi,Fittipaldi,17,18,37,Engine,,0
+1977,6,Monaco Grand Prix,1977-05-22,Hunt,McLaren,18,7,25,Engine,,0
+1977,6,Monaco Grand Prix,1977-05-22,Stuck,Brabham,19,5,19,Electrical,,0
+1977,6,Monaco Grand Prix,1977-05-22,Peterson,Tyrrell,20,4,10,Brakes,,0
+1977,6,Monaco Grand Prix,1977-05-22,Merzario,March,21,0,0,Did not qualify,,0
+1977,6,Monaco Grand Prix,1977-05-22,Lunger,March,22,0,0,Did not qualify,,0
+1977,6,Monaco Grand Prix,1977-05-22,Ertl,Hesketh,23,0,0,Did not qualify,,0
+1977,6,Monaco Grand Prix,1977-05-22,Regazzoni,Ensign,24,0,0,Did not qualify,,0
+1977,6,Monaco Grand Prix,1977-05-22,Ribeiro,March,25,0,0,Did not qualify,,0
+1977,6,Monaco Grand Prix,1977-05-22,Scheckter,March,26,0,0,Did not qualify,,0
+1977,7,Belgian Grand Prix,1977-06-05,Nilsson,Team Lotus,1,3,70,Finished,1:55:05.71,9
+1977,7,Belgian Grand Prix,1977-06-05,Lauda,Ferrari,2,11,70,Finished,+14.19,6
+1977,7,Belgian Grand Prix,1977-06-05,Peterson,Tyrrell,3,8,70,Finished,+19.95,4
+1977,7,Belgian Grand Prix,1977-06-05,Brambilla,Surtees,4,12,70,Finished,+24.98,3
+1977,7,Belgian Grand Prix,1977-06-05,Jones,Shadow,5,17,70,Finished,+1:15.47,2
+1977,7,Belgian Grand Prix,1977-06-05,Stuck,Brabham,6,18,69,+1 Lap,,1
+1977,7,Belgian Grand Prix,1977-06-05,Hunt,McLaren,7,9,69,+1 Lap,,0
+1977,7,Belgian Grand Prix,1977-06-05,Depailler,Tyrrell,8,5,69,+1 Lap,,0
+1977,7,Belgian Grand Prix,1977-06-05,Ertl,Hesketh,9,25,69,+1 Lap,,0
+1977,7,Belgian Grand Prix,1977-06-05,Nève,March,10,24,68,+2 Laps,,0
+1977,7,Belgian Grand Prix,1977-06-05,Jarier,Penske,11,26,68,+2 Laps,,0
+1977,7,Belgian Grand Prix,1977-06-05,Perkins,Surtees,12,23,67,+3 Laps,,0
+1977,7,Belgian Grand Prix,1977-06-05,Purley,LEC,13,20,67,+3 Laps,,0
+1977,7,Belgian Grand Prix,1977-06-05,Merzario,March,14,14,65,+5 Laps,,0
+1977,7,Belgian Grand Prix,1977-06-05,Lunger,March,15,27,63,Not classified,,0
+1977,7,Belgian Grand Prix,1977-06-05,Scheckter,Wolf,16,4,62,Engine,,0
+1977,7,Belgian Grand Prix,1977-06-05,Mass,McLaren,17,6,39,Accident,,0
+1977,7,Belgian Grand Prix,1977-06-05,Laffite,Ligier,18,10,32,Engine,,0
+1977,7,Belgian Grand Prix,1977-06-05,Regazzoni,Ensign,19,13,29,Engine,,0
+1977,7,Belgian Grand Prix,1977-06-05,Reutemann,Ferrari,20,7,14,Accident,,0
+1977,7,Belgian Grand Prix,1977-06-05,Keegan,Hesketh,21,19,14,Accident,,0
+1977,7,Belgian Grand Prix,1977-06-05,Patrese,Shadow,22,15,12,Accident,,0
+1977,7,Belgian Grand Prix,1977-06-05,Scheckter,March,23,21,8,Accident,,0
+1977,7,Belgian Grand Prix,1977-06-05,Fittipaldi,Fittipaldi,24,16,2,Electrical,,0
+1977,7,Belgian Grand Prix,1977-06-05,Andretti,Team Lotus,25,1,0,Accident,,0
+1977,7,Belgian Grand Prix,1977-06-05,Watson,Brabham,26,2,0,Accident,,0
+1977,7,Belgian Grand Prix,1977-06-05,de Villota,McLaren,27,0,0,Did not qualify,,0
+1977,7,Belgian Grand Prix,1977-06-05,Ribeiro,March,28,0,0,Did not qualify,,0
+1977,7,Belgian Grand Prix,1977-06-05,Andersson,BRM,29,0,0,Did not qualify,,0
+1977,7,Belgian Grand Prix,1977-06-05,de Dryver,March,30,0,0,Did not qualify,,0
+1977,7,Belgian Grand Prix,1977-06-05,Rebaque,Hesketh,31,0,0,Did not qualify,,0
+1977,8,Swedish Grand Prix,1977-06-19,Laffite,Ligier,1,8,72,Finished,1:46:56.4,9
+1977,8,Swedish Grand Prix,1977-06-19,Mass,McLaren,2,9,72,Finished,+8.449,6
+1977,8,Swedish Grand Prix,1977-06-19,Reutemann,Ferrari,3,12,72,Finished,+14.369,4
+1977,8,Swedish Grand Prix,1977-06-19,Depailler,Tyrrell,4,6,72,Finished,+16.308,3
+1977,8,Swedish Grand Prix,1977-06-19,Watson,Brabham,5,2,72,Finished,+18.735,2
+1977,8,Swedish Grand Prix,1977-06-19,Andretti,Team Lotus,6,1,72,Finished,+25.277,1
+1977,8,Swedish Grand Prix,1977-06-19,Regazzoni,Ensign,7,14,72,Finished,+31.266,0
+1977,8,Swedish Grand Prix,1977-06-19,Jarier,Penske,8,17,72,Finished,+1:04.567,0
+1977,8,Swedish Grand Prix,1977-06-19,Oliver,Shadow,9,16,72,Finished,+1:22.479,0
+1977,8,Swedish Grand Prix,1977-06-19,Stuck,Brabham,10,5,71,+1 Lap,,0
+1977,8,Swedish Grand Prix,1977-06-19,Lunger,McLaren,11,22,71,+1 Lap,,0
+1977,8,Swedish Grand Prix,1977-06-19,Hunt,McLaren,12,3,71,+1 Lap,,0
+1977,8,Swedish Grand Prix,1977-06-19,Keegan,Hesketh,13,24,71,+1 Lap,,0
+1977,8,Swedish Grand Prix,1977-06-19,Purley,LEC,14,19,70,+2 Laps,,0
+1977,8,Swedish Grand Prix,1977-06-19,Nève,March,15,20,69,+3 Laps,,0
+1977,8,Swedish Grand Prix,1977-06-19,Ertl,Hesketh,16,23,68,+4 Laps,,0
+1977,8,Swedish Grand Prix,1977-06-19,Jones,Shadow,17,11,67,+5 Laps,,0
+1977,8,Swedish Grand Prix,1977-06-19,Fittipaldi,Fittipaldi,18,18,66,+6 Laps,,0
+1977,8,Swedish Grand Prix,1977-06-19,Nilsson,Team Lotus,19,7,64,Wheel bearing,,0
+1977,8,Swedish Grand Prix,1977-06-19,Scheckter,March,20,21,61,Transmission,,0
+1977,8,Swedish Grand Prix,1977-06-19,Brambilla,Surtees,21,13,52,Fuel pressure,,0
+1977,8,Swedish Grand Prix,1977-06-19,Lauda,Ferrari,22,15,47,Handling,,0
+1977,8,Swedish Grand Prix,1977-06-19,Scheckter,Wolf,23,4,29,Accident,,0
+1977,8,Swedish Grand Prix,1977-06-19,Peterson,Tyrrell,24,10,7,Ignition,,0
+1977,8,Swedish Grand Prix,1977-06-19,Ribeiro,March,25,0,0,Did not qualify,,0
+1977,8,Swedish Grand Prix,1977-06-19,de Villota,McLaren,26,0,0,Did not qualify,,0
+1977,8,Swedish Grand Prix,1977-06-19,Perkins,Surtees,27,0,0,Did not qualify,,0
+1977,8,Swedish Grand Prix,1977-06-19,Lunger,March,28,0,0,Did not qualify,,0
+1977,8,Swedish Grand Prix,1977-06-19,Rebaque,Hesketh,29,0,0,Did not qualify,,0
+1977,8,Swedish Grand Prix,1977-06-19,Andersson,BRM,30,0,0,Did not qualify,,0
+1977,8,Swedish Grand Prix,1977-06-19,Kozarowitzky,March,31,0,0,Did not qualify,,0
+1977,9,French Grand Prix,1977-07-03,Andretti,Team Lotus,1,1,80,Finished,1:39:40.13,9
+1977,9,French Grand Prix,1977-07-03,Watson,Brabham,2,4,80,Finished,+1.55,6
+1977,9,French Grand Prix,1977-07-03,Hunt,McLaren,3,2,80,Finished,+33.87,4
+1977,9,French Grand Prix,1977-07-03,Nilsson,Team Lotus,4,3,80,Finished,+1:11.08,3
+1977,9,French Grand Prix,1977-07-03,Lauda,Ferrari,5,9,80,Finished,+1:14.15,2
+1977,9,French Grand Prix,1977-07-03,Reutemann,Ferrari,6,6,79,+1 Lap,,1
+1977,9,French Grand Prix,1977-07-03,Regazzoni,Ensign,7,16,79,+1 Lap,,0
+1977,9,French Grand Prix,1977-07-03,Laffite,Ligier,8,5,78,+2 Laps,,0
+1977,9,French Grand Prix,1977-07-03,Mass,McLaren,9,7,78,+2 Laps,,0
+1977,9,French Grand Prix,1977-07-03,Keegan,Hesketh,10,14,78,+2 Laps,,0
+1977,9,French Grand Prix,1977-07-03,Fittipaldi,Fittipaldi,11,22,77,+3 Laps,,0
+1977,9,French Grand Prix,1977-07-03,Peterson,Tyrrell,12,17,77,+3 Laps,,0
+1977,9,French Grand Prix,1977-07-03,Brambilla,Surtees,13,11,77,+3 Laps,,0
+1977,9,French Grand Prix,1977-07-03,Scheckter,March,14,20,69,Not classified,,0
+1977,9,French Grand Prix,1977-07-03,Scheckter,Wolf,15,8,66,Accident,,0
+1977,9,French Grand Prix,1977-07-03,Stuck,Brabham,16,13,64,Accident,,0
+1977,9,French Grand Prix,1977-07-03,Jones,Shadow,17,10,60,Transmission,,0
+1977,9,French Grand Prix,1977-07-03,Merzario,March,18,18,27,Gearbox,,0
+1977,9,French Grand Prix,1977-07-03,Depailler,Tyrrell,19,12,21,Accident,,0
+1977,9,French Grand Prix,1977-07-03,Patrese,Shadow,20,15,6,Engine,,0
+1977,9,French Grand Prix,1977-07-03,Purley,LEC,21,21,5,Accident,,0
+1977,9,French Grand Prix,1977-07-03,Jarier,Penske,22,19,4,Accident,,0
+1977,9,French Grand Prix,1977-07-03,Ribeiro,March,23,0,0,Did not qualify,,0
+1977,9,French Grand Prix,1977-07-03,Nève,March,24,0,0,Did not qualify,,0
+1977,9,French Grand Prix,1977-07-03,Lunger,McLaren,25,0,0,Did not qualify,,0
+1977,9,French Grand Prix,1977-07-03,Ertl,Hesketh,26,0,0,Did not qualify,,0
+1977,9,French Grand Prix,1977-07-03,Perkins,Surtees,27,0,0,Did not qualify,,0
+1977,9,French Grand Prix,1977-07-03,Rebaque,Hesketh,28,0,0,Did not qualify,,0
+1977,9,French Grand Prix,1977-07-03,Tambay,Surtees,29,0,0,Did not qualify,,0
+1977,9,French Grand Prix,1977-07-03,Andersson,BRM,30,0,0,Did not qualify,,0
+1977,10,British Grand Prix,1977-07-16,Hunt,McLaren,1,1,68,Finished,1:31:46.06,9
+1977,10,British Grand Prix,1977-07-16,Lauda,Ferrari,2,3,68,Finished,+18.31,6
+1977,10,British Grand Prix,1977-07-16,Nilsson,Team Lotus,3,5,68,Finished,+19.57,4
+1977,10,British Grand Prix,1977-07-16,Mass,McLaren,4,11,68,Finished,+47.76,3
+1977,10,British Grand Prix,1977-07-16,Stuck,Brabham,5,7,68,Finished,+1:11.73,2
+1977,10,British Grand Prix,1977-07-16,Laffite,Ligier,6,15,67,+1 Lap,,1
+1977,10,British Grand Prix,1977-07-16,Jones,Shadow,7,12,67,+1 Lap,,0
+1977,10,British Grand Prix,1977-07-16,Brambilla,Surtees,8,8,67,+1 Lap,,0
+1977,10,British Grand Prix,1977-07-16,Jarier,Penske,9,20,67,+1 Lap,,0
+1977,10,British Grand Prix,1977-07-16,Nève,March,10,26,66,+2 Laps,,0
+1977,10,British Grand Prix,1977-07-16,Villeneuve,McLaren,11,9,66,+2 Laps,,0
+1977,10,British Grand Prix,1977-07-16,Schuppan,Surtees,12,23,66,+2 Laps,,0
+1977,10,British Grand Prix,1977-07-16,Lunger,McLaren,13,19,64,+4 Laps,,0
+1977,10,British Grand Prix,1977-07-16,Andretti,Team Lotus,14,6,62,Engine,,0
+1977,10,British Grand Prix,1977-07-16,Reutemann,Ferrari,15,14,62,+6 Laps,,0
+1977,10,British Grand Prix,1977-07-16,Watson,Brabham,16,2,60,Fuel system,,0
+1977,10,British Grand Prix,1977-07-16,Scheckter,Wolf,17,4,59,Engine,,0
+1977,10,British Grand Prix,1977-07-16,Fittipaldi,Fittipaldi,18,22,42,Throttle,,0
+1977,10,British Grand Prix,1977-07-16,Merzario,March,19,17,28,Transmission,,0
+1977,10,British Grand Prix,1977-07-16,Patrese,Shadow,20,25,20,Fuel pressure,,0
+1977,10,British Grand Prix,1977-07-16,Depailler,Tyrrell,21,18,16,Brakes,,0
+1977,10,British Grand Prix,1977-07-16,Jabouille,Renault,22,21,16,Turbo,,0
+1977,10,British Grand Prix,1977-07-16,Scheckter,March,23,24,6,Accident,,0
+1977,10,British Grand Prix,1977-07-16,Peterson,Tyrrell,24,16,3,Engine,,0
+1977,10,British Grand Prix,1977-07-16,Tambay,Ensign,25,10,3,Electrical,,0
+1977,10,British Grand Prix,1977-07-16,Keegan,Hesketh,26,13,0,Accident,,0
+1977,10,British Grand Prix,1977-07-16,Ribeiro,March,27,0,0,Did not qualify,,0
+1977,10,British Grand Prix,1977-07-16,Regazzoni,Ensign,28,0,0,Did not qualify,,0
+1977,10,British Grand Prix,1977-07-16,Henton,March,29,0,0,Did not qualify,,0
+1977,10,British Grand Prix,1977-07-16,de Villota,McLaren,30,0,0,Did not qualify,,0
+1977,10,British Grand Prix,1977-07-16,Purley,LEC,31,0,0,Did not prequalify,,0
+1977,10,British Grand Prix,1977-07-16,Sutcliffe,March,32,0,0,Did not prequalify,,0
+1977,10,British Grand Prix,1977-07-16,Edwards,BRM,33,0,0,Did not prequalify,,0
+1977,10,British Grand Prix,1977-07-16,Trimmer,Surtees,34,0,0,Did not prequalify,,0
+1977,10,British Grand Prix,1977-07-16,McGuire,McGuire,35,0,0,Did not prequalify,,0
+1977,10,British Grand Prix,1977-07-16,Kozarowitzky,March,36,0,0,Did not prequalify,,0
+1977,11,German Grand Prix,1977-07-31,Lauda,Ferrari,1,3,47,Finished,1:31:49.3,9
+1977,11,German Grand Prix,1977-07-31,Scheckter,Wolf,2,1,47,Finished,+14.33,6
+1977,11,German Grand Prix,1977-07-31,Stuck,Brabham,3,5,47,Finished,+20.9,4
+1977,11,German Grand Prix,1977-07-31,Reutemann,Ferrari,4,8,47,Finished,+60.27,3
+1977,11,German Grand Prix,1977-07-31,Brambilla,Surtees,5,10,47,Finished,+87.37,2
+1977,11,German Grand Prix,1977-07-31,Tambay,Ensign,6,11,47,Finished,+89.81,1
+1977,11,German Grand Prix,1977-07-31,Schuppan,Surtees,7,19,46,+1 Lap,,0
+1977,11,German Grand Prix,1977-07-31,Ribeiro,March,8,20,46,+1 Lap,,0
+1977,11,German Grand Prix,1977-07-31,Peterson,Tyrrell,9,14,42,Engine,,0
+1977,11,German Grand Prix,1977-07-31,Patrese,Shadow,10,16,42,Wheel,,0
+1977,11,German Grand Prix,1977-07-31,Keegan,Hesketh,11,23,40,Accident,,0
+1977,11,German Grand Prix,1977-07-31,Andretti,Team Lotus,12,7,34,Engine,,0
+1977,11,German Grand Prix,1977-07-31,Hunt,McLaren,13,4,32,Fuel pump,,0
+1977,11,German Grand Prix,1977-07-31,Nilsson,Team Lotus,14,9,31,Engine,,0
+1977,11,German Grand Prix,1977-07-31,Mass,McLaren,15,13,26,Gearbox,,0
+1977,11,German Grand Prix,1977-07-31,Depailler,Tyrrell,16,15,22,Engine,,0
+1977,11,German Grand Prix,1977-07-31,Laffite,Ligier,17,6,21,Engine,,0
+1977,11,German Grand Prix,1977-07-31,Rebaque,Hesketh,18,24,20,Engine,,0
+1977,11,German Grand Prix,1977-07-31,Lunger,McLaren,19,21,14,Accident,,0
+1977,11,German Grand Prix,1977-07-31,Scheckter,March,20,19,9,Clutch,,0
+1977,11,German Grand Prix,1977-07-31,Watson,Brabham,21,2,8,Engine,,0
+1977,11,German Grand Prix,1977-07-31,Jarier,Penske,22,12,5,Transmission,,0
+1977,11,German Grand Prix,1977-07-31,Jones,Shadow,23,17,0,Accident,,0
+1977,11,German Grand Prix,1977-07-31,Heyer,Penske,24,25,9,Did not qualify,,0
+1977,11,German Grand Prix,1977-07-31,Nève,March,25,0,0,Did not qualify,,0
+1977,11,German Grand Prix,1977-07-31,de Villota,McLaren,26,0,0,Did not qualify,,0
+1977,11,German Grand Prix,1977-07-31,Fittipaldi,Fittipaldi,27,0,0,Did not qualify,,0
+1977,11,German Grand Prix,1977-07-31,Merzario,March,28,0,0,Did not qualify,,0
+1977,11,German Grand Prix,1977-07-31,Pilette,BRM,29,0,0,Did not qualify,,0
+1977,12,Austrian Grand Prix,1977-08-14,Jones,Shadow,1,14,54,Finished,1:37:16.49,9
+1977,12,Austrian Grand Prix,1977-08-14,Lauda,Ferrari,2,1,54,Finished,+20.13,6
+1977,12,Austrian Grand Prix,1977-08-14,Stuck,Brabham,3,4,54,Finished,+34.5,4
+1977,12,Austrian Grand Prix,1977-08-14,Reutemann,Ferrari,4,5,54,Finished,+34.75,3
+1977,12,Austrian Grand Prix,1977-08-14,Peterson,Tyrrell,5,15,54,Finished,+72.09,2
+1977,12,Austrian Grand Prix,1977-08-14,Mass,McLaren,6,9,53,+1 Lap,,1
+1977,12,Austrian Grand Prix,1977-08-14,Keegan,Hesketh,7,20,53,+1 Lap,,0
+1977,12,Austrian Grand Prix,1977-08-14,Watson,Brabham,8,12,53,+1 Lap,,0
+1977,12,Austrian Grand Prix,1977-08-14,Nève,March,9,22,53,+1 Lap,,0
+1977,12,Austrian Grand Prix,1977-08-14,Lunger,McLaren,10,17,53,+1 Lap,,0
+1977,12,Austrian Grand Prix,1977-08-14,Fittipaldi,Fittipaldi,11,23,53,+1 Lap,,0
+1977,12,Austrian Grand Prix,1977-08-14,Binder,Penske,12,19,53,+1 Lap,,0
+1977,12,Austrian Grand Prix,1977-08-14,Depailler,Tyrrell,13,10,53,+1 Lap,,0
+1977,12,Austrian Grand Prix,1977-08-14,Jarier,Penske,14,18,52,+2 Laps,,0
+1977,12,Austrian Grand Prix,1977-08-14,Brambilla,Surtees,15,13,52,+2 Laps,,0
+1977,12,Austrian Grand Prix,1977-08-14,Schuppan,Surtees,16,25,52,+2 Laps,,0
+1977,12,Austrian Grand Prix,1977-08-14,de Villota,McLaren,17,26,50,Accident,,0
+1977,12,Austrian Grand Prix,1977-08-14,Scheckter,Wolf,18,8,45,Spun off,,0
+1977,12,Austrian Grand Prix,1977-08-14,Hunt,McLaren,19,2,43,Engine,,0
+1977,12,Austrian Grand Prix,1977-08-14,Tambay,Ensign,20,7,41,Engine,,0
+1977,12,Austrian Grand Prix,1977-08-14,Nilsson,Team Lotus,21,16,38,Engine,,0
+1977,12,Austrian Grand Prix,1977-08-14,Merzario,Shadow,22,21,29,Gearbox,,0
+1977,12,Austrian Grand Prix,1977-08-14,Laffite,Ligier,23,6,21,Oil leak,,0
+1977,12,Austrian Grand Prix,1977-08-14,Andretti,Team Lotus,24,3,11,Engine,,0
+1977,12,Austrian Grand Prix,1977-08-14,Scheckter,March,25,24,2,Accident,,0
+1977,12,Austrian Grand Prix,1977-08-14,Regazzoni,Ensign,26,11,0,Accident,,0
+1977,12,Austrian Grand Prix,1977-08-14,Henton,March,27,0,0,Did not qualify,,0
+1977,12,Austrian Grand Prix,1977-08-14,Ashley,Hesketh,28,0,0,Did not qualify,,0
+1977,12,Austrian Grand Prix,1977-08-14,Rebaque,Hesketh,29,0,0,Did not qualify,,0
+1977,12,Austrian Grand Prix,1977-08-14,Ribeiro,March,30,0,0,Did not qualify,,0
+1977,13,Dutch Grand Prix,1977-08-28,Lauda,Ferrari,1,4,75,Finished,1:41:45.93,9
+1977,13,Dutch Grand Prix,1977-08-28,Laffite,Ligier,2,2,75,Finished,+1.89,6
+1977,13,Dutch Grand Prix,1977-08-28,Scheckter,Wolf,3,15,74,+1 Lap,,4
+1977,13,Dutch Grand Prix,1977-08-28,Fittipaldi,Fittipaldi,4,17,74,+1 Lap,,3
+1977,13,Dutch Grand Prix,1977-08-28,Tambay,Ensign,5,12,73,Out of fuel,,2
+1977,13,Dutch Grand Prix,1977-08-28,Reutemann,Ferrari,6,6,73,+2 Laps,,1
+1977,13,Dutch Grand Prix,1977-08-28,Stuck,Brabham,7,19,73,+2 Laps,,0
+1977,13,Dutch Grand Prix,1977-08-28,Binder,Penske,8,18,73,+2 Laps,,0
+1977,13,Dutch Grand Prix,1977-08-28,Lunger,McLaren,9,20,73,+2 Laps,,0
+1977,13,Dutch Grand Prix,1977-08-28,Scheckter,March,10,25,73,+2 Laps,,0
+1977,13,Dutch Grand Prix,1977-08-28,Ribeiro,March,11,24,72,+3 Laps,,0
+1977,13,Dutch Grand Prix,1977-08-28,Brambilla,Surtees,12,22,67,Accident,,0
+1977,13,Dutch Grand Prix,1977-08-28,Patrese,Shadow,13,16,67,Engine,,0
+1977,13,Dutch Grand Prix,1977-08-28,Henton,Boro,14,23,52,Disqualified,,0
+1977,13,Dutch Grand Prix,1977-08-28,Jabouille,Renault,15,10,39,Suspension,,0
+1977,13,Dutch Grand Prix,1977-08-28,Nilsson,Team Lotus,16,5,34,Accident,,0
+1977,13,Dutch Grand Prix,1977-08-28,Jones,Shadow,17,13,32,Engine,,0
+1977,13,Dutch Grand Prix,1977-08-28,Depailler,Tyrrell,18,11,31,Engine,,0
+1977,13,Dutch Grand Prix,1977-08-28,Peterson,Tyrrell,19,7,18,Ignition,,0
+1977,13,Dutch Grand Prix,1977-08-28,Regazzoni,Ensign,20,9,17,Throttle,,0
+1977,13,Dutch Grand Prix,1977-08-28,Andretti,Team Lotus,21,1,14,Engine,,0
+1977,13,Dutch Grand Prix,1977-08-28,Keegan,Hesketh,22,26,8,Accident,,0
+1977,13,Dutch Grand Prix,1977-08-28,Hunt,McLaren,23,3,5,Accident,,0
+1977,13,Dutch Grand Prix,1977-08-28,Jarier,Penske,24,21,4,Ignition,,0
+1977,13,Dutch Grand Prix,1977-08-28,Watson,Brabham,25,8,2,Oil leak,,0
+1977,13,Dutch Grand Prix,1977-08-28,Mass,McLaren,26,14,0,Accident,,0
+1977,13,Dutch Grand Prix,1977-08-28,Nève,March,27,0,0,Did not qualify,,0
+1977,13,Dutch Grand Prix,1977-08-28,Merzario,March,28,0,0,Did not qualify,,0
+1977,13,Dutch Grand Prix,1977-08-28,Schuppan,Surtees,29,0,0,Did not qualify,,0
+1977,13,Dutch Grand Prix,1977-08-28,Ashley,Hesketh,30,0,0,Did not qualify,,0
+1977,13,Dutch Grand Prix,1977-08-28,Lunger,March,31,0,0,Did not qualify,,0
+1977,13,Dutch Grand Prix,1977-08-28,Rebaque,Hesketh,32,0,0,Did not qualify,,0
+1977,13,Dutch Grand Prix,1977-08-28,Pilette,BRM,33,0,0,Did not qualify,,0
+1977,13,Dutch Grand Prix,1977-08-28,Bleekemolen,March,34,0,0,Did not qualify,,0
+1977,14,Italian Grand Prix,1977-09-11,Andretti,Team Lotus,1,4,52,Finished,1:27:50.30,9
+1977,14,Italian Grand Prix,1977-09-11,Lauda,Ferrari,2,5,52,Finished,+16.96,6
+1977,14,Italian Grand Prix,1977-09-11,Jones,Shadow,3,16,52,Finished,+23.63,4
+1977,14,Italian Grand Prix,1977-09-11,Mass,McLaren,4,9,52,Finished,+28.48,3
+1977,14,Italian Grand Prix,1977-09-11,Regazzoni,Ensign,5,7,52,Finished,+30.11,2
+1977,14,Italian Grand Prix,1977-09-11,Peterson,Tyrrell,6,12,52,Finished,+1:19.22,1
+1977,14,Italian Grand Prix,1977-09-11,Nève,March,7,24,50,+2 Laps,,0
+1977,14,Italian Grand Prix,1977-09-11,Laffite,Ligier,8,8,50,+2 Laps,,0
+1977,14,Italian Grand Prix,1977-09-11,Keegan,Hesketh,9,23,48,+4 Laps,,0
+1977,14,Italian Grand Prix,1977-09-11,Scheckter,March,10,17,41,Transmission,,0
+1977,14,Italian Grand Prix,1977-09-11,Reutemann,Ferrari,11,2,39,Spun off,,0
+1977,14,Italian Grand Prix,1977-09-11,Patrese,Shadow,12,6,39,Spun off,,0
+1977,14,Italian Grand Prix,1977-09-11,Giacomelli,McLaren,13,15,38,Engine,,0
+1977,14,Italian Grand Prix,1977-09-11,Stuck,Brabham,14,11,31,Engine,,0
+1977,14,Italian Grand Prix,1977-09-11,Hunt,McLaren,15,1,26,Spun off,,0
+1977,14,Italian Grand Prix,1977-09-11,Depailler,Tyrrell,16,13,24,Engine,,0
+1977,14,Italian Grand Prix,1977-09-11,Scheckter,Wolf,17,3,23,Engine,,0
+1977,14,Italian Grand Prix,1977-09-11,Jabouille,Renault,18,20,23,Engine,,0
+1977,14,Italian Grand Prix,1977-09-11,Jarier,Penske,19,18,19,Engine,,0
+1977,14,Italian Grand Prix,1977-09-11,Tambay,Ensign,20,21,9,Engine,,0
+1977,14,Italian Grand Prix,1977-09-11,Brambilla,Surtees,21,10,5,Accident,,0
+1977,14,Italian Grand Prix,1977-09-11,Nilsson,Team Lotus,22,22,4,Suspension,,0
+1977,14,Italian Grand Prix,1977-09-11,Lunger,McLaren,23,19,4,Engine,,0
+1977,14,Italian Grand Prix,1977-09-11,Watson,Brabham,24,14,3,Accident,,0
+1977,14,Italian Grand Prix,1977-09-11,Ribeiro,March,25,0,0,Did not qualify,,0
+1977,14,Italian Grand Prix,1977-09-11,Fittipaldi,Fittipaldi,26,0,0,Did not qualify,,0
+1977,14,Italian Grand Prix,1977-09-11,Leoni,Surtees,27,0,0,Did not qualify,,0
+1977,14,Italian Grand Prix,1977-09-11,Henton,Boro,28,0,0,Did not qualify,,0
+1977,14,Italian Grand Prix,1977-09-11,de Villota,McLaren,29,0,0,Did not qualify,,0
+1977,14,Italian Grand Prix,1977-09-11,Ashley,Hesketh,30,0,0,Did not qualify,,0
+1977,14,Italian Grand Prix,1977-09-11,Pilette,BRM,31,0,0,Did not qualify,,0
+1977,14,Italian Grand Prix,1977-09-11,Binder,Penske,32,0,0,Did not qualify,,0
+1977,14,Italian Grand Prix,1977-09-11,Kessel,Apollon,33,0,0,Did not qualify,,0
+1977,14,Italian Grand Prix,1977-09-11,Francia,Brabham,34,0,0,Did not qualify,,0
+1977,15,United States Grand Prix,1977-10-02,Hunt,McLaren,1,1,59,Finished,1:58:23.267,9
+1977,15,United States Grand Prix,1977-10-02,Andretti,Team Lotus,2,4,59,Finished,+0:02.026,6
+1977,15,United States Grand Prix,1977-10-02,Scheckter,Wolf,3,9,59,Finished,+1:18.879,4
+1977,15,United States Grand Prix,1977-10-02,Lauda,Ferrari,4,7,59,Finished,+1:40.615,3
+1977,15,United States Grand Prix,1977-10-02,Regazzoni,Ensign,5,19,59,Finished,+1:48.138,2
+1977,15,United States Grand Prix,1977-10-02,Reutemann,Ferrari,6,6,58,+1 Lap,,1
+1977,15,United States Grand Prix,1977-10-02,Laffite,Ligier,7,10,58,+1 Lap,,0
+1977,15,United States Grand Prix,1977-10-02,Keegan,Hesketh,8,20,58,+1 Lap,,0
+1977,15,United States Grand Prix,1977-10-02,Jarier,Shadow,9,16,58,+1 Lap,,0
+1977,15,United States Grand Prix,1977-10-02,Lunger,McLaren,10,17,57,+2 Laps,,0
+1977,15,United States Grand Prix,1977-10-02,Binder,Surtees,11,25,57,+2 Laps,,0
+1977,15,United States Grand Prix,1977-10-02,Watson,Brabham,12,3,57,+2 Laps,,0
+1977,15,United States Grand Prix,1977-10-02,Fittipaldi,Fittipaldi,13,18,57,+2 Laps,,0
+1977,15,United States Grand Prix,1977-10-02,Depailler,Tyrrell,14,8,56,+3 Laps,,0
+1977,15,United States Grand Prix,1977-10-02,Ribeiro,March,15,23,56,+3 Laps,,0
+1977,15,United States Grand Prix,1977-10-02,Peterson,Tyrrell,16,5,56,+3 Laps,,0
+1977,15,United States Grand Prix,1977-10-02,Ashley,Hesketh,17,22,55,+4 Laps,,0
+1977,15,United States Grand Prix,1977-10-02,Nève,March,18,24,55,+4 Laps,,0
+1977,15,United States Grand Prix,1977-10-02,Brambilla,Surtees,19,11,54,+5 Laps,,0
+1977,15,United States Grand Prix,1977-10-02,Jabouille,Renault,20,14,30,Alternator,,0
+1977,15,United States Grand Prix,1977-10-02,Nilsson,Team Lotus,21,12,17,Accident,,0
+1977,15,United States Grand Prix,1977-10-02,Stuck,Brabham,22,2,14,Accident,,0
+1977,15,United States Grand Prix,1977-10-02,Scheckter,March,23,21,10,Accident,,0
+1977,15,United States Grand Prix,1977-10-02,Mass,McLaren,24,15,8,Fuel pump,,0
+1977,15,United States Grand Prix,1977-10-02,Ongais,Penske,25,26,6,Accident,,0
+1977,15,United States Grand Prix,1977-10-02,Jones,Shadow,26,13,3,Accident,,0
+1977,15,United States Grand Prix,1977-10-02,Tambay,Ensign,27,0,0,Did not qualify,,0
+1977,16,Canadian Grand Prix,1977-10-09,Scheckter,Wolf,1,9,80,Finished,1:40:00.0,9
+1977,16,Canadian Grand Prix,1977-10-09,Depailler,Tyrrell,2,6,80,Finished,+6.77,6
+1977,16,Canadian Grand Prix,1977-10-09,Mass,McLaren,3,5,80,Finished,+15.76,4
+1977,16,Canadian Grand Prix,1977-10-09,Jones,Shadow,4,7,80,Finished,+46.69,3
+1977,16,Canadian Grand Prix,1977-10-09,Tambay,Ensign,5,16,80,Finished,+1:03.26,2
+1977,16,Canadian Grand Prix,1977-10-09,Brambilla,Surtees,6,15,78,Accident,,1
+1977,16,Canadian Grand Prix,1977-10-09,Ongais,Penske,7,22,78,+2 Laps,,0
+1977,16,Canadian Grand Prix,1977-10-09,Ribeiro,March,8,23,78,+2 Laps,,0
+1977,16,Canadian Grand Prix,1977-10-09,Andretti,Team Lotus,9,1,77,Engine,,0
+1977,16,Canadian Grand Prix,1977-10-09,Patrese,Shadow,10,8,76,Spun off,,0
+1977,16,Canadian Grand Prix,1977-10-09,Lunger,McLaren,11,20,76,Engine,,0
+1977,16,Canadian Grand Prix,1977-10-09,Villeneuve,Ferrari,12,17,76,Transmission,,0
+1977,16,Canadian Grand Prix,1977-10-09,Hunt,McLaren,13,2,61,Accident,,0
+1977,16,Canadian Grand Prix,1977-10-09,Nève,March,14,21,56,Engine,,0
+1977,16,Canadian Grand Prix,1977-10-09,Peterson,Tyrrell,15,3,34,Fuel leak,,0
+1977,16,Canadian Grand Prix,1977-10-09,Keegan,Hesketh,16,25,32,Accident,,0
+1977,16,Canadian Grand Prix,1977-10-09,Binder,Surtees,17,24,31,Accident,,0
+1977,16,Canadian Grand Prix,1977-10-09,Scheckter,March,18,18,29,Engine,,0
+1977,16,Canadian Grand Prix,1977-10-09,Fittipaldi,Fittipaldi,19,19,29,Engine,,0
+1977,16,Canadian Grand Prix,1977-10-09,Reutemann,Ferrari,20,12,20,Fuel system,,0
+1977,16,Canadian Grand Prix,1977-10-09,Stuck,Brabham,21,13,19,Engine,,0
+1977,16,Canadian Grand Prix,1977-10-09,Nilsson,Team Lotus,22,4,17,Accident,,0
+1977,16,Canadian Grand Prix,1977-10-09,Laffite,Ligier,23,11,12,Transmission,,0
+1977,16,Canadian Grand Prix,1977-10-09,Watson,Brabham,24,10,1,Suspension,,0
+1977,16,Canadian Grand Prix,1977-10-09,Regazzoni,Ensign,25,14,0,Accident,,0
+1977,16,Canadian Grand Prix,1977-10-09,Ashley,Hesketh,26,0,0,Withdrew,,0
+1977,16,Canadian Grand Prix,1977-10-09,Jabouille,Renault,27,0,0,Did not qualify,,0
+1977,17,Japanese Grand Prix,1977-10-23,Hunt,McLaren,1,2,73,Finished,1:31:51.68,9
+1977,17,Japanese Grand Prix,1977-10-23,Reutemann,Ferrari,2,7,73,Finished,+1:02.45,6
+1977,17,Japanese Grand Prix,1977-10-23,Depailler,Tyrrell,3,15,73,Finished,+1:06.39,4
+1977,17,Japanese Grand Prix,1977-10-23,Jones,Shadow,4,12,73,Finished,+1:06.61,3
+1977,17,Japanese Grand Prix,1977-10-23,Laffite,Ligier,5,5,72,Out of fuel,,2
+1977,17,Japanese Grand Prix,1977-10-23,Patrese,Shadow,6,13,72,+1 Lap,,1
+1977,17,Japanese Grand Prix,1977-10-23,Stuck,Brabham,7,4,72,+1 Lap,,0
+1977,17,Japanese Grand Prix,1977-10-23,Brambilla,Surtees,8,9,71,+2 Laps,,0
+1977,17,Japanese Grand Prix,1977-10-23,Takahashi,Tyrrell,9,22,71,+2 Laps,,0
+1977,17,Japanese Grand Prix,1977-10-23,Scheckter,Wolf,10,6,71,+2 Laps,,0
+1977,17,Japanese Grand Prix,1977-10-23,Hoshino,Kojima,11,11,71,+2 Laps,,0
+1977,17,Japanese Grand Prix,1977-10-23,Ribeiro,March,12,23,69,+4 Laps,,0
+1977,17,Japanese Grand Prix,1977-10-23,Nilsson,Team Lotus,13,14,63,Gearbox,,0
+1977,17,Japanese Grand Prix,1977-10-23,Regazzoni,Ensign,14,10,43,Engine,,0
+1977,17,Japanese Grand Prix,1977-10-23,Watson,Brabham,15,3,29,Gearbox,,0
+1977,17,Japanese Grand Prix,1977-10-23,Mass,McLaren,16,8,28,Engine,,0
+1977,17,Japanese Grand Prix,1977-10-23,Tambay,Ensign,17,16,14,Engine,,0
+1977,17,Japanese Grand Prix,1977-10-23,Peterson,Tyrrell,18,18,5,Accident,,0
+1977,17,Japanese Grand Prix,1977-10-23,Villeneuve,Ferrari,19,20,5,Accident,,0
+1977,17,Japanese Grand Prix,1977-10-23,Jarier,Ligier,20,17,3,Engine,,0
+1977,17,Japanese Grand Prix,1977-10-23,Andretti,Team Lotus,21,1,1,Collision,,0
+1977,17,Japanese Grand Prix,1977-10-23,Takahara,Kojima,22,19,1,Collision,,0
+1977,17,Japanese Grand Prix,1977-10-23,Binder,Surtees,23,21,1,Collision,,0

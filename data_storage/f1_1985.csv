@@ -1,0 +1,407 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1985,1,Brazilian Grand Prix,1985-04-07,Prost,McLaren,1,6,61,Finished,1:41:26.115,9
+1985,1,Brazilian Grand Prix,1985-04-07,Alboreto,Ferrari,2,1,61,Finished,+3.259,6
+1985,1,Brazilian Grand Prix,1985-04-07,de Angelis,Team Lotus,3,3,60,+1 Lap,,4
+1985,1,Brazilian Grand Prix,1985-04-07,Arnoux,Ferrari,4,7,59,+2 Laps,,3
+1985,1,Brazilian Grand Prix,1985-04-07,Tambay,Renault,5,11,59,+2 Laps,,2
+1985,1,Brazilian Grand Prix,1985-04-07,Laffite,Ligier,6,15,59,+2 Laps,,1
+1985,1,Brazilian Grand Prix,1985-04-07,Johansson,Tyrrell,7,23,58,+3 Laps,,0
+1985,1,Brazilian Grand Prix,1985-04-07,Brundle,Tyrrell,8,21,58,+3 Laps,,0
+1985,1,Brazilian Grand Prix,1985-04-07,Alliot,RAM,9,20,58,+3 Laps,,0
+1985,1,Brazilian Grand Prix,1985-04-07,Warwick,Renault,10,10,57,+4 Laps,,0
+1985,1,Brazilian Grand Prix,1985-04-07,Boutsen,Arrows,11,12,57,+4 Laps,,0
+1985,1,Brazilian Grand Prix,1985-04-07,Ghinzani,Osella,12,22,57,+4 Laps,,0
+1985,1,Brazilian Grand Prix,1985-04-07,Winkelhock,RAM,13,16,57,+4 Laps,,0
+1985,1,Brazilian Grand Prix,1985-04-07,Berger,Arrows,14,19,51,Suspension,,0
+1985,1,Brazilian Grand Prix,1985-04-07,Senna,Team Lotus,15,4,48,Electrical,,0
+1985,1,Brazilian Grand Prix,1985-04-07,Cheever,Alfa Romeo,16,18,42,Engine,,0
+1985,1,Brazilian Grand Prix,1985-04-07,Martini,Minardi,17,25,41,Engine,,0
+1985,1,Brazilian Grand Prix,1985-04-07,Lauda,McLaren,18,9,27,Fuel system,,0
+1985,1,Brazilian Grand Prix,1985-04-07,de Cesaris,Ligier,19,13,26,Accident,,0
+1985,1,Brazilian Grand Prix,1985-04-07,Patrese,Alfa Romeo,20,14,20,Puncture,,0
+1985,1,Brazilian Grand Prix,1985-04-07,Rosberg,Williams,21,2,10,Turbo,,0
+1985,1,Brazilian Grand Prix,1985-04-07,Hesnault,Brabham,22,17,9,Accident,,0
+1985,1,Brazilian Grand Prix,1985-04-07,Mansell,Williams,23,5,8,Exhaust,,0
+1985,1,Brazilian Grand Prix,1985-04-07,Baldi,Spirit,24,24,7,Turbo,,0
+1985,1,Brazilian Grand Prix,1985-04-07,Piquet,Brabham,25,8,2,Transmission,,0
+1985,2,Portuguese Grand Prix,1985-04-21,Senna,Team Lotus,1,1,67,Finished,2:00:28.006,9
+1985,2,Portuguese Grand Prix,1985-04-21,Alboreto,Ferrari,2,5,67,Finished,+1:02.978,6
+1985,2,Portuguese Grand Prix,1985-04-21,Tambay,Renault,3,12,66,+1 Lap,,4
+1985,2,Portuguese Grand Prix,1985-04-21,de Angelis,Team Lotus,4,4,66,+1 Lap,,3
+1985,2,Portuguese Grand Prix,1985-04-21,Mansell,Williams,5,9,65,+2 Laps,,2
+1985,2,Portuguese Grand Prix,1985-04-21,Bellof,Tyrrell,6,21,65,+2 Laps,,1
+1985,2,Portuguese Grand Prix,1985-04-21,Warwick,Renault,7,6,65,+2 Laps,,0
+1985,2,Portuguese Grand Prix,1985-04-21,Johansson,Ferrari,8,11,62,+5 Laps,,0
+1985,2,Portuguese Grand Prix,1985-04-21,Ghinzani,Osella,9,26,61,+6 Laps,,0
+1985,2,Portuguese Grand Prix,1985-04-21,Winkelhock,RAM,10,15,50,Not classified,,0
+1985,2,Portuguese Grand Prix,1985-04-21,Lauda,McLaren,11,7,49,Engine,,0
+1985,2,Portuguese Grand Prix,1985-04-21,Cheever,Alfa Romeo,12,14,36,Engine,,0
+1985,2,Portuguese Grand Prix,1985-04-21,Prost,McLaren,13,2,30,Spun off,,0
+1985,2,Portuguese Grand Prix,1985-04-21,de Cesaris,Ligier,14,8,29,Tyre,,0
+1985,2,Portuguese Grand Prix,1985-04-21,Piquet,Brabham,15,16,28,Tyre,,0
+1985,2,Portuguese Grand Prix,1985-04-21,Boutsen,Arrows,16,10,28,Electrical,,0
+1985,2,Portuguese Grand Prix,1985-04-21,Brundle,Tyrrell,17,22,20,Transmission,,0
+1985,2,Portuguese Grand Prix,1985-04-21,Baldi,Spirit,18,29,19,Spun off,,0
+1985,2,Portuguese Grand Prix,1985-04-21,Rosberg,Williams,19,3,16,Spun off,,0
+1985,2,Portuguese Grand Prix,1985-04-21,Laffite,Ligier,20,18,15,Tyre,,0
+1985,2,Portuguese Grand Prix,1985-04-21,Berger,Arrows,21,17,12,Spun off,,0
+1985,2,Portuguese Grand Prix,1985-04-21,Martini,Minardi,22,25,12,Spun off,,0
+1985,2,Portuguese Grand Prix,1985-04-21,Patrese,Alfa Romeo,23,13,4,Spun off,,0
+1985,2,Portuguese Grand Prix,1985-04-21,Alliot,RAM,24,20,3,Spun off,,0
+1985,2,Portuguese Grand Prix,1985-04-21,Hesnault,Brabham,25,19,3,Electrical,,0
+1985,2,Portuguese Grand Prix,1985-04-21,Palmer,Zakspeed,26,23,2,Suspension,,0
+1985,3,San Marino Grand Prix,1985-05-05,de Angelis,Team Lotus,1,3,60,Finished,1:34:35.955,9
+1985,3,San Marino Grand Prix,1985-05-05,Boutsen,Arrows,2,5,59,+1 Lap,,6
+1985,3,San Marino Grand Prix,1985-05-05,Tambay,Renault,3,11,59,+1 Lap,,4
+1985,3,San Marino Grand Prix,1985-05-05,Lauda,McLaren,4,8,59,+1 Lap,,3
+1985,3,San Marino Grand Prix,1985-05-05,Mansell,Williams,5,7,58,+2 Laps,,2
+1985,3,San Marino Grand Prix,1985-05-05,Johansson,Ferrari,6,15,57,Out of fuel,,1
+1985,3,San Marino Grand Prix,1985-05-05,Senna,Team Lotus,7,1,57,Out of fuel,,0
+1985,3,San Marino Grand Prix,1985-05-05,Piquet,Brabham,8,9,57,Out of fuel,,0
+1985,3,San Marino Grand Prix,1985-05-05,Brundle,Tyrrell,9,25,56,Out of fuel,,0
+1985,3,San Marino Grand Prix,1985-05-05,Warwick,Renault,10,14,56,Out of fuel,,0
+1985,3,San Marino Grand Prix,1985-05-05,Prost,McLaren,11,6,60,Disqualified,,0
+1985,3,San Marino Grand Prix,1985-05-05,Cheever,Alfa Romeo,12,12,50,Engine,,0
+1985,3,San Marino Grand Prix,1985-05-05,Ghinzani,Osella,13,22,46,Not classified,,0
+1985,3,San Marino Grand Prix,1985-05-05,Alboreto,Ferrari,14,4,29,Electrical,,0
+1985,3,San Marino Grand Prix,1985-05-05,Winkelhock,RAM,15,23,27,Engine,,0
+1985,3,San Marino Grand Prix,1985-05-05,Alliot,RAM,16,21,24,Engine,,0
+1985,3,San Marino Grand Prix,1985-05-05,Rosberg,Williams,17,2,23,Brakes,,0
+1985,3,San Marino Grand Prix,1985-05-05,Laffite,Ligier,18,16,22,Turbo,,0
+1985,3,San Marino Grand Prix,1985-05-05,Martini,Minardi,19,19,14,Turbo,,0
+1985,3,San Marino Grand Prix,1985-05-05,de Cesaris,Ligier,20,13,11,Spun off,,0
+1985,3,San Marino Grand Prix,1985-05-05,Baldi,Spirit,21,26,9,Electrical,,0
+1985,3,San Marino Grand Prix,1985-05-05,Hesnault,Brabham,22,20,5,Engine,,0
+1985,3,San Marino Grand Prix,1985-05-05,Bellof,Tyrrell,23,24,5,Engine,,0
+1985,3,San Marino Grand Prix,1985-05-05,Berger,Arrows,24,18,4,Engine,,0
+1985,3,San Marino Grand Prix,1985-05-05,Patrese,Alfa Romeo,25,18,4,Engine,,0
+1985,3,San Marino Grand Prix,1985-05-05,Palmer,Zakspeed,26,17,0,Retired,,0
+1985,4,Monaco Grand Prix,1985-05-19,Prost,McLaren,1,5,78,Finished,1:51:58.034,9
+1985,4,Monaco Grand Prix,1985-05-19,Alboreto,Ferrari,2,3,78,Finished,+7.541,6
+1985,4,Monaco Grand Prix,1985-05-19,de Angelis,Team Lotus,3,9,78,Finished,+1:27.171,4
+1985,4,Monaco Grand Prix,1985-05-19,de Cesaris,Ligier,4,8,77,+1 Lap,,3
+1985,4,Monaco Grand Prix,1985-05-19,Warwick,Renault,5,10,77,+1 Lap,,2
+1985,4,Monaco Grand Prix,1985-05-19,Laffite,Ligier,6,16,77,+1 Lap,,1
+1985,4,Monaco Grand Prix,1985-05-19,Mansell,Williams,7,2,77,+1 Lap,,0
+1985,4,Monaco Grand Prix,1985-05-19,Rosberg,Williams,8,7,76,+2 Laps,,0
+1985,4,Monaco Grand Prix,1985-05-19,Boutsen,Arrows,9,6,76,+2 Laps,,0
+1985,4,Monaco Grand Prix,1985-05-19,Brundle,Tyrrell,10,18,74,+4 Laps,,0
+1985,4,Monaco Grand Prix,1985-05-19,Palmer,Zakspeed,11,19,74,+4 Laps,,0
+1985,4,Monaco Grand Prix,1985-05-19,Lauda,McLaren,12,14,17,Spun off,,0
+1985,4,Monaco Grand Prix,1985-05-19,Patrese,Alfa Romeo,13,12,16,Accident,,0
+1985,4,Monaco Grand Prix,1985-05-19,Piquet,Brabham,14,13,16,Accident,,0
+1985,4,Monaco Grand Prix,1985-05-19,Fabi,Toleman,15,20,16,Turbo,,0
+1985,4,Monaco Grand Prix,1985-05-19,Senna,Team Lotus,16,1,13,Engine,,0
+1985,4,Monaco Grand Prix,1985-05-19,Cheever,Alfa Romeo,17,4,10,Alternator,,0
+1985,4,Monaco Grand Prix,1985-05-19,Johansson,Ferrari,18,15,1,Accident,,0
+1985,4,Monaco Grand Prix,1985-05-19,Berger,Arrows,19,11,0,Accident,,0
+1985,4,Monaco Grand Prix,1985-05-19,Tambay,Renault,20,17,0,Accident,,0
+1985,4,Monaco Grand Prix,1985-05-19,Ghinzani,Osella,21,0,0,Did not qualify,,0
+1985,4,Monaco Grand Prix,1985-05-19,Bellof,Tyrrell,22,0,0,Did not qualify,,0
+1985,4,Monaco Grand Prix,1985-05-19,Alliot,RAM,23,0,0,Did not qualify,,0
+1985,4,Monaco Grand Prix,1985-05-19,Winkelhock,RAM,24,0,0,Did not qualify,,0
+1985,4,Monaco Grand Prix,1985-05-19,Hesnault,Brabham,25,0,0,Did not qualify,,0
+1985,5,Canadian Grand Prix,1985-06-16,Alboreto,Ferrari,1,3,70,Finished,1:46:01.813,9
+1985,5,Canadian Grand Prix,1985-06-16,Johansson,Ferrari,2,4,70,Finished,+1.957,6
+1985,5,Canadian Grand Prix,1985-06-16,Prost,McLaren,3,5,70,Finished,+4.341,4
+1985,5,Canadian Grand Prix,1985-06-16,Rosberg,Williams,4,8,70,Finished,+27.821,3
+1985,5,Canadian Grand Prix,1985-06-16,de Angelis,Team Lotus,5,1,70,Finished,+43.349,2
+1985,5,Canadian Grand Prix,1985-06-16,Mansell,Williams,6,16,70,Finished,+1:17.878,1
+1985,5,Canadian Grand Prix,1985-06-16,Tambay,Renault,7,10,69,+1 Lap,,0
+1985,5,Canadian Grand Prix,1985-06-16,Laffite,Ligier,8,19,69,+1 Lap,,0
+1985,5,Canadian Grand Prix,1985-06-16,Boutsen,Arrows,9,7,68,+2 Laps,,0
+1985,5,Canadian Grand Prix,1985-06-16,Patrese,Alfa Romeo,10,13,68,+2 Laps,,0
+1985,5,Canadian Grand Prix,1985-06-16,Bellof,Tyrrell,11,23,68,+2 Laps,,0
+1985,5,Canadian Grand Prix,1985-06-16,Brundle,Tyrrell,12,24,68,+2 Laps,,0
+1985,5,Canadian Grand Prix,1985-06-16,Berger,Arrows,13,12,67,+3 Laps,,0
+1985,5,Canadian Grand Prix,1985-06-16,de Cesaris,Ligier,14,15,67,+3 Laps,,0
+1985,5,Canadian Grand Prix,1985-06-16,Surer,Brabham,15,20,67,+3 Laps,,0
+1985,5,Canadian Grand Prix,1985-06-16,Senna,Team Lotus,16,2,65,+5 Laps,,0
+1985,5,Canadian Grand Prix,1985-06-16,Cheever,Alfa Romeo,17,11,64,+6 Laps,,0
+1985,5,Canadian Grand Prix,1985-06-16,Martini,Minardi,18,25,57,Accident,,0
+1985,5,Canadian Grand Prix,1985-06-16,Lauda,McLaren,19,17,37,Engine,,0
+1985,5,Canadian Grand Prix,1985-06-16,Ghinzani,Osella,20,22,35,Engine,,0
+1985,5,Canadian Grand Prix,1985-06-16,Alliot,RAM,21,21,28,Accident,,0
+1985,5,Canadian Grand Prix,1985-06-16,Warwick,Renault,22,6,25,Accident,,0
+1985,5,Canadian Grand Prix,1985-06-16,Winkelhock,RAM,23,14,5,Accident,,0
+1985,5,Canadian Grand Prix,1985-06-16,Fabi,Toleman,24,18,3,Turbo,,0
+1985,5,Canadian Grand Prix,1985-06-16,Piquet,Brabham,25,9,0,Transmission,,0
+1985,6,Detroit Grand Prix,1985-06-23,Rosberg,Williams,1,5,63,Finished,1:55:39.851,9
+1985,6,Detroit Grand Prix,1985-06-23,Johansson,Ferrari,2,9,63,Finished,+57.549,6
+1985,6,Detroit Grand Prix,1985-06-23,Alboreto,Ferrari,3,3,63,Finished,+1:03.170,4
+1985,6,Detroit Grand Prix,1985-06-23,Bellof,Tyrrell,4,19,63,Finished,+1:06.225,3
+1985,6,Detroit Grand Prix,1985-06-23,de Angelis,Team Lotus,5,8,63,Finished,+1:26.966,2
+1985,6,Detroit Grand Prix,1985-06-23,Piquet,Brabham,6,10,62,+1 Lap,,1
+1985,6,Detroit Grand Prix,1985-06-23,Boutsen,Arrows,7,21,62,+1 Lap,,0
+1985,6,Detroit Grand Prix,1985-06-23,Surer,Brabham,8,11,62,+1 Lap,,0
+1985,6,Detroit Grand Prix,1985-06-23,Cheever,Alfa Romeo,9,7,61,+2 Laps,,0
+1985,6,Detroit Grand Prix,1985-06-23,de Cesaris,Ligier,10,17,61,+2 Laps,,0
+1985,6,Detroit Grand Prix,1985-06-23,Berger,Arrows,11,24,60,+3 Laps,,0
+1985,6,Detroit Grand Prix,1985-06-23,Laffite,Ligier,12,16,58,+5 Laps,,0
+1985,6,Detroit Grand Prix,1985-06-23,Senna,Team Lotus,13,1,51,Accident,,0
+1985,6,Detroit Grand Prix,1985-06-23,Brundle,Tyrrell,14,18,30,Accident,,0
+1985,6,Detroit Grand Prix,1985-06-23,Alliot,RAM,15,23,27,Accident,,0
+1985,6,Detroit Grand Prix,1985-06-23,Mansell,Williams,16,2,26,Accident,,0
+1985,6,Detroit Grand Prix,1985-06-23,Prost,McLaren,17,4,19,Brakes,,0
+1985,6,Detroit Grand Prix,1985-06-23,Patrese,Alfa Romeo,18,14,19,Electrical,,0
+1985,6,Detroit Grand Prix,1985-06-23,Warwick,Renault,19,6,18,Transmission,,0
+1985,6,Detroit Grand Prix,1985-06-23,Tambay,Renault,20,15,15,Accident,,0
+1985,6,Detroit Grand Prix,1985-06-23,Martini,Minardi,21,25,11,Engine,,0
+1985,6,Detroit Grand Prix,1985-06-23,Lauda,McLaren,22,12,10,Brakes,,0
+1985,6,Detroit Grand Prix,1985-06-23,Fabi,Toleman,23,13,4,Clutch,,0
+1985,6,Detroit Grand Prix,1985-06-23,Winkelhock,RAM,24,20,3,Turbo,,0
+1985,6,Detroit Grand Prix,1985-06-23,Ghinzani,Osella,25,22,0,Accident,,0
+1985,7,French Grand Prix,1985-07-07,Piquet,Brabham,1,5,53,Finished,1:31:46.266,9
+1985,7,French Grand Prix,1985-07-07,Rosberg,Williams,2,1,53,Finished,+6.660,6
+1985,7,French Grand Prix,1985-07-07,Prost,McLaren,3,4,53,Finished,+9.285,4
+1985,7,French Grand Prix,1985-07-07,Johansson,Ferrari,4,16,53,Finished,+53.491,3
+1985,7,French Grand Prix,1985-07-07,de Angelis,Team Lotus,5,7,53,Finished,+53.690,2
+1985,7,French Grand Prix,1985-07-07,Tambay,Renault,6,10,53,Finished,+1:15.167,1
+1985,7,French Grand Prix,1985-07-07,Warwick,Renault,7,11,53,Finished,+1:44.212,0
+1985,7,French Grand Prix,1985-07-07,Surer,Brabham,8,14,52,+1 Lap,,0
+1985,7,French Grand Prix,1985-07-07,Boutsen,Arrows,9,12,52,+1 Lap,,0
+1985,7,French Grand Prix,1985-07-07,Cheever,Alfa Romeo,10,18,52,+1 Lap,,0
+1985,7,French Grand Prix,1985-07-07,Patrese,Alfa Romeo,11,17,52,+1 Lap,,0
+1985,7,French Grand Prix,1985-07-07,Winkelhock,RAM,12,20,50,+3 Laps,,0
+1985,7,French Grand Prix,1985-07-07,Bellof,Tyrrell,13,26,50,+3 Laps,,0
+1985,7,French Grand Prix,1985-07-07,Fabi,Toleman,14,19,49,Fuel system,,0
+1985,7,French Grand Prix,1985-07-07,Ghinzani,Osella,15,24,49,+4 Laps,,0
+1985,7,French Grand Prix,1985-07-07,Brundle,Tyrrell,16,21,32,Gearbox,,0
+1985,7,French Grand Prix,1985-07-07,Lauda,McLaren,17,6,30,Gearbox,,0
+1985,7,French Grand Prix,1985-07-07,Senna,Team Lotus,18,2,26,Accident,,0
+1985,7,French Grand Prix,1985-07-07,Berger,Arrows,19,9,20,Accident,,0
+1985,7,French Grand Prix,1985-07-07,Martini,Minardi,20,25,19,Accident,,0
+1985,7,French Grand Prix,1985-07-07,Alliot,RAM,21,23,8,Fuel system,,0
+1985,7,French Grand Prix,1985-07-07,Palmer,Zakspeed,22,22,6,Engine,,0
+1985,7,French Grand Prix,1985-07-07,Alboreto,Ferrari,23,3,5,Turbo,,0
+1985,7,French Grand Prix,1985-07-07,de Cesaris,Ligier,24,13,4,Steering,,0
+1985,7,French Grand Prix,1985-07-07,Laffite,Ligier,25,15,2,Turbo,,0
+1985,7,French Grand Prix,1985-07-07,Mansell,Williams,26,8,0,Injury,,0
+1985,8,British Grand Prix,1985-07-21,Prost,McLaren,1,3,65,Finished,1:18:10.436,9
+1985,8,British Grand Prix,1985-07-21,Alboreto,Ferrari,2,6,64,+1 Lap,,6
+1985,8,British Grand Prix,1985-07-21,Laffite,Ligier,3,16,64,+1 Lap,,4
+1985,8,British Grand Prix,1985-07-21,Piquet,Brabham,4,2,64,+1 Lap,,3
+1985,8,British Grand Prix,1985-07-21,Warwick,Renault,5,12,64,+1 Lap,,2
+1985,8,British Grand Prix,1985-07-21,Surer,Brabham,6,15,63,+2 Laps,,1
+1985,8,British Grand Prix,1985-07-21,Brundle,Tyrrell,7,20,63,+2 Laps,,0
+1985,8,British Grand Prix,1985-07-21,Berger,Arrows,8,17,63,+2 Laps,,0
+1985,8,British Grand Prix,1985-07-21,Patrese,Alfa Romeo,9,14,62,+3 Laps,,0
+1985,8,British Grand Prix,1985-07-21,Senna,Team Lotus,10,4,60,Fuel system,,0
+1985,8,British Grand Prix,1985-07-21,Bellof,Tyrrell,11,26,59,+6 Laps,,0
+1985,8,British Grand Prix,1985-07-21,Lauda,McLaren,12,10,57,Electrical,,0
+1985,8,British Grand Prix,1985-07-21,Boutsen,Arrows,13,19,57,Spun off,,0
+1985,8,British Grand Prix,1985-07-21,de Cesaris,Ligier,14,7,41,Clutch,,0
+1985,8,British Grand Prix,1985-07-21,Martini,Minardi,15,23,38,Transmission,,0
+1985,8,British Grand Prix,1985-07-21,de Angelis,Team Lotus,16,8,37,Not classified,,0
+1985,8,British Grand Prix,1985-07-21,Winkelhock,RAM,17,18,28,Turbo,,0
+1985,8,British Grand Prix,1985-07-21,Rosberg,Williams,18,1,21,Exhaust,,0
+1985,8,British Grand Prix,1985-07-21,Mansell,Williams,19,5,17,Clutch,,0
+1985,8,British Grand Prix,1985-07-21,Cheever,Alfa Romeo,20,22,17,Turbo,,0
+1985,8,British Grand Prix,1985-07-21,Palmer,Zakspeed,21,24,6,Engine,,0
+1985,8,British Grand Prix,1985-07-21,Fabi,Toleman,22,9,4,Transmission,,0
+1985,8,British Grand Prix,1985-07-21,Johansson,Ferrari,23,11,1,Accident,,0
+1985,8,British Grand Prix,1985-07-21,Tambay,Renault,24,13,0,Spun off,,0
+1985,8,British Grand Prix,1985-07-21,Alliot,RAM,25,21,0,Accident,,0
+1985,8,British Grand Prix,1985-07-21,Ghinzani,Osella,26,25,0,Accident,,0
+1985,9,German Grand Prix,1985-08-04,Alboreto,Ferrari,1,8,67,Finished,1:35:31.337,9
+1985,9,German Grand Prix,1985-08-04,Prost,McLaren,2,3,67,Finished,+11.661,6
+1985,9,German Grand Prix,1985-08-04,Laffite,Ligier,3,13,67,Finished,+51.154,4
+1985,9,German Grand Prix,1985-08-04,Boutsen,Arrows,4,15,67,Finished,+55.279,3
+1985,9,German Grand Prix,1985-08-04,Lauda,McLaren,5,12,67,Finished,+1:13.972,2
+1985,9,German Grand Prix,1985-08-04,Mansell,Williams,6,10,67,Finished,+1:16.820,1
+1985,9,German Grand Prix,1985-08-04,Berger,Arrows,7,17,66,+1 Lap,,0
+1985,9,German Grand Prix,1985-08-04,Bellof,Tyrrell,8,19,66,+1 Lap,,0
+1985,9,German Grand Prix,1985-08-04,Johansson,Ferrari,9,2,66,+1 Lap,,0
+1985,9,German Grand Prix,1985-08-04,Brundle,Tyrrell,10,26,63,+4 Laps,,0
+1985,9,German Grand Prix,1985-08-04,Martini,Minardi,11,27,62,Engine,,0
+1985,9,German Grand Prix,1985-08-04,Rosberg,Williams,12,4,61,Brakes,,0
+1985,9,German Grand Prix,1985-08-04,Cheever,Alfa Romeo,13,18,45,Turbo,,0
+1985,9,German Grand Prix,1985-08-04,de Angelis,Team Lotus,14,7,40,Engine,,0
+1985,9,German Grand Prix,1985-08-04,Rothengatter,Osella,15,25,32,Gearbox,,0
+1985,9,German Grand Prix,1985-08-04,Fabi,Toleman,16,1,29,Clutch,,0
+1985,9,German Grand Prix,1985-08-04,Senna,Team Lotus,17,5,27,CV joint,,0
+1985,9,German Grand Prix,1985-08-04,Warwick,Renault,18,20,25,Ignition,,0
+1985,9,German Grand Prix,1985-08-04,Piquet,Brabham,19,6,23,Turbo,,0
+1985,9,German Grand Prix,1985-08-04,Tambay,Renault,20,16,19,Spun off,,0
+1985,9,German Grand Prix,1985-08-04,Surer,Brabham,21,11,15,Engine,,0
+1985,9,German Grand Prix,1985-08-04,Winkelhock,RAM,22,22,8,Engine,,0
+1985,9,German Grand Prix,1985-08-04,Patrese,Alfa Romeo,23,9,8,Gearbox,,0
+1985,9,German Grand Prix,1985-08-04,Hesnault,Renault,24,23,8,Clutch,,0
+1985,9,German Grand Prix,1985-08-04,Alliot,RAM,25,21,8,Oil pressure,,0
+1985,9,German Grand Prix,1985-08-04,Palmer,Zakspeed,26,24,7,Alternator,,0
+1985,9,German Grand Prix,1985-08-04,de Cesaris,Ligier,27,14,0,Collision,,0
+1985,10,Austrian Grand Prix,1985-08-18,Prost,McLaren,1,1,52,Finished,1:20:12.583,9
+1985,10,Austrian Grand Prix,1985-08-18,Senna,Team Lotus,2,14,52,Finished,+30.002,6
+1985,10,Austrian Grand Prix,1985-08-18,Alboreto,Ferrari,3,9,52,Finished,+34.356,4
+1985,10,Austrian Grand Prix,1985-08-18,Johansson,Ferrari,4,12,52,Finished,+39.073,3
+1985,10,Austrian Grand Prix,1985-08-18,de Angelis,Team Lotus,5,7,52,Finished,+1:22.092,2
+1985,10,Austrian Grand Prix,1985-08-18,Surer,Brabham,6,11,51,+1 Lap,,1
+1985,10,Austrian Grand Prix,1985-08-18,Bellof,Tyrrell,7,22,49,Out of fuel,,0
+1985,10,Austrian Grand Prix,1985-08-18,Boutsen,Arrows,8,16,49,+3 Laps,,0
+1985,10,Austrian Grand Prix,1985-08-18,Rothengatter,Osella,9,24,48,+4 Laps,,0
+1985,10,Austrian Grand Prix,1985-08-18,Tambay,Renault,10,8,46,Engine,,0
+1985,10,Austrian Grand Prix,1985-08-18,Laffite,Ligier,11,15,43,Accident,,0
+1985,10,Austrian Grand Prix,1985-08-18,Martini,Minardi,12,23,40,Suspension,,0
+1985,10,Austrian Grand Prix,1985-08-18,Lauda,McLaren,13,3,39,Engine,,0
+1985,10,Austrian Grand Prix,1985-08-18,Berger,Arrows,14,17,33,Turbo,,0
+1985,10,Austrian Grand Prix,1985-08-18,Fabi,Toleman,15,6,31,Electrical,,0
+1985,10,Austrian Grand Prix,1985-08-18,Warwick,Renault,16,13,29,Engine,,0
+1985,10,Austrian Grand Prix,1985-08-18,Acheson,RAM,17,23,28,Engine,,0
+1985,10,Austrian Grand Prix,1985-08-18,Piquet,Brabham,18,5,26,Exhaust,,0
+1985,10,Austrian Grand Prix,1985-08-18,Mansell,Williams,19,2,25,Engine,,0
+1985,10,Austrian Grand Prix,1985-08-18,Patrese,Alfa Romeo,20,10,25,Engine,,0
+1985,10,Austrian Grand Prix,1985-08-18,Palmer,Zakspeed,21,25,17,Engine,,0
+1985,10,Austrian Grand Prix,1985-08-18,Alliot,RAM,22,21,16,Turbo,,0
+1985,10,Austrian Grand Prix,1985-08-18,de Cesaris,Ligier,23,18,13,Accident,,0
+1985,10,Austrian Grand Prix,1985-08-18,Cheever,Alfa Romeo,24,20,6,Turbo,,0
+1985,10,Austrian Grand Prix,1985-08-18,Rosberg,Williams,25,4,4,Oil pressure,,0
+1985,10,Austrian Grand Prix,1985-08-18,Ghinzani,Toleman,26,19,0,Withdrew,,0
+1985,10,Austrian Grand Prix,1985-08-18,Brundle,Tyrrell,27,0,0,Did not qualify,,0
+1985,11,Dutch Grand Prix,1985-08-25,Lauda,McLaren,1,10,70,Finished,1:32:29.263,9
+1985,11,Dutch Grand Prix,1985-08-25,Prost,McLaren,2,3,70,Finished,+0.232,6
+1985,11,Dutch Grand Prix,1985-08-25,Senna,Team Lotus,3,4,70,Finished,+48.491,4
+1985,11,Dutch Grand Prix,1985-08-25,Alboreto,Ferrari,4,16,70,Finished,+48.837,3
+1985,11,Dutch Grand Prix,1985-08-25,de Angelis,Team Lotus,5,11,69,+1 Lap,,2
+1985,11,Dutch Grand Prix,1985-08-25,Mansell,Williams,6,7,69,+1 Lap,,1
+1985,11,Dutch Grand Prix,1985-08-25,Brundle,Tyrrell,7,21,69,+1 Lap,,0
+1985,11,Dutch Grand Prix,1985-08-25,Piquet,Brabham,8,1,69,+1 Lap,,0
+1985,11,Dutch Grand Prix,1985-08-25,Berger,Arrows,9,14,68,+2 Laps,,0
+1985,11,Dutch Grand Prix,1985-08-25,Surer,Brabham,10,9,65,Exhaust,,0
+1985,11,Dutch Grand Prix,1985-08-25,Rothengatter,Osella,11,26,56,Not classified,,0
+1985,11,Dutch Grand Prix,1985-08-25,Boutsen,Arrows,12,8,54,Suspension,,0
+1985,11,Dutch Grand Prix,1985-08-25,Alliot,RAM,13,25,52,Engine,,0
+1985,11,Dutch Grand Prix,1985-08-25,Bellof,Tyrrell,14,22,39,Engine,,0
+1985,11,Dutch Grand Prix,1985-08-25,Warwick,Renault,15,12,27,Gearbox,,0
+1985,11,Dutch Grand Prix,1985-08-25,de Cesaris,Ligier,16,18,25,Turbo,,0
+1985,11,Dutch Grand Prix,1985-08-25,Tambay,Renault,17,6,22,Transmission,,0
+1985,11,Dutch Grand Prix,1985-08-25,Rosberg,Williams,18,2,20,Engine,,0
+1985,11,Dutch Grand Prix,1985-08-25,Fabi,Toleman,19,5,18,Wheel bearing,,0
+1985,11,Dutch Grand Prix,1985-08-25,Laffite,Ligier,20,13,17,Electrical,,0
+1985,11,Dutch Grand Prix,1985-08-25,Palmer,Zakspeed,21,23,13,Oil pressure,,0
+1985,11,Dutch Grand Prix,1985-08-25,Ghinzani,Toleman,22,15,12,Engine,,0
+1985,11,Dutch Grand Prix,1985-08-25,Johansson,Ferrari,23,17,9,Engine,,0
+1985,11,Dutch Grand Prix,1985-08-25,Martini,Minardi,24,24,1,Accident,,0
+1985,11,Dutch Grand Prix,1985-08-25,Cheever,Alfa Romeo,25,20,1,Turbo,,0
+1985,11,Dutch Grand Prix,1985-08-25,Patrese,Alfa Romeo,26,19,1,Turbo,,0
+1985,12,Italian Grand Prix,1985-09-08,Prost,McLaren,1,5,51,Finished,1:17:59.451,9
+1985,12,Italian Grand Prix,1985-09-08,Piquet,Brabham,2,4,51,Finished,+51.635,6
+1985,12,Italian Grand Prix,1985-09-08,Senna,Team Lotus,3,1,51,Finished,+1:00.390,4
+1985,12,Italian Grand Prix,1985-09-08,Surer,Brabham,4,9,51,Finished,+1:00.609,3
+1985,12,Italian Grand Prix,1985-09-08,Johansson,Ferrari,5,10,50,+1 Lap,,2
+1985,12,Italian Grand Prix,1985-09-08,de Angelis,Team Lotus,6,6,50,+1 Lap,,1
+1985,12,Italian Grand Prix,1985-09-08,Tambay,Renault,7,8,50,+1 Lap,,0
+1985,12,Italian Grand Prix,1985-09-08,Brundle,Tyrrell,8,18,50,+1 Lap,,0
+1985,12,Italian Grand Prix,1985-09-08,Boutsen,Arrows,9,14,50,+1 Lap,,0
+1985,12,Italian Grand Prix,1985-09-08,Streiff,Ligier,10,19,49,+2 Laps,,0
+1985,12,Italian Grand Prix,1985-09-08,Mansell,Williams,11,3,47,Engine,,0
+1985,12,Italian Grand Prix,1985-09-08,Fabi,Toleman,12,15,47,+4 Laps,,0
+1985,12,Italian Grand Prix,1985-09-08,Alboreto,Ferrari,13,7,45,Engine,,0
+1985,12,Italian Grand Prix,1985-09-08,Rosberg,Williams,14,2,44,Engine,,0
+1985,12,Italian Grand Prix,1985-09-08,Laffite,Ligier,15,20,40,Engine,,0
+1985,12,Italian Grand Prix,1985-09-08,Lauda,McLaren,16,16,33,Transmission,,0
+1985,12,Italian Grand Prix,1985-09-08,Patrese,Alfa Romeo,17,13,31,Exhaust,,0
+1985,12,Italian Grand Prix,1985-09-08,Rothengatter,Osella,18,22,26,Engine,,0
+1985,12,Italian Grand Prix,1985-09-08,Alliot,RAM,19,26,19,Turbo,,0
+1985,12,Italian Grand Prix,1985-09-08,Berger,Arrows,20,11,13,Engine,,0
+1985,12,Italian Grand Prix,1985-09-08,Warwick,Renault,21,6,9,Transmission,,0
+1985,12,Italian Grand Prix,1985-09-08,Jones,Lola,22,25,6,Engine,,0
+1985,12,Italian Grand Prix,1985-09-08,Cheever,Alfa Romeo,23,17,3,Engine,,0
+1985,12,Italian Grand Prix,1985-09-08,Acheson,RAM,24,24,2,Clutch,,0
+1985,12,Italian Grand Prix,1985-09-08,Martini,Minardi,25,23,0,Fuel pump,,0
+1985,12,Italian Grand Prix,1985-09-08,Ghinzani,Toleman,26,0,0,Withdrew,,0
+1985,13,Belgian Grand Prix,1985-09-15,Senna,Team Lotus,1,2,43,Finished,1:34:19.893,9
+1985,13,Belgian Grand Prix,1985-09-15,Mansell,Williams,2,7,43,Finished,+28.422,6
+1985,13,Belgian Grand Prix,1985-09-15,Prost,McLaren,3,1,43,Finished,+55.109,4
+1985,13,Belgian Grand Prix,1985-09-15,Rosberg,Williams,4,10,43,Finished,+1:15.290,3
+1985,13,Belgian Grand Prix,1985-09-15,Piquet,Brabham,5,3,42,+1 Lap,,2
+1985,13,Belgian Grand Prix,1985-09-15,Warwick,Renault,6,14,42,+1 Lap,,1
+1985,13,Belgian Grand Prix,1985-09-15,Berger,Arrows,7,8,42,+1 Lap,,0
+1985,13,Belgian Grand Prix,1985-09-15,Surer,Brabham,8,12,42,+1 Lap,,0
+1985,13,Belgian Grand Prix,1985-09-15,Streiff,Ligier,9,18,42,+1 Lap,,0
+1985,13,Belgian Grand Prix,1985-09-15,Boutsen,Arrows,10,9,40,+3 Laps,,0
+1985,13,Belgian Grand Prix,1985-09-15,Laffite,Ligier,11,17,38,Accident,,0
+1985,13,Belgian Grand Prix,1985-09-15,Martini,Minardi,12,24,38,+5 Laps,,0
+1985,13,Belgian Grand Prix,1985-09-15,Brundle,Tyrrell,13,21,38,+5 Laps,,0
+1985,13,Belgian Grand Prix,1985-09-15,Rothengatter,Osella,14,23,37,Not classified,,0
+1985,13,Belgian Grand Prix,1985-09-15,Patrese,Alfa Romeo,15,15,31,Engine,,0
+1985,13,Belgian Grand Prix,1985-09-15,Cheever,Alfa Romeo,16,19,26,Gearbox,,0
+1985,13,Belgian Grand Prix,1985-09-15,Tambay,Renault,17,13,24,Gearbox,,0
+1985,13,Belgian Grand Prix,1985-09-15,Fabi,Toleman,18,11,23,Throttle,,0
+1985,13,Belgian Grand Prix,1985-09-15,de Angelis,Team Lotus,19,9,17,Turbo,,0
+1985,13,Belgian Grand Prix,1985-09-15,Danner,Zakspeed,20,22,16,Gearbox,,0
+1985,13,Belgian Grand Prix,1985-09-15,Alliot,RAM,21,20,10,Accident,,0
+1985,13,Belgian Grand Prix,1985-09-15,Johansson,Ferrari,22,5,7,Spun off,,0
+1985,13,Belgian Grand Prix,1985-09-15,Ghinzani,Toleman,23,16,7,Accident,,0
+1985,13,Belgian Grand Prix,1985-09-15,Alboreto,Ferrari,24,4,3,Clutch,,0
+1985,14,European Grand Prix,1985-10-06,Mansell,Williams,1,3,75,Finished,1:32:58.109,9
+1985,14,European Grand Prix,1985-10-06,Senna,Team Lotus,2,1,75,Finished,+21.396,6
+1985,14,European Grand Prix,1985-10-06,Rosberg,Williams,3,4,75,Finished,+58.533,4
+1985,14,European Grand Prix,1985-10-06,Prost,McLaren,4,6,75,Finished,+1:06.121,3
+1985,14,European Grand Prix,1985-10-06,de Angelis,Team Lotus,5,9,74,+1 Lap,,2
+1985,14,European Grand Prix,1985-10-06,Boutsen,Arrows,6,12,73,+2 Laps,,1
+1985,14,European Grand Prix,1985-10-06,Watson,McLaren,7,21,73,+2 Laps,,0
+1985,14,European Grand Prix,1985-10-06,Streiff,Ligier,8,5,73,+2 Laps,,0
+1985,14,European Grand Prix,1985-10-06,Patrese,Alfa Romeo,9,11,73,+2 Laps,,0
+1985,14,European Grand Prix,1985-10-06,Berger,Arrows,10,19,73,+2 Laps,,0
+1985,14,European Grand Prix,1985-10-06,Cheever,Alfa Romeo,11,18,73,+2 Laps,,0
+1985,14,European Grand Prix,1985-10-06,Tambay,Renault,12,17,72,+3 Laps,,0
+1985,14,European Grand Prix,1985-10-06,Surer,Brabham,13,7,62,Turbo,,0
+1985,14,European Grand Prix,1985-10-06,Johansson,Ferrari,14,13,59,Electrical,,0
+1985,14,European Grand Prix,1985-10-06,Laffite,Ligier,15,18,58,Engine,,0
+1985,14,European Grand Prix,1985-10-06,Danner,Zakspeed,16,25,55,Engine,,0
+1985,14,European Grand Prix,1985-10-06,Capelli,Tyrrell,17,24,44,Accident,,0
+1985,14,European Grand Prix,1985-10-06,Brundle,Tyrrell,18,16,40,Water leak,,0
+1985,14,European Grand Prix,1985-10-06,Fabi,Toleman,19,20,33,Engine,,0
+1985,14,European Grand Prix,1985-10-06,Alliot,RAM,20,23,31,Engine,,0
+1985,14,European Grand Prix,1985-10-06,Ghinzani,Toleman,21,14,16,Engine,,0
+1985,14,European Grand Prix,1985-10-06,Jones,Lola,22,22,13,Radiator,,0
+1985,14,European Grand Prix,1985-10-06,Alboreto,Ferrari,23,15,13,Turbo,,0
+1985,14,European Grand Prix,1985-10-06,Piquet,Brabham,24,2,6,Accident,,0
+1985,14,European Grand Prix,1985-10-06,Warwick,Renault,25,8,4,Injection,,0
+1985,14,European Grand Prix,1985-10-06,Martini,Minardi,26,26,3,Accident,,0
+1985,15,South African Grand Prix,1985-10-19,Mansell,Williams,1,1,75,Finished,1:28:22.866,9
+1985,15,South African Grand Prix,1985-10-19,Rosberg,Williams,2,3,75,Finished,+7.572,6
+1985,15,South African Grand Prix,1985-10-19,Prost,McLaren,3,9,74,+1 Lap,,4
+1985,15,South African Grand Prix,1985-10-19,Johansson,Ferrari,4,16,74,+1 Lap,,3
+1985,15,South African Grand Prix,1985-10-19,Berger,Arrows,5,11,74,+1 Lap,,2
+1985,15,South African Grand Prix,1985-10-19,Boutsen,Arrows,6,10,74,+1 Lap,,1
+1985,15,South African Grand Prix,1985-10-19,Brundle,Tyrrell,7,17,73,+2 Laps,,0
+1985,15,South African Grand Prix,1985-10-19,de Angelis,Team Lotus,8,6,52,Engine,,0
+1985,15,South African Grand Prix,1985-10-19,Martini,Minardi,9,20,45,Radiator,,0
+1985,15,South African Grand Prix,1985-10-19,Lauda,McLaren,10,8,37,Turbo,,0
+1985,15,South African Grand Prix,1985-10-19,Streiff,Tyrrell,11,19,16,Accident,,0
+1985,15,South African Grand Prix,1985-10-19,Senna,Team Lotus,12,4,8,Engine,,0
+1985,15,South African Grand Prix,1985-10-19,Alboreto,Ferrari,13,15,8,Turbo,,0
+1985,15,South African Grand Prix,1985-10-19,Piquet,Brabham,14,2,6,Engine,,0
+1985,15,South African Grand Prix,1985-10-19,Ghinzani,Toleman,15,13,4,Engine,,0
+1985,15,South African Grand Prix,1985-10-19,Fabi,Toleman,16,7,3,Engine,,0
+1985,15,South African Grand Prix,1985-10-19,Surer,Brabham,17,5,3,Engine,,0
+1985,15,South African Grand Prix,1985-10-19,Rothengatter,Osella,18,21,1,Electrical,,0
+1985,15,South African Grand Prix,1985-10-19,Patrese,Alfa Romeo,19,12,0,Accident,,0
+1985,15,South African Grand Prix,1985-10-19,Cheever,Alfa Romeo,20,14,0,Accident,,0
+1985,15,South African Grand Prix,1985-10-19,Jones,Lola,21,18,0,Driver unwell,,0
+1985,16,Australian Grand Prix,1985-11-03,Rosberg,Williams,1,3,82,Finished,2:00:40.473,9
+1985,16,Australian Grand Prix,1985-11-03,Laffite,Ligier,2,20,82,Finished,+43.130,6
+1985,16,Australian Grand Prix,1985-11-03,Streiff,Ligier,3,18,82,Finished,+1:28.536,4
+1985,16,Australian Grand Prix,1985-11-03,Capelli,Tyrrell,4,22,81,+1 Lap,,3
+1985,16,Australian Grand Prix,1985-11-03,Johansson,Ferrari,5,15,81,+1 Lap,,2
+1985,16,Australian Grand Prix,1985-11-03,Berger,Arrows,6,7,81,+1 Lap,,1
+1985,16,Australian Grand Prix,1985-11-03,Rothengatter,Osella,7,25,78,+4 Laps,,0
+1985,16,Australian Grand Prix,1985-11-03,Martini,Minardi,8,23,78,+4 Laps,,0
+1985,16,Australian Grand Prix,1985-11-03,Senna,Team Lotus,9,1,62,Engine,,0
+1985,16,Australian Grand Prix,1985-11-03,Alboreto,Ferrari,10,5,61,Transmission,,0
+1985,16,Australian Grand Prix,1985-11-03,Lauda,McLaren,11,16,57,Accident,,0
+1985,16,Australian Grand Prix,1985-11-03,Warwick,Renault,12,12,57,Transmission,,0
+1985,16,Australian Grand Prix,1985-11-03,Brundle,Tyrrell,13,17,49,Not classified,,0
+1985,16,Australian Grand Prix,1985-11-03,Surer,Brabham,14,6,42,Engine,,0
+1985,16,Australian Grand Prix,1985-11-03,Patrese,Alfa Romeo,15,14,42,Exhaust,,0
+1985,16,Australian Grand Prix,1985-11-03,Fabi,Toleman,16,24,40,Engine,,0
+1985,16,Australian Grand Prix,1985-11-03,Boutsen,Arrows,17,11,37,Oil leak,,0
+1985,16,Australian Grand Prix,1985-11-03,Ghinzani,Toleman,18,21,28,Clutch,,0
+1985,16,Australian Grand Prix,1985-11-03,Prost,McLaren,19,4,26,Engine,,0
+1985,16,Australian Grand Prix,1985-11-03,Tambay,Renault,20,8,20,Transmission,,0
+1985,16,Australian Grand Prix,1985-11-03,Jones,Lola,21,19,20,Electrical,,0
+1985,16,Australian Grand Prix,1985-11-03,de Angelis,Team Lotus,22,10,18,Disqualified,,0
+1985,16,Australian Grand Prix,1985-11-03,Piquet,Brabham,23,9,14,Heat shield fire,,0
+1985,16,Australian Grand Prix,1985-11-03,Cheever,Alfa Romeo,24,13,5,Engine,,0
+1985,16,Australian Grand Prix,1985-11-03,Mansell,Williams,25,2,1,Transmission,,0

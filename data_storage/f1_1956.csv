@@ -1,0 +1,191 @@
+season,round,raceName,date,driver,constructor,position,grid,laps,status,time,points
+1956,1,Argentine Grand Prix,1956-01-22,Musso,Ferrari,1,3,98,Finished,3:00:03.7,4
+1956,1,Argentine Grand Prix,1956-01-22,Fangio,Ferrari,1,3,98,Finished,3:00:03.7,5
+1956,1,Argentine Grand Prix,1956-01-22,Behra,Maserati,2,4,98,Finished,+24.4,6
+1956,1,Argentine Grand Prix,1956-01-22,Hawthorn,Maserati,3,8,96,+2 Laps,,4
+1956,1,Argentine Grand Prix,1956-01-22,Landi,Maserati,4,11,92,+6 Laps,,1.5
+1956,1,Argentine Grand Prix,1956-01-22,Gerini,Maserati,4,11,92,+6 Laps,,1.5
+1956,1,Argentine Grand Prix,1956-01-22,Gendebien,Ferrari,5,10,91,+7 Laps,,2
+1956,1,Argentine Grand Prix,1956-01-22,Uria,Maserati,6,13,88,+10 Laps,,0
+1956,1,Argentine Grand Prix,1956-01-22,González,Maserati,6,13,88,+10 Laps,,0
+1956,1,Argentine Grand Prix,1956-01-22,Moss,Maserati,7,7,81,Engine,,0
+1956,1,Argentine Grand Prix,1956-01-22,Collins,Ferrari,8,9,58,Accident,,0
+1956,1,Argentine Grand Prix,1956-01-22,Piotti,Maserati,9,12,57,Accident,,0
+1956,1,Argentine Grand Prix,1956-01-22,Menditeguy,Maserati,10,6,42,Halfshaft,,0
+1956,1,Argentine Grand Prix,1956-01-22,Castellotti,Ferrari,11,2,40,Gearbox,,0
+1956,1,Argentine Grand Prix,1956-01-22,González,Maserati,12,5,24,Engine,,0
+1956,1,Argentine Grand Prix,1956-01-22,Fangio,Ferrari,13,1,22,Fuel pump,,0
+1956,2,Monaco Grand Prix,1956-05-13,Moss,Maserati,1,2,100,Finished,3:00:32.9,8
+1956,2,Monaco Grand Prix,1956-05-13,Collins,Ferrari,2,9,100,Finished,+6.1,3
+1956,2,Monaco Grand Prix,1956-05-13,Fangio,Ferrari,2,9,100,Finished,+6.1,4
+1956,2,Monaco Grand Prix,1956-05-13,Behra,Maserati,3,4,99,+1 Lap,,4
+1956,2,Monaco Grand Prix,1956-05-13,Fangio,Ferrari,4,1,99,+1 Lap,,1.5
+1956,2,Monaco Grand Prix,1956-05-13,Castellotti,Ferrari,4,1,99,+1 Lap,,1.5
+1956,2,Monaco Grand Prix,1956-05-13,da Silva Ramos,Gordini,5,14,93,+7 Laps,,2
+1956,2,Monaco Grand Prix,1956-05-13,Bayol,Gordini,6,11,88,+12 Laps,,0
+1956,2,Monaco Grand Prix,1956-05-13,Pilette,Gordini,6,11,88,+12 Laps,,0
+1956,2,Monaco Grand Prix,1956-05-13,Perdisa,Maserati,7,7,86,+14 Laps,,0
+1956,2,Monaco Grand Prix,1956-05-13,Gould,Maserati,8,16,85,+15 Laps,,0
+1956,2,Monaco Grand Prix,1956-05-13,Manzon,Gordini,9,12,90,Accident,,0
+1956,2,Monaco Grand Prix,1956-05-13,Rosier,Maserati,10,15,72,Engine,,0
+1956,2,Monaco Grand Prix,1956-05-13,Castellotti,Ferrari,11,3,14,Clutch,,0
+1956,2,Monaco Grand Prix,1956-05-13,Trintignant,Vanwall,12,6,13,Overheating,,0
+1956,2,Monaco Grand Prix,1956-05-13,Schell,Vanwall,13,5,2,Accident,,0
+1956,2,Monaco Grand Prix,1956-05-13,Musso,Ferrari,14,8,2,Accident,,0
+1956,2,Monaco Grand Prix,1956-05-13,Scarlatti,Ferrari,15,0,0,Did not qualify,,0
+1956,2,Monaco Grand Prix,1956-05-13,Hawthorn,BRM,16,0,0,Engine,,0
+1956,2,Monaco Grand Prix,1956-05-13,Brooks,BRM,17,0,0,Engine,,0
+1956,2,Monaco Grand Prix,1956-05-13,Chiron,Maserati,18,0,0,Engine,,0
+1956,3,Indianapolis 500,1956-05-30,Flaherty,Watson,1,1,200,Finished,3:53:28.84,8
+1956,3,Indianapolis 500,1956-05-30,Hanks,Kurtis Kraft,2,13,200,Finished,+0:20.45,6
+1956,3,Indianapolis 500,1956-05-30,Freeland,Phillips,3,26,200,Finished,+1:30.23,4
+1956,3,Indianapolis 500,1956-05-30,Parsons,Kurtis Kraft,4,6,200,Finished,+3:25.69,3
+1956,3,Indianapolis 500,1956-05-30,Rathmann,Kurtis Kraft,5,4,200,Finished,+4:21.81,2
+1956,3,Indianapolis 500,1956-05-30,Sweikert,Kuzma,6,10,200,Finished,+5:35.05,0
+1956,3,Indianapolis 500,1956-05-30,Veith,Kurtis Kraft,7,23,200,Finished,+6:25.63,0
+1956,3,Indianapolis 500,1956-05-30,Ward,Kurtis Kraft,8,15,200,Finished,+6:32.31,0
+1956,3,Indianapolis 500,1956-05-30,Reece,Lesovsky,9,21,200,Finished,+6:38.31,0
+1956,3,Indianapolis 500,1956-05-30,Griffith,Stevens,10,30,199,+1 Lap,,0
+1956,3,Indianapolis 500,1956-05-30,Hartley,Kuzma,11,22,196,+4 Laps,,0
+1956,3,Indianapolis 500,1956-05-30,Agabashian,Kurtis Kraft,12,7,196,+4 Laps,,0
+1956,3,Indianapolis 500,1956-05-30,Christie,Kurtis Kraft,13,25,196,+4 Laps,,0
+1956,3,Indianapolis 500,1956-05-30,Keller,Kurtis Kraft,14,28,195,+5 Laps,,0
+1956,3,Indianapolis 500,1956-05-30,Johnson,Kuzma,15,32,195,+5 Laps,,0
+1956,3,Indianapolis 500,1956-05-30,Garrett,Kuzma,16,29,194,+6 Laps,,0
+1956,3,Indianapolis 500,1956-05-30,Dinsmore,Kurtis Kraft,17,33,191,+9 Laps,,0
+1956,3,Indianapolis 500,1956-05-30,O'Connor,Kurtis Kraft,18,3,187,+13 Laps,,0
+1956,3,Indianapolis 500,1956-05-30,Bryan,Kuzma,19,19,185,+15 Laps,,0
+1956,3,Indianapolis 500,1956-05-30,Rathmann,Kurtis Kraft,20,2,175,Engine,,0
+1956,3,Indianapolis 500,1956-05-30,Tolan,Kurtis Kraft,21,31,173,Engine,,0
+1956,3,Indianapolis 500,1956-05-30,Bettenhausen,Kurtis Kraft,22,5,160,Accident,,0
+1956,3,Indianapolis 500,1956-05-30,Elisian,Kurtis Kraft,23,14,160,Brakes,,0
+1956,3,Indianapolis 500,1956-05-30,Russo,Kurtis Kraft,23,14,160,Brakes,,0
+1956,3,Indianapolis 500,1956-05-30,Daywalt,Kurtis Kraft,24,16,134,Accident,,0
+1956,3,Indianapolis 500,1956-05-30,Turner,Kurtis Kraft,25,24,131,Engine,,0
+1956,3,Indianapolis 500,1956-05-30,Andrews,Kurtis Kraft,26,20,94,Transmission,,0
+1956,3,Indianapolis 500,1956-05-30,Linden,Kurtis Kraft,27,9,90,Oil leak,,0
+1956,3,Indianapolis 500,1956-05-30,Herman,Kurtis Kraft,28,27,74,Accident,,0
+1956,3,Indianapolis 500,1956-05-30,Crawford,Kurtis Kraft,29,17,49,Accident,,0
+1956,3,Indianapolis 500,1956-05-30,Boyd,Kurtis Kraft,30,12,35,Oil leak,,0
+1956,3,Indianapolis 500,1956-05-30,Ruttman,Kurtis Kraft,31,11,22,Spun off,,0
+1956,3,Indianapolis 500,1956-05-30,Thomson,Kuzma,32,18,22,Spun off,,0
+1956,3,Indianapolis 500,1956-05-30,Russo,Kurtis Kraft,33,8,21,Accident,,1
+1956,4,Belgian Grand Prix,1956-06-03,Collins,Ferrari,1,3,36,Finished,2:40:00.3,8
+1956,4,Belgian Grand Prix,1956-06-03,Frère,Ferrari,2,8,36,Finished,+1:51.3,6
+1956,4,Belgian Grand Prix,1956-06-03,Perdisa,Maserati,3,9,36,Finished,+3:16.6,2
+1956,4,Belgian Grand Prix,1956-06-03,Moss,Maserati,3,9,36,Finished,+3:16.6,3
+1956,4,Belgian Grand Prix,1956-06-03,Schell,Vanwall,4,6,35,+1 Lap,,3
+1956,4,Belgian Grand Prix,1956-06-03,Villoresi,Maserati,5,11,34,+2 Laps,,2
+1956,4,Belgian Grand Prix,1956-06-03,Pilette,Ferrari,6,16,33,+3 Laps,,0
+1956,4,Belgian Grand Prix,1956-06-03,Behra,Maserati,7,4,33,+3 Laps,,0
+1956,4,Belgian Grand Prix,1956-06-03,Rosier,Maserati,8,10,33,+3 Laps,,0
+1956,4,Belgian Grand Prix,1956-06-03,Fangio,Ferrari,9,1,23,Transmission,,0
+1956,4,Belgian Grand Prix,1956-06-03,Trintignant,Vanwall,10,7,11,Fuel system,,0
+1956,4,Belgian Grand Prix,1956-06-03,Moss,Maserati,11,2,10,Wheel,,0
+1956,4,Belgian Grand Prix,1956-06-03,Castellotti,Ferrari,12,5,10,Transmission,,0
+1956,4,Belgian Grand Prix,1956-06-03,Scotti,Connaught,13,12,10,Engine,,0
+1956,4,Belgian Grand Prix,1956-06-03,Gould,Maserati,14,15,2,Gearbox,,0
+1956,4,Belgian Grand Prix,1956-06-03,Godia,Maserati,15,13,0,Accident,,0
+1956,5,French Grand Prix,1956-07-01,Collins,Ferrari,1,3,61,Finished,2:34:23.4,8
+1956,5,French Grand Prix,1956-07-01,Castellotti,Ferrari,2,2,61,Finished,+0.3,6
+1956,5,French Grand Prix,1956-07-01,Behra,Maserati,3,7,61,Finished,+1:29.9,4
+1956,5,French Grand Prix,1956-07-01,Fangio,Ferrari,4,1,61,Finished,+1:35.1,4
+1956,5,French Grand Prix,1956-07-01,Perdisa,Maserati,5,13,59,+2 Laps,,1
+1956,5,French Grand Prix,1956-07-01,Moss,Maserati,5,13,59,+2 Laps,,1
+1956,5,French Grand Prix,1956-07-01,Rosier,Maserati,6,12,58,+3 Laps,,0
+1956,5,French Grand Prix,1956-07-01,Godia,Maserati,7,17,57,+4 Laps,,0
+1956,5,French Grand Prix,1956-07-01,da Silva Ramos,Gordini,8,14,57,+4 Laps,,0
+1956,5,French Grand Prix,1956-07-01,Manzon,Gordini,9,15,56,+5 Laps,,0
+1956,5,French Grand Prix,1956-07-01,Hawthorn,Vanwall,10,6,56,+5 Laps,,0
+1956,5,French Grand Prix,1956-07-01,Schell,Vanwall,10,6,56,+5 Laps,,0
+1956,5,French Grand Prix,1956-07-01,Pilette,Gordini,11,19,55,+6 Laps,,0
+1956,5,French Grand Prix,1956-07-01,Simon,Maserati,12,20,41,Engine,,0
+1956,5,French Grand Prix,1956-07-01,da Silva Ramos,Maserati,13,16,40,Engine,,0
+1956,5,French Grand Prix,1956-07-01,Gendebien,Ferrari,14,11,38,Clutch,,0
+1956,5,French Grand Prix,1956-07-01,Villoresi,Maserati,15,10,23,Brakes,,0
+1956,5,French Grand Prix,1956-07-01,de Portago,Ferrari,16,9,20,Gearbox,,0
+1956,5,French Grand Prix,1956-07-01,Trintignant,Bugatti,17,18,18,Throttle,,0
+1956,5,French Grand Prix,1956-07-01,Moss,Maserati,18,8,12,Gearbox,,0
+1956,5,French Grand Prix,1956-07-01,Schell,Vanwall,19,4,5,Engine,,0
+1956,5,French Grand Prix,1956-07-01,Chapman,Vanwall,20,5,0,Accident,,0
+1956,6,British Grand Prix,1956-07-14,Fangio,Ferrari,1,2,101,Finished,2:59:47.0,8
+1956,6,British Grand Prix,1956-07-14,de Portago,Ferrari,2,12,100,+1 Lap,,3
+1956,6,British Grand Prix,1956-07-14,Collins,Ferrari,2,12,100,+1 Lap,,3
+1956,6,British Grand Prix,1956-07-14,Behra,Maserati,3,13,99,+2 Laps,,4
+1956,6,British Grand Prix,1956-07-14,Fairman,Connaught,4,21,98,+3 Laps,,3
+1956,6,British Grand Prix,1956-07-14,Gould,Maserati,5,14,97,+4 Laps,,2
+1956,6,British Grand Prix,1956-07-14,Villoresi,Maserati,6,19,96,+5 Laps,,0
+1956,6,British Grand Prix,1956-07-14,Perdisa,Maserati,7,15,95,+6 Laps,,0
+1956,6,British Grand Prix,1956-07-14,Godia,Maserati,8,25,94,+7 Laps,,0
+1956,6,British Grand Prix,1956-07-14,Manzon,Gordini,9,18,94,+7 Laps,,0
+1956,6,British Grand Prix,1956-07-14,Castellotti,Ferrari,10,8,92,+9 Laps,,0
+1956,6,British Grand Prix,1956-07-14,de Portago,Ferrari,10,8,92,+9 Laps,,0
+1956,6,British Grand Prix,1956-07-14,Gerard,Cooper,11,22,88,+13 Laps,,0
+1956,6,British Grand Prix,1956-07-14,Moss,Maserati,12,1,94,Axle,,1
+1956,6,British Grand Prix,1956-07-14,Schell,Vanwall,13,5,87,Fuel system,,0
+1956,6,British Grand Prix,1956-07-14,Titterington,Connaught,14,11,74,Engine,,0
+1956,6,British Grand Prix,1956-07-14,Trintignant,Vanwall,15,16,74,Fuel system,,0
+1956,6,British Grand Prix,1956-07-14,da Silva Ramos,Gordini,16,26,71,Axle,,0
+1956,6,British Grand Prix,1956-07-14,Collins,Ferrari,17,4,64,Oil pressure,,0
+1956,6,British Grand Prix,1956-07-14,Salvadori,Maserati,18,7,59,Fuel system,,0
+1956,6,British Grand Prix,1956-07-14,Brooks,BRM,19,9,39,Accident,,0
+1956,6,British Grand Prix,1956-07-14,Hawthorn,BRM,20,3,24,Transmission,,0
+1956,6,British Grand Prix,1956-07-14,Rosier,Maserati,21,27,23,Electrical,,0
+1956,6,British Grand Prix,1956-07-14,Halford,Maserati,22,20,22,Engine,,0
+1956,6,British Grand Prix,1956-07-14,Maglioli,Maserati,23,24,21,Gearbox,,0
+1956,6,British Grand Prix,1956-07-14,Scott Brown,Connaught,24,10,16,Transmission,,0
+1956,6,British Grand Prix,1956-07-14,Emery,Emeryson,25,23,12,Ignition,,0
+1956,6,British Grand Prix,1956-07-14,Brabham,Maserati,26,28,3,Engine,,0
+1956,6,British Grand Prix,1956-07-14,Flockhart,BRM,27,17,2,Engine,,0
+1956,6,British Grand Prix,1956-07-14,González,Vanwall,28,6,0,Transmission,,0
+1956,7,German Grand Prix,1956-08-05,Fangio,Ferrari,1,1,22,Finished,3:38:43.7,9
+1956,7,German Grand Prix,1956-08-05,Moss,Maserati,2,4,22,Finished,+46.4,6
+1956,7,German Grand Prix,1956-08-05,Behra,Maserati,3,8,22,Finished,+7:38.3,4
+1956,7,German Grand Prix,1956-08-05,Godia,Maserati,4,16,20,+2 Laps,,3
+1956,7,German Grand Prix,1956-08-05,Rosier,Maserati,5,14,19,+3 Laps,,2
+1956,7,German Grand Prix,1956-08-05,Halford,Maserati,6,11,20,Disqualified,,0
+1956,7,German Grand Prix,1956-08-05,Volonterio,Maserati,7,19,16,+6 Laps,,0
+1956,7,German Grand Prix,1956-08-05,Milhoux,Gordini,8,21,15,Engine,,0
+1956,7,German Grand Prix,1956-08-05,de Portago,Ferrari,9,10,14,Accident,,0
+1956,7,German Grand Prix,1956-08-05,Schell,Maserati,10,12,13,Overheating,,0
+1956,7,German Grand Prix,1956-08-05,Villoresi,Maserati,11,20,13,Engine,,0
+1956,7,German Grand Prix,1956-08-05,Musso,Ferrari,12,5,11,Accident,,0
+1956,7,German Grand Prix,1956-08-05,Collins,Ferrari,13,2,8,Fuel leak,,0
+1956,7,German Grand Prix,1956-08-05,Castellotti,Ferrari,14,3,5,Electrical,,0
+1956,7,German Grand Prix,1956-08-05,Maglioli,Maserati,15,7,3,Steering,,0
+1956,7,German Grand Prix,1956-08-05,Gould,Maserati,16,13,3,Oil pressure,,0
+1956,7,German Grand Prix,1956-08-05,Salvadori,Maserati,17,9,2,Suspension,,0
+1956,7,German Grand Prix,1956-08-05,Manzon,Gordini,18,15,0,Suspension,,0
+1956,7,German Grand Prix,1956-08-05,Scarlatti,Ferrari,19,17,0,Engine,,0
+1956,7,German Grand Prix,1956-08-05,Perdisa,Maserati,20,0,0,Withdrew,,0
+1956,7,German Grand Prix,1956-08-05,Pilette,Gordini,21,0,0,Withdrew,,0
+1956,7,German Grand Prix,1956-08-05,Piotti,Maserati,22,0,0,Withdrew,,0
+1956,8,Italian Grand Prix,1956-09-02,Moss,Maserati,1,6,50,Finished,2:23:41.3,9
+1956,8,Italian Grand Prix,1956-09-02,Collins,Ferrari,2,7,50,Finished,+5.7,3
+1956,8,Italian Grand Prix,1956-09-02,Fangio,Ferrari,2,7,50,Finished,+5.7,3
+1956,8,Italian Grand Prix,1956-09-02,Flockhart,Connaught,3,26,49,+1 Lap,,4
+1956,8,Italian Grand Prix,1956-09-02,Godia,Maserati,4,18,49,+1 Lap,,3
+1956,8,Italian Grand Prix,1956-09-02,Fairman,Connaught,5,16,47,+3 Laps,,2
+1956,8,Italian Grand Prix,1956-09-02,Piotti,Maserati,6,15,47,+3 Laps,,0
+1956,8,Italian Grand Prix,1956-09-02,de Graffenried,Maserati,7,19,46,+4 Laps,,0
+1956,8,Italian Grand Prix,1956-09-02,Fangio,Ferrari,8,1,46,+4 Laps,,0
+1956,8,Italian Grand Prix,1956-09-02,Castellotti,Ferrari,8,1,46,+4 Laps,,0
+1956,8,Italian Grand Prix,1956-09-02,Simon,Gordini,9,25,45,+5 Laps,,0
+1956,8,Italian Grand Prix,1956-09-02,Gerini,Maserati,10,17,42,+8 Laps,,0
+1956,8,Italian Grand Prix,1956-09-02,Salvadori,Maserati,11,14,41,+9 Laps,,0
+1956,8,Italian Grand Prix,1956-09-02,Musso,Ferrari,12,3,47,Steering,,0
+1956,8,Italian Grand Prix,1956-09-02,Maglioli,Maserati,13,13,42,Steering,,0
+1956,8,Italian Grand Prix,1956-09-02,Behra,Maserati,13,13,42,Steering,,0
+1956,8,Italian Grand Prix,1956-09-02,Schell,Vanwall,14,10,32,Transmission,,0
+1956,8,Italian Grand Prix,1956-09-02,Behra,Maserati,15,5,23,Magneto,,0
+1956,8,Italian Grand Prix,1956-09-02,Halford,Maserati,16,22,16,Engine,,0
+1956,8,Italian Grand Prix,1956-09-02,Trintignant,Vanwall,17,11,13,Transmission,,0
+1956,8,Italian Grand Prix,1956-09-02,Taruffi,Vanwall,18,4,12,Oil leak,,0
+1956,8,Italian Grand Prix,1956-09-02,Castellotti,Ferrari,19,2,9,Tyre,,0
+1956,8,Italian Grand Prix,1956-09-02,Villoresi,Maserati,20,8,7,Engine,,0
+1956,8,Italian Grand Prix,1956-09-02,Bonnier,Maserati,20,8,7,Engine,,0
+1956,8,Italian Grand Prix,1956-09-02,Manzon,Gordini,21,23,7,Chassis,,0
+1956,8,Italian Grand Prix,1956-09-02,de Portago,Ferrari,22,9,6,Tyre,,0
+1956,8,Italian Grand Prix,1956-09-02,Leston,Connaught,23,20,6,Suspension,,0
+1956,8,Italian Grand Prix,1956-09-02,da Silva Ramos,Gordini,24,21,3,Engine,,0
+1956,8,Italian Grand Prix,1956-09-02,von Trips,Ferrari,25,0,0,Withdrew,,0
